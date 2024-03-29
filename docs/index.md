@@ -1,4 +1,4 @@
-# GRUPO 08 - CONSUMIDOR.GOV
+# HOME
 ### REQUISITOS DE SOFTWARE - 2024.1
 
 Projeto da disciplina de Requisitos de Software 2024.1, ministrada pelo Professor André Barros com o objetivo de analisar o site/app do serviço [Consumidor.gov](https://consumidor.gov.br/pages/principal/?1711677302090).
