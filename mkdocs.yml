@@ -1,0 +1,71 @@
+site_name: Consumidor.gov
+site_url: https://requisitos-de-software.github.io/2024.1-Consumidor.gov/
+repo_url: https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov
+repo_name: 2024.1-Consumidor.gov
+
+edit_uri: ""
+copyright: UnB - Faculdade do Gama &copy; 2024
+extra_css:
+        - stylesheets/extra.css
+
+markdown_extensions:
+        - admonition
+        - pymdownx.details
+        - pymdownx.superfences
+        - attr_list
+        - md_in_html
+        - pymdownx.superfences
+        - pymdownx.tabbed:
+                  alternate_style: true
+        - toc:
+                  title: Conteúdo da página
+
+plugins:
+        - glightbox:
+                  touchNavigation: true
+                  loop: false
+                  effect: zoom
+                  slide_effect: slide
+                  width: 100%
+                  height: auto
+                  zoomable: true
+                  draggable: true
+                  skip_classes:
+                          - custom-skip-class-name
+                  auto_caption: false
+                  caption_position: bottom
+
+extra:
+        social:
+                - link: https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov
+                  icon: fontawesome/brands/github
+
+                - link: https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov
+                  icon: fontawesome/solid/graduation-cap
+
+theme:
+        name: material
+        logo: assets/icons/unb.jpg
+        features:
+                - navigation.tabs
+        icon:
+                repo: fontawesome/brands/github
+        palette:
+                # Palette toggle for light mode
+                - scheme: default
+                  primary: indigo
+                  accent: green
+
+                  toggle:
+                          icon: material/brightness-7
+                          name: Switch to dark mode
+
+                # Palette toggle for dark mode
+                - scheme: slate
+                  primary: indigo
+                  accent: green
+
+                  toggle:
+                          icon: material/brightness-4
+                          name: Switch to light mode
+
