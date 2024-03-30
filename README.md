@@ -1,7 +1,7 @@
 # Grupo 08 - Consumidor.gov
 
 <div align="center">
-<img src="assets\img\logo.png" aly="Consumidor.gov_logo" style="width: 300px">
+<img src="assets\img\logos\logo.png" aly="Consumidor.gov_logo" style="width: 300px">
 </div>
 
 ## Objetivo
