@@ -52,8 +52,7 @@ O acesso ao Consumidor.gov.br permite aos consumidores usuários cadastrados:
 - interagir com o fornecedor ao longo do prazo de análise de sua reclamação, por meio de canal especialmente criado para que informações complementares possam ser inseridas, com objetivo de obter uma resolução ágil de sua demanda; e
 comentar e avaliar a resposta final postada pela empresa, no prazo de até 20 dias, indicando se o problema foi ou não resolvido e seu nível de satisfação com o atendimento dedicado pelo fornecedor.
 
-#### Observação: a realização de consultas a relatórios e estatísticas divulgados pelo site é aberta a qualquer pessoa, independentemente da finalidade do uso da informação, não sendo necessário o cadastramento como usuário.
-
+ **Observação: a realização de consultas a relatórios e estatísticas divulgados pelo site é aberta a qualquer pessoa, independentemente da finalidade do uso da informação, não sendo necessário o cadastramento como usuário.**
  
 
 4. Dos deveres do usuário do site
@@ -139,3 +138,14 @@ O Consumidor.gov.br é um serviço gratuito e de utilidade pública.
 O presente termo vigorará por tempo indeterminado ou durante o período em que o sistema estiver disponível via internet.
 
 Fica eleito o Foro da Justiça Federal, Seção Judiciária do Distrito Federal, para dirimir quaisquer controvérsias decorrentes deste Instrumento que porventura não tenham sido resolvidas administrativamente.
+
+## Histórico de versões
+|    Data    | Versão |                                       Descrição                                       |        Autor(es)        |         Revisor         |
+| :--------: | :----: | :-----------------------------------------------------------------------------------: | :---------------------: | :---------------------: |
+| 30/03/2024 |  1.0   |                            Estruturação da página contendo termo de uso                            |   Guilherme, Henrique, Igor, Júlio, Matheus, Rodrigo    | Guilherme, Henrique, Igor, Júlio, Matheus, Rodrigo |
+
+
+<div align="center">
+<figcaption align="left">Tabela 1: Histórico de versões(Fonte: Autoria própria)</figcaption>
+</div>
+<br/>

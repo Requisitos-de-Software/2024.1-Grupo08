@@ -45,7 +45,7 @@ extra:
 
 theme:
         name: material
-        logo: assets/icons/unb.jpg
+        logo: assets\png-logo.png
         features:
                 - navigation.tabs
         icon:
