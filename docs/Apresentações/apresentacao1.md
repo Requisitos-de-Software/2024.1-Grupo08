@@ -1,1 +1,18 @@
 # Apresentação - Entrega 1
+
+Vídeo de apresentação pela equipe da Entrega 1
+
+<iframe width="750" height="422" src="https://www.youtube.com/embed/3y9xD4VF1_0" title="Apresentação IHC Entrega 1   Grupo 8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+###### Vídeo 01 - Entrega 1. Fonte: Autoria Própria.
+
+## Histórico de versões
+|    Data    | Versão |                                       Descrição                                       |        Autor(es)        |         Revisor         |
+| :--------: | :----: | :-----------------------------------------------------------------------------------: | :---------------------: | :---------------------: |
+| 30/03/2024 |  1.0   |                            Estruturação da página da entrega 1                           |   Guilherme, Henrique, Igor, Júlio, Matheus, Rodrigo    | Guilherme, Henrique, Igor, Júlio, Matheus, Rodrigo |
+
+
+<div align="center">
+<figcaption align="left">Tabela 01: Histórico de versões(Fonte: Autoria própria)</figcaption>
+</div>
+<br/>
