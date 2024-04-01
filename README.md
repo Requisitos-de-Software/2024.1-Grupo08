@@ -59,3 +59,8 @@ Nossa equipe de trabalho é composta pelos estudantes de Engenharia de Software 
   <p> Tabela 1: Equipe de trabalho (Fonte: Guilherme Meister, 2024).</p>
 </div>
 
+## Histórico de Versões
+| Data | Versão | Descrição | Autor(es) | Data de revisão | Revisor(es) |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| 28/03/2024 | `1.0`  | Versão inicial de documento | [Henrique Galdino](https://github.com/hgaldino05) | 01/04/2024 | [Guilherme Meister](https://github.com/gmeister18) |
+
