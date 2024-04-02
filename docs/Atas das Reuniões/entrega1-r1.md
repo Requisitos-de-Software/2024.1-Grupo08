@@ -53,7 +53,8 @@ A gravação desta reunião pode ser acessada [aqui](https://youtu.be/0WflF4iFI8
 
 | <p align="center">Data</p> | <p align="center">Versão</p> | <p align="center">Descrição</p> | <p align="center">Autor(es)</p> | <p align="center">Data de revisão</p> | <p align="center">Revisor(es)</p> |
 | :--:       | :----: | :-------: | :---: | :-------------: | :-----: |
-| 04/04/2023 | `1.0`  | Criação da ata de reunião | Guilherme, Henrique, Igor, Júlio, Matheus, Rodrigo | 17/04/2023 | Guilherme, Henrique, Igor, Júlio, Matheus, Rodrigo |
+| 30/03/2024 | `1.0`  | Criação da ata de reunião | Guilherme, Henrique, Igor, Júlio, Matheus, Rodrigo | 30/03/2024 | Guilherme, Henrique, Igor, Júlio, Matheus, Rodrigo |
+| 02/04/2024 | `1.1`  | Melhorias na ata de reunião | [Guilherme Meister](https://github.com/gmeister18) | 02/04/2024 | ------------------------- |
 
 <div style="text-align: center">
 <p> Tabela 3: Histórico de Versões (Fonte: GALDINO, Henrique 2023). </p>
