@@ -29,10 +29,10 @@ Para o desenvolvimento do projeto, foi elaborado um Rich Picture do aplicativo C
 
 ---
 
-## Histórico de versões
-|    Data    | Versão |                                       Descrição                                       |        Autor(es)        |         Revisor         |
-| :--------: | :----: | :-----------------------------------------------------------------------------------: | :---------------------: | :---------------------: |
-| 30/03/2024 |  1.0   |                            Estruturação da página contendo Rich Picture                            |   Guilherme, Henrique, Igor, Júlio, Matheus, Rodrigo    | Guilherme, Henrique, Igor, Júlio, Matheus, Rodrigo |
+## Histórico de Versão
+| Versão | Data de execução | Data de revisão |  Descrição            | Autor(es)         | Revisor(es)  |
+| :------: | :----------: | :--------: | :--------------------: | :-------------: | :----------: |
+| `1.0`  | 30/03/2024 | 30/03/2024 | Criação do documento | Guilherme, Henrique, Igor, Júlio, Matheus, Rodrigo | Guilherme, Henrique, Igor, Júlio, Matheus, Rodrigo |
 
 
 <div align="center">

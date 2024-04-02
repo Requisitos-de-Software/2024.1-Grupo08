@@ -70,10 +70,10 @@ Dentre os aplicativos cogitados, a equipe decidiu utilizar o **_Consumidor.gov_*
 
 ---
 
-## Histórico de versões
-|    Data    | Versão |                                       Descrição                                       |        Autor(es)        |         Revisor         |
-| :--------: | :----: | :-----------------------------------------------------------------------------------: | :---------------------: | :---------------------: |
-| 30/03/2024 |  1.0   |                            Estruturação da página listando apps avaliados                            |   Guilherme, Henrique, Igor, Júlio, Matheus, Rodrigo    | Guilherme, Henrique, Igor, Júlio, Matheus, Rodrigo |
+## Histórico de Versão
+| Versão | Data de execução | Data de revisão |  Descrição            | Autor(es)         | Revisor(es)  |
+| :------: | :----------: | :--------: | :--------------------: | :-------------: | :----------: |
+| `1.0`  | 30/03/2024 | 30/03/2024 | Criação do documento | Guilherme, Henrique, Igor, Júlio, Matheus, Rodrigo | Guilherme, Henrique, Igor, Júlio, Matheus, Rodrigo |
 
 
 <div align="center">

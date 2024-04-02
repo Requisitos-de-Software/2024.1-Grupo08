@@ -84,10 +84,9 @@ O cronograma executado pode ser visualizado nas **Tabelas de 01 a 09**, e repres
 
     ###### Tabela 07 - Atividades realizadas na entrega 5.2. Fonte: Autoria própria
 
-## Histórico de versões
-
-|    Data    | Versão |                                    Descrição                                    |                                            Autor(es)                                             | Revisores    |
-| :--------: | :----: | :-----------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------: | ------------ |
-| 30/03/2024 |  1.0   |                      Criação da página e adição dos cronogramas          | Guilherme, Henrique, Igor, Júlio, Matheus, Rodrigo | Guilherme, Henrique, Igor, Júlio, Matheus, Rodrigo |
+## Histórico de Versão
+| Versão | Data de execução | Data de revisão |  Descrição            | Autor(es)         | Revisor(es)  |
+| :------: | :----------: | :--------: | :--------------------: | :-------------: | :----------: |
+| `1.0`  | 30/03/2024 | 30/03/2024 | Criação do documento | Guilherme, Henrique, Igor, Júlio, Matheus, Rodrigo | Guilherme, Henrique, Igor, Júlio, Matheus, Rodrigo |
 
 ###### Tabela 08 - Histórico de versões. Fonte: Autoria própria
