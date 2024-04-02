@@ -18,7 +18,7 @@
 
 <p>O Consumidor.gov tem como objetivo fornecer um canal direto de comunicação entre consumidores e empresas para a resolução de conflitos de consumo de forma rápida, simples e sem burocracia. A logo do aplicativo pode ser vista na Figura 1 a seguir.</p>
 
-<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/assets/img/logos/logo.png">
+<img src="https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/assets/img/logos/logo.png">
 
 <p>Figura 1 - Logo do Consumidor.gov</p>
 
