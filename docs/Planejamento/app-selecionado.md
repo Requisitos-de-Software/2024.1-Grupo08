@@ -32,3 +32,13 @@
 - Interface desagradável
 - Poucas funcionalidades
 - Não possui acessibilidade
+
+## Bibliografia
+[1] Consumidor.gov. Disponível em: [Consumidor.gov](https://play.google.com/store/apps/details?id=br.com.consumidor&hl=pt_BR&gl=US). Acesso em 02 de Abril de 2024.
+
+## Histórico de Versão
+| Versão | Data de execução | Data de revisão |  Descrição            | Autor(es)         | Revisor(es)  |
+| :------: | :----------: | :--------: | :--------------------: | :-------------: | :----------: |
+| `1.0`  | 02/04/2024 | 02/04/2024 | Criação do documento | [Guilherme Meister](https://github.com/gmeister18) | [-----------](https://github.com/) |
+
+</div>
