@@ -1,43 +1,60 @@
-# Entrega 1 - Reunião 01 (30/03/2024)
+# Ata de Reunião - 30/03/2024
 
-Esta reunião foi feita para discutir e desenvolver os artefatos referentes a entrega 1 do projeto.
+## Introdução
 
-Reunião realizada no dia 30/03/2024, teve início às 19h45min e foi finalizada às 21h.
-### Membros presentes na reunião:
-- ##### Guilherme Meister
-- ##### Henrique Galdino
-- ##### Igor Thiago
-- ##### Júlio César
-- ##### Matheus Ferreira
-- ##### Rodrigo Braz
+<p align="justify">
+Esse documento visa registrar o acontecimento da  1ª reunião do grupo 8, marcar quais membros estavam presentes, a data, os horário de inicio e fim e o local onde aconteceu a reunião, como é apresentado na tabela 1. Também irá conter o listamento dos objetivos gerais da reunião. Além de definir e controlar as tarefas que foram distribuidas ao grupo estão descritas na tabela 2. E por fim, o link da gravação da reunião postada no YouTube(video 1).
+</p>
 
-### Resumo
+<br />
+
+|                                      Alunos presentes                                 |    Data    | Horário de inicio e fim |      Local       |
+| :-----------------------------------------------------------------------------------: | :--------: | :---------------------: | :--------------: |
+| Guilherme, Henrique, Igor, Júlio, Matheus, Rodrigo  | 30/03/2024 |      19:45 - 21:00      | Plataforma Teams |
+
+<div style="text-align: center">
+<p> Tabela 1: Dados da reunião (Fonte: MEISTER, Guilherme 2024). </p>
+</div>
+
+<br />
+
+## Objetivos da reunião
 
 - Nessa reunião, foi discutida a realização dos artefatos da entrega 1.
+- Discussão sobre pontos importantes do trabalho em geral
 - As tarefas foram realizada em conjunto pelos membros da equipe e foram iniciados os trabalhos no Github Pages do repositório do projeto, conforme a tabela abaixo:
 
 
- | **Tarefa**                                    | **Responsáveis**                    | **Revisores**                       | **Início** | **Prazo final** | **Finalizado em** |
-      | --------------------------------------------- | ----------------------------------- | ----------------------------------- | --------------- | ------------------------- | ----------------- |
-      | Heatmap | Guilherme, Henrique, Igor, Júlio, Matheus, Rodrigo | Guilherme, Henrique, Igor, Júlio, Matheus, Rodrigo | 30/03/2024      | 01/04/2024                | 30/03/2024        |
-      | Cronograma (planejado e executado) | Guilherme, Henrique, Igor, Júlio, Matheus, Rodrigo | Guilherme, Henrique, Igor, Júlio, Matheus, Rodrigo | 30/03/2024      | 01/04/2024                | 30/03/2024        |
-      | Termo de uso | Guilherme, Henrique, Igor, Júlio, Matheus, Rodrigo | Guilherme, Henrique, Igor, Júlio, Matheus, Rodrigo | 30/03/2024      | 01/04/2024                | 30/03/2024        |
-      | Rich Picture | Guilherme, Henrique, Igor, Júlio, Matheus, Rodrigo | Guilherme, Henrique, Igor, Júlio, Matheus, Rodrigo | 30/03/2024      | 01/04/2024                | 30/03/2024        |
-      | Lista de sites avaliados | Guilherme, Henrique, Igor, Júlio, Matheus, Rodrigo | Guilherme, Henrique, Igor, Júlio, Matheus, Rodrigo | 30/03/2024      | 01/04/2024                | 30/03/2024        |
-      | Lista de ferramentas utilizadas | Guilherme, Henrique, Igor, Júlio, Matheus, Rodrigo | Guilherme, Henrique, Igor, Júlio, Matheus, Rodrigo | 30/03/2024      | 01/04/2024                | 30/03/2024        |
-      | Gravação da apresentação | Guilherme, Henrique, Igor, Júlio, Matheus, Rodrigo | Guilherme, Henrique, Igor, Júlio, Matheus, Rodrigo | 30/03/2024      | 01/04/2024                | 30/03/2024        |
+
+| Tarefa | Responsável | Revisor |
+| ------ | ----------- | ------- |
+| Heatmap |Guilherme, Henrique, Igor, Júlio, Matheus, Rodrigo | Guilherme, Henrique, Igor, Júlio, Matheus, Rodrigo
+| Cronograma (planejado e executado) | Guilherme, Henrique, Igor, Júlio, Matheus, Rodrigo | Guilherme, Henrique, Igor, Júlio, Matheus, Rodrigo
+| Termo de uso | Guilherme, Henrique, Igor, Júlio, Matheus, Rodrigo | 	Guilherme, Henrique, Igor, Júlio, Matheus, Rodrigo
+| Rich Picture | Guilherme, Henrique, Igor, Júlio, Matheus, Rodrigo | 	Guilherme, Henrique, Igor, Júlio, Matheus, Rodrigo
+| Lista de apps selecionados e app escolhido | Guilherme, Henrique, Igor, Júlio, Matheus, Rodrigo | Guilherme, Henrique, Igor, Júlio, Matheus, Rodrigo
+| Ferramentas do projeto | Guilherme, Henrique, Igor, Júlio, Matheus, Rodrigo | 	Guilherme, Henrique, Igor, Júlio, Matheus, Rodrigo
+| Gravação da apresentação | Guilherme, Henrique, Igor, Júlio, Matheus, Rodrigo | Guilherme, Henrique, Igor, Júlio, Matheus, Rodrigo
      
 
-###### Tabela 01 - Tarefas da reunião. Fonte: Autoria própria
+<div style="text-align: center">
+<p> Tabela 2: Atividades a serem feitas (Fonte: GALDINO, Henrique 2023). </p>
+</div>
 
+<br />
 
-### Gravação
+## Gravação
 A gravação desta reunião pode ser acessada [aqui](https://youtu.be/0WflF4iFI8k).
 
-## Histórico de versões
+## Bibliografia
+[1] TEAMS. Disponível em: [TEAMS](https://teams.microsoft.com/). Acesso em: 02 de Abril de 2024.
 
-|    Data    | Versão |                                    Descrição                                    |                                            Autor(es)                                             | Revisores    |
-| :--------: | :----: | :-----------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------: | ------------ |
-| 30/03/2024 |  1.0   |                      Criação da ata          | Guilherme, Henrique, Igor, Júlio, Matheus, Rodrigo | Guilherme, Henrique, Igor, Júlio, Matheus, Rodrigo |
+## Histórico de Versões
 
-###### Tabela 02 - Histórico de versões. Fonte: Autoria própria
+| <p align="center">Data</p> | <p align="center">Versão</p> | <p align="center">Descrição</p> | <p align="center">Autor(es)</p> | <p align="center">Data de revisão</p> | <p align="center">Revisor(es)</p> |
+| :--:       | :----: | :-------: | :---: | :-------------: | :-----: |
+| 04/04/2023 | `1.0`  | Criação da ata de reunião | Guilherme, Henrique, Igor, Júlio, Matheus, Rodrigo | 17/04/2023 | Guilherme, Henrique, Igor, Júlio, Matheus, Rodrigo |
+
+<div style="text-align: center">
+<p> Tabela 3: Histórico de Versões (Fonte: GALDINO, Henrique 2023). </p>
+</div>
