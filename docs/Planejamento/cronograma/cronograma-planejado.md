@@ -2,9 +2,9 @@
 
 ## Introdução
 
-O cronograma da equipe foi estabelecido de acordo com as datas descritas para a entrega e apresentação do projeto presentes no plano de ensino da disciplina de Requisitos de Software ministrada pelo professor André Barros de Sales para o primeiro semestre de 2023.
+O cronograma da equipe foi estabelecido de acordo com as datas descritas para a entrega e apresentação do projeto presentes no plano de ensino da disciplina de Requisitos de Software.
 
-Este documento tem como objetivo desenvolver um planejamento inicial para realização das atividades requeridas pelo trabalho. O projeto é divido em pontos de controle, cada tabela de ponto de controle a seguir traça metas para um ponto de entrega de artefatos, juntamente com as datas de entrega da atividade, o integrante e a atividade que ele irá executar no ponto de controle e o revisor da atividade
+Este documento tem como objetivo desenvolver um planejamento inicial para realização das atividades requeridas pelo trabalho.
 
 ### Cronograma Geral
 A Tabela 1 mostra todos os Pontos de Controles com suas respectivas datas de entrega.
