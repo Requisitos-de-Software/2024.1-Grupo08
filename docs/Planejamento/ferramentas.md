@@ -42,7 +42,7 @@ Na tabela abaixo, estão listadas as ferramentas utilizadas:
 > - <a id="ancora9"></a>[9] Telegram. Acesso em: 29 de mar. de 2024. Disponível em: <https://telegram.org/>
 > - <a id="ancora10"></a>[10] Whatsapp. Acesso em: 29 de mar. de 2024. Disponível em: <https://www.whatsapp.com>
 > - <a id="ancora11"></a>[11] OBS Studio. Acesso em: 02 de abr. de 2024. Disponível em: <https://obsproject.com/pt-br>
-> - <a id="ancora12"></a>[12] OBS Studio. Acesso em: 02 de abr. de 2024. Disponível em: <https://www.canva.com/>
+> - <a id="ancora12"></a>[12] Canva. Acesso em: 02 de abr. de 2024. Disponível em: <https://www.canva.com/>
 
 
 
