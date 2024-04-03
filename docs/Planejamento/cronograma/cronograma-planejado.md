@@ -85,7 +85,7 @@ A Tabela 5 mostra as atividades planejadas para o Ponto de Controle 4, além de 
 #### Tabela 5 - Itens realizados Ponto de Controle 4. (Fonte: Guilherme Meister, 2024).
 
 
-### Ponto de Controle 5.1
+### Etapa 5.1
 A Tabela 6 mostra as atividades planejadas para o Ponto de Controle 5.1, além de seus autores, revisores e datas de entrega.
 
 | Atividade | Início | Fim | Autores | Revisores |
@@ -98,7 +98,7 @@ A Tabela 6 mostra as atividades planejadas para o Ponto de Controle 5.1, além d
 #### Tabela 6 - Itens realizados Ponto de Controle 5.1. (Fonte: Guilherme Meister, 2024).
 
 
-### Ponto de Controle 5.2
+### Etapa 5.2
 A Tabela 7 mostra as atividades planejadas para o Ponto de Controle 5.2, além de seus autores, revisores e datas de entrega.
 
 | Atividade | Início | Fim | Autores | Revisores |
@@ -111,7 +111,7 @@ A Tabela 7 mostra as atividades planejadas para o Ponto de Controle 5.2, além d
 #### Tabela 7 - Itens realizados Ponto de Controle 5.2. (Fonte: Guilherme Meister, 2024).
 
 
-### Ponto de Controle 6
+### Etapa 6
 A Tabela 8 mostra as atividades planejadas para o Ponto de Controle 6, além de seus autores, revisores e datas de entrega.
 
 | Atividade | Início | Fim | Autores | Revisores |
