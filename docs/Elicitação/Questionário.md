@@ -19,7 +19,7 @@ A execução do questionário deve ser realizada levando em conta o público alv
 - Às vezes os comentários recebidos não são úteis.
 - É necessário usar outras técnicas para obter mais informações, como por exemplo a técnica entrevista.
 
-  ## Resultados coletados
+## Resultados coletados
 
 Tendo em mente o vasto público-alvo que o aplicativo Consumidor.gov visa atender. Os resultados coletados para realizar a elicitação dos requisitos do projeto, proveniente do questionário, podem ser encontrados posteriormente no texto,
 Os usuários antes de realizar o Questionário aceitaram um <a href="[https://docs.google.com/document/d/1o_sSVLMjk8T5OaHf5OfHDhiT3ULYwC9aMnUbIFKQPtM/edit?usp=sharing](https://docs.google.com/document/d/1DGywQBzByBvDd5y1Gb5rzf5P1LD43F0ZqC0eocd6_RA/edit?usp=sharing)">termo consentimento</a> redigido pela equipe.
