@@ -1,4 +1,4 @@
-# Ata de Reunião - 30/03/2024
+# Ata de Reunião E1 - 30/03/2024
 
 ## Introdução
 
@@ -13,7 +13,7 @@ Esse documento visa registrar o acontecimento da  1ª reunião do grupo 8, marca
 | Guilherme, Henrique, Igor, Júlio, Matheus, Rodrigo  | 30/03/2024 |      19:45 - 21:00      | Plataforma Teams |
 
 <div style="text-align: center">
-<p> Tabela 1: Dados da reunião (Fonte: MEISTER, Guilherme 2024). </p>
+<p> Tabela 1: Dados da reunião (Fonte: MEISTER, Guilherme; 2024). </p>
 </div>
 
 <br />
@@ -26,19 +26,22 @@ Esse documento visa registrar o acontecimento da  1ª reunião do grupo 8, marca
 
 
 
-| Tarefa | Responsável | Revisor |
-| ------ | ----------- | ------- |
-| Heatmap |Guilherme, Henrique, Igor, Júlio, Matheus, Rodrigo | Guilherme, Henrique, Igor, Júlio, Matheus, Rodrigo
-| Cronograma (planejado e executado) | Guilherme, Henrique, Igor, Júlio, Matheus, Rodrigo | Guilherme, Henrique, Igor, Júlio, Matheus, Rodrigo
-| Termo de uso | Guilherme, Henrique, Igor, Júlio, Matheus, Rodrigo | 	Guilherme, Henrique, Igor, Júlio, Matheus, Rodrigo
-| Rich Picture | Guilherme, Henrique, Igor, Júlio, Matheus, Rodrigo | 	Guilherme, Henrique, Igor, Júlio, Matheus, Rodrigo
-| Lista de apps selecionados e app escolhido | Guilherme, Henrique, Igor, Júlio, Matheus, Rodrigo | Guilherme, Henrique, Igor, Júlio, Matheus, Rodrigo
-| Ferramentas do projeto | Guilherme, Henrique, Igor, Júlio, Matheus, Rodrigo | 	Guilherme, Henrique, Igor, Júlio, Matheus, Rodrigo
-| Gravação da apresentação | Guilherme, Henrique, Igor, Júlio, Matheus, Rodrigo | Guilherme, Henrique, Igor, Júlio, Matheus, Rodrigo
-     
+
+| Atividade | Início | Fim | Data limite |Autores | Revisores |
+|-----------|--------|-----|-----|---------|-----------|
+| Heatmap | 30/03 | 31/03 | 01/04 | Guilherme, Henrique, Igor, Júlio, Matheus, Rodrigo | Guilherme, Henrique, Igor, Júlio, Matheus, Rodrigo |
+| Cronograma |  30/03 | 31/03 |01/04| Guilherme, Henrique, Igor, Júlio, Matheus, Rodrigo | Guilherme, Henrique, Igor, Júlio, Matheus, Rodrigo |
+| Cronograma Realizado | 30/03 | 31/03 |01/04 | Guilherme, Henrique, Igor, Júlio, Matheus, Rodrigo | Guilherme, Henrique, Igor, Júlio, Matheus, Rodrigo |
+| Termo de uso | 31/03 | 31/03|01/04 | Guilherme, Henrique, Igor, Júlio, Matheus, Rodrigo | Guilherme, Henrique, Igor, Júlio, Matheus, Rodrigo |
+| Rich Picture | 31/03 | 31/03 |01/04 | Guilherme, Henrique, Igor, Júlio, Matheus, Rodrigo | Guilherme, Henrique, Igor, Júlio, Matheus, Rodrigo |
+| Lista de sites avaliados | 30/03 | 31/03 |01/04 | Guilherme, Henrique, Igor, Júlio, Matheus, Rodrigo | Guilherme, Henrique, Igor, Júlio, Matheus, Rodrigo |
+| Lista de ferramentas utilizadas | 30/03 | 31/03 |01/04 | Guilherme, Henrique, Igor, Júlio, Matheus, Rodrigo | Guilherme, Henrique, Igor, Júlio, Matheus, Rodrigo |
+| GitPage | 30/03 | 31/03 |01/04 | Guilherme, Henrique, Igor, Júlio, Matheus, Rodrigo | Guilherme, Henrique, Igor, Júlio, Matheus, Rodrigo |
+| Gravação da apresentação | 30/03 | 31/03 |01/04 | Guilherme, Henrique, Igor, Júlio, Matheus, Rodrigo | Guilherme, Henrique, Igor, Júlio, Matheus, Rodrigo |
+
 
 <div style="text-align: center">
-<p> Tabela 2: Atividades a serem feitas (Fonte: GALDINO, Henrique 2023). </p>
+<p> Tabela 2: Atividades a serem feitas (Fonte: GALDINO; Henrique 2024). </p>
 </div>
 
 <br />
@@ -53,9 +56,10 @@ A gravação desta reunião pode ser acessada [aqui](https://youtu.be/0WflF4iFI8
 
 | <p align="center">Data</p> | <p align="center">Versão</p> | <p align="center">Descrição</p> | <p align="center">Autor(es)</p> | <p align="center">Data de revisão</p> | <p align="center">Revisor(es)</p> |
 | :--:       | :----: | :-------: | :---: | :-------------: | :-----: |
-| 30/03/2024 | `1.0`  | Criação da ata de reunião | Guilherme, Henrique, Igor, Júlio, Matheus, Rodrigo | 30/03/2024 | Guilherme, Henrique, Igor, Júlio, Matheus, Rodrigo |
-| 02/04/2024 | `1.1`  | Melhorias na ata de reunião | [Guilherme Meister](https://github.com/gmeister18) | 02/04/2024 | ------------------------- |
+| 03/04/2024 | 1.2  | Correção título | [Henrique Galdino](https://github.com/hgaldino05) | 03/04/2024 | [Guilherme Meister](https://github.com/gmeister18)|
+| 02/04/2024 | 1.1  | Melhorias na ata de reunião | [Guilherme Meister](https://github.com/gmeister18) | 02/04/2024 | [Henrique Galdino](https://github.com/hgaldino05) |
+| 30/03/2024 | 1.0  | Criação da ata de reunião | Guilherme, Henrique, Igor, Júlio, Matheus, Rodrigo | 30/03/2024 | Guilherme, Henrique, Igor, Júlio, Matheus, Rodrigo |
 
 <div style="text-align: center">
-<p> Tabela 3: Histórico de Versões (Fonte: GALDINO, Henrique 2023). </p>
+<p> Tabela 3: Histórico de Versões (Fonte: GALDINO; Henrique 2024). </p>
 </div>

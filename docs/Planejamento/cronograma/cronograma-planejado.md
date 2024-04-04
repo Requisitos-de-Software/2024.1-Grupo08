@@ -36,7 +36,7 @@ A Tabela 2 mostra as atividades planejadas para a apresentação do projeto etap
 | GitPage | 30/03 | 31/03 |01/04 | Guilherme, Henrique, Igor, Júlio, Matheus, Rodrigo | Guilherme, Henrique, Igor, Júlio, Matheus, Rodrigo |
 | Gravação da apresentação | 30/03 | 31/03 |01/04 | Guilherme, Henrique, Igor, Júlio, Matheus, Rodrigo | Guilherme, Henrique, Igor, Júlio, Matheus, Rodrigo |
 
-#### Tabela 2 - Itens realizados Ponto de Controle 1. (Fonte: Guilherme Meister, 2024).
+#### Tabela 2 - Itens planejados Ponto de Controle 1. (Fonte: Guilherme Meister, 2024).
 
 ### Etapa 2
 A Tabela 3 mostra as atividades planejadas para o Ponto de Controle 2, além de seus autores, revisores e datas de entrega.
@@ -60,7 +60,7 @@ A Tabela 3 mostra as atividades planejadas para o Ponto de Controle 2, além de 
 | Gravação da apresentação | 14/04 | 17/04 | 17/04 | Guilherme,Henrique, Igor, Júlio, Matheus, Rodrigo | Guilherme,Henrique, Igor, Júlio, Matheus, Rodrigo |
 
 
-#### Tabela 3 - Itens realizados Ponto de Controle 2. (Fonte: Guilherme Meister, 2024).
+#### Tabela 3 - Itens planejados Ponto de Controle 2. (Fonte: Guilherme Meister, 2024).
 
 
 ### Etapa 3
@@ -75,7 +75,7 @@ A Tabela 4 mostra as atividades planejadas para o Ponto de Controle 3, além de 
 | Gravação da apresentação | 05/05 | 05/05 | Matheus | Rodrigo |
 | Correções do Ponto de Controle anterior | 07/05 | 09/05 | Rodrigo | Guilherme |
 
-#### Tabela 4 - Itens realizados Ponto de Controle 3. (Fonte: Guilherme Meister, 2024).
+#### Tabela 4 - Itens planejados Ponto de Controle 3. (Fonte: Guilherme Meister, 2024).
 
 
 ### Etapa 4
@@ -89,7 +89,7 @@ A Tabela 5 mostra as atividades planejadas para o Ponto de Controle 4, além de 
 | 4. Gravação da apresentação | 12/05 | 12/05 | Júlio | Matheus |
 | 5. Correções do Ponto de Controle anterior | 14/05 | 16/05 | Matheus | Rodrigo |
 
-#### Tabela 5 - Itens realizados Ponto de Controle 4. (Fonte: Guilherme Meister, 2024).
+#### Tabela 5 - Itens planejados Ponto de Controle 4. (Fonte: Guilherme Meister, 2024).
 
 
 ### Etapa 5.1
@@ -102,7 +102,7 @@ A Tabela 6 mostra as atividades planejadas para o Ponto de Controle 5.1, além d
 | 3. Gravação da apresentação | 19/05 | 19/05 | Guilherme, Rodrigo | Henrique, Matheus |
 | 4. Correções do Ponto de Controle anterior | 23/05 | 25/05 | Matheus, Henrique | Rodrigo, Júlio |
 
-#### Tabela 6 - Itens realizados Ponto de Controle 5.1. (Fonte: Guilherme Meister, 2024).
+#### Tabela 6 - Itens planejados Ponto de Controle 5.1. (Fonte: Guilherme Meister, 2024).
 
 
 ### Etapa 5.2
@@ -115,7 +115,7 @@ A Tabela 7 mostra as atividades planejadas para o Ponto de Controle 5.2, além d
 | 3. Gravação da apresentação | 16/06 | 16/06 | Henrique, Matheus | Igor, Rodrigo |
 | 4. Correções do Ponto de Controle anterior | 15/06 | 23/06 | Igor, Rodrigo | Júlio, Guilherme |
 
-#### Tabela 7 - Itens realizados Ponto de Controle 5.2. (Fonte: Guilherme Meister, 2024).
+#### Tabela 7 - Itens planejados Ponto de Controle 5.2. (Fonte: Guilherme Meister, 2024).
 
 
 ### Etapa 6
@@ -128,7 +128,7 @@ A Tabela 8 mostra as atividades planejadas para o Ponto de Controle 6, além de 
 | 3. Gravação da apresentação | 02/06 | 02/06 | Matheus | Rodrigo |
 | 4. Correções do Ponto de Controle anterior | 04/06 | 08/06 | Rodrigo | Guilherme |
 
-#### Tabela 8 - Itens realizados Ponto de Controle 6. (Fonte: Guilherme Meister , 2024).
+#### Tabela 8 - Itens planejados Ponto de Controle 6. (Fonte: Guilherme Meister , 2024).
 
 
 ---
@@ -141,5 +141,5 @@ A Tabela 8 mostra as atividades planejadas para o Ponto de Controle 6, além de 
 ### Histórico de versão
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | :------: | :--------: | :-----------: | :-------: | :---------: |
-| 03/04 | 1.1 | Preenchendo cronograma para as demais entregas | [Henrique Galdino](https://github.com/hgaldino05) | [Guilherme Meister](https://github.com/gmeister18)
+| 03/04 | 1.1 | Preenchendo cronograma para as demais entregas | [Henrique Galdino](https://github.com/hgaldino05) | [Guilherme Meister](https://github.com/gmeister18)|
 | 03/04 | 1.0 | Criação da página cronograma planejado (divisão dos cronogramas) | Guilherme, Henrique, Igor, Júlio, Matheus, Rodrigo | [Guilherme Meister](https://github.com/gmeister18)
