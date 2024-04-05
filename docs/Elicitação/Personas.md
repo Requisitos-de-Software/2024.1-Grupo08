@@ -37,6 +37,7 @@ As Personas partiram do perfil de usuário, representado na Tabela 1, que foi tr
 | Experiência       |                                        |
 | Atitudes          |                                                                    |
 | Tarefas primárias |                                                 |
+
 #### Tabela 1: Perfil do usuário (fonte: MEISTER, Guilherme 2024).
 
 ## Personas do nosso projeto
@@ -57,6 +58,7 @@ O elenco é composto de duas personas primárias, uma persona secundária e uma 
 | **Relacionamentos** |  |
 | **Requisitos**      |  |
 | **Expectativas**    |  |
+
 #### Tabela 2: Persona 01 (MEISTER, Guilherme. 2024).
 
 ### Persona 02
@@ -73,6 +75,7 @@ O elenco é composto de duas personas primárias, uma persona secundária e uma 
 | **Relacionamentos** |  |
 | **Requisitos**      |  |
 | **Expectativas**    |  |
+
 #### Tabela 3: Persona 02 (MEISTER, Guilherme. 2024).
 
 ### Persona 03
@@ -89,6 +92,7 @@ O elenco é composto de duas personas primárias, uma persona secundária e uma 
 | **Relacionamentos** |  |
 | **Requisitos**      |  |
 | **Expectativas**    |  |
+
 #### Tabela 4: Persona 03 (MEISTER, Guilherme. 2024).
 
 ### Persona 04
@@ -105,6 +109,7 @@ O elenco é composto de duas personas primárias, uma persona secundária e uma 
 | **Relacionamentos** |  |
 | **Requisitos**      |  |
 | **Expectativas**    |  |
+
 #### Tabela 5: Persona 04 (MEISTER, Guilherme. 2024).
 
 ## Bibliografia
