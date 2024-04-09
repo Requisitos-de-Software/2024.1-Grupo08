@@ -34,7 +34,27 @@ Figura 1: Pergunta 1 (Fonte: Guilherme, 2024).
 
 ### Questão 2
 
+![Image do resultado da questão 1](https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/f1a80c4a20e3dde49cb759eea4ee16d83326c444/assets/img/Elicita%C3%A7%C3%A3o/Questao02.png)
+  
+<p>
+Figura 2: Pergunta 2 (Fonte: Guilherme, 2024). 
+</p>
 
+### Questão 3
+
+![Image do resultado da questão 1](https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/f1a80c4a20e3dde49cb759eea4ee16d83326c444/assets/img/Elicita%C3%A7%C3%A3o/Questao03.png)
+  
+<p>
+Figura 3: Pergunta 3 (Fonte: Guilherme, 2024). 
+</p>
+
+### Questão 4
+
+![Image do resultado da questão 1](https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/f1a80c4a20e3dde49cb759eea4ee16d83326c444/assets/img/Elicita%C3%A7%C3%A3o/Questao04.png)
+  
+<p>
+Figura 4: Pergunta 4 (Fonte: Guilherme, 2024). 
+</p>
 
 ## Bibliografiat
 
