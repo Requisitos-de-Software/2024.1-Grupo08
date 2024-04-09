@@ -56,6 +56,30 @@ Figura 3: Pergunta 3 (Fonte: Guilherme, 2024).
 Figura 4: Pergunta 4 (Fonte: Guilherme, 2024). 
 </p>
 
+### Questão 5
+
+![Image do resultado da questão 1](https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/f1a80c4a20e3dde49cb759eea4ee16d83326c444/assets/img/Elicita%C3%A7%C3%A3o/Questao05.png)
+  
+<p>
+Figura 5: Pergunta 5 (Fonte: Guilherme, 2024). 
+</p>
+
+### Questão 6
+
+![Image do resultado da questão 1](https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/f1a80c4a20e3dde49cb759eea4ee16d83326c444/assets/img/Elicita%C3%A7%C3%A3o/Questao06.png)
+  
+<p>
+Figura 6: Pergunta 6 (Fonte: Guilherme, 2024). 
+</p>
+
+### Questão 7
+
+![Image do resultado da questão 1](https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/f1a80c4a20e3dde49cb759eea4ee16d83326c444/assets/img/Elicita%C3%A7%C3%A3o/Questao07.png)
+  
+<p>
+Figura 7: Pergunta 7 (Fonte: Guilherme, 2024). 
+</p>
+
 ## Bibliografiat
 
 [1] VASQUEZ, Carlos E; SIVOES, Guilherme S. Engenharia de Requisitos - Software orientado ao negócio.
