@@ -26,6 +26,14 @@ Os usuários antes de realizar o Questionário aceitaram um <a href="https://doc
 
 ### Questão 1
 
+![Image do resultado da questão 1](https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/f1a80c4a20e3dde49cb759eea4ee16d83326c444/assets/img/Elicita%C3%A7%C3%A3o/Questao01.png)
+  
+<p>
+Figura 1: Pergunta 1 (Fonte: Guilherme, 2024). 
+</p>
+
+### Questão 2
+
 
 
 ## Bibliografiat
