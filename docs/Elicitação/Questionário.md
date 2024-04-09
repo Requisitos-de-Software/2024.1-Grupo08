@@ -211,4 +211,4 @@ Na Tabela Respostas Pergunta 9, estão listadas as resposta diretas do nosso usu
 ## Histórico de Versão
 | Versão | Data          | Descrição           | Autor(es)     |  Revisor(es)  |
 | ------ | ------------- | ---------------------------------- | ------------- | ------------- |
-| `1.0`  | 04/04/2024 | Criação do documento | Guilherme Meister | ------------ |
+| `1.0`  | 04/04/2024 | Criação do documento | [Guilherme Meister](https://github.com/gmeister18) e [Matheus Ferreira](https://github.com/matferreira1) | [Henrique Galdino](https://github.com/hgaldino05) e [Rodrigo ](https://github.com/rodrigogontijoo) |
