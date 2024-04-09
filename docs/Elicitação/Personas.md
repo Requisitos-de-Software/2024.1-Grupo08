@@ -73,8 +73,8 @@ O elenco é composto de duas personas primárias, uma persona secundária e uma 
 | **Habilidades**     | Bianca é uma estudante talentosa de Psicologia, com habilidades em conversação e edição de vídeos. Ela também é fluente em inglês e espanhol, e tem experiência em organização de eventos estudantis. Além disso, é uma influenciadora digital nas redes sociais, com uma comunidade engajada no ramo de autoajuda. |
 | **Tarefas**         |  Ir para a universidade, participar de aulas e projetos de grupo, criar conteúdo para suas redes sociais, assistir tutoriais de maquiagem, sair com amigos para cafés e eventos de coach.|
 | **Relacionamentos** | Colegas de classe, amigos da universidade, seguidores nas redes sociais, familiares próximos, colegas de grupos motivacionais. |
-| **Requisitos**      |  Marina precisa de um canal eficiente para registrar sua reclamação, e espera uma resposta rápida e satisfatória da empresa, seja um reembolso ou uma troca pelo produto defeituoso. |
-| **Expectativas**    | Marina espera que a empresa resolva o problema de forma rápida e eficaz, garantindo sua satisfação como cliente e mantendo sua confiança na marca. Ela também deseja poder compartilhar sua experiência, positiva ou negativa, com sua comunidade online. |
+| **Requisitos**      |  Bianca precisa de um canal eficiente para registrar sua reclamação, e espera uma resposta rápida e satisfatória da empresa, seja um reembolso ou uma troca pelo produto defeituoso. |
+| **Expectativas**    | Bianca espera que a empresa resolva o problema de forma rápida e eficaz, garantindo sua satisfação como cliente e mantendo sua confiança na marca. Ela também deseja poder compartilhar sua experiência, positiva ou negativa, com sua comunidade online. |
 
 #### Tabela 3: Persona 02 (MEISTER, Guilherme. 2024).
 
