@@ -48,16 +48,16 @@ O elenco é composto de duas personas primárias, uma persona secundária e uma 
 
 |                     |                    |
 | :------------------ | :----------------- |
-| **Nome**            |    |
-| **Foto**            | <img width="200" src=""><p>Imagem 1 persona</p> |
-| **Descrição**       |                 |
+| **Nome**            | Jorge Serafim |
+| **Foto**            | <img width="200" src="../assets/Elicitação/download (1).jpeg"><p>Imagem 1 persona</p> |
+| **Descrição**       | Jorge é um cardiologista com uma rotina bastante agitada. Ele tem um filho que completará 10 anos e comprou um boneco de presente pela internet para ele, porém ao chegar o boneco era totalmente diferente das fotos e veio com defeito. Com isso, Jorge quer fazer uma reclamação para a empresa que vendeu o produto para que ele consiga trocar a mercadoria.|
 | **Status**          | Persona Primária |
-| **Objetivos**       |  | 
-| **Habilidades**     | |
-| **Tarefas**         | |
-| **Relacionamentos** |  |
-| **Requisitos**      |  |
-| **Expectativas**    |  |
+| **Objetivos**       | Jorge quer trocar o seu pedido porém a empresa não responde as tentativas de contato dele, logo ele vai utilizar o Consumidor.gov para obter uma resposta e quem sabe um estorno ou uma troca do brinquedo. | 
+| **Habilidades**     | Jorge é um cirurgião cardiologista com 10 anos de consultório, além disso ele é fluente em inglês e alemão, é o recordista do estado do Goiás de resolução de cubo mágico e já quase jogou basquete profissionalmente.|
+| **Tarefas**         | Levar seu filho para a escola, ir para o consultório de manhã, ir para a academia a noite, voltar para casa, jantar com sua esposa e assistir NBA até dormir.|
+| **Relacionamentos** | Familiares, amigos do trabalho, amigos de infância, amigos do basquete|
+| **Requisitos**      | Ao não ter respostas, Jorge quer um meio de fazer sua reclamação e obter respostas da loja para fazer sua devolução |
+| **Expectativas**    | Jorge espera que sua reclamação seja respondida e que seu pedido seja trocado para seu filho poder brincar com o boneco novo. |
 
 #### Tabela 2: Persona 01 (MEISTER, Guilherme. 2024).
 
@@ -65,16 +65,16 @@ O elenco é composto de duas personas primárias, uma persona secundária e uma 
 
 |                     |                    |
 | :------------------ | :----------------- |
-| **Nome**            |    |
-| **Foto**            | <img width="200" src=""><p>Imagem 2 persona</p> |
-| **Descrição**       |                 |
+| **Nome**            | Bianca Torquato |
+| **Foto**            | <img width="200" src="../assets/Elicitação/download (2).jpeg"><p>Imagem 2 persona</p> |
+| **Descrição**       | Bianca é uma estudante universitária de 22 anos, cursando Psicologia. Ela adora moda, maquiagem e está sempre antenada nas últimas tendências. Recentemente, comprou uma paleta de sombras online de uma marca famosa, mas ao receber o produto, percebeu que as cores estavam completamente diferentes das anunciadas. Agora, ela quer fazer uma reclamação para obter um reembolso ou uma troca. |
 | **Status**          | Persona Primária |
-| **Objetivos**       |  | 
-| **Habilidades**     | |
-| **Tarefas**         | |
-| **Relacionamentos** |  |
-| **Requisitos**      |  |
-| **Expectativas**    |  |
+| **Objetivos**       | Bianca deseja fazer uma reclamação através do Consumidor.gov para tentar conseguir um reembolso ou uma troca  | 
+| **Habilidades**     | Bianca é uma estudante talentosa de Psicologia, com habilidades em conversação e edição de vídeos. Ela também é fluente em inglês e espanhol, e tem experiência em organização de eventos estudantis. Além disso, é uma influenciadora digital nas redes sociais, com uma comunidade engajada no ramo de autoajuda. |
+| **Tarefas**         |  Ir para a universidade, participar de aulas e projetos de grupo, criar conteúdo para suas redes sociais, assistir tutoriais de maquiagem, sair com amigos para cafés e eventos de coach.|
+| **Relacionamentos** | Colegas de classe, amigos da universidade, seguidores nas redes sociais, familiares próximos, colegas de grupos motivacionais. |
+| **Requisitos**      |  Marina precisa de um canal eficiente para registrar sua reclamação, e espera uma resposta rápida e satisfatória da empresa, seja um reembolso ou uma troca pelo produto defeituoso. |
+| **Expectativas**    | Marina espera que a empresa resolva o problema de forma rápida e eficaz, garantindo sua satisfação como cliente e mantendo sua confiança na marca. Ela também deseja poder compartilhar sua experiência, positiva ou negativa, com sua comunidade online. |
 
 #### Tabela 3: Persona 02 (MEISTER, Guilherme. 2024).
 
@@ -82,16 +82,16 @@ O elenco é composto de duas personas primárias, uma persona secundária e uma 
 
 |                     |                    |
 | :------------------ | :----------------- |
-| **Nome**            |    |
-| **Foto**            | <img width="200" src=""><p>Imagem 3 persona</p> |
-| **Descrição**       |                 |
+| **Nome**            | José da Silva  |
+| **Foto**            | <img width="200" src="../assets/Elicitação/download (3).jpeg"><p>Imagem 3 persona</p> |
+| **Descrição**       |  José é um trabalhador autônomo de 55 anos, que possui uma pequena empresa de prestação de serviços de limpeza. Ele tem uma rotina agitada e pouco tempo livre. Não possui formação acadêmica e tem dificuldades com tecnologia.  |
 | **Status**          | Anti-Persona |
-| **Objetivos**       |  | 
-| **Habilidades**     | |
-| **Tarefas**         | |
-| **Relacionamentos** |  |
-| **Requisitos**      |  |
-| **Expectativas**    |  |
+| **Objetivos**       |  José não está interessado em reclamações de consumidores, pois vê esses problemas como uma distração de suas responsabilidades diárias. Ele busca soluções simples e rápidas para resolver problemas, sem muita burocracia. | 
+| **Habilidades**     | José não possui habilidades tecnológicas e prefere evitar interações complexas com aplicativos ou plataformas online. Ele não tem paciência para lidar com processos demorados ou complicados. Além disso, ele tende a desconfiar de empresas ou instituições, não acreditando que reclamações possam levar a uma solução satisfatória. |
+| **Tarefas**         | Gerenciar sua pequena empresa, coordenar equipes de trabalho, atender clientes, realizar serviços de limpeza, lidar com questões financeiras e administrativas. |
+| **Relacionamentos** | Clientes, funcionários, fornecedores locais, familiares próximos. |
+| **Requisitos**      | José prefere soluções offline e de contato direto, como atendimento por telefone ou presencial. Ele busca simplicidade e praticidade, evitando processos online ou burocráticos. |
+| **Expectativas**    | José espera resolver problemas rapidamente e de forma direta, sem a necessidade de longas conversas ou procedimentos complicados. Ele não tem expectativas positivas em relação a reclamações de consumidores, preferindo lidar com questões práticas do dia a dia de sua empresa. |
 
 #### Tabela 4: Persona 03 (MEISTER, Guilherme. 2024).
 
@@ -99,16 +99,16 @@ O elenco é composto de duas personas primárias, uma persona secundária e uma 
 
 |                     |                    |
 | :------------------ | :----------------- |
-| **Nome**            |    |
-| **Foto**            | <img width="200" src=""><p>Imagem 4 persona</p> |
-| **Descrição**       |                 |
+| **Nome**            | Ana Silva |
+| **Foto**            | <img width="200" src="../assets/Elicitação/download.jpeg"><p>Imagem 4 persona</p> |
+| **Descrição**       | Ana é uma advogada de 35 anos, com uma rotina profissional agitada em um escritório de advocacia renomado. Sua especialidade são casos relacionados a direitos do consumidor. Como uma profissional ativa e consciente, Ana busca constantemente maneiras de melhorar a experiência do consumidor e garantir tratamento justo pelas empresas. |
 | **Status**          | Persona Secundária. |
-| **Objetivos**       |  | 
-| **Habilidades**     | |
-| **Tarefas**         | |
-| **Relacionamentos** |  |
-| **Requisitos**      |  |
-| **Expectativas**    |  |
+| **Objetivos**       |  Ana deseja resolver reclamações de consumidores de forma eficiente, buscando soluções que economizem tempo e facilitem sua rotina. Ela procura capacitar os consumidores a fazerem valer seus direitos e espera transparência e honestidade nas interações com as empresas. Logo ela começou a recomendar o Consumidor.gov para seus clientes para que possam fazer um contato direto com a loja a fim de resolverem seus problemas.  | 
+| **Habilidades**     | Ana é uma advogada experiente, com profundo conhecimento em direito do consumidor. Ela domina a complexidade do sistema legal e valoriza soluções que ofereçam orientação clara e precisa nesse aspecto. Além disso, possui habilidades de comunicação eficaz e busca plataformas que facilitem a interação entre consumidores e empresas. |
+| **Tarefas**         | Gerenciar casos de direito do consumidor, pesquisar jurisprudência, redigir petições, comparecer a audiências, negociar acordos, comunicar-se com clientes e empresas.  |
+| **Relacionamentos** | Colegas de trabalho, clientes, autoridades judiciais, consumidores, representantes de empresas.  |
+| **Requisitos**      |  Ana necessita de uma plataforma de reclamação do consumidor que seja eficiente e fácil de usar, integrando-se bem à sua rotina ocupada. Ela espera que a plataforma forneça orientação legal clara, facilite a comunicação eficaz e garanta transparência nas interações com as empresas. |
+| **Expectativas**    | Ana espera que a plataforma de reclamação do consumidor ajude a resolver questões de forma rápida e justa, garantindo que os consumidores sejam ouvidos e tratados com respeito pelas empresas. Ela busca uma experiência satisfatória que contribua para a defesa dos direitos do consumidor e promova relações mais transparentes e equitativas entre consumidores e empresas. |
 
 #### Tabela 5: Persona 04 (MEISTER, Guilherme. 2024).
 
