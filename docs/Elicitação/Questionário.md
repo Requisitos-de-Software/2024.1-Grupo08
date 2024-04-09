@@ -22,7 +22,10 @@ A execução do questionário deve ser realizada levando em conta o público alv
 ## Resultados coletados
 
 Tendo em mente o vasto público-alvo que o aplicativo Consumidor.gov visa atender. Os resultados coletados para realizar a elicitação dos requisitos do projeto, proveniente do questionário, podem ser encontrados posteriormente no texto,
-Os usuários antes de realizar o Questionário aceitaram um <a href="https://docs.google.com/document/d/1DGywQBzByBvDd5y1Gb5rzf5P1LD43F0ZqC0eocd6_RA/edit">termo de consentimento</a> redigido pela equipe.
+Os usuários antes de realizar o Questionário aceitaram um <a href="https://docs.google.com/document/d/1DGywQBzByBvDd5y1Gb5rzf5P1LD43F0ZqC0eocd6_RA/edit">termo de consentimento</a> redigido pela equipe. Foram obtidos 21 respostas, que foram coletadas entre as datas **05/04/2024** e **09/04/2024**.
+
+### Questão 1
+
 
 ## Bibliografiat
 
