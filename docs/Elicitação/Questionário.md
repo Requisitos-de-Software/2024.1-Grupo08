@@ -28,65 +28,65 @@ Os usuários antes de realizar o Questionário aceitaram um <a href="https://doc
 
 ![Image do resultado da questão 1](https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/f1a80c4a20e3dde49cb759eea4ee16d83326c444/assets/img/Elicita%C3%A7%C3%A3o/Questao01.png)
   
-<p>
-Figura 1: Pergunta 1 (Fonte: Guilherme, 2024). 
-</p>
+
+#### Figura 1: Pergunta 1 (Fonte: Guilherme, 2024). 
+
 
 ### Questão 2
 
 ![Image do resultado da questão 1](https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/f1a80c4a20e3dde49cb759eea4ee16d83326c444/assets/img/Elicita%C3%A7%C3%A3o/Questao02.png)
   
-<p>
-Figura 2: Pergunta 2 (Fonte: Guilherme, 2024). 
-</p>
+
+#### Figura 2: Pergunta 2 (Fonte: Guilherme, 2024). 
+
 
 ### Questão 3
 
 ![Image do resultado da questão 1](https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/f1a80c4a20e3dde49cb759eea4ee16d83326c444/assets/img/Elicita%C3%A7%C3%A3o/Questao03.png)
   
-<p>
-Figura 3: Pergunta 3 (Fonte: Guilherme, 2024). 
-</p>
+
+#### Figura 3: Pergunta 3 (Fonte: Guilherme, 2024). 
+
 
 ### Questão 4
 
 ![Image do resultado da questão 1](https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/f1a80c4a20e3dde49cb759eea4ee16d83326c444/assets/img/Elicita%C3%A7%C3%A3o/Questao04.png)
   
-<p>
-Figura 4: Pergunta 4 (Fonte: Guilherme, 2024). 
-</p>
+
+#### Figura 4: Pergunta 4 (Fonte: Guilherme, 2024). 
+
 
 ### Questão 5
 
 ![Image do resultado da questão 1](https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/f1a80c4a20e3dde49cb759eea4ee16d83326c444/assets/img/Elicita%C3%A7%C3%A3o/Questao05.png)
   
-<p>
-Figura 5: Pergunta 5 (Fonte: Guilherme, 2024). 
-</p>
+
+#### Figura 5: Pergunta 5 (Fonte: Guilherme, 2024). 
+
 
 ### Questão 6
 
 ![Image do resultado da questão 1](https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/f1a80c4a20e3dde49cb759eea4ee16d83326c444/assets/img/Elicita%C3%A7%C3%A3o/Questao06.png)
   
-<p>
-Figura 6: Pergunta 6 (Fonte: Guilherme, 2024). 
-</p>
+
+#### Figura 6: Pergunta 6 (Fonte: Guilherme, 2024). 
+
 
 ### Questão 7
 
 ![Image do resultado da questão 1](https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/f1a80c4a20e3dde49cb759eea4ee16d83326c444/assets/img/Elicita%C3%A7%C3%A3o/Questao07.png)
   
-<p>
-Figura 7: Pergunta 7 (Fonte: Guilherme, 2024). 
-</p>
+
+#### Figura 7: Pergunta 7 (Fonte: Guilherme, 2024). 
+
 
 ### Questão 8
 
 ![Image do resultado da questão 1](https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/f1a80c4a20e3dde49cb759eea4ee16d83326c444/assets/img/Elicita%C3%A7%C3%A3o/Questao08.png)
   
-<p>
-Figura 8: Pergunta 8 (Fonte: Guilherme, 2024). 
-</p>
+
+#### Figura 8: Pergunta 8 (Fonte: Guilherme, 2024). 
+
 
 ### Questão 9
 
@@ -113,25 +113,25 @@ Na Tabela Respostas Pergunta 9, estão listadas as resposta diretas do nosso usu
 | Ver o status de minha reclamação, Ver reputação da empresa |
 | Registrar reclamações, Ver o status de minha reclamação |
 
-<p>
-Tabela 1: Respostas da pergunta 9. (Fonte: Guilherme, 2024). 
-</p>
+
+#### Tabela 1: Respostas da pergunta 9. (Fonte: Guilherme, 2024). 
+
 
 ### Questão 10
 
 ![Image do resultado da questão 1](https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/f1a80c4a20e3dde49cb759eea4ee16d83326c444/assets/img/Elicita%C3%A7%C3%A3o/Questao09.png)
   
-<p>
-Figura 9: Pergunta 10 (Fonte: Guilherme, 2024). 
-</p>
+
+#### Figura 9: Pergunta 10 (Fonte: Guilherme, 2024). 
+
 
 ### Questão 11
 
 ![Image do resultado da questão 1](https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/f1a80c4a20e3dde49cb759eea4ee16d83326c444/assets/img/Elicita%C3%A7%C3%A3o/Questao10.png)
   
-<p>
-Figura 10: Pergunta 11 (Fonte: Guilherme, 2024). 
-</p>
+
+#### Figura 10: Pergunta 11 (Fonte: Guilherme, 2024). 
+
 
 ### Questão 12
 
@@ -162,9 +162,43 @@ Na Tabela Respostas Pergunta 9, estão listadas as resposta diretas do nosso usu
 | ter um suporte mais eficiente |
 | tenho nao |
 
-<p>
-Tabela 2: Respostas da pergunta 12. (Fonte: Guilherme, 2024). 
-</p>
+
+#### Tabela 2: Respostas da pergunta 12. (Fonte: Guilherme, 2024). 
+
+
+## Requisitos Elicitados
+| Identificador  |     Requisito     | Tipo  |
+| :-: | :----------------------------------------: | :---: |
+| QUE01 | Modernizar interface gráfica usuário | RNF |
+| QUE02 | Mostrar tempo médio que a Empresa costuma responder | RNF |
+| QUE03 | Deve ter modo escuro | RNF |
+| QUE04 | Modo onde todos as reclamações anteriores possam ser vistas | RNF |
+| QUE05 | Aba com reputação das empresas | RF |
+| QUE06 | Modo para ver o passo a passo da reclamação | RNF |
+| QUE07 | Chat para comunicação direta com empresas | RF |
+| QUE08 | Menus mais interativos | RF |
+| QUE09 | Deve ter botão para alternar entre o modo escuro e claro | RF |
+| QUE10 | O aplicativo deve ser responsivo e livre de travamentos | RNF |
+| QUE11 | Mostrar  infográficos e indicadores mais detalhados | RF |
+| QUE12 | Implementação de mediação dos conflitos no próprio aplicativo | RF |
+| QUE13 | Redesign do menu | RF |
+| QUE14 | Mais recursos para reclamação | RF |
+| QUE15 | Interface simples e intuitiva | RNF |
+| QUE16 | Um suporte mais eficiente | RNF |
+| QUE17 | Interface mais amigável | RNF |
+| QUE18 | Mais informações sobre posicionamento de alguma reclamação | RNF |
+| QUE19 | Melhora na interface | RF |
+
+
+#### Tabela 16: Requisitos elicitados. (Fonte: Guilherme, 2023). 
+
+
+**Legenda**
+
+- Q: Questionário
+- RF: Requisito Funcional
+- RNF: Requisito Não Funcional
+
 
 ## Bibliografia
 
