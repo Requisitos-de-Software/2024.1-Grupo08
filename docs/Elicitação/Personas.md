@@ -123,5 +123,3 @@ O elenco é composto de duas personas primárias, uma persona secundária e uma 
 | 05/04/2024 | `1.0`  | Criação do documento | [Guilherme Meister](https://github.com/gmeister18) e [Matheus Ferreira](https://github.com/matferreira1) | --/04/2024 | [Henrique Galdino](https://github.com/hgaldino05) e [Rodrigo ](https://github.com/rodrigogontijoo) |
 
 
-
->>>>>>> 6bd9736bd4ff0dc5f1d63ab2dd8b9306e694434f
