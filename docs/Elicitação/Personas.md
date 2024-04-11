@@ -42,14 +42,19 @@ As Personas partiram do perfil de usuário, representado na Tabela 1, que foi tr
 
 ## Personas do nosso projeto
 
-O elenco é composto de duas personas primárias, uma persona secundária e uma antipersona. A quantidade de personas foi definida de forma a torná-las facéis de lembrar.
+O elenco é composto de duas personas primárias, uma persona secundária e uma antipersona. A quantidade de personas foi definida de forma a torná-las facéis de lembrar. As personas podem ser vistas nas imagens numeradas de **1 a 4**, e suas informações são exibidas nas tabelas numeradas de **2 a 5**.
 
 ### Persona 01
+
+<div align="center">
+<img src="https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/assets/img/Elicitação/jorge.jpeg?raw=true" alt = Figura1  width="250" height="250"/>
+<figcaption align="center">Figura 1: Jorge Serafim (Fonte: <a href="https://thispersondoesnotexist.com" target="_blanck">This Person Does Not Exist</a>, 2024)</figcaption>
+</div>
+<br/>
 
 |                     |                    |
 | :------------------ | :----------------- |
 | **Nome**            | Jorge Serafim |
-| **Foto**            | <img width="200" src="../assets/Elicitação/download (1).jpeg"><p>Imagem 1 persona</p> |
 | **Descrição**       | Jorge é um cardiologista com uma rotina bastante agitada. Ele tem um filho que completará 10 anos e comprou um boneco de presente pela internet para ele, porém ao chegar o boneco era totalmente diferente das fotos e veio com defeito. Com isso, Jorge quer fazer uma reclamação para a empresa que vendeu o produto para que ele consiga trocar a mercadoria.|
 | **Status**          | Persona Primária |
 | **Objetivos**       | Jorge quer trocar o seu pedido porém a empresa não responde as tentativas de contato dele, logo ele vai utilizar o Consumidor.gov para obter uma resposta e quem sabe um estorno ou uma troca do brinquedo. | 
@@ -63,10 +68,15 @@ O elenco é composto de duas personas primárias, uma persona secundária e uma 
 
 ### Persona 02
 
+<div align="center">
+<img src="https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/assets/img/Elicitação/bianca.jpeg?raw=true" alt = Figura2  width="250" height="250"/>
+<figcaption align="center">Figura 2: Bianca Torquato (Fonte: <a href="https://thispersondoesnotexist.com" target="_blanck">This Person Does Not Exist</a>, 2024)</figcaption>
+</div>
+<br/>
+
 |                     |                    |
 | :------------------ | :----------------- |
 | **Nome**            | Bianca Torquato |
-| **Foto**            | <img width="200" src="../assets/Elicitação/download (2).jpeg"><p>Imagem 2 persona</p> |
 | **Descrição**       | Bianca é uma estudante universitária de 22 anos, cursando Psicologia. Ela adora moda, maquiagem e está sempre antenada nas últimas tendências. Recentemente, comprou uma paleta de sombras online de uma marca famosa, mas ao receber o produto, percebeu que as cores estavam completamente diferentes das anunciadas. Agora, ela quer fazer uma reclamação para obter um reembolso ou uma troca. |
 | **Status**          | Persona Primária |
 | **Objetivos**       | Bianca deseja fazer uma reclamação através do Consumidor.gov para tentar conseguir um reembolso ou uma troca  | 
@@ -80,10 +90,15 @@ O elenco é composto de duas personas primárias, uma persona secundária e uma 
 
 ### Persona 03
 
+<div align="center">
+<img src="https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/assets/img/Elicitação/jose.jpeg?raw=true" alt = Figura3  width="250" height="250"/>
+<figcaption align="center">Figura 3: José da Silva (Fonte: <a href="https://thispersondoesnotexist.com" target="_blanck">This Person Does Not Exist</a>, 2024)</figcaption>
+</div>
+<br/>
+
 |                     |                    |
 | :------------------ | :----------------- |
 | **Nome**            | José da Silva  |
-| **Foto**            | <img width="200" src="../assets/Elicitação/download (3).jpeg"><p>Imagem 3 persona</p> |
 | **Descrição**       |  José é um trabalhador autônomo de 55 anos, que possui uma pequena empresa de prestação de serviços de limpeza. Ele tem uma rotina agitada e pouco tempo livre. Não possui formação acadêmica e tem dificuldades com tecnologia.  |
 | **Status**          | Anti-Persona |
 | **Objetivos**       |  José não está interessado em reclamações de consumidores, pois vê esses problemas como uma distração de suas responsabilidades diárias. Ele busca soluções simples e rápidas para resolver problemas, sem muita burocracia. | 
@@ -96,6 +111,12 @@ O elenco é composto de duas personas primárias, uma persona secundária e uma 
 #### Tabela 4: Persona 03 (MEISTER, Guilherme. 2024).
 
 ### Persona 04
+
+<div align="center">
+<img src="https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/assets/img/Elicitação/ana.jpeg?raw=true" alt = Figura4  width="250" height="250"/>
+<figcaption align="center">Figura 4: Ana Silva (Fonte: <a href="https://thispersondoesnotexist.com" target="_blanck">This Person Does Not Exist</a>, 2024)</figcaption>
+</div>
+<br/>
 
 |                     |                    |
 | :------------------ | :----------------- |
@@ -120,6 +141,10 @@ O elenco é composto de duas personas primárias, uma persona secundária e uma 
 
 | Data | Versão | Descrição | Autor(es) | Data de revisão | Revisor(es) |
 | :--:       | :----: | :-------: | :---: | :-------------: | :-----: |
-| 05/04/2024 | `1.0`  | Criação do documento | [Guilherme Meister](https://github.com/gmeister18) e [Matheus Ferreira](https://github.com/matferreira1) | --/04/2024 | [Henrique Galdino](https://github.com/hgaldino05) e [Rodrigo ](https://github.com/rodrigogontijoo) |
+| 10/04/2024 | `1.1`  | Correções do artefato | [Henrique Galdino](https://github.com/hgaldino05) | 10/04/2024 | [Rodrigo ](https://github.com/rodrigogontijoo) |
+| 05/04/2024 | `1.0`  | Criação do artefato | [Guilherme Meister](https://github.com/gmeister18) e [Matheus Ferreira](https://github.com/matferreira1) | 10/04/2024 | [Henrique Galdino](https://github.com/hgaldino05) e [Rodrigo ](https://github.com/rodrigogontijoo) |
 
-
+<div align="center">
+<figcaption align="left">Tabela 6: Histórico de versões(Fonte: Autoria própria)</figcaption>
+</div>
+<br/>
