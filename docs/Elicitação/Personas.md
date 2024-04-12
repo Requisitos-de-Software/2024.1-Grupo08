@@ -121,7 +121,6 @@ O elenco é composto de duas personas primárias, uma persona secundária e uma 
 |                     |                    |
 | :------------------ | :----------------- |
 | **Nome**            | Ana Silva |
-| **Foto**            | <img width="200" src="../assets/Elicitação/download.jpeg"><p>Imagem 4 persona</p> |
 | **Descrição**       | Ana é uma advogada de 35 anos, com uma rotina profissional agitada em um escritório de advocacia renomado. Sua especialidade são casos relacionados a direitos do consumidor. Como uma profissional ativa e consciente, Ana busca constantemente maneiras de melhorar a experiência do consumidor e garantir tratamento justo pelas empresas. |
 | **Status**          | Persona Secundária. |
 | **Objetivos**       |  Ana deseja resolver reclamações de consumidores de forma eficiente, buscando soluções que economizem tempo e facilitem sua rotina. Ela procura capacitar os consumidores a fazerem valer seus direitos e espera transparência e honestidade nas interações com as empresas. Logo ela começou a recomendar o Consumidor.gov para seus clientes para que possam fazer um contato direto com a loja a fim de resolverem seus problemas.  | 
