@@ -33,7 +33,12 @@ Para o desenvolvimento e realização do _storytelling_, foi utilizado as person
 
 ### A Desilusão da Paleta
 
+&emsp;&emsp;[Bianca Torquato](https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/assets/img/Elicita%C3%A7%C3%A3o/bianca.jpeg), estudante de psicologia e influenciadora digital apaixonada por moda e beleza, se rendeu à paleta de sombras da Wepink, marca da influenciadora Virginia. As cores vibrantes prometiam looks incríveis, mas a paleta veio com a maquiagem quebrada, o que entristeceu muito a Bianca.
 
+&emsp;&emsp;Com suas habilidades de comunicação impecáveis, detalhou a situação em sua reclamação, anexando fotos e vídeos que comprovavam os defeitos no produto recebido. Bianca compartilhou sua experiência com seus seguidores nas redes sociais, alertando-os sobre a falha da empresa e incentivando-os a sempre buscar seus direitos
+
+&emsp;&emsp;Após semanas de espera, a Wepink reconheceu o erro e ofereceu duas opções: reembolso ou troca. Bianca, decepcionada com a marca, optou pelo reembolso. E graças ao consumidor.gov conseguiu resolver o problema com a marca o mais rápido possível.
+ 
 ## Histórico de Versão
 | Versão | Data          | Descrição           | Autor(es)     |  Revisor(es)  |
 | ------ | ------------- | ---------------------------------- | ------------- | ------------- |
