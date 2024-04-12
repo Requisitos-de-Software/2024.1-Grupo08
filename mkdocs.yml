@@ -53,7 +53,7 @@ theme:
         palette:
                 # Palette toggle for light mode
                 - scheme: default
-                  primary: indigo
+                  primary: light green
                   accent: green
 
                   toggle:
@@ -62,7 +62,7 @@ theme:
 
                 # Palette toggle for dark mode
                 - scheme: slate
-                  primary: indigo
+                  primary: light green
                   accent: green
 
                   toggle:

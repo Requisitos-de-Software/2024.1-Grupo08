@@ -44,3 +44,4 @@ O aplicativo possue como alguns pontos negativos:
 | `1.1`  | 02/04/2024 | 02/04/2024 | Criação do documento | [Henrique Galdino](https://github.com/hgaldino05) | [-----------](https://github.com/) |
 | `1.0`  | 02/04/2024 | 02/04/2024 | Criação do documento | [Guilherme Meister](https://github.com/gmeister18) | [Henrique Galdino](https://github.com/hgaldino05) |
 
+
