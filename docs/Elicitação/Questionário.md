@@ -22,152 +22,163 @@ A execução do questionário deve ser realizada levando em conta o público alv
 ## Resultados coletados
 
 Tendo em mente o vasto público-alvo que o aplicativo Consumidor.gov visa atender. Os resultados coletados para realizar a elicitação dos requisitos do projeto, proveniente do questionário, podem ser encontrados posteriormente no texto,
-Os usuários antes de realizar o Questionário aceitaram um <a href="https://docs.google.com/document/d/1DGywQBzByBvDd5y1Gb5rzf5P1LD43F0ZqC0eocd6_RA/edit">termo de consentimento</a> redigido pela equipe. Foram obtidos 30 respostas, que foram coletadas entre as datas **05/04/2024** e **09/04/2024**.
+Os usuários antes de realizar o Questionário aceitaram um <a href="https://docs.google.com/document/d/1DGywQBzByBvDd5y1Gb5rzf5P1LD43F0ZqC0eocd6_RA/edit">termo de consentimento</a> redigido pela equipe. As figuras numeradas de **1 a 9** apresentam as respostas coletadas no questionário, coletadas entre as datas **05/04/2024** e **09/04/2024**.
 
-### Questão 1
+### Pergunta 1
 
-![Image do resultado da questão 1](https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/f1a80c4a20e3dde49cb759eea4ee16d83326c444/assets/img/Elicita%C3%A7%C3%A3o/Questao01.png)
+<div align="center">
+<img src="https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/assets/img/Elicitação/Questao01.png?raw=true" alt = Figura3  />
+<figcaption align="center">Figura 1: Pergunta 1 (Fonte: Guilherme, Meister 2024)</figcaption>
+</div>
+<br/>
   
+### Pergunta 2
 
-#### Figura 1: Pergunta 1 (Fonte: Guilherme, 2024). 
+<div align="center">
+<img src="https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/assets/img/Elicitação/Questao02.png?raw=true" alt = Figura3  />
+<figcaption align="center">Figura 2: Pergunta 2 (Fonte: Guilherme, Meister 2024)</figcaption>
+</div>
+<br/>
 
+### Pergunta 3
 
-### Questão 2
+<div align="center">
+<img src="https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/assets/img/Elicitação/Questao03.png?raw=true" alt = Figura3  />
+<figcaption align="center">Figura 3: Pergunta 3 (Fonte: Guilherme, Meister 2024)</figcaption>
+</div>
+<br/>
 
-![Image do resultado da questão 1](https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/f1a80c4a20e3dde49cb759eea4ee16d83326c444/assets/img/Elicita%C3%A7%C3%A3o/Questao02.png)
-  
+### Pergunta 4
 
-#### Figura 2: Pergunta 2 (Fonte: Guilherme, 2024). 
-
-
-### Questão 3
-
-![Image do resultado da questão 1](https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/f1a80c4a20e3dde49cb759eea4ee16d83326c444/assets/img/Elicita%C3%A7%C3%A3o/Questao03.png)
-  
-
-#### Figura 3: Pergunta 3 (Fonte: Guilherme, 2024). 
-
-
-### Questão 4
-
-![Image do resultado da questão 1](https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/f1a80c4a20e3dde49cb759eea4ee16d83326c444/assets/img/Elicita%C3%A7%C3%A3o/Questao04.png)
-  
-
-#### Figura 4: Pergunta 4 (Fonte: Guilherme, 2024). 
+<div align="center">
+<img src="https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/assets/img/Elicitação/Questao04.png?raw=true" alt = Figura4  />
+<figcaption align="center">Figura 4: Pergunta 4 (Fonte: Guilherme, Meister 2024)</figcaption>
+</div>
+<br/> 
 
 
-### Questão 5
+### Pergunta 5
 
-![Image do resultado da questão 1](https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/f1a80c4a20e3dde49cb759eea4ee16d83326c444/assets/img/Elicita%C3%A7%C3%A3o/Questao05.png)
-  
+<div align="center">
+<img src="https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/assets/img/Elicitação/Questao05.png?raw=true" alt = Figura5  />
+<figcaption align="center">Figura 5: Pergunta 5 (Fonte: Guilherme, Meister 2024)</figcaption>
+</div>
+<br/>
 
-#### Figura 5: Pergunta 5 (Fonte: Guilherme, 2024). 
+### Pergunta 6
 
+<div align="center">
+<img src="https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/assets/img/Elicitação/Questao06.png?raw=true" alt = Figura6 />
+<figcaption align="center">Figura 6: Pergunta 6 (Fonte: Guilherme, Meister 2024)</figcaption>
+</div>
+<br/>
 
-### Questão 6
+### Pergunta 7
 
-![Image do resultado da questão 1](https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/f1a80c4a20e3dde49cb759eea4ee16d83326c444/assets/img/Elicita%C3%A7%C3%A3o/Questao06.png)
-  
-
-#### Figura 6: Pergunta 6 (Fonte: Guilherme, 2024). 
-
-
-### Questão 7
-
-![Image do resultado da questão 1](https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/f1a80c4a20e3dde49cb759eea4ee16d83326c444/assets/img/Elicita%C3%A7%C3%A3o/Questao07.png)
-  
-
-#### Figura 7: Pergunta 7 (Fonte: Guilherme, 2024). 
-
-
-### Questão 8
-
-![Image do resultado da questão 1](https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/f1a80c4a20e3dde49cb759eea4ee16d83326c444/assets/img/Elicita%C3%A7%C3%A3o/Questao08.png)
-  
-
-#### Figura 8: Pergunta 8 (Fonte: Guilherme, 2024). 
+<div align="center">
+<img src="https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/assets/img/Elicitação/Questao07.png?raw=true" alt = Figura7  />
+<figcaption align="center">Figura 7: Pergunta 7 (Fonte: Guilherme, Meister 2024)</figcaption>
+</div>
+<br/> 
 
 
-### Questão 9
+### Pergunta 8
 
-Na Tabela Respostas Pergunta 9, estão listadas as resposta diretas do nosso usuário, sem correção ortográfica.
-|          **Quais recursos você considera importante para um aplicativo que  registra reclamações de consumidores?**          |
-| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| Ver tempo médio de resposta da empresa |
-| Ver reputação da empresa |
-| Visualizar reclamações de uma empresa, Ver reputação da empresa |
-| Modo de tela escuro |
-| Visualizar reclamações de uma empresa, Registrar reclamações, Ver o status de minha reclamação, Ver reputação da empresa, Ver tempo médio de resposta da empresa |
-| Visualizar reclamações de uma empresa, Registrar reclamações, Ver o status de minha reclamação |
-| Ver reputação da empresa |
-| Visualizar reclamações de uma empresa, Registrar reclamações, Ver o status de minha reclamação, Ver reputação da empresa, Ver tempo médio de resposta da empresa |
-| Visualizar reclamações de uma empresa |
-| Ver o status de minha reclamação |
-| Gostaria de ter uma comunicação direta com a empresa |
-| Registrar reclamações, Ver o status de minha reclamação, Ver reputação da empresa |
-| Visualizar reclamações de uma empresa, Ver tempo médio de resposta da empresa |
-| Visualizar reclamações de uma empresa, Registrar reclamações, Ver o status de minha reclamação, Ver reputação da empresa, Ver tempo médio de resposta da empresa |
-| Visualizar reclamações de uma empresa, Registrar reclamações, Ver o status de minha reclamação, Ver reputação da empresa, Ver tempo médio de resposta da empresa |
-| Ver o status de minha reclamação, Ver reputação da empresa, Ver tempo médio de resposta da empresa |
-| Visualizar reclamações de uma empresa, Registrar reclamações, Ver o status de minha reclamação, Ver reputação da empresa |
-| Ver o status de minha reclamação, Ver reputação da empresa |
-| Registrar reclamações, Ver o status de minha reclamação |
+<div align="center">
+<img src="https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/assets/img/Elicitação/Questao08.png?raw=true" alt = Figura8  />
+<figcaption align="center">Figura 8: Pergunta 8 (Fonte: Guilherme, Meister 2024)</figcaption>
+</div>
+<br/>
+
+
+### Pergunta 9
+
+A *tabela 1* apresenta as respostas para a Pergunta 9, representadas diretamente como mencionadas pelos participantes, sem correção ortográfica.
+
+||        **Quais recursos você considera importante para um aplicativo que  registra reclamações de consumidores?**          ||
+|| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |:-:|
+|| Ver tempo médio de resposta da empresa ||
+|| Ver reputação da empresa ||
+|| Visualizar reclamações de uma empresa, Ver reputação da empresa ||
+|| Modo de tela escuro ||
+|| Visualizar reclamações de uma empresa, Registrar reclamações, Ver o status de minha reclamação, Ver reputação da empresa, Ver tempo médio de resposta da empresa ||
+|| Visualizar reclamações de uma empresa, Registrar reclamações, Ver o status de minha reclamação ||
+|| Ver reputação da empresa ||
+|| Visualizar reclamações de uma empresa, Registrar reclamações, Ver o status de minha reclamação, Ver reputação da empresa, Ver tempo médio de resposta da empresa ||
+|| Visualizar reclamações de uma empresa ||
+|| Ver o status de minha reclamação ||
+|| Gostaria de ter uma comunicação direta com a empresa ||
+|| Registrar reclamações, Ver o status de minha reclamação, Ver reputação da empresa ||
+|| Visualizar reclamações de uma empresa, Ver tempo médio de resposta da empresa ||
+|| Visualizar reclamações de uma empresa, Registrar reclamações, Ver o status de minha reclamação, Ver reputação da empresa, Ver tempo médio de resposta da empresa ||
+|| Visualizar reclamações de uma empresa, Registrar reclamações, Ver o status de minha reclamação, Ver reputação da empresa, Ver tempo médio de resposta da empresa ||
+|| Ver o status de minha reclamação, Ver reputação da empresa, Ver tempo médio de resposta da empresa ||
+|| Visualizar reclamações de uma empresa, Registrar reclamações, Ver o status de minha reclamação, Ver reputação da empresa ||
+|| Ver o status de minha reclamação, Ver reputação da empresa ||
+|| Registrar reclamações, Ver o status de minha reclamação ||
 
 
 #### Tabela 1: Respostas da pergunta 9. (Fonte: Guilherme, 2024). 
 
 
-### Questão 10
+### Pergunta 10
 
-![Image do resultado da questão 1](https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/f1a80c4a20e3dde49cb759eea4ee16d83326c444/assets/img/Elicita%C3%A7%C3%A3o/Questao09.png)
-  
+<div align="center">
+<img src="https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/assets/img/Elicitação/Questao09.png?raw=true" alt = Figura3  />
+<figcaption align="center">Figura 9: Pergunta 10 (Fonte: Guilherme, Meister 2024)</figcaption>
+</div>
+<br/> 
 
-#### Figura 9: Pergunta 10 (Fonte: Guilherme, 2024). 
 
+### Pergunta 11
 
-### Questão 11
-
-![Image do resultado da questão 1](https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/f1a80c4a20e3dde49cb759eea4ee16d83326c444/assets/img/Elicita%C3%A7%C3%A3o/Questao10.png)
-  
-
-#### Figura 10: Pergunta 11 (Fonte: Guilherme, 2024). 
+<div align="center">
+<img src="https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/assets/img/Elicitação/Questao10.png?raw=true" alt = Figura10  />
+<figcaption align="center">Figura 10: Pergunta 11 (Fonte: Guilherme, Meister 2024)</figcaption>
+</div>
+<br/> 
 
 
 ### Questão 12
 
-Na Tabela Respostas Pergunta 9, estão listadas as resposta diretas do nosso usuário, sem correção ortográfica.
-|          **Você tem algum feedback sobre como o aplicativo Consumidor.gov pode dar uma experiência melhor para o usuário?**          |
-| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| Nao |
-| Ser mais rígido ou aplicar multas com empresa que apresentam maior índice de reclamações  |
-|  . |
-| Modo de tela escuro |
-| Interface pouco intuitiva, apresentação visual e organização ruins |
-| Melhorando a acessibilidade, facilitando a navegação no site; apresentando infográficos e indicadores mais detalhados, com mais dados; investindo em divulgação do aplicativo nacionalmente; cadastrando empresas e analisando possível implementação de mediação dos conflitos no próprio aplicativo. |
-| Velocidade  |
-| Não. |
-| Melhorar a interface para ser mais intuitiva e fácil de usar  |
-| Nao |
-| Nao |
-| Gostaria de uma comunicação direta com a empresa e melhor design da tela |
-| Mais funcionalidades, o app é simples demais |
-| Nada |
-| o consumidor.gov deveria melhorar sua interface e adicionar mais funções |
-| não utilizo o aplicativo, só abro pelo navegador. |
-| não. |
-| Mais informações sobre posicionamento de alguma reclamação |
-| Deveria ter um modo escuro |
-| O app deveria ter um menu mais intuitivo |
-| O app trava demais |
-| ter um suporte mais eficiente |
-| tenho nao |
+A tabela 2 lista as respostas diretas dos participantes para a pergunta **"Você tem algum feedback sobre como o aplicativo Consumidor.gov pode dar uma experiência melhor para o usuário?"**, sem correção ortográfica.
+
+|      Participante     | Resposta         |
+| :--------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|1 | Nao |
+|2 | Ser mais rígido ou aplicar multas com empresa que apresentam maior índice de reclamações  |
+|3| . |
+|4|Modo de tela escuro |
+|5|Interface pouco intuitiva, apresentação visual e organização ruins |
+|6|Melhorando a acessibilidade, facilitando a navegação no site; apresentando infográficos e indicadores mais detalhados, com mais dados; investindo em divulgação do aplicativo nacionalmente; cadastrando empresas e analisando possível implementação de mediação dos conflitos no próprio aplicativo. |
+|7|Velocidade  |
+|8|Não. |
+|9|Melhorar a interface para ser mais intuitiva e fácil de usar  |
+|10|Nao |
+|11|Nao |
+|12|Gostaria de uma comunicação direta com a empresa e melhor design da tela |
+|13|Mais funcionalidades, o app é simples demais |
+|14|Nada |
+|15|o consumidor.gov deveria melhorar sua interface e adicionar mais funções |
+|16|não utilizo o aplicativo, só abro pelo navegador. |
+|17|não. |
+|18|Mais informações sobre posicionamento de alguma reclamação |
+|19|Deveria ter um modo escuro |
+|20|O app deveria ter um menu mais intuitivo |
+|21|O app trava demais |
+|22|ter um suporte mais eficiente |
+|23|tenho nao |
 
 
-#### Tabela 2: Respostas da pergunta 12. (Fonte: Guilherme, 2024). 
+<div align="center">
+<figcaption align="left">Tabela 2: Respostas para a pergunta 12(Fonte: Guilherme Meister, 2024)</figcaption>
+</div>
+<br/>
 
+## Possíveis Requisitos
+Dentro da tabela, podemos ver algumas sugestões e necessidades relacionados ao aplicativo do Consumidor.gov, as quais foram elencados após a obtenção das respostas do questionário, servindo como possíveis requisitos para a aplicação.
 
-## Requisitos Elicitados
-| Identificador  |     Requisito     | Tipo  |
+| Identificador  |     Possível requisito     | Tipo  |
 | :-: | :----------------------------------------: | :---: |
 | QUE01 | Modernizar interface gráfica usuário | RNF |
 | QUE02 | Mostrar tempo médio que a Empresa costuma responder | RNF |
@@ -190,8 +201,10 @@ Na Tabela Respostas Pergunta 9, estão listadas as resposta diretas do nosso usu
 | QUE19 | Melhora na interface | RF |
 
 
-#### Tabela 16: Requisitos elicitados. (Fonte: Guilherme, 2023). 
-
+<div align="center">
+<figcaption align="left">Tabela 3: Possíveis Requisitos(Fonte: Guilherme Meister, 2024)</figcaption>
+</div>
+<br/>
 
 **Legenda**
 
@@ -206,9 +219,16 @@ Na Tabela Respostas Pergunta 9, estão listadas as resposta diretas do nosso usu
 
 ## Referência Bibliográfica
 
-[1] Universidade Federal de Santa Catarina. (s.d.). Técnicas de elicitação de requisitos - Entidades. Recuperado de  <a href="https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades">link
+[1] Universidade Federal de Santa Catarina. (s.d.). Técnicas de elicitação de requisitos - Entidades. Acesso em [https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades](https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades)"
 
 ## Histórico de Versão
-| Versão | Data          | Descrição           | Autor(es)     |  Revisor(es)  |
-| ------ | ------------- | ---------------------------------- | ------------- | ------------- |
-| `1.0`  | 04/04/2024 | Criação do documento | [Guilherme Meister](https://github.com/gmeister18) e [Matheus Ferreira](https://github.com/matferreira1) | [Henrique Galdino](https://github.com/hgaldino05) e [Rodrigo ](https://github.com/rodrigogontijoo) |
+
+| Data | Versão | Descrição | Autor(es) | Data de revisão | Revisor(es) |
+| :--:       | :----: | :-------: | :---: | :-------------: | :-----: |
+| 10/04/2024 | `1.1`  | Correções do artefato | [Henrique Galdino](https://github.com/hgaldino05) | 10/04/2024 | [Rodrigo ](https://github.com/rodrigogontijoo) |
+| 05/04/2024 | `1.0`  | Criação do artefato | [Guilherme Meister](https://github.com/gmeister18) e [Matheus Ferreira](https://github.com/matferreira1) | 10/04/2024 | [Henrique Galdino](https://github.com/hgaldino05) e [Rodrigo ](https://github.com/rodrigogontijoo) |
+
+<div align="center">
+<figcaption align="left">Tabela 4: Histórico de versões(Fonte: Guilherme Meister, 2023)</figcaption>
+</div>
+<br/>
