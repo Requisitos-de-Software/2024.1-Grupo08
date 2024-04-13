@@ -58,7 +58,7 @@ Na tabela abaixo, estão listadas as ferramentas utilizadas:
 | Versão | Data de execução | Data de revisão |  Descrição            | Autor(es)         | Revisor(es)  |
 | :------: | :----------: | :--------: | :--------------------: | :-------------: | :----------: |
 | `1.0`  | 30/03/2024 | 30/03/2024 | Criação do documento | Guilherme, Henrique, Igor, Júlio, Matheus, Rodrigo | Guilherme, Henrique, Igor, Júlio, Matheus, Rodrigo |
-
+| `1.1`  | 13/04/2024 | **/04/2024 | Atualização do documento | [Júlio](https://github.com/Julio1099) | [-----------](https://github.com/) |
 
 <div align="center">
 <figcaption align="left">Tabela 2: Histórico de versões(Fonte: Autoria própria)</figcaption>
