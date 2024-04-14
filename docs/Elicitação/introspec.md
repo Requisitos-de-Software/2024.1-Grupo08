@@ -15,6 +15,7 @@ O contexto imaginado foi o seguinte:
 
 A partir deste contexto, Henrique identificou alguns requisitos, que podem ser vistos na **tabela 1**, identificados com o código ***INT*** e numerados de **1** até **x**, contendo **descrição** e **tipo** (funcional ou não-funcional) do requisito.
 
+### Requisitos identificados
 | Identificador  |     Descrição    | Tipo  |
 | :-: | :----------------------------------------: | :---: |
 | INT01 | Deve ser possível fazer login utilizando o gov.br | Requisito Funcional |
