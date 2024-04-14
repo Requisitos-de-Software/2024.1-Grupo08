@@ -28,7 +28,7 @@ Os usuários antes de realizar o Questionário aceitaram um <a href="https://doc
 
 <div align="center">
 <img src="https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/assets/img/Elicitação/Questao01.png?raw=true" alt = Figura3  />
-<figcaption align="center">Figura 1: Pergunta 1 (Fonte: Guilherme, Meister 2024)</figcaption>
+<figcaption align="center">Figura 1: Pergunta 1 (Fonte: Guilherme Meister, 2024)</figcaption>
 </div>
 <br/>
   
@@ -36,7 +36,7 @@ Os usuários antes de realizar o Questionário aceitaram um <a href="https://doc
 
 <div align="center">
 <img src="https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/assets/img/Elicitação/Questao02.png?raw=true" alt = Figura3  />
-<figcaption align="center">Figura 2: Pergunta 2 (Fonte: Guilherme, Meister 2024)</figcaption>
+<figcaption align="center">Figura 2: Pergunta 2 (Fonte: Guilherme Meister, 2024)</figcaption>
 </div>
 <br/>
 
@@ -44,7 +44,7 @@ Os usuários antes de realizar o Questionário aceitaram um <a href="https://doc
 
 <div align="center">
 <img src="https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/assets/img/Elicitação/Questao03.png?raw=true" alt = Figura3  />
-<figcaption align="center">Figura 3: Pergunta 3 (Fonte: Guilherme, Meister 2024)</figcaption>
+<figcaption align="center">Figura 3: Pergunta 3 (Fonte: Guilherme Meister, 2024)</figcaption>
 </div>
 <br/>
 
@@ -52,7 +52,7 @@ Os usuários antes de realizar o Questionário aceitaram um <a href="https://doc
 
 <div align="center">
 <img src="https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/assets/img/Elicitação/Questao04.png?raw=true" alt = Figura4  />
-<figcaption align="center">Figura 4: Pergunta 4 (Fonte: Guilherme, Meister 2024)</figcaption>
+<figcaption align="center">Figura 4: Pergunta 4 (Fonte: Guilherme Meister, 2024)</figcaption>
 </div>
 <br/> 
 
@@ -61,7 +61,7 @@ Os usuários antes de realizar o Questionário aceitaram um <a href="https://doc
 
 <div align="center">
 <img src="https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/assets/img/Elicitação/Questao05.png?raw=true" alt = Figura5  />
-<figcaption align="center">Figura 5: Pergunta 5 (Fonte: Guilherme, Meister 2024)</figcaption>
+<figcaption align="center">Figura 5: Pergunta 5 (Fonte: Guilherme Meister, 2024)</figcaption>
 </div>
 <br/>
 
@@ -69,7 +69,7 @@ Os usuários antes de realizar o Questionário aceitaram um <a href="https://doc
 
 <div align="center">
 <img src="https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/assets/img/Elicitação/Questao06.png?raw=true" alt = Figura6 />
-<figcaption align="center">Figura 6: Pergunta 6 (Fonte: Guilherme, Meister 2024)</figcaption>
+<figcaption align="center">Figura 6: Pergunta 6 (Fonte: Guilherme Meister, 2024)</figcaption>
 </div>
 <br/>
 
@@ -77,7 +77,7 @@ Os usuários antes de realizar o Questionário aceitaram um <a href="https://doc
 
 <div align="center">
 <img src="https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/assets/img/Elicitação/Questao07.png?raw=true" alt = Figura7  />
-<figcaption align="center">Figura 7: Pergunta 7 (Fonte: Guilherme, Meister 2024)</figcaption>
+<figcaption align="center">Figura 7: Pergunta 7 (Fonte: Guilherme Meister, 2024)</figcaption>
 </div>
 <br/> 
 
@@ -86,7 +86,7 @@ Os usuários antes de realizar o Questionário aceitaram um <a href="https://doc
 
 <div align="center">
 <img src="https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/assets/img/Elicitação/Questao08.png?raw=true" alt = Figura8  />
-<figcaption align="center">Figura 8: Pergunta 8 (Fonte: Guilherme, Meister 2024)</figcaption>
+<figcaption align="center">Figura 8: Pergunta 8 (Fonte: Guilherme Meister, 2024)</figcaption>
 </div>
 <br/>
 
@@ -117,9 +117,10 @@ A *tabela 1* apresenta as respostas para a Pergunta 9, representadas diretamente
 || Ver o status de minha reclamação, Ver reputação da empresa ||
 || Registrar reclamações, Ver o status de minha reclamação ||
 
-
-#### Tabela 1: Respostas da pergunta 9. (Fonte: Guilherme, 2024). 
-
+<div align="center">
+<figcaption align="left">Tabela 1: Respostas da pergunta 9. (Fonte: Guilherme Meister, 2024) </figcaption>
+</div>
+<br/>
 
 ### Pergunta 10
 
