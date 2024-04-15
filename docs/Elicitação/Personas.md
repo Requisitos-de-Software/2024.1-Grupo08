@@ -64,7 +64,7 @@ O elenco é composto de duas personas primárias, uma persona secundária e uma 
 | **Requisitos**      | Ao não ter respostas, Jorge quer um meio de fazer sua reclamação e obter respostas da loja para fazer sua devolução |
 | **Expectativas**    | Jorge espera que sua reclamação seja respondida e que seu pedido seja trocado para seu filho poder brincar com o boneco novo. |
 
-#### Tabela 2: Persona 01 (MEISTER, Guilherme. 2024).
+#### Tabela 2: Persona 01 (DIOGO, Matheus. 2024).
 
 ### Persona 02
 
@@ -86,7 +86,7 @@ O elenco é composto de duas personas primárias, uma persona secundária e uma 
 | **Requisitos**      |  Bianca precisa de um canal eficiente para registrar sua reclamação, e espera uma resposta rápida e satisfatória da empresa, seja um reembolso ou uma troca pelo produto defeituoso. |
 | **Expectativas**    | Bianca espera que a empresa resolva o problema de forma rápida e eficaz, garantindo sua satisfação como cliente e mantendo sua confiança na marca. Ela também deseja poder compartilhar sua experiência, positiva ou negativa, com sua comunidade online. |
 
-#### Tabela 3: Persona 02 (MEISTER, Guilherme. 2024).
+#### Tabela 3: Persona 02 (DIOGO, Matheus. 2024).
 
 ### Persona 03
 
@@ -108,7 +108,7 @@ O elenco é composto de duas personas primárias, uma persona secundária e uma 
 | **Requisitos**      | José prefere soluções offline e de contato direto, como atendimento por telefone ou presencial. Ele busca simplicidade e praticidade, evitando processos online ou burocráticos. |
 | **Expectativas**    | José espera resolver problemas rapidamente e de forma direta, sem a necessidade de longas conversas ou procedimentos complicados. Ele não tem expectativas positivas em relação a reclamações de consumidores, preferindo lidar com questões práticas do dia a dia de sua empresa. |
 
-#### Tabela 4: Persona 03 (MEISTER, Guilherme. 2024).
+#### Tabela 4: Persona 03 (DIOGO, Matheus. 2024).
 
 ### Persona 04
 
@@ -130,7 +130,7 @@ O elenco é composto de duas personas primárias, uma persona secundária e uma 
 | **Requisitos**      |  Ana necessita de uma plataforma de reclamação do consumidor que seja eficiente e fácil de usar, integrando-se bem à sua rotina ocupada. Ela espera que a plataforma forneça orientação legal clara, facilite a comunicação eficaz e garanta transparência nas interações com as empresas. |
 | **Expectativas**    | Ana espera que a plataforma de reclamação do consumidor ajude a resolver questões de forma rápida e justa, garantindo que os consumidores sejam ouvidos e tratados com respeito pelas empresas. Ela busca uma experiência satisfatória que contribua para a defesa dos direitos do consumidor e promova relações mais transparentes e equitativas entre consumidores e empresas. |
 
-#### Tabela 5: Persona 04 (MEISTER, Guilherme. 2024).
+#### Tabela 5: Persona 04 (DIOGO, Matheus. 2024).
 
 ## Bibliografia
 
