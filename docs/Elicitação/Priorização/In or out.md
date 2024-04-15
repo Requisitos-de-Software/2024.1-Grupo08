@@ -28,3 +28,9 @@ O método "In or Out" é uma técnica de priorização de requisitos usada no pr
 | REQ14 | O aplicativo deve apresentar uma interface simples e intuitiva | Requisito Não Funcional | [QUE15, QUE19](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicitação/Questionário/#possiveis-requisitos); [INT12](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicitação/introspec/#metodologia) |  |
 | REQ15 | O aplicativo deve fornecer opções de acessibilidade (modo escuro, esquemas de cores, conteúdos em libras, etc.) | Requisito Não Funcional | [QUE03](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicitação/Questionário/#possiveis-requisitos); [INT13](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicitação/introspec/#metodologia) |  |
 | REQ16 | O aplicativo deve fornecer feedback ao usuário em caso de erros/falhas | Requisito Não Funcional | [INT14](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicitação/introspec/#metodologia) |  |
+
+
+## Histórico de Versão
+| Versão | Data de execução | Data de revisão |  Descrição            | Autor(es)         | Revisor(es)  |
+| :------: | :----------: | :--------: | :--------------------: | :-------------: | :----------: |
+| 1.0 | 15/04/2024  | 15/04/2024| Criação da priorização in or out | [Igor Thiago](https://github.com/Alladin-51) | [Rodrigo ](https://github.com/rodrigogontijoo) |
