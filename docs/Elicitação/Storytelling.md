@@ -44,6 +44,40 @@ Para o desenvolvimento e realização do _storytelling_, foi utilizado as person
 &emsp;&emsp;Com base nas histórias criadas no storytelling, foram elicitados os requisitos presentes na tabela 1:
 
 
+| Identificador | Descrição                                                                          | Tipo | Implementado | Persona |
+| ------------- | ---------------------------------------------------------------------------------- | ---- | ------------ | ------- |
+|       ST01    |   Eu, como usuário, gostaria de fazer reclamações acerca de um produto específico                                 |  RF  | Sim          | Todas |
+| ST02          | Eu, como usuário, gostaria de acompanhar do status da reclamação .                      | RF   | Sim          | Todas |
+| ST03          | Eu, como usuário, gostaria da Resolução de conflitos .             | RF   | Sim          | Todas |
+| ST04          | Eu, como usuário, gostaria de Histórico de reclamações.     | RF   | Não          | Todas |
+| ST05          | Eu, como usuário, gostaria de Avaliação de empresas.                    | RF   | Sim          | [Jorge Serafim](https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/assets/img/Elicita%C3%A7%C3%A3o/jorge.jpeg) |
+| ST06          | Eu, como usuário, gostaria de Integração com redes sociais.                       | RF   | Não          | [Bianca Torquato](https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/assets/img/Elicita%C3%A7%C3%A3o/bianca.jpeg) |
+| ST07          | Eu, como usuário, gostaria de Anexação de arquivos.        | RNF  | Sim          | Todas |
+| ST08          | Eu, como usuário, gostaria de gostaria de uma interface acessível com contraste de cor .                                | RNF   | Sim          | [Bianca Torquato](https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/assets/img/Elicita%C3%A7%C3%A3o/bianca.jpeg)|
+| ST09          | Eu, como usuário, gostaria de gostaria de que o aplicativo tenha suporte ao usuário. | RF | Não          | [Bianca Torquato](https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/assets/img/Elicita%C3%A7%C3%A3o/bianca.jpeg) |
+| ST10          | Eu, como usuário, gostaria de gostaria de que o aplicativo tenha tutorial.                | RF   | Não          | [Bianca Torquato](https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/assets/img/Elicita%C3%A7%C3%A3o/bianca.jpeg) |
+| ST11          | Eu, como usuário, gostaria de gostaria de que o aplicativo tenha acessibilidade.                              | RF   | Sim          |  |
+| ST12          | Eu, como usuário, gostaria de gostaria de realizar registro/login em uma conta.                                       | RF   | Sim          | [Jorge Serafim](https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/assets/img/Elicita%C3%A7%C3%A3o/jorge.jpeg) |
+| ST13          | Eu, como usuário, gostaria de .                                     | RF   | Sim          |  |
+| ST14          | Eu, como usuário, gostaria de .                        | RF   | Sim          |  |
+| ST15          | Eu, como usuário, gostaria de .      | RF   | Sim          |  |
+| ST16          | Eu, como usuário, gostaria de .                | RNF   | Sim          |  |
+| ST17          | Eu, como usuário, gostaria de .           | RF   | Não          |  |
+| ST18          | Eu, como usuário, gostaria de .                     | RF   | Sim          |  |
+| ST19          | Eu, como usuário, gostaria de .               | RF   | Não          |  |
+
+<div style="text-align: center">
+<p> Tabela 1: Requisitos elicitados com o Storytelling (Fonte: Guilherme, 2024).</p>
+</div>
+
+**Legenda:**
+
+- ST: Requisitos de <span>_Storytelling_</span>
+- RF: Requisitos <span>Funcionais</span>
+- RNF: Requisitos não <span>Funcionais</span>
+
+
+
 
 ## Histórico de Versão
 | Versão | Data          | Descrição           | Autor(es)     |  Revisor(es)  |
