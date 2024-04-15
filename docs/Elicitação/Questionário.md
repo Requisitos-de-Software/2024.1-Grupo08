@@ -176,34 +176,28 @@ A tabela 2 lista as respostas diretas dos participantes para a pergunta **"Você
 </div>
 <br/>
 
-## Possíveis Requisitos
+## Requisitos Elicitados
 Dentro da tabela, podemos ver algumas sugestões e necessidades relacionados ao aplicativo do Consumidor.gov, as quais foram elencados após a obtenção das respostas do questionário, servindo como possíveis requisitos para a aplicação.
 
 | Identificador  |     Possível requisito     | Tipo  |
 | :-: | :----------------------------------------: | :---: |
-| QUE01 | Modernizar interface gráfica usuário | RNF |
-| QUE02 | Mostrar tempo médio que a Empresa costuma responder | RNF |
-| QUE03 | Deve ter modo escuro | RNF |
-| QUE04 | Modo onde todos as reclamações anteriores possam ser vistas | RNF |
-| QUE05 | Aba com reputação das empresas | RF |
-| QUE06 | Modo para ver o passo a passo da reclamação | RNF |
-| QUE07 | Chat para comunicação direta com empresas | RF |
-| QUE08 | Menus mais interativos | RF |
-| QUE09 | Deve ter botão para alternar entre o modo escuro e claro | RF |
-| QUE10 | O aplicativo deve ser responsivo e livre de travamentos | RNF |
-| QUE11 | Mostrar  infográficos e indicadores mais detalhados | RF |
-| QUE12 | Implementação de mediação dos conflitos no próprio aplicativo | RF |
-| QUE13 | Redesign do menu | RF |
-| QUE14 | Mais recursos para reclamação | RF |
-| QUE15 | Interface simples e intuitiva | RNF |
-| QUE16 | Um suporte mais eficiente | RNF |
-| QUE17 | Interface mais amigável | RNF |
-| QUE18 | Mais informações sobre posicionamento de alguma reclamação | RNF |
-| QUE19 | Melhora na interface | RF |
+| QUE01 | O aplicativo possui uma interface intuitiva e de fácil compreensão | RNF |
+| QUE02 | O aplicativo mostra o tempo médio que a Empresa responde | RF |
+| QUE03 | O aplicativo tem modo escuro | RNF |
+| QUE04 | O aplicativo apresenta todas as reclamações anteriores de uma Empresa | RF |
+| QUE05 | O aplicativo mostra o feedback das empresas por meio de notas e gráficos | RF |
+| QUE06 | O aplicativo mostra o andamento da reclamação | RF |
+| QUE07 | O aplicativo possui um chat para comunicação direta com empresas | RF |
+| QUE08 | O aplicativo deve ser responsivo | RNF |
+| QUE09 | O aplicativo deve ter uma boa performance e velocidade | RNF |
+| QUE10 | O aplicativo deve permitir fazer uma reclamação em menos de 3 telas | RNF |
+| QUE11 | O aplicativo notifica o usuário quando sua reclamação for respondida | RF |
+
+
 
 
 <div align="center">
-<figcaption align="left">Tabela 3: Possíveis Requisitos(Fonte: Guilherme Meister, 2024)</figcaption>
+<figcaption align="left">Tabela 3: Possíveis Requisitos(Fonte: Guilherme Meister e Matheus Ferreira, 2024)</figcaption>
 </div>
 <br/>
 

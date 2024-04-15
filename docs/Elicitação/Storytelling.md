@@ -38,7 +38,13 @@ Para o desenvolvimento e realização do _storytelling_, foi utilizado as person
 &emsp;&emsp;Com suas habilidades de comunicação impecáveis, detalhou a situação em sua reclamação, anexando fotos e vídeos que comprovavam os defeitos no produto recebido. Bianca compartilhou sua experiência com seus seguidores nas redes sociais, alertando-os sobre a falha da empresa e incentivando-os a sempre buscar seus direitos
 
 &emsp;&emsp;Após semanas de espera, a Wepink reconheceu o erro e ofereceu duas opções: reembolso ou troca. Bianca, decepcionada com a marca, optou pelo reembolso. E graças ao consumidor.gov conseguiu resolver o problema com a marca o mais rápido possível.
- 
+
+## Requisitos Elicitados
+
+&emsp;&emsp;Com base nas histórias criadas no storytelling, foram elicitados os requisitos presentes na tabela 1:
+
+
+
 ## Histórico de Versão
 | Versão | Data          | Descrição           | Autor(es)     |  Revisor(es)  |
 | ------ | ------------- | ---------------------------------- | ------------- | ------------- |
