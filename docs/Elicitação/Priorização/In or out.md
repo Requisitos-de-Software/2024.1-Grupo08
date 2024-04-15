@@ -2,7 +2,7 @@
 
 ## Introdução
 
-O método "In or Out" é uma técnica de priorização de requisitos usada no processo de desenvolvimento de software. O objetivo é determinar quais requisitos devem ser incluídos no escopo do projeto (ou seja, "In") e quais podem ser deixados de fora (ou seja, "Out") por meio de uma decisão binária.
+O método "In or Out" é uma técnica de priorização de requisitos usada no processo de desenvolvimento de software. O objetivo é determinar quais requisitos devem ser incluídos no escopo do projeto (ou seja, "In") e quais podem ser deixados de fora (ou seja, "Out") por meio de uma decisão binária .
 
 ## Metodologia
 
