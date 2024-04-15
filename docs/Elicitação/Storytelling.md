@@ -56,7 +56,7 @@ Para o desenvolvimento e realização do _storytelling_, foi utilizado as person
 | ST08          | Eu, como usuário, gostaria de gostaria de uma interface acessível com contraste de cor .                                | RNF   | Sim          | [Bianca Torquato](https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/assets/img/Elicita%C3%A7%C3%A3o/bianca.jpeg)|
 | ST09          | Eu, como usuário, gostaria de gostaria de que o aplicativo tenha suporte ao usuário. | RF | Não          | [Bianca Torquato](https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/assets/img/Elicita%C3%A7%C3%A3o/bianca.jpeg) |
 | ST10          | Eu, como usuário, gostaria de gostaria de que o aplicativo tenha tutorial.                | RF   | Não          | [Bianca Torquato](https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/assets/img/Elicita%C3%A7%C3%A3o/bianca.jpeg) |
-| ST11          | Eu, como usuário, gostaria de gostaria de que o aplicativo tenha acessibilidade.                              | RF   | Sim          |  |
+| ST11          | Eu, como usuário, gostaria de gostaria de que o aplicativo tenha acessibilidade.                              | RF   | Sim          | Todas |
 | ST12          | Eu, como usuário, gostaria de gostaria de realizar registro/login em uma conta.                                       | RF   | Sim          | [Jorge Serafim](https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/assets/img/Elicita%C3%A7%C3%A3o/jorge.jpeg) |
 | ST13          | Eu, como usuário, gostaria de .                                     | RF   | Sim          |  |
 | ST14          | Eu, como usuário, gostaria de .                        | RF   | Sim          |  |
@@ -76,6 +76,11 @@ Para o desenvolvimento e realização do _storytelling_, foi utilizado as person
 - RF: Requisitos <span>Funcionais</span>
 - RNF: Requisitos não <span>Funcionais</span>
 
+## Bibliografia
+
+[1] Santos, V. G., Daher N., UTILIZAÇÃO DE STORYTELLING COMO FERRAMENTA DE AQUISIÇÃO DE REQUISITOS EM PROCESSO DE DESENVOLVIMENTO DE SOFTWARE APOIADOS EM MODELOS ÁGEIS: O USO APOIADO NO EXTREME PROGRAMMING, Belo Horizonte, 2008. 14 p., Artigo (Análise de Sistemas), e-tec UNI-BH
+
+[2] Storytelling do Grupo VLC de 2022.1. Disponível em: <https://github.com/Requisitos-de-Software/2023.1-VLC/>. Acesso em: 15 de abril de 2024.
 
 
 
