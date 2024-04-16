@@ -19,7 +19,7 @@ A técnica utilizada neste documento é a análise de documentos. Essa técnica 
 
 ### Requisitos Técnicos
 
-- Sistemas operacionais suportados: Android e iOS [Página de download Consumidor.gov]([https://play.google.com/store/apps/details?id=br.com.consumidor&hl=pt_BR&gl=US])
+- Sistemas operacionais suportados: Android e iOS [Página de download Consumidor.gov](https://play.google.com/store/apps/details?id=br.com.consumidor&hl=pt_BR&gl=US)
 
 ### Requisitos de Usabilidade e Acessibilidade
 
