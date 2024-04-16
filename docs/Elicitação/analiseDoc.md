@@ -12,11 +12,24 @@ A técnica utilizada neste documento é a análise de documentos. Essa técnica 
 
 ### Funcionalidades e Recursos
 
+- Interlocução entre consumidores e empresas:
+    - Ambiente totalmente público e transparente, dispensada a intervenção do Poder Público. [Documentação do Consumidor.gov]([https://www.videolan.org/vlc/features.html](https://www.consumidor.gov.br/pages/conteudo/publico/1))
+    - Fornecimento de informações essenciais à elaboração e execução de políticas públicas de defesa dos consumidores. [Documentação do Consumidor.gov]([https://www.videolan.org/vlc/features.html](https://www.consumidor.gov.br/pages/conteudo/publico/1))
+    - Possibilidade de ler o conteúdo das reclamações, respostas das empresas e comentário final dos consumidores.
+
 ### Requisitos Técnicos
+
+- Sistemas operacionais suportados: Android e iOS [Página de download Consumidor.gov]([https://play.google.com/store/apps/details?id=br.com.consumidor&hl=pt_BR&gl=US])
 
 ### Requisitos de Usabilidade e Acessibilidade
 
+- Interface do usuário intuitiva e fácil de usar [Consumidor.gov User Reviews]([https://www.trustpilot.com/review/vlc-media-player.en.softonic.com](https://apps.apple.com/br/app/consumidor-gov-br/id1492523966?see-all=reviews))
+- Suporte a apenas um idioma
+
 ### Requisitos de Segurança e Privacidade
+
+- Respeito à privacidade do usuário e ausência de rastreamento ou coleta de dados invasiva [Política de Privacidade](https://www.consumidor.gov.br/pages/conteudo/publico/7)
+- Proteção contra vulnerabilidades [Política de Privacidade](https://www.consumidor.gov.br/pages/conteudo/publico/7)
 
 ## Tabela de requisitos
 
