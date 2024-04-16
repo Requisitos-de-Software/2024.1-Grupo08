@@ -33,4 +33,4 @@ O método "In or Out" é uma técnica de priorização de requisitos usada no pr
 ## Histórico de Versão
 | Versão | Data de execução | Data de revisão |  Descrição            | Autor(es)         | Revisor(es)  |
 | :------: | :----------: | :--------: | :--------------------: | :-------------: | :----------: |
-| 1.0 | 15/04/2024  | 15/04/2024| Criação da priorização in or out | [Igor Thiago](https://github.com/Alladin-51) | [Rodrigo ](https://github.com/rodrigogontijoo) |
+| `1.0` | 15/04/2024  | 15/04/2024| Criação da priorização in or out | [Igor Thiago](https://github.com/Alladin-51) | [Rodrigo ](https://github.com/rodrigogontijoo) |

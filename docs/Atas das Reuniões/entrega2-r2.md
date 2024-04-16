@@ -31,7 +31,7 @@ Por se tratar de uma reunião presencial e em horário de aula, não foi realiza
 
 | <p align="center">Data</p> | <p align="center">Versão</p> | <p align="center">Descrição</p> | <p align="center">Autor(es)</p> | <p align="center">Data de revisão</p> | <p align="center">Revisor(es)</p> |
 | :--:       | :----: | :-------: | :---: | :-------------: | :-----: |
-| 16/04/2024 | 1.0  | Criação da página | [Henrique Galdino](https://github.com/hgaldino05) | 03/04/2024 | [Igor Thiago](https://github.com/alladin-51)|
+| 16/04/2024 | `1.0`  | Criação da página | [Henrique Galdino](https://github.com/hgaldino05) | 03/04/2024 | [Igor Thiago](https://github.com/alladin-51)|
 
 <div style="text-align: center">
 <p> Tabela 2: Histórico de Versões (Fonte: Henrique Galdino, 2024). </p>

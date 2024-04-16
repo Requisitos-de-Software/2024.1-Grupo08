@@ -18,5 +18,5 @@ A tabela abaixo apresenta os resultados da priorização de requisitos, demonstr
 
 | Versão | Data de Execução | Data de Revisão | Descrição                            | Autor(es)                               | Revisor(es) |
 | ------ | ---------------- | --------------- | ------------------------------------ | --------------------------------------- | ----------- |
-| 1.0    | 15/04/2024       | **/04/2024      | Criação da priorização first things first     | [Júlio Cesar](https://github.com/Julio1099), [Igor Thiago](https://github.com/Alladin-51) | ------------    |
+| `1.0`    | 15/04/2024       | **/04/2024      | Criação da priorização first things first     | [Júlio Cesar](https://github.com/Julio1099), [Igor Thiago](https://github.com/Alladin-51) | ------------    |
 

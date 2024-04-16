@@ -33,5 +33,5 @@ A Tabela 1 mostra as atividades realizadas do Ponto de Controle 1, com seus auto
 ### Histórico de versão
 | Versão | Data de execução  | Data de revisão |  Descrição    | Autor(es)     |  Revisor(es)  |
 | :----: | :---------------: | :-------------: | :-----------: | :-----------: | :-----------: |
-| 1.1 | 03/04 | 03/04 | Atualizando cronograma | [Henrique Galdino](https://github.com/hgaldino05) | [Guilherme Meister](https://github.com/gmeister18)|
-| 1.0 | 31/03 | 02/04 | Criação do cronograma executado | Guilherme, Henrique, Igor, Júlio, Matheus, Rodrigo | [Guilherme Meister](https://github.com/gmeister18) |
+| `1.1` | 03/04 | 03/04 | Atualizando cronograma | [Henrique Galdino](https://github.com/hgaldino05) | [Guilherme Meister](https://github.com/gmeister18)|
+| `1.0` | 31/03 | 02/04 | Criação do cronograma executado | Guilherme, Henrique, Igor, Júlio, Matheus, Rodrigo | [Guilherme Meister](https://github.com/gmeister18) |

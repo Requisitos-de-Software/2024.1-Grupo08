@@ -141,5 +141,5 @@ A Tabela 8 mostra as atividades planejadas para o Ponto de Controle 6, além de 
 ### Histórico de versão
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | :------: | :--------: | :-----------: | :-------: | :---------: |
-| 03/04 | 1.1 | Preenchendo cronograma para as demais entregas | [Henrique Galdino](https://github.com/hgaldino05) | [Guilherme Meister](https://github.com/gmeister18)|
-| 03/04 | 1.0 | Criação da página cronograma planejado (divisão dos cronogramas) | Guilherme, Henrique, Igor, Júlio, Matheus, Rodrigo | [Guilherme Meister](https://github.com/gmeister18)
+| 03/04 | `1.1` | Preenchendo cronograma para as demais entregas | [Henrique Galdino](https://github.com/hgaldino05) | [Guilherme Meister](https://github.com/gmeister18)|
+| 03/04 | `1.0` | Criação da página cronograma planejado (divisão dos cronogramas) | Guilherme, Henrique, Igor, Júlio, Matheus, Rodrigo | [Guilherme Meister](https://github.com/gmeister18)
