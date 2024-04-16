@@ -24,7 +24,7 @@ A tabela 1 apresenta os requisitos elicitados a partir destas técnicas, apresen
 | REQ10 | Deve ser possível anexar arquivos relacionados a reclamação (prints, nota fiscal, ordem de serviço, etc.) | Requisito Funcional |[INT08](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicitação/introspec/#metodologia)|
 | REQ11 | Deve ser possível visualizar as reclamações feitas | Requisito Funcional | [QUE04](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicitação/Questionário/#possiveis-requisitos); [INT09](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicitação/introspec/#metodologia) |
 | REQ12 | Deve ser possível acompanhar o status de uma reclamação feita | Requisito Funcional |[QUE18](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicitação/Questionário/#possiveis-requisitos);  [INT10](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicitação/introspec/#metodologia)|
-| REQ13 | O aplicativo deve funcionar tanto em dispositivos Android quanto iOS | Requisito Não Funcional |[REQ11](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicitação/introspec/#metodologia)|
+| REQ13 | O aplicativo deve funcionar tanto em dispositivos Android quanto iOS | Requisito Não Funcional |[INT11](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicitação/introspec/#metodologia)|
 | REQ14 | O aplicativo deve apresentar uma interface simples e intuitiva | Requisito Não Funcional |[QUE15, QUE19](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicitação/Questionário/#possiveis-requisitos) ; [INT12](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicitação/introspec/#metodologia)|
 | REQ15 | O aplicativo deve fornecer opções de acessibilidade (modo escuro, esquemas de cores, conteúdos em libras, etc.) | Requisito Não Funcional |[QUE03](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicitação/Questionário/#possiveis-requisitos); [INT13](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicitação/introspec/#metodologia)|
 | REQ16 | O aplicativo deve fornecer feedback ao usuário em caso de erros/falhas | Requisito Não Funcional |[INT14](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicitação/introspec/#metodologia)|
@@ -44,8 +44,8 @@ A tabela 1 apresenta os requisitos elicitados a partir destas técnicas, apresen
 ## Histórico de Versão
 | Versão | Data de execução | Data de revisão |  Descrição            | Autor(es)         | Revisor(es)  |
 | :------: | :----------: | :--------: | :--------------------: | :-------------: | :----------: |
-| 10/04/2024 | `1.0`  | Criação do artefato de introspecção| [Henrique Galdino](https://github.com/hgaldino05) | 10/04/2024 | [Rodrigo ](https://github.com/rodrigogontijoo) |
-
+| `1.1` | 16/04/2024  | 16/04/2024 | Correções de formatação da revisão | [Rodrigo Gontijo](https://github.com/rodrigogontijoo) | [Guilherme Meister](https://github.com/gmeister18) |
+| `1.0` | 10/04/2024  | 10/04/2024 | Criação do artefato de introspecção | [Henrique Galdino](https://github.com/hgaldino05) | [Rodrigo Gontijo](https://github.com/rodrigogontijoo) |
 <div align="center">
 <figcaption align="left">Tabela 2: Histórico de versões(Fonte: Henrique Galdino, 2024)</figcaption>
 </div>

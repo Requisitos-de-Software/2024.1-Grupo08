@@ -48,7 +48,9 @@ A partir deste contexto, Henrique identificou alguns requisitos, que podem ser v
 ## Histórico de Versão
 | Versão | Data de execução | Data de revisão |  Descrição            | Autor(es)         | Revisor(es)  |
 | :------: | :----------: | :--------: | :--------------------: | :-------------: | :----------: |
-| 10/04/2024 | `1.0`  | Criação do artefato de introspecção| [Henrique Galdino](https://github.com/hgaldino05) | 10/04/2024 | [Rodrigo ](https://github.com/rodrigogontijoo) |
+| `1.1` | 16/04/2024  | 16/04/2024 | Correções de formatação da revisão | [Rodrigo Gontijo](https://github.com/rodrigogontijoo) | [Guilherme Meister](https://github.com/gmeister18) |
+| `1.0` | 10/04/2024  | 10/04/2024 | Criação do artefato de introspecção | [Henrique Galdino](https://github.com/hgaldino05) | [Rodrigo Gontijo](https://github.com/rodrigogontijoo) |
+
 
 <div align="center">
 <figcaption align="left">Tabela 2: Histórico de versões(Fonte: Henrique Galdino, 2024)</figcaption>
