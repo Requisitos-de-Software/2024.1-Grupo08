@@ -8,7 +8,7 @@ A técnica First Things First (FTF) é uma abordagem estratégica para priorizar
 
 As pessoas que participaram da elaboração dessa técnica estão descritas abaixo e listadas na tabela 1:
 
-- **Facilitador**: Encarregado de apresentar os requisitos mencionados.
+- **Mediador**: Encarregado de apresentar os requisitos mencionados.
 - **Usuário**: Encarregado de avaliar os ganhos e as consequências negativas na realização de cada requisito.
 - **Programador**: Encarregado de identificar os gastos e as possíveis adversidades na realização de cada requisito.
 
@@ -29,7 +29,7 @@ O risco %: (risco relativo / soma de todos os riscos relativos) * 100 %
 
 A prioridade: valor % / ((custo % * peso custo) + (risco % * peso risco)). Foi usado o peso relativo do custo e o peso relativo do risco iguais a 1.
 
-**Tabela 2** - Participantes.
+**Tabela 1** - Participantes.
 
 | Nome                                              | Função        |
 | ------------------------------------------------- | ------------- |
@@ -38,7 +38,7 @@ A prioridade: valor % / ((custo % * peso custo) + (risco % * peso risco)). Foi u
 | [Igor Thiago](https://github.com/Alladin-51)  | Desenvolvedor |
 
 
-Fonte: [Júlio Cesar](https://github.com/Julio1099)
+Fonte: [Júlio Cesar](https://github.com/Julio1099), 2024
 
 A tabela abaixo apresenta os resultados da priorização de requisitos, demonstrando o valor total, o percentual de valor, o custo relativo, o percentual de custo, o risco relativo, o percentual de risco e a prioridade de cada funcionalidade.
 
@@ -63,11 +63,12 @@ A tabela abaixo apresenta os resultados da priorização de requisitos, demonstr
 | REQ14 - acessibilidade                     | 7               | 4                    | 18          | 4.9       | 8              | 11.26   | 3              | 3.84    | 0.37       |
 
 
-Fonte: [Júlio Cesar](https://github.com/Julio1099)
+Fonte: [Júlio Cesar](https://github.com/Julio1099), 2024
 
 ## Link da Gravação
 
 [Priorização - First Thing First(Mediador/Desenvolvedor)](https://youtu.be/CtUni6w0gSs)
+
 [Priorização - First Thing First(Mediador/Usuário)](https://youtu.be/jka4Mdmq9TI)
 
 ## Bibliografia
