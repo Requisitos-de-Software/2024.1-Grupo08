@@ -69,7 +69,7 @@ Vídeo 2: gravação do StoryTelling 2 (Fonte: Meister, Guilherme, 2024).
 &emsp;&emsp;Com base nas histórias contadas no storytelling, foram elicitados os requisitos presentes na tabela 3:
 
 
-| Identificador | Descrição                                                                          | Tipo | Implementado | Persona |
+| Identificador | Descrição                                                                          | Tipo | Implementado | Usuário |
 | ------------- | ---------------------------------------------------------------------------------- | ---- | ------------ | ------- |
 |       ST01    |   Eu, como usuário, gostaria de fazer reclamações acerca de um produto específico                                 |  RF  | Sim          | Todas |
 | ST02          | Eu, como usuário, gostaria de acompanhar do status da reclamação .                      | RF   | Sim          | Todas |
