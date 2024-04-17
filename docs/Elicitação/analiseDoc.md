@@ -67,6 +67,11 @@ A técnica utilizada neste documento é a análise de documentos. Essa técnica 
 
 ## Bibliografia
 
+- Consumidor.gov. *Documentação Consumidor.gov*. Disponível em: <https://www.consumidor.gov.br/pages/conteudo/publico/1>. Acesso em: 16 abr. 2024.
+- Consumidor.gov. *Política de Privacidade Consumidor.gov*. Disponível em: <https://www.consumidor.gov.br/pages/conteudo/publico/7>. Acesso em: 16 abr. 2024.
+- APP Store. *User Reviews*. Disponível em: <https://apps.apple.com/br/app/consumidor-gov-br/id1492523966?see-all=reviews>. Acesso em: 16 abr. 2024.
+- Play Store. *Página de download Consumidor.gov*. Disponível em: <https://play.google.com/store/apps/details?id=br.com.consumidor&hl=pt_BR&gl=US>. Acesso em: 16 abr. 2024.
+
 ## Histórico de Versões
 | Data | Versão | Descrição | Autor(es) | Data de revisão | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: | :-: |

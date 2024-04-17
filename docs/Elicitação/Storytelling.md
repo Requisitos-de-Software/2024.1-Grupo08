@@ -69,27 +69,20 @@ Vídeo 2: gravação do StoryTelling 2 (Fonte: Meister, Guilherme, 2024).
 &emsp;&emsp;Com base nas histórias contadas no storytelling, foram elicitados os requisitos presentes na tabela 3:
 
 
-| Identificador | Descrição                                                                          | Tipo | Implementado | Persona |
+| Identificador | Descrição                                                                          | Tipo | Implementado | Usuário |
 | ------------- | ---------------------------------------------------------------------------------- | ---- | ------------ | ------- |
 |       ST01    |   Eu, como usuário, gostaria de fazer reclamações acerca de um produto específico                                 |  RF  | Sim          | Todas |
 | ST02          | Eu, como usuário, gostaria de acompanhar do status da reclamação .                      | RF   | Sim          | Todas |
 | ST03          | Eu, como usuário, gostaria da Resolução de conflitos .             | RF   | Sim          | Todas |
 | ST04          | Eu, como usuário, gostaria de Histórico de reclamações.     | RF   | Não          | Todas |
-| ST05          | Eu, como usuário, gostaria de Avaliação de empresas.                    | RF   | Sim          | [Jorge Serafim](https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/assets/img/Elicita%C3%A7%C3%A3o/jorge.jpeg) |
-| ST06          | Eu, como usuário, gostaria de Integração com redes sociais.                       | RF   | Não          | [Bianca Torquato](https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/assets/img/Elicita%C3%A7%C3%A3o/bianca.jpeg) |
+| ST05          | Eu, como usuário, gostaria de Avaliação de empresas.                    | RF   | Sim          | Matheus Menezes |
+| ST06          | Eu, como usuário, gostaria de tempos de resposta rápidos para garantir uma experiência de usuário satisfatória.                       | RF   | Não          | Mateus Vieira |
 | ST07          | Eu, como usuário, gostaria de Anexação de arquivos.        | RNF  | Sim          | Todas |
-| ST08          | Eu, como usuário, gostaria de gostaria de uma interface acessível com contraste de cor .                                | RNF   | Sim          | [Bianca Torquato](https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/assets/img/Elicita%C3%A7%C3%A3o/bianca.jpeg)|
-| ST09          | Eu, como usuário, gostaria de gostaria de que o aplicativo tenha suporte ao usuário. | RF | Não          | [Bianca Torquato](https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/assets/img/Elicita%C3%A7%C3%A3o/bianca.jpeg) |
-| ST10          | Eu, como usuário, gostaria de gostaria de que o aplicativo tenha tutorial.                | RF   | Não          | [Bianca Torquato](https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/assets/img/Elicita%C3%A7%C3%A3o/bianca.jpeg) |
-| ST11          | Eu, como usuário, gostaria de gostaria de que o aplicativo tenha acessibilidade.                              | RF   | Sim          | Todas |
-| ST12          | Eu, como usuário, gostaria de gostaria de realizar registro/login em uma conta.                                       | RF   | Sim          | [Jorge Serafim](https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/assets/img/Elicita%C3%A7%C3%A3o/jorge.jpeg) |
-| ST13          | Eu, como usuário, gostaria de .                                     | RF   | Sim          |  |
-| ST14          | Eu, como usuário, gostaria de .                        | RF   | Sim          |  |
-| ST15          | Eu, como usuário, gostaria de .      | RF   | Sim          |  |
-| ST16          | Eu, como usuário, gostaria de .                | RNF   | Sim          |  |
-| ST17          | Eu, como usuário, gostaria de .           | RF   | Não          |  |
-| ST18          | Eu, como usuário, gostaria de .                     | RF   | Sim          |  |
-| ST19          | Eu, como usuário, gostaria de .               | RF   | Não          |  |
+| ST08          | Eu, como usuário, gostaria de uma interface acessível com contraste de cor .                                | RNF   | Sim          | Matheus Menezes|
+| ST09          | Eu, como usuário, gostaria de que o aplicativo tenha suporte ao usuário. | RF | Não          | Mateus Vieira |
+| ST10          | Eu, como usuário, gostaria de que o aplicativo tenha tutorial.                | RF   | Não          | Mateus Vieira |
+| ST11          | Eu, como usuário, gostaria de que o aplicativo tenha acessibilidade.                              | RF   | Sim          | Todas |
+| ST12          | Eu, como usuário, gostaria de realizar registro/login em uma conta.                                       | RF   | Sim          | Todas |
 
 <div style="text-align: center">
 <p> Tabela 3: Requisitos elicitados com o Storytelling (Fonte: Guilherme, 2024).</p>
@@ -113,3 +106,4 @@ Vídeo 2: gravação do StoryTelling 2 (Fonte: Meister, Guilherme, 2024).
 | Versão | Data          | Descrição           | Autor(es)     |  Revisor(es)  |
 | ------ | ------------- | ---------------------------------- | ------------- | ------------- |
 | `1.0`  | 04/04/2024 | Criação do documento | [Guilherme Meister](https://github.com/gmeister18) e [Matheus Ferreira](https://github.com/matferreira1) | [Henrique Galdino](https://github.com/hgaldino05) e [Rodrigo ](https://github.com/rodrigogontijoo) |
+| `1.1`  | 17/04/2024 | Mudança nas histórias | [Guilherme Meister](https://github.com/gmeister18) e [Matheus Ferreira](https://github.com/matferreira1) | [Henrique Galdino](https://github.com/hgaldino05) e [Rodrigo ](https://github.com/rodrigogontijoo) |
