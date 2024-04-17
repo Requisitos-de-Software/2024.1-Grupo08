@@ -22,16 +22,15 @@ A partir deste contexto, Henrique identificou alguns requisitos, que podem ser v
 | INT02 | Deve ser possível pesquisar uma empresa pelo nome | Requisito Funcional |
 | INT03 | Deve ser possível informar como/onde foi feita a compra (internet, loja física, telefone, etc.) | Requisito Funcional |
 | INT04 | Deve ser possível escolher qual a categoria da reclamação (atendimento, cobrança, entrega, etc.) | Requisito Funcional |
-| INT05 | Deve ser possível escolher qual a categoria da reclamação (atendimento, SAC, etc.) | Requisito Funcional |
-| INT06 | Deve ser possível fornecer detalhes sobre a reclamação | Requisito Funcional |
-| INT07 | Deve ser possível informar o que espera da empresa (reembolso, resposta, justificativa, etc.) | Requisito Funcional |
-| INT08 | Deve ser possível anexar arquivos relacionados a reclamação (prints, nota fiscal, ordem de serviço, etc.) | Requisito Funcional |
-| INT09 | Deve ser possível visualizar as reclamações feitas | Requisito Funcional |
-| INT10 | Deve ser possível acompanhar o status de uma reclamação feita | Requisito Funcional |
-| INT11 | O aplicativo deve funcionar tanto em dispositivos Android quanto iOS | Requisito Não Funcional |
-| INT12 | O aplicativo deve apresentar uma interface simples e intuitiva | Requisito Não Funcional |
-| INT13 | O aplicativo deve fornecer opções de acessibilidade (modo escuro, esquemas de cores, conteúdos em libras, etc.) | Requisito Não Funcional |
-| INT14 | O aplicativo deve fornecer feedback ao usuário em caso de erros/falhas | Requisito Não Funcional |
+| INT05 | Deve ser possível fornecer detalhes sobre a reclamação | Requisito Funcional |
+| INT06 | Deve ser possível informar o que espera da empresa (reembolso, resposta, justificativa, etc.) | Requisito Funcional |
+| INT07 | Deve ser possível anexar arquivos relacionados a reclamação (prints, nota fiscal, ordem de serviço, etc.) | Requisito Funcional |
+| INT08 | Deve ser possível visualizar as reclamações feitas | Requisito Funcional |
+| INT09 | Deve ser possível acompanhar o status de uma reclamação feita | Requisito Funcional |
+| INT10 | O aplicativo deve funcionar tanto em dispositivos Android quanto iOS | Requisito Não Funcional |
+| INT11 | O aplicativo deve apresentar uma interface simples e intuitiva | Requisito Não Funcional |
+| INT12 | O aplicativo deve fornecer opções de acessibilidade (modo escuro, esquemas de cores, conteúdos em libras, etc.) | Requisito Não Funcional |
+| INT13 | O aplicativo deve fornecer feedback ao usuário em caso de erros/falhas | Requisito Não Funcional |
 
 <div align="center">
 <figcaption align="left">Tabela 1: Requisitos identificados através da introspecção(Fonte: Henrique Galdino, 2024)</figcaption>
