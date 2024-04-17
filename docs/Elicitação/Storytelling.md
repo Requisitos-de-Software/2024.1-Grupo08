@@ -17,7 +17,7 @@ _Storytelling_ é a elaboração de histórias narrativas fictícias sobre usuá
 
 ## Metodologia
 
-Para o desenvolvimento e realização do _storytelling_, foi utilizado as personas desenvolvidas e a observação de objetivos, sentimentos e tarefas dos usuários dentro de suas histórias e contexto. Por fim, elencamos alguns dos requisitos.
+Para o desenvolvimento e realização do _storytelling_, foram utilizados clientes reais do Consumidor.gov, que aceitaram serem gravadas ao contar suas histórias. Por fim, elencamos alguns dos requisitos.
 
 ## Storytelling
 
@@ -31,17 +31,29 @@ Para o desenvolvimento e realização do _storytelling_, foi utilizado as person
 
 &emsp;&emsp;Após a árdua batalha, a alegria reinou. O boneco perfeito chegou, e o sorriso no rosto do pequeno era a recompensa que Jorge buscava. 
 
-### A Desilusão da Paleta
+### A memória RAM com marcas de uso
 
-&emsp;&emsp;[Bianca Torquato](https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/assets/img/Elicita%C3%A7%C3%A3o/bianca.jpeg), estudante de psicologia e influenciadora digital apaixonada por moda e beleza, se rendeu à paleta de sombras da Wepink, marca da influenciadora Virginia. As cores vibrantes prometiam looks incríveis, mas a paleta veio com a maquiagem quebrada, o que entristeceu muito a Bianca.
+&emsp;&emsp; Matheus Menezes Rodrigues, estudante de Engenharia de Software e entusiasta de jogos de FPS, gostaria de melhorar sua máquina para pode jogar Counter-Strike 2, jogo desenvolvido pela valve. Por isso, Matheus logo abriu o site da Magalu e fez o pedido de uma memória RAM ddr 4 de 8GB da marca HyperX. Mas após o produto chegar em sua casa, Matheus percebeu que estava com algumas marcas.
 
-&emsp;&emsp;Com suas habilidades de comunicação impecáveis, detalhou a situação em sua reclamação, anexando fotos e vídeos que comprovavam os defeitos no produto recebido. Bianca compartilhou sua experiência com seus seguidores nas redes sociais, alertando-os sobre a falha da empresa e incentivando-os a sempre buscar seus direitos
+&emsp;&emsp; Mas mesmo assim, preferiu testar antes de fazer qualquer reclamação, dito e feito, a memória RAM não funcionava. Matheus entrou em contato com o SAC do Magalu, mas obteve dias sem respostas que fizessem ele achar que algo fosse ser resolvido. Desta forma, Matheus decidiu baixar e utilizar o Consuimidor.gov.
 
-&emsp;&emsp;Após semanas de espera, a Wepink reconheceu o erro e ofereceu duas opções: reembolso ou troca. Bianca, decepcionada com a marca, optou pelo reembolso. E graças ao consumidor.gov conseguiu resolver o problema com a marca o mais rápido possível.
+&emsp;&emsp; Então, Matheus verificou se a loja participava do app e logo fez suas reclamações, anexando fotos, vídeos e mostrando que o seu produto veio com defeito. Após isso, ele ficou acompanhando seu processo durante algumas semanas, o que resultou em uma resposta positiva da empresa em trocar seu produto. E hoje Matheus segue a vida com seu computador que roda Couter-Strike 2.
+
+A <i>Tabela 2</i> a seguir informa os dados da segunda avaliação referente ao Storytelling, bem como a gravação do processo feito pelo usuário.
+
+| <p align="center">Participante</p> | <p align="center">Avaliador</p> | <p align="center">Data</p> | <p align="center">Horário</p> | <p align="center">Local</p> |
+| :----------: | :-------: | :--: | :-----: | :---: |
+| Matheus Menezes | Guilherme Meister | 16/04/2024 | 22:24 | Microsoft Teams |
+<figcaption align='center'> Tabela 2: Dados do StoryTelling 2 (Fonte: Meister, Guilherme, 2024)</figcaption>
+
+<iframe width="750" height="422" src="https://youtu.be/Pls15d-WQQc" title="StoryTelling 2 Grupo 8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<p> <b>Vídeo 2</b>: gravação do StoryTelling 2 (Fonte: Meister, Guilherme, 2024).</p>
+</div>
 
 ## Requisitos Elicitados
 
-&emsp;&emsp;Com base nas histórias criadas no storytelling, foram elicitados os requisitos presentes na tabela 1:
+&emsp;&emsp;Com base nas histórias contadas no storytelling, foram elicitados os requisitos presentes na tabela 3:
 
 
 | Identificador | Descrição                                                                          | Tipo | Implementado | Persona |
@@ -67,7 +79,7 @@ Para o desenvolvimento e realização do _storytelling_, foi utilizado as person
 | ST19          | Eu, como usuário, gostaria de .               | RF   | Não          |  |
 
 <div style="text-align: center">
-<p> Tabela 1: Requisitos elicitados com o Storytelling (Fonte: Guilherme, 2024).</p>
+<p> Tabela 3: Requisitos elicitados com o Storytelling (Fonte: Guilherme, 2024).</p>
 </div>
 
 **Legenda:**
