@@ -21,15 +21,26 @@ Para o desenvolvimento e realização do _storytelling_, foram utilizados client
 
 ## Storytelling
 
-### O boneco do GOAT
+### O LED que não quer ligar
 
-&emsp;&emsp;[Jorge Serafim](https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/assets/img/Elicita%C3%A7%C3%A3o/jorge.jpeg), cardiologista experiente e recordista de cubo mágico em Goiás, vivia uma rotina frenética entre consultas, academia e NBA. Mas, em meio à agitação, havia um espaço especial para seu filho, prestes a completar 10 anos. Buscando o presente ideal, Jorge comprou um boneco do atleta Lebron James pela internet, imaginando a alegria do pequeno.
+&emsp;&emsp; Mateus Vieira, estudante de Engenharia de Software, realizou a compra de um teclado no site Mercado Livre. A mercadoria chegou no prazo, porém o teclado veio com um defeito de fábrica no LED.Ao se deparar com esse defeito, Mateus tentou entrar em contato com a loja para que pudesse ser resolvida essa situação.
 
-&emsp;&emsp;Qual não foi sua surpresa ao receber o produto: totalmente diferente das fotos, com defeito e sem a qualidade esperada. A frustração deu lugar à indignação. Jorge, habituado à precisão e à eficiência do mundo médico, não se intimidou e partiu para a ação. Tentou contato com a empresa por todos os canais possíveis, mas o silêncio era a única resposta. Sem perder a calma, ele recorreu ao Consumidor.gov, plataforma criada para defender os direitos dos consumidores. 
+&emsp;&emsp; Mas mesmo assim, a equipe de suporte não respondeu suas tentativas de contato. Com isso,  Mateus viu o Consumidor.gov como uma esperança para resolver seu problema e fez uma reclamação no aplicativo. 
 
-&emsp;&emsp;Na plataforma, Jorge narrou sua saga em busca do boneco perfeito, anexando fotos, comprovantes e detalhando a omissão da empresa. A cada dia que passava, a esperança de ver seu filho brincar com o boneco do melhor jogador de basquete da história se misturava à frustração com a falta de resposta. Dias se transformaram em semanas, e a resposta finalmente chegou. A empresa, pressionada pela ação no Consumidor.gov, ofereceu duas opções: estorno do valor pago ou troca do boneco. Jorge, sempre pensando no melhor para seu filho, optou pela troca.
+&emsp;&emsp; Depois de alguns dias, a loja respondeu o Mateus e propôs para que o produto fosse trocado por um novo, Mateus aceitou prontamente a proposta e depois de alguns dias seu teclado novo chegou e finalmente ele pôde utilizar ele para estudar (e jogar seu League of Legends).
 
-&emsp;&emsp;Após a árdua batalha, a alegria reinou. O boneco perfeito chegou, e o sorriso no rosto do pequeno era a recompensa que Jorge buscava. 
+A <i>Tabela 2</i> a seguir informa os dados da segunda avaliação referente ao Storytelling, bem como a gravação do processo feito pelo usuário.
+
+| Participante | Avaliador | Data | Horário | Local |
+| :----------: | :-------: | :--: | :-----: | :---: |
+| Mateus Vieira | Matheus Ferreira | 16/04/2024 | 19:17 | Microsoft Teams |
+
+<figcaption align='center'> Tabela 1: Dados do StoryTelling 1 (Fonte: Meister, Guilherme, 2024)</figcaption>
+
+<iframe width="750" height="422" src="https://youtu.be/YSzEU-EsOt8" title="StoryTelling 1 Grupo 8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+Vídeo 2: gravação do StoryTelling 2 (Fonte: Meister, Guilherme, 2024).
 
 ### A memória RAM com marcas de uso
 
