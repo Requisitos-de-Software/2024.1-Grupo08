@@ -44,6 +44,7 @@ A <i>Tabela 2</i> a seguir informa os dados da segunda avaliação referente ao 
 | Participante | Avaliador | Data | Horário | Local |
 | :----------: | :-------: | :--: | :-----: | :---: |
 | Matheus Menezes | Guilherme Meister | 16/04/2024 | 22:24 | Microsoft Teams |
+
 #### Tabela 2: Dados do StoryTelling 2 (Fonte: Meister, Guilherme, 2024)
 
 <iframe width="560" height="315" src="https://youtu.be/Pls15d-WQQc" title="StoryTelling 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
