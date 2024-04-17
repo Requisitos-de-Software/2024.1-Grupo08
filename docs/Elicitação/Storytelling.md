@@ -47,8 +47,8 @@ A <i>Tabela 2</i> a seguir informa os dados da segunda avaliação referente ao 
 
 #### Tabela 2: Dados do StoryTelling 2 (Fonte: Meister, Guilherme, 2024)
 
-<iframe width="560" height="315" src="https://youtu.be/Pls15d-WQQc" title="StoryTelling 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-<div align="center">
+<iframe width="750" height="422" src="https://youtu.be/Pls15d-WQQc" title="StoryTelling 2 Grupo 8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 #### Vídeo 2: gravação do StoryTelling 2 (Fonte: Meister, Guilherme, 2024).
 
