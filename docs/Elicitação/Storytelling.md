@@ -50,8 +50,8 @@ A <i>Tabela 2</i> a seguir informa os dados da segunda avaliação referente ao 
 <iframe width="750" height="422" src="https://youtu.be/Pls15d-WQQc" title="StoryTelling 2 Grupo 8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-<p> <b>Vídeo 2</b>: gravação do StoryTelling 2 (Fonte: Meister, Guilherme, 2024).</p>
-</div>
+Vídeo 2: gravação do StoryTelling 2 (Fonte: Meister, Guilherme, 2024).
+
 
 ## Requisitos Elicitados
 
