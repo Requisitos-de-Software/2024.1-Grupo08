@@ -2,7 +2,7 @@
 
 ## Introdução
 
-_Storytelling_ São histórias narrativas sobre usuários. O objetivo dessa técnica é providenciar um exemplo mais claro das exigências e necessidades do usuário. Em uma narrativa, é mais fácil para a equipe de desenvolvimento entender as preferências e motivações de um usuário na utilização do software.
+_Storytelling_ são histórias narrativas sobre usuários. O objetivo dessa técnica é providenciar um exemplo mais claro das exigências e necessidades do usuário. Em uma narrativa, é mais fácil para a equipe de desenvolvimento entender as preferências e motivações de um usuário na utilização do software.
 
 ### Vantagens
 
