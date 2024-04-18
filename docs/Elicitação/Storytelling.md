@@ -29,7 +29,7 @@ Para o desenvolvimento e realização do _storytelling_, foram utilizados client
 
 &emsp;&emsp; Depois de alguns dias, a loja respondeu o Mateus e propôs para que o produto fosse trocado por um novo, Mateus aceitou prontamente a proposta e depois de alguns dias seu teclado novo chegou e finalmente ele pôde utilizar ele para estudar (e jogar seu League of Legends).
 
-A <i>Tabela 1</i> a seguir informa os dados da segunda avaliação referente ao Storytelling, bem como a gravação do processo feito pelo usuário.
+A <i>Tabela 1</i> a seguir informa os dados do primeiro Storytelling, bem como a gravação do processo feito pelo usuário.
 
 | Participante | Avaliador | Data | Horário | Local |
 | :----------: | :-------: | :--: | :-----: | :---: |
@@ -50,7 +50,7 @@ Vídeo 2: gravação do StoryTelling 2 (Fonte: Meister, Guilherme, 2024).
 
 &emsp;&emsp; Então, Matheus verificou se a loja participava do app e logo fez suas reclamações, anexando fotos, vídeos e mostrando que o seu produto veio com defeito. Após isso, ele ficou acompanhando seu processo durante algumas semanas, o que resultou em uma resposta positiva da empresa em trocar seu produto. E hoje Matheus segue a vida com seu computador que roda Couter-Strike 2.
 
-A <i>Tabela 2</i> a seguir informa os dados da segunda avaliação referente ao Storytelling, bem como a gravação do processo feito pelo usuário.
+A <i>Tabela 2</i> a seguir informa os dados do segundo Storytelling, bem como a gravação do processo feito pelo usuário.
 
 | Participante | Avaliador | Data | Horário | Local |
 | :----------: | :-------: | :--: | :-----: | :---: |
@@ -77,7 +77,7 @@ Vídeo 2: gravação do StoryTelling 2 (Fonte: Meister, Guilherme, 2024).
 | ST04          | Eu, como usuário, gostaria de Histórico de reclamações.     | RF   | Não          | Todas |
 | ST05          | Eu, como usuário, gostaria de Avaliação de empresas.                    | RF   | Sim          | Matheus Menezes |
 | ST06          | Eu, como usuário, gostaria de tempos de resposta rápidos para garantir uma experiência de usuário satisfatória.                       | RF   | Não          | Mateus Vieira |
-| ST07          | Eu, como usuário, gostaria de Anexação de arquivos.        | RNF  | Sim          | Todas |
+| ST07          | Eu, como usuário, gostaria de Anexação de arquivos.        | RF  | Sim          | Todas |
 | ST08          | Eu, como usuário, gostaria de uma interface acessível com contraste de cor .                                | RNF   | Sim          | Matheus Menezes|
 | ST09          | Eu, como usuário, gostaria de que o aplicativo tenha suporte ao usuário. | RF | Não          | Mateus Vieira |
 | ST10          | Eu, como usuário, gostaria de que o aplicativo tenha tutorial.                | RF   | Não          | Mateus Vieira |
