@@ -2,7 +2,7 @@
 
 ## Introdução
 
-_Storytelling_ é a elaboração de histórias narrativas fictícias sobre usuários usando a aplicação. O objetivo dessa técnica é providenciar um exemplo mais claro das exigências e necessidades do usuário. Em uma narrativa, é mais fácil para a equipe de desenvolvimento entender as preferências e motivações de um usuário na utilização do software.
+_Storytelling_ São histórias narrativas sobre usuários. O objetivo dessa técnica é providenciar um exemplo mais claro das exigências e necessidades do usuário. Em uma narrativa, é mais fácil para a equipe de desenvolvimento entender as preferências e motivações de um usuário na utilização do software.
 
 ### Vantagens
 
@@ -29,7 +29,7 @@ Para o desenvolvimento e realização do _storytelling_, foram utilizados client
 
 &emsp;&emsp; Depois de alguns dias, a loja respondeu o Mateus e propôs para que o produto fosse trocado por um novo, Mateus aceitou prontamente a proposta e depois de alguns dias seu teclado novo chegou e finalmente ele pôde utilizar ele para estudar (e jogar seu League of Legends).
 
-A <i>Tabela 2</i> a seguir informa os dados da segunda avaliação referente ao Storytelling, bem como a gravação do processo feito pelo usuário.
+A <i>Tabela 1</i> a seguir informa os dados da segunda avaliação referente ao Storytelling, bem como a gravação do processo feito pelo usuário.
 
 | Participante | Avaliador | Data | Horário | Local |
 | :----------: | :-------: | :--: | :-----: | :---: |
