@@ -36,7 +36,7 @@ A técnica utilizada neste documento é a análise de documentos. Essa técnica 
 | Identificação | Descrição | Categoria |
 | --- | --- | --- |
 | ADD01 | Possibilidade de ler o conteúdo das reclamações, respostas das empresas e comentário final. | RF |
-| ADD02 |  | RF |
+| ADD02 | Boa performance e velocidade | RNF |
 | ADD03 | Interlocução entre consumidores e empresas. | RF |
 | ADD04 | Sistemas operacionais suportados: Android e iOS. | RNF |
 | ADD05 | Interface do usuário intuitiva. | RI |
