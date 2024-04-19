@@ -37,7 +37,7 @@ A <i>Tabela 1</i> a seguir informa os dados do primeiro Storytelling, bem como a
 
 <figcaption align='center'> Tabela 1: Dados do StoryTelling 1 (Fonte: Meister, Guilherme, 2024)</figcaption>
 
-<iframe width="750" height="422" src="https://youtu.be/embed/YSzEU-EsOt8" title="StoryTelling 1 Grupo 8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="750" height="422" src="https://youtube.com/embed/YSzEU-EsOt8" title="StoryTelling 1 Grupo 8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 Vídeo 2: gravação do StoryTelling 2 (Fonte: Meister, Guilherme, 2024).
@@ -58,7 +58,7 @@ A <i>Tabela 2</i> a seguir informa os dados do segundo Storytelling, bem como a 
 
 <figcaption align='center'> Tabela 2: Dados do StoryTelling 2 (Fonte: Meister, Guilherme, 2024)</figcaption>
 
-<iframe width="750" height="422" src="https://youtu.be/embed/Pls15d-WQQc" title="StoryTelling 2 Grupo 8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="750" height="422" src="https://youtube.com/embed/Pls15d-WQQc" title="StoryTelling 2 Grupo 8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 Vídeo 2: gravação do StoryTelling 2 (Fonte: Meister, Guilherme, 2024).
