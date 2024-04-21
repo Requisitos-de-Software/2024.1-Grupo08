@@ -2,7 +2,7 @@
 
 ## Introdução
 
-_Storytelling_ é a elaboração de histórias narrativas fictícias sobre usuários usando a aplicação. O objetivo dessa técnica é providenciar um exemplo mais claro das exigências e necessidades do usuário. Em uma narrativa, é mais fácil para a equipe de desenvolvimento entender as preferências e motivações de um usuário na utilização do software.
+_Storytelling_ são histórias narrativas sobre usuários. O objetivo dessa técnica é providenciar um exemplo mais claro das exigências e necessidades do usuário. Em uma narrativa, é mais fácil para a equipe de desenvolvimento entender as preferências e motivações de um usuário na utilização do software.
 
 ### Vantagens
 
@@ -17,57 +17,75 @@ _Storytelling_ é a elaboração de histórias narrativas fictícias sobre usuá
 
 ## Metodologia
 
-Para o desenvolvimento e realização do _storytelling_, foi utilizado as personas desenvolvidas e a observação de objetivos, sentimentos e tarefas dos usuários dentro de suas histórias e contexto. Por fim, elencamos alguns dos requisitos.
+Para o desenvolvimento e realização do _storytelling_, foram utilizados clientes reais do Consumidor.gov, que aceitaram serem gravadas ao contar suas histórias. Por fim, elencamos alguns dos requisitos.
 
 ## Storytelling
 
-### O boneco do GOAT
+### O LED que não quer ligar
 
-&emsp;&emsp;[Jorge Serafim](https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/assets/img/Elicita%C3%A7%C3%A3o/jorge.jpeg), cardiologista experiente e recordista de cubo mágico em Goiás, vivia uma rotina frenética entre consultas, academia e NBA. Mas, em meio à agitação, havia um espaço especial para seu filho, prestes a completar 10 anos. Buscando o presente ideal, Jorge comprou um boneco do atleta Lebron James pela internet, imaginando a alegria do pequeno.
+&emsp;&emsp; Mateus Vieira, estudante de Engenharia de Software, realizou a compra de um teclado no site Mercado Livre. A mercadoria chegou no prazo, porém o teclado veio com um defeito de fábrica no LED.Ao se deparar com esse defeito, Mateus tentou entrar em contato com a loja para que pudesse ser resolvida essa situação.
 
-&emsp;&emsp;Qual não foi sua surpresa ao receber o produto: totalmente diferente das fotos, com defeito e sem a qualidade esperada. A frustração deu lugar à indignação. Jorge, habituado à precisão e à eficiência do mundo médico, não se intimidou e partiu para a ação. Tentou contato com a empresa por todos os canais possíveis, mas o silêncio era a única resposta. Sem perder a calma, ele recorreu ao Consumidor.gov, plataforma criada para defender os direitos dos consumidores. 
+&emsp;&emsp; Mas mesmo assim, a equipe de suporte não respondeu suas tentativas de contato. Com isso,  Mateus viu o Consumidor.gov como uma esperança para resolver seu problema e fez uma reclamação no aplicativo. 
 
-&emsp;&emsp;Na plataforma, Jorge narrou sua saga em busca do boneco perfeito, anexando fotos, comprovantes e detalhando a omissão da empresa. A cada dia que passava, a esperança de ver seu filho brincar com o boneco do melhor jogador de basquete da história se misturava à frustração com a falta de resposta. Dias se transformaram em semanas, e a resposta finalmente chegou. A empresa, pressionada pela ação no Consumidor.gov, ofereceu duas opções: estorno do valor pago ou troca do boneco. Jorge, sempre pensando no melhor para seu filho, optou pela troca.
+&emsp;&emsp; Depois de alguns dias, a loja respondeu o Mateus e propôs para que o produto fosse trocado por um novo, Mateus aceitou prontamente a proposta e depois de alguns dias seu teclado novo chegou e finalmente ele pôde utilizar ele para estudar (e jogar seu League of Legends).
 
-&emsp;&emsp;Após a árdua batalha, a alegria reinou. O boneco perfeito chegou, e o sorriso no rosto do pequeno era a recompensa que Jorge buscava. 
+A <i>Tabela 1</i> a seguir informa os dados do primeiro Storytelling, bem como a gravação do processo feito pelo usuário.
 
-### A Desilusão da Paleta
+| Participante | Avaliador | Data | Horário | Local |
+| :----------: | :-------: | :--: | :-----: | :---: |
+| Mateus Vieira | Matheus Ferreira | 16/04/2024 | 19:17 | Microsoft Teams |
 
-&emsp;&emsp;[Bianca Torquato](https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/assets/img/Elicita%C3%A7%C3%A3o/bianca.jpeg), estudante de psicologia e influenciadora digital apaixonada por moda e beleza, se rendeu à paleta de sombras da Wepink, marca da influenciadora Virginia. As cores vibrantes prometiam looks incríveis, mas a paleta veio com a maquiagem quebrada, o que entristeceu muito a Bianca.
+<figcaption align='center'> Tabela 1: Dados do StoryTelling 1 (Fonte: Meister, Guilherme, 2024)</figcaption>
 
-&emsp;&emsp;Com suas habilidades de comunicação impecáveis, detalhou a situação em sua reclamação, anexando fotos e vídeos que comprovavam os defeitos no produto recebido. Bianca compartilhou sua experiência com seus seguidores nas redes sociais, alertando-os sobre a falha da empresa e incentivando-os a sempre buscar seus direitos
+<iframe width="750" height="422" src="https://youtube.com/embed/YSzEU-EsOt8" title="StoryTelling 1 Grupo 8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-&emsp;&emsp;Após semanas de espera, a Wepink reconheceu o erro e ofereceu duas opções: reembolso ou troca. Bianca, decepcionada com a marca, optou pelo reembolso. E graças ao consumidor.gov conseguiu resolver o problema com a marca o mais rápido possível.
+
+Vídeo 2: gravação do StoryTelling 2 (Fonte: Meister, Guilherme, 2024).
+
+### A memória RAM com marcas de uso
+
+&emsp;&emsp; Matheus Menezes Rodrigues, estudante de Engenharia de Software e entusiasta de jogos de FPS, gostaria de melhorar sua máquina para pode jogar Counter-Strike 2, jogo desenvolvido pela valve. Por isso, Matheus logo abriu o site da Magalu e fez o pedido de uma memória RAM ddr 4 de 8GB da marca HyperX. Mas após o produto chegar em sua casa, Matheus percebeu que estava com algumas marcas.
+
+&emsp;&emsp; Mas mesmo assim, preferiu testar antes de fazer qualquer reclamação, dito e feito, a memória RAM não funcionava. Matheus entrou em contato com o SAC do Magalu, mas obteve dias sem respostas que fizessem ele achar que algo fosse ser resolvido. Desta forma, Matheus decidiu baixar e utilizar o Consuimidor.gov.
+
+&emsp;&emsp; Então, Matheus verificou se a loja participava do app e logo fez suas reclamações, anexando fotos, vídeos e mostrando que o seu produto veio com defeito. Após isso, ele ficou acompanhando seu processo durante algumas semanas, o que resultou em uma resposta positiva da empresa em trocar seu produto. E hoje Matheus segue a vida com seu computador que roda Couter-Strike 2.
+
+A <i>Tabela 2</i> a seguir informa os dados do segundo Storytelling, bem como a gravação do processo feito pelo usuário.
+
+| Participante | Avaliador | Data | Horário | Local |
+| :----------: | :-------: | :--: | :-----: | :---: |
+| Matheus Menezes | Guilherme Meister | 16/04/2024 | 22:24 | Microsoft Teams |
+
+<figcaption align='center'> Tabela 2: Dados do StoryTelling 2 (Fonte: Meister, Guilherme, 2024)</figcaption>
+
+<iframe width="750" height="422" src="https://youtube.com/embed/Pls15d-WQQc" title="StoryTelling 2 Grupo 8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+Vídeo 2: gravação do StoryTelling 2 (Fonte: Meister, Guilherme, 2024).
+
 
 ## Requisitos Elicitados
 
-&emsp;&emsp;Com base nas histórias criadas no storytelling, foram elicitados os requisitos presentes na tabela 1:
+&emsp;&emsp;Com base nas histórias contadas no storytelling, foram elicitados os requisitos presentes na tabela 3:
 
 
-| Identificador | Descrição                                                                          | Tipo | Implementado | Persona |
+| Identificador | Descrição                                                                          | Tipo | Implementado | Usuário |
 | ------------- | ---------------------------------------------------------------------------------- | ---- | ------------ | ------- |
 |       ST01    |   Eu, como usuário, gostaria de fazer reclamações acerca de um produto específico                                 |  RF  | Sim          | Todas |
 | ST02          | Eu, como usuário, gostaria de acompanhar do status da reclamação .                      | RF   | Sim          | Todas |
 | ST03          | Eu, como usuário, gostaria da Resolução de conflitos .             | RF   | Sim          | Todas |
 | ST04          | Eu, como usuário, gostaria de Histórico de reclamações.     | RF   | Não          | Todas |
-| ST05          | Eu, como usuário, gostaria de Avaliação de empresas.                    | RF   | Sim          | [Jorge Serafim](https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/assets/img/Elicita%C3%A7%C3%A3o/jorge.jpeg) |
-| ST06          | Eu, como usuário, gostaria de Integração com redes sociais.                       | RF   | Não          | [Bianca Torquato](https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/assets/img/Elicita%C3%A7%C3%A3o/bianca.jpeg) |
-| ST07          | Eu, como usuário, gostaria de Anexação de arquivos.        | RNF  | Sim          | Todas |
-| ST08          | Eu, como usuário, gostaria de gostaria de uma interface acessível com contraste de cor .                                | RNF   | Sim          | [Bianca Torquato](https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/assets/img/Elicita%C3%A7%C3%A3o/bianca.jpeg)|
-| ST09          | Eu, como usuário, gostaria de gostaria de que o aplicativo tenha suporte ao usuário. | RF | Não          | [Bianca Torquato](https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/assets/img/Elicita%C3%A7%C3%A3o/bianca.jpeg) |
-| ST10          | Eu, como usuário, gostaria de gostaria de que o aplicativo tenha tutorial.                | RF   | Não          | [Bianca Torquato](https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/assets/img/Elicita%C3%A7%C3%A3o/bianca.jpeg) |
-| ST11          | Eu, como usuário, gostaria de gostaria de que o aplicativo tenha acessibilidade.                              | RF   | Sim          | Todas |
-| ST12          | Eu, como usuário, gostaria de gostaria de realizar registro/login em uma conta.                                       | RF   | Sim          | [Jorge Serafim](https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/assets/img/Elicita%C3%A7%C3%A3o/jorge.jpeg) |
-| ST13          | Eu, como usuário, gostaria de .                                     | RF   | Sim          |  |
-| ST14          | Eu, como usuário, gostaria de .                        | RF   | Sim          |  |
-| ST15          | Eu, como usuário, gostaria de .      | RF   | Sim          |  |
-| ST16          | Eu, como usuário, gostaria de .                | RNF   | Sim          |  |
-| ST17          | Eu, como usuário, gostaria de .           | RF   | Não          |  |
-| ST18          | Eu, como usuário, gostaria de .                     | RF   | Sim          |  |
-| ST19          | Eu, como usuário, gostaria de .               | RF   | Não          |  |
+| ST05          | Eu, como usuário, gostaria de Avaliação de empresas.                    | RF   | Sim          | Matheus Menezes |
+| ST06          | Eu, como usuário, gostaria de tempos de resposta rápidos para garantir uma experiência de usuário satisfatória.                       | RF   | Não          | Mateus Vieira |
+| ST07          | Eu, como usuário, gostaria de Anexação de arquivos.        | RF  | Sim          | Todas |
+| ST08          | Eu, como usuário, gostaria de uma interface acessível com contraste de cor .                                | RNF   | Sim          | Matheus Menezes|
+| ST09          | Eu, como usuário, gostaria de que o aplicativo tenha suporte ao usuário. | RF | Não          | Mateus Vieira |
+| ST10          | Eu, como usuário, gostaria de que o aplicativo tenha tutorial.                | RF   | Não          | Mateus Vieira |
+| ST11          | Eu, como usuário, gostaria de que o aplicativo tenha acessibilidade.                              | RF   | Sim          | Todas |
+| ST12          | Eu, como usuário, gostaria de realizar registro/login em uma conta.                                       | RF   | Sim          | Todas |
 
 <div style="text-align: center">
-<p> Tabela 1: Requisitos elicitados com o Storytelling (Fonte: Guilherme, 2024).</p>
+<p> Tabela 3: Requisitos elicitados com o Storytelling (Fonte: Guilherme, 2024).</p>
 </div>
 
 **Legenda:**
@@ -88,3 +106,4 @@ Para o desenvolvimento e realização do _storytelling_, foi utilizado as person
 | Versão | Data          | Descrição           | Autor(es)     |  Revisor(es)  |
 | ------ | ------------- | ---------------------------------- | ------------- | ------------- |
 | `1.0`  | 04/04/2024 | Criação do documento | [Guilherme Meister](https://github.com/gmeister18) e [Matheus Ferreira](https://github.com/matferreira1) | [Henrique Galdino](https://github.com/hgaldino05) e [Rodrigo ](https://github.com/rodrigogontijoo) |
+| `1.1`  | 17/04/2024 | Mudança nas histórias | [Guilherme Meister](https://github.com/gmeister18) e [Matheus Ferreira](https://github.com/matferreira1) | [Henrique Galdino](https://github.com/hgaldino05) e [Rodrigo ](https://github.com/rodrigogontijoo) |

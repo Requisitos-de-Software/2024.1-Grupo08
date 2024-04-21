@@ -6,7 +6,7 @@ A elicitação de requisitos é uma etapa fundamental no desenvolvimento de soft
 
 - [Questionário](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicitação/Questionário/)
 - [Introspecção](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicitação/introspec/)
-- [Brainstorming](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicitação/brainstorming/)
+- [Análise de Documentos](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicita%C3%A7%C3%A3o/analiseDoc/)
 
 A tabela 1 apresenta os requisitos elicitados a partir destas técnicas, apresentando o **identificador**, **descrição**, **tipo** (funcional ou não funcional), **origem** (a partir de qual técnica foi elicitado).
 

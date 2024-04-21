@@ -36,7 +36,7 @@ A técnica utilizada neste documento é a análise de documentos. Essa técnica 
 | Identificação | Descrição | Categoria |
 | --- | --- | --- |
 | ADD01 | Possibilidade de ler o conteúdo das reclamações, respostas das empresas e comentário final. | RF |
-| ADD02 |  | RF |
+| ADD02 | Boa performance e velocidade | RNF |
 | ADD03 | Interlocução entre consumidores e empresas. | RF |
 | ADD04 | Sistemas operacionais suportados: Android e iOS. | RNF |
 | ADD05 | Interface do usuário intuitiva. | RI |
@@ -66,6 +66,11 @@ A técnica utilizada neste documento é a análise de documentos. Essa técnica 
 - RT: Testes e Validações - Descrevem as atividades necessárias para testar e validar o software antes de sua implantação.
 
 ## Bibliografia
+
+- Consumidor.gov. *Documentação Consumidor.gov*. Disponível em: <https://www.consumidor.gov.br/pages/conteudo/publico/1>. Acesso em: 16 abr. 2024.
+- Consumidor.gov. *Política de Privacidade Consumidor.gov*. Disponível em: <https://www.consumidor.gov.br/pages/conteudo/publico/7>. Acesso em: 16 abr. 2024.
+- APP Store. *User Reviews*. Disponível em: <https://apps.apple.com/br/app/consumidor-gov-br/id1492523966?see-all=reviews>. Acesso em: 16 abr. 2024.
+- Play Store. *Página de download Consumidor.gov*. Disponível em: <https://play.google.com/store/apps/details?id=br.com.consumidor&hl=pt_BR&gl=US>. Acesso em: 16 abr. 2024.
 
 ## Histórico de Versões
 | Data | Versão | Descrição | Autor(es) | Data de revisão | Revisor(es) |

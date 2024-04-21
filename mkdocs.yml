@@ -46,6 +46,7 @@ extra:
 theme:
         name: material
         logo: assets\png-logo.png
+        favicon: assets\png-logo.png
         features:
                 - navigation.tabs
         icon:
