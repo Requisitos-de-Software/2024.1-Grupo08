@@ -6,9 +6,9 @@ _Storytelling_ são histórias narrativas sobre usuários. O objetivo dessa téc
 
 ### Vantagens
 
-- Uma história relevante e cativante ajuda a aumentar o engajamento dos seus seguidores nas plataformas em que você publica o seu conteúdo.
-- O storytelling permite formar uma comunidade, unindo as pessoas através de personagens com os quais elas podem se identificar.
-- Conteúdo criativo. 
+- Participação ativa do cliente no processo de definição de requisitos.
+- Contextualização dos requisitos em necessidades e objetivos reais dos usuários finais.
+- Conteúdo criativo.
 
 ### Desvantagens
 
@@ -17,7 +17,7 @@ _Storytelling_ são histórias narrativas sobre usuários. O objetivo dessa téc
 
 ## Metodologia
 
-Para o desenvolvimento e realização do _storytelling_, foram utilizados clientes reais do Consumidor.gov, que aceitaram serem gravadas ao contar suas histórias. Por fim, elencamos alguns dos requisitos.
+Para o desenvolvimento e realização do _storytelling_, foram utilizados clientes reais do Consumidor.gov, que aceitaram serem gravados ao contar suas histórias. Por fim, elencamos alguns dos requisitos.
 
 ## Storytelling
 
@@ -71,17 +71,17 @@ Vídeo 2: gravação do StoryTelling 2 (Fonte: MEISTER, Guilherme 2024).
 
 | Identificador | Descrição                                                                          | Tipo | Implementado | Usuário |
 | ------------- | ---------------------------------------------------------------------------------- | ---- | ------------ | ------- |
-|       ST01    |   Eu, como usuário, gostaria de fazer reclamações acerca de um produto específico                                 |  RF  | Sim          | Todas |
-| ST02          | Eu, como usuário, gostaria de acompanhar do status da reclamação .                      | RF   | Sim          | Todas |
-| ST03          | Eu, como usuário, gostaria da Resolução de conflitos .             | RF   | Sim          | Todas |
-| ST04          | Eu, como usuário, gostaria de Histórico de reclamações.     | RF   | Não          | Todas |
-| ST05          | Eu, como usuário, gostaria de Avaliação de empresas.                    | RF   | Sim          | Matheus Menezes |
-| ST06          | Eu, como usuário, gostaria de tempos de resposta rápidos para garantir uma experiência de usuário satisfatória.                       | RF   | Não          | Mateus Vieira |
-| ST07          | Eu, como usuário, gostaria de Anexação de arquivos.        | RF  | Sim          | Todas |
+|       ST01    |   Eu, como usuário, gostaria de fazer reclamações acerca de um produto específico.                                |  RF  | Sim          | Todas |
+| ST02          | Eu, como usuário, gostaria de acompanhar do status da reclamação.                      | RF   | Sim          | Todas |
+| ST03          | Eu, como usuário, gostaria de resolver os conflitos pelo aplicativo.             | RF   | Sim          | Todas |
+| ST04          | Eu, como usuário, gostaria de visualizar o histórico de reclamações de uma empresa.     | RF   | Não          | Todas |
+| ST05          | Eu, como usuário, gostaria de visualizar uma avaliação de empresas.                    | RF   | Sim          | Matheus Menezes |
+| ST06          | Eu, como usuário, gostaria de tempos de resposta rápidos para garantir uma experiência de usuário satisfatória.                       | RNF   | Não          | Mateus Vieira |
+| ST07          | Eu, como usuário, gostaria de anexar arquivos nas reclamações.        | RF  | Sim          | Todas |
 | ST08          | Eu, como usuário, gostaria de uma interface acessível com contraste de cor .                                | RNF   | Sim          | Matheus Menezes|
-| ST09          | Eu, como usuário, gostaria de que o aplicativo tenha suporte ao usuário. | RF | Não          | Mateus Vieira |
+| ST09          | Eu, como usuário, gostaria de que o aplicativo tenha suporte ao usuário. | RNF | Não          | Mateus Vieira |
 | ST10          | Eu, como usuário, gostaria de que o aplicativo tenha tutorial.                | RF   | Não          | Mateus Vieira |
-| ST11          | Eu, como usuário, gostaria de que o aplicativo tenha acessibilidade.                              | RF   | Sim          | Todas |
+| ST11          | Eu, como usuário, gostaria de que o aplicativo seja facilmente acessível.                              | RNF   | Sim          | Todas |
 | ST12          | Eu, como usuário, gostaria de realizar registro/login em uma conta.                                       | RF   | Sim          | Todas |
 
 <div style="text-align: center">
@@ -107,3 +107,4 @@ Vídeo 2: gravação do StoryTelling 2 (Fonte: MEISTER, Guilherme 2024).
 | ------ | ------------- | ---------------------------------- | ------------- | ------------- |
 | `1.0`  | 04/04/2024 | Criação do documento | [Guilherme Meister](https://github.com/gmeister18) e [Matheus Ferreira](https://github.com/matferreira1) | [Henrique Galdino](https://github.com/hgaldino05) e [Rodrigo ](https://github.com/rodrigogontijoo) |
 | `1.1`  | 17/04/2024 | Mudança nas histórias | [Guilherme Meister](https://github.com/gmeister18) e [Matheus Ferreira](https://github.com/matferreira1) | [Henrique Galdino](https://github.com/hgaldino05) e [Rodrigo ](https://github.com/rodrigogontijoo) |
+| `1.2`  | 22/04/2024 | Ajustes gerais | [Guilherme Meister](https://github.com/gmeister18) e [Matheus Ferreira](https://github.com/matferreira1) | [Henrique Galdino](https://github.com/hgaldino05) e [Rodrigo ](https://github.com/rodrigogontijoo) |
