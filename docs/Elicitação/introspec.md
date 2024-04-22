@@ -33,7 +33,7 @@ A partir deste contexto, Henrique identificou alguns requisitos, que podem ser v
 | INT13 | O aplicativo deve fornecer feedback ao usuário em caso de erros/falhas | Requisito Não Funcional |
 
 <div align="center">
-<figcaption align="left">Tabela 1: Requisitos identificados através da introspecção(Fonte: Henrique Galdino, 2024)</figcaption>
+<figcaption align="left">Tabela 1: Requisitos identificados através da introspecção(Fonte: GALDINO, Henrique 2024)</figcaption>
 </div>
 <br/>
 
@@ -52,6 +52,6 @@ A partir deste contexto, Henrique identificou alguns requisitos, que podem ser v
 
 
 <div align="center">
-<figcaption align="left">Tabela 2: Histórico de versões(Fonte: Henrique Galdino, 2024)</figcaption>
+<figcaption align="left">Tabela 2: Histórico de versões(Fonte: GALDINO, Henrique 2024)</figcaption>
 </div>
 <br/>

@@ -29,7 +29,7 @@ A tabela 1 apresenta os requisitos elicitados a partir destas técnicas, apresen
 | REQ15 | O aplicativo deve fornecer feedback ao usuário em caso de erros/falhas | Requisito Não Funcional |[INT13](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicitação/introspec/#metodologia)|
 
 <div align="center">
-<figcaption align="left">Tabela 1: Requisitos identificados através da introspecção(Fonte: Henrique Galdino, 2024)</figcaption>
+<figcaption align="left">Tabela 1: Requisitos identificados através da introspecção(Fonte: GALDINO, Henrique 2024)</figcaption>
 </div>
 <br/>
 
@@ -46,6 +46,6 @@ A tabela 1 apresenta os requisitos elicitados a partir destas técnicas, apresen
 | `1.1` | 16/04/2024  | 16/04/2024 | Correções de formatação da revisão | [Rodrigo Gontijo](https://github.com/rodrigogontijoo) | [Guilherme Meister](https://github.com/gmeister18) |
 | `1.0` | 10/04/2024  | 10/04/2024 | Criação do artefato de introspecção | [Henrique Galdino](https://github.com/hgaldino05) | [Igor Thiago](https://github.com/alladin-51) |
 <div align="center">
-<figcaption align="left">Tabela 2: Histórico de versões(Fonte: Henrique Galdino, 2024)</figcaption>
+<figcaption align="left">Tabela 2: Histórico de versões(Fonte: GALDINO, Henrique 2024)</figcaption>
 </div>
 <br/>

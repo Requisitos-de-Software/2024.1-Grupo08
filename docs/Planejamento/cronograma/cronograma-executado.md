@@ -21,7 +21,7 @@ A Tabela 1 mostra as atividades realizadas do Ponto de Controle 1, com seus auto
 | GitPage | 30/03 | 31/03 |01/04 | Guilherme, Henrique, Igor, Júlio, Matheus, Rodrigo | Guilherme, Henrique, Igor, Júlio, Matheus, Rodrigo |
 | Gravação da apresentação | 30/03 | 31/03 |01/04 | Guilherme, Henrique, Igor, Júlio, Matheus, Rodrigo | Guilherme, Henrique, Igor, Júlio, Matheus, Rodrigo |
 
-#### Tabela 1 - Itens realizados Ponto de Controle 1. (Fonte: Guilherme Meister, 2024).
+#### Tabela 1 - Itens realizados Ponto de Controle 1. (Fonte: MEISTER, Guilherme 2024).
 
 
 ## Ponto de Controle 2
@@ -43,7 +43,7 @@ A Tabela 2 mostra as atividades realizadas do Ponto de Controle 2, com seus resp
 | Página da apresentação | 14/04 | 22/04 | 22/04 | Rodrigo | Henrique Galdino |
 | Gravação da apresentação | 03/04 | 22/04 | 22/04 | Guilherme, Henrique, Igor, Júlio, Matheus, Rodrigo | Guilherme, Henrique, Igor, Júlio, Matheus, Rodrigo |
 
-#### Tabela 2 - Itens realizados Ponto de Controle 2. (Fonte: Henrique Galdino, 2024).
+#### Tabela 2 - Itens realizados Ponto de Controle 2. (Fonte: MEISTER, Guilherme 2024).
 
 ---
 
