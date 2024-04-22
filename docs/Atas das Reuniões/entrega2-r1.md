@@ -13,7 +13,7 @@ Esse documento visa registrar o acontecimento da  1ª reunião do grupo 8 para a
 | Guilherme, Henrique, Igor, Júlio, Matheus, Rodrigo  | 03/04/2024 |      20:15 - 21:37      | Plataforma Teams |
 
 <div style="text-align: center">
-<p> Tabela 1: Dados da reunião (Fonte: Henrique Galdino, 2024). </p>
+<p> Tabela 1: Dados da reunião (Fonte: GALDINO, Henrique 2024). </p>
 </div>
 
 <br />
@@ -46,7 +46,7 @@ Esse documento visa registrar o acontecimento da  1ª reunião do grupo 8 para a
 
 
 <div style="text-align: center">
-<p> Tabela 2: Atividades a serem feitas (Fonte: Henrique Galdino, 2024). </p>
+<p> Tabela 2: Atividades a serem feitas (Fonte: GALDINO, Henrique 2024). </p>
 </div>
 
 <br />
@@ -64,5 +64,5 @@ A gravação desta reunião pode ser acessada [aqui](https://youtu.be/eZ7l0kutOi
 | 03/04/2024 | `1.0`  | Criação da página da entrega 2 | [Henrique Galdino](https://github.com/hgaldino05) | 03/04/2024 | [Guilherme Meister](https://github.com/gmeister18)|
 
 <div style="text-align: center">
-<p> Tabela 3: Histórico de Versões (Fonte: Henrique Galdino, 2024). </p>
+<p> Tabela 3: Histórico de Versões (Fonte: GALDINO, Henrique 2024). </p>
 </div>
