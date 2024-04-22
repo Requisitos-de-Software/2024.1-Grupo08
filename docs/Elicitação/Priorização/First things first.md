@@ -27,9 +27,21 @@ O custo %: (custo relativo / soma de todos os custos relativos) * 100 %
 
 O risco %: (risco relativo / soma de todos os riscos relativos) * 100 %
 
-A prioridade: valor % / ((custo % * peso custo) + (risco % * peso risco)). Foi usado o peso relativo do custo e o peso relativo do risco iguais a 1.
+A prioridade: valor % / ((custo % * peso custo) + (risco % * peso risco)). Foi usado o peso relativo do custo igual a 1 e o peso relativo do risco igual a 0,5.
 
-**Tabela 1** - Participantes.
+**Tabela 1** - Peso relativo.
+
+| Peso relativo | Valor |
+|---------------|-------|
+| Benefício     | 2     |
+| Penalidade    | 1     |
+| Custo         | 1     |
+| Risco         | 0.5   |
+
+Fonte: [Júlio Cesar](https://github.com/Julio1099), 2024
+
+
+**Tabela 2** - Participantes.
 
 | Nome                                              | Função        |
 | ------------------------------------------------- | ------------- |
@@ -42,7 +54,7 @@ Fonte: [Júlio Cesar](https://github.com/Julio1099), 2024
 
 A tabela abaixo apresenta os resultados da priorização de requisitos, demonstrando o valor total, o percentual de valor, o custo relativo, o percentual de custo, o risco relativo, o percentual de risco e a prioridade de cada funcionalidade.
 
-**Tabela 2** - Tabela de Resultado da Priorização de Requisitos
+**Tabela 3** - Tabela de Resultado da Priorização de Requisitos
 
 | Funcionalidades                            | Valor Benefício | Penalidade Relativa | Valor Total | Valor (%) | Custo Relativo | Custo % | Risco Relativo | Risco % | Prioridade |
 | ------------------------------------------ | --------------- | -------------------- | ----------- | --------- | -------------- | ------- | -------------- | ------- | ---------- |
