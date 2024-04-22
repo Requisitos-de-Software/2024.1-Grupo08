@@ -11,13 +11,6 @@ O Método "In or Out" é uma abordagem simples e eficaz para priorizar requisito
 
 ## In or Out
 
-Na tabela 1 abaixo mostra quais requisitos foram selecionados.
-
-<div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 1:</b> Requisitos selecionados</p></font>
-</div>
-
-
 | Identificador | Descrição | Tipo | Origem | In or Out |
 | :-: | :----------------------------------------: | :--------------------: | :------------------: | :--------: |
 | REQ01 | Deve ser possível fazer login utilizando o gov.br | Requisito Funcional | [INT01](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicitação/introspec/#metodologia) | IN |
@@ -37,22 +30,15 @@ Na tabela 1 abaixo mostra quais requisitos foram selecionados.
 | REQ15 | O aplicativo deve fornecer opções de acessibilidade (modo escuro, esquemas de cores, conteúdos em libras, etc.) | Requisito Não Funcional | [QUE03](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicitação/Questionário/#possiveis-requisitos); [INT13](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicitação/introspec/#metodologia) | OUT |
 | REQ16 | O aplicativo deve fornecer feedback ao usuário em caso de erros/falhas | Requisito Não Funcional | [INT14](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicitação/introspec/#metodologia) | IN |
 
+<div style="text-align: center;"><p>Tabela 1 - requisitos selecionados (Fonte: CÉSAR, Julio. 2024).</p></div>
+
 ## Reunião
-
-Na tabela 2 abaixo apresenta o cronograma da reunião.
-
-<div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 2:</b> Cronograma da Reunião</p></font>
-</div>
 
 | Data | Hora | Local | Tema | Mediador | Participante |
 | :--: | :--: | :---: | ------- | ------------ | ----- |
 | 17/04/2024 | 21h | Teams | Priorização de requisitos elicitados utilizando a técnica In or Out |[Júlio Cesar](https://github.com/Julio1099)|Gabrielle Kitahara|
 
-<div align="center">
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/Julio1099">Júlio Cesar</a>, 2024</p></font>
-</div>
-
+<div style="text-align: center;"><p>Tabela 2 - cronograma da reunião (Fonte: CÉSAR, Julio. 2024).</p></div>
 
 ## Link da Gravação
 
