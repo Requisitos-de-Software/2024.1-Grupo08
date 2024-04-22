@@ -4,9 +4,17 @@ A fim de realizar o projeto de maneira ética e legal, o grupo decidiu verificar
 
 Nosso grupo não deseja realizar engenharia reversa ou examinar o código-fonte do aplicativo, a fim de manter a integridade ética do projeto. Embora uma análise completa do aplicativo pudesse oferecer informações mais detalhadas, reconhecemos que nossa prioridade é respeitar os limites legais e éticos. Portanto, focalizar nos requisitos não implementados ainda nos permitiria identificar lacunas ou áreas de aprimoramento no aplicativo sem infringir as políticas da plataforma.
 
+
+## Versão em PDF - Termo de Uso 
+
+Como o documento de Termo de Uso está sujeito a alterações, é importante ressaltar que a versão consultada para o desenvolvimento do projeto pode diferir da versão mais atual disponibilizada pelo Consumidor.gov em seu app. A versão do *Termo de Uso* utilizada pode ser vista no formato **PDF** no arquivo 01, e foi obtida na data de ***20 de abril de 2024***, com a sua última atualização datada em *** 8 de junho de 2022 *** .
+
+<iframe width="100%" height="600" src="https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/assets/termo.pdf?raw=true"/>
+
+###### Arquivo 01 - Termo de Uso. Fonte: Consumidor. Disponível em: <https://www.consumidor.gov.br/pages/conteudo/publico/7> . Acesso em: 22 abr. 2024..
 ## Referências Bibliográficas
 
-Consumidor. Disponível em: <https://www.consumidor.gov.br/pages/conteudo/publico/7>. Acesso em: 22 abr. 2024.
+
 
 
 
