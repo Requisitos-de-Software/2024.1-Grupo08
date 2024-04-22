@@ -7,11 +7,9 @@ Nosso grupo não deseja realizar engenharia reversa ou examinar o código-fonte 
 
 ## Versão em PDF - Termo de Uso 
 
-Como o documento de Termo de Uso está sujeito a alterações, é importante ressaltar que a versão consultada para o desenvolvimento do projeto pode diferir da versão mais atual disponibilizada pelo Consumidor.gov em seu app. A versão do *Termo de Uso* utilizada pode ser vista no formato **PDF** no arquivo 01, e foi obtida na data de ***20 de abril de 2024***, com a sua última atualização datada em *** 8 de junho de 2022 *** .
+Como o documento de Termo de Uso está sujeito a alterações, é importante ressaltar que a versão consultada para o desenvolvimento do projeto pode diferir da versão mais atual disponibilizada pelo Consumidor.gov em seu app. A versão do *Termo de Uso* utilizada pode ser vista no formato **PDF** dentro do [repositório do projeto](https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/assets/termo.pdf), e foi obtida na data de ***22 de abril de 2024***, com a sua última atualização datada em *** 8 de junho de 2022 *** .
 
-<iframe width="100%" height="600" src="https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/assets/termo.pdf?raw=true"/>
 
-###### Arquivo 01 - Termo de Uso. Fonte: Consumidor. Disponível em: <https://www.consumidor.gov.br/pages/conteudo/publico/7> . Acesso em: 22 abr. 2024..
 ## Referências Bibliográficas
 
 
