@@ -100,7 +100,7 @@ Vídeo 2: gravação do StoryTelling 2 (Fonte: MEISTER, Guilherme 2024).
 
 [2] Storytelling do Grupo VLC de 2022.1. Disponível em: <https://github.com/Requisitos-de-Software/2023.1-VLC/>. Acesso em: 15 de abril de 2024.
 
-
+[3] Guia Facetado de Engenharia de Requisitos REtraining. Disponível em: <https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades/tecnicas-de-elicitacao-de-requisitos-historias-de-usuario>. Acesso em : 22 de abril de 2024. 
 
 ## Histórico de Versão
 | Versão | Data          | Descrição           | Autor(es)     |  Revisor(es)  |
