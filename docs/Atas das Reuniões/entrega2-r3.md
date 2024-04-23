@@ -1,4 +1,4 @@
-# Ata de Reunião E1 - 30/03/2024
+# Ata de Reunião E2 - 22/04/2024
 
 ## Introdução
 
