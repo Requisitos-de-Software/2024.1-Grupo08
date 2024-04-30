@@ -83,11 +83,11 @@ A Tabela 5 mostra as atividades planejadas para o Ponto de Controle 4, além de 
 
 | Atividade | Início | Fim | Data limite |Autores | Revisores |
 |-----------|--------|-----|-----|---------|-----------|
-| 1. Histórias de usuário | 09/05 | 11/05 | | Guilherme, Matheus | Henrique |
-| 2. Backlog |  09/05 | 11/05 | | Henrique, Rodrigo | Igor |
-| 3. NFR Framework | 09/05 | 11/05 | | Igor, Júlio | Guilherme |
-| 4. Gravação da apresentação | 12/05 | 12/05 || Todos | Matheus |
-| 5. Correções do Ponto de Controle anterior | 14/05 | 16/05 || Todos | Rodrigo |
+| 1. Histórias de usuário | 22/05 | 27/05 | 28/05 | Guilherme, Matheus | Henrique |
+| 2. Backlog | 22/05 | 27/05 | 28/05 | Henrique, Rodrigo | Igor |
+| 3. NFR Framework | 22/05 | 27/05 | 28/05 | Igor, Júlio | Guilherme |
+| 4. Gravação da apresentação | 27/05 | 27/05 | 28/05 | Todos | Matheus |
+| 5. Correções do Ponto de Controle anterior | 23/05 | 25/05 | 28/05 | Todos | Rodrigo |
 
 #### Tabela 5 - Itens planejados Ponto de Controle 4. (Fonte: MEISTER, Guilherme 2024).
 
