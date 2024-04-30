@@ -123,10 +123,10 @@ A Tabela 8 mostra as atividades planejadas para o Ponto de Controle 6, além de 
 
 | Atividade | Início | Fim | Data limite |Autores | Revisores |
 |-----------|--------|-----|-----|---------|-----------|
-| 1. Backward From | 25/05 | 01/06 || Henrique | Igor |
-| 2. Forward From | 25/05 | 01/06 || Igor | Júlio |
-| 3. Gravação da apresentação | 02/06 | 02/06 || Matheus | Rodrigo |
-| 4. Correções do Ponto de Controle anterior | 04/06 | 08/06 || Rodrigo | Guilherme |
+| 1. Backward From | 11/06 | 17/06 |18/06| Henrique | Igor |
+| 2. Forward From | 11/06 | 17/06 |18/06| Igor | Júlio |
+| 3. Gravação da apresentação | 17/06 | 17/06 |18/06| Matheus | Rodrigo |
+| 4. Correções do Ponto de Controle anterior | 11/06 | 15/06 |18/06| Rodrigo | Guilherme |
 
 #### Tabela 8 - Itens planejados Ponto de Controle 6. (Fonte: Guilherme Meister , 2024).
 
@@ -141,5 +141,6 @@ A Tabela 8 mostra as atividades planejadas para o Ponto de Controle 6, além de 
 ### Histórico de versão
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | :------: | :--------: | :-----------: | :-------: | :---------: |
+| 30/04 | `1.2` | novo cronograma para as novas datas | [Guilherme Meister](https://github.com/gmeister18) | [Henrique Galdino](https://github.com/hgaldino05)|
 | 03/04 | `1.1` | Preenchendo cronograma para as demais entregas | [Henrique Galdino](https://github.com/hgaldino05) | [Guilherme Meister](https://github.com/gmeister18)|
 | 03/04 | `1.0` | Criação da página cronograma planejado (divisão dos cronogramas) | Guilherme, Henrique, Igor, Júlio, Matheus, Rodrigo | [Guilherme Meister](https://github.com/gmeister18)
