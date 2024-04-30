@@ -68,12 +68,12 @@ A Tabela 4 mostra as atividades planejadas para o Ponto de Controle 3, além de 
 
 | Atividade | Início | Fim | Data limite |Autores | Revisores |
 |-----------|--------|-----|-----|---------|-----------|
-| Casos de uso | 22/04 | 10/05 | | Guilherme | Henrique |
-| Cenários |  22/04 | 10/05 | | Henrique | Igor |
-| Léxico | 22/04 | 10/05 | | Igor | Júlio |
-| Especificação suplementar |  22/04 | 10/05 | | Júlio | Matheus |
-| Gravação da apresentação | 05/05 | 05/05 | | Matheus | Rodrigo |
-| Correções do Ponto de Controle anterior | 07/05 | 09/05 | | Rodrigo | Guilherme |
+| Casos de uso | 03/05 | 19/05 | 21/05 | Guilherme, Matheus | Henrique |
+| Cenários |  03/05 | 19/05 | 21/05 | Henrique, Rodrigo | Igor |
+| Léxico | 03/05 | 19/05 | 21/05 | Igor, Júlio | Guilherme |
+| Especificação suplementar |  03/05 | 19/05 | 21/05 | Júlio, Matheus e Guilherme | Igor, Henrique |
+| Gravação da apresentação | 19/05 | 19/05 | 21/05 | Todos | Rodrigo |
+| Correções do Ponto de Controle anterior | 03/05 | 09/05 | 21/05 | Todos | Guilherme |
 
 #### Tabela 4 - Itens planejados Ponto de Controle 3. (Fonte: MEISTER, Guilherme 2024).
 
@@ -83,11 +83,11 @@ A Tabela 5 mostra as atividades planejadas para o Ponto de Controle 4, além de 
 
 | Atividade | Início | Fim | Data limite |Autores | Revisores |
 |-----------|--------|-----|-----|---------|-----------|
-| 1. Histórias de usuário | 09/05 | 11/05 | | Guilherme | Henrique |
-| 2. Backlog |  09/05 | 11/05 | | Henrique | Igor |
-| 3. NFR Framework | 09/05 | 11/05 | | Igor | Júlio |
-| 4. Gravação da apresentação | 12/05 | 12/05 || Júlio | Matheus |
-| 5. Correções do Ponto de Controle anterior | 14/05 | 16/05 || Matheus | Rodrigo |
+| 1. Histórias de usuário | 09/05 | 11/05 | | Guilherme, Matheus | Henrique |
+| 2. Backlog |  09/05 | 11/05 | | Henrique, Rodrigo | Igor |
+| 3. NFR Framework | 09/05 | 11/05 | | Igor, Júlio | Guilherme |
+| 4. Gravação da apresentação | 12/05 | 12/05 || Todos | Matheus |
+| 5. Correções do Ponto de Controle anterior | 14/05 | 16/05 || Todos | Rodrigo |
 
 #### Tabela 5 - Itens planejados Ponto de Controle 4. (Fonte: MEISTER, Guilherme 2024).
 
