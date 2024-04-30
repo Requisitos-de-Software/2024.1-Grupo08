@@ -97,10 +97,10 @@ A Tabela 6 mostra as atividades planejadas para o Ponto de Controle 5.1, além d
 
 | Atividade | Início | Fim | Data limite |Autores | Revisores |
 |-----------|--------|-----|-----|---------|-----------|
-| 1. Verificação de requisitos 1 | 16/05 | 18/05 || Guilherme, Igor | Henrique, Júlio |
-| 2. Validação de requisitos 1 | 16/05 | 18/05 || Henrique, Júlio | Igor, Matheus |
-| 3. Gravação da apresentação | 19/05 | 19/05 || Guilherme, Rodrigo | Henrique, Matheus |
-| 4. Correções do Ponto de Controle anterior | 23/05 | 25/05 || Matheus, Henrique | Rodrigo, Júlio |
+| 1. Verificação de requisitos 1 | 30/05 | 09/06 | 11/06 | Guilherme, Igor | Henrique, Júlio |
+| 2. Validação de requisitos 1 | 30/05 | 09/06 | 11/06 | Henrique, Júlio | Igor, Matheus |
+| 3. Gravação da apresentação | 10/06 | 10/06 |11/06| Guilherme, Rodrigo | Henrique, Matheus |
+| 4. Correções do Ponto de Controle anterior | 30/05 | 04/06 | 11/06 | Matheus, Henrique | Rodrigo, Júlio |
 
 #### Tabela 6 - Itens planejados Ponto de Controle 5.1. (Fonte: MEISTER, Guilherme 2024).
 
@@ -110,10 +110,10 @@ A Tabela 7 mostra as atividades planejadas para o Ponto de Controle 5.2, além d
 
 | Atividade | Início | Fim | Data limite |Autores | Revisores |
 |-----------|--------|-----|-----|---------|-----------|
-| 1. Verificação de requisitos 2 | 08/06 | 15/06 || Guilherme, Igor | Henrique, Júlio |
-| 2. Validação de requisitos 2 | 08/06 | 15/06 || Júlio, Rodrigo | Matheus, Guilherme |
-| 3. Gravação da apresentação | 16/06 | 16/06 || Henrique, Matheus | Igor, Rodrigo |
-| 4. Correções do Ponto de Controle anterior | 15/06 | 23/06 || Igor, Rodrigo | Júlio, Guilherme |
+| 1. Verificação de requisitos 2 | 19/06 | 24/06 |25/06| Guilherme, Igor | Henrique, Júlio |
+| 2. Validação de requisitos 2 | 19/06 | 24/06 |25/06| Júlio, Rodrigo | Matheus, Guilherme |
+| 3. Gravação da apresentação | 24/06 | 24/06 |25/06| Henrique, Matheus | Igor, Rodrigo |
+| 4. Correções do Ponto de Controle anterior | 19/06 | 22/06 |25/06| Igor, Rodrigo | Júlio, Guilherme |
 
 #### Tabela 7 - Itens planejados Ponto de Controle 5.2. (Fonte: MEISTER, Guilherme 2024).
 
