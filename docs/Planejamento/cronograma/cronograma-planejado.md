@@ -83,11 +83,11 @@ A Tabela 5 mostra as atividades planejadas para o Ponto de Controle 4, além de 
 
 | Atividade | Início | Fim | Data limite |Autores | Revisores |
 |-----------|--------|-----|-----|---------|-----------|
-| 1. Histórias de usuário | 09/05 | 11/05 | Guilherme | Henrique |
-| 2. Backlog |  09/05 | 11/05 | Henrique | Igor |
-| 3. NFR Framework | 09/05 | 11/05 | Igor | Júlio |
-| 4. Gravação da apresentação | 12/05 | 12/05 | Júlio | Matheus |
-| 5. Correções do Ponto de Controle anterior | 14/05 | 16/05 | Matheus | Rodrigo |
+| 1. Histórias de usuário | 09/05 | 11/05 | | Guilherme | Henrique |
+| 2. Backlog |  09/05 | 11/05 | | Henrique | Igor |
+| 3. NFR Framework | 09/05 | 11/05 | | Igor | Júlio |
+| 4. Gravação da apresentação | 12/05 | 12/05 || Júlio | Matheus |
+| 5. Correções do Ponto de Controle anterior | 14/05 | 16/05 || Matheus | Rodrigo |
 
 #### Tabela 5 - Itens planejados Ponto de Controle 4. (Fonte: MEISTER, Guilherme 2024).
 
@@ -97,10 +97,10 @@ A Tabela 6 mostra as atividades planejadas para o Ponto de Controle 5.1, além d
 
 | Atividade | Início | Fim | Data limite |Autores | Revisores |
 |-----------|--------|-----|-----|---------|-----------|
-| 1. Verificação de requisitos 1 | 16/05 | 18/05 | Guilherme, Igor | Henrique, Júlio |
-| 2. Validação de requisitos 1 | 16/05 | 18/05 | Henrique, Júlio | Igor, Matheus |
-| 3. Gravação da apresentação | 19/05 | 19/05 | Guilherme, Rodrigo | Henrique, Matheus |
-| 4. Correções do Ponto de Controle anterior | 23/05 | 25/05 | Matheus, Henrique | Rodrigo, Júlio |
+| 1. Verificação de requisitos 1 | 16/05 | 18/05 || Guilherme, Igor | Henrique, Júlio |
+| 2. Validação de requisitos 1 | 16/05 | 18/05 || Henrique, Júlio | Igor, Matheus |
+| 3. Gravação da apresentação | 19/05 | 19/05 || Guilherme, Rodrigo | Henrique, Matheus |
+| 4. Correções do Ponto de Controle anterior | 23/05 | 25/05 || Matheus, Henrique | Rodrigo, Júlio |
 
 #### Tabela 6 - Itens planejados Ponto de Controle 5.1. (Fonte: MEISTER, Guilherme 2024).
 
@@ -110,10 +110,10 @@ A Tabela 7 mostra as atividades planejadas para o Ponto de Controle 5.2, além d
 
 | Atividade | Início | Fim | Data limite |Autores | Revisores |
 |-----------|--------|-----|-----|---------|-----------|
-| 1. Verificação de requisitos 2 | 08/06 | 15/06 | Guilherme, Igor | Henrique, Júlio |
-| 2. Validação de requisitos 2 | 08/06 | 15/06 | Júlio, Rodrigo | Matheus, Guilherme |
-| 3. Gravação da apresentação | 16/06 | 16/06 | Henrique, Matheus | Igor, Rodrigo |
-| 4. Correções do Ponto de Controle anterior | 15/06 | 23/06 | Igor, Rodrigo | Júlio, Guilherme |
+| 1. Verificação de requisitos 2 | 08/06 | 15/06 || Guilherme, Igor | Henrique, Júlio |
+| 2. Validação de requisitos 2 | 08/06 | 15/06 || Júlio, Rodrigo | Matheus, Guilherme |
+| 3. Gravação da apresentação | 16/06 | 16/06 || Henrique, Matheus | Igor, Rodrigo |
+| 4. Correções do Ponto de Controle anterior | 15/06 | 23/06 || Igor, Rodrigo | Júlio, Guilherme |
 
 #### Tabela 7 - Itens planejados Ponto de Controle 5.2. (Fonte: MEISTER, Guilherme 2024).
 
@@ -123,10 +123,10 @@ A Tabela 8 mostra as atividades planejadas para o Ponto de Controle 6, além de 
 
 | Atividade | Início | Fim | Data limite |Autores | Revisores |
 |-----------|--------|-----|-----|---------|-----------|
-| 1. Backward From | 25/05 | 01/06 | Henrique | Igor |
-| 2. Forward From | 25/05 | 01/06 | Igor | Júlio |
-| 3. Gravação da apresentação | 02/06 | 02/06 | Matheus | Rodrigo |
-| 4. Correções do Ponto de Controle anterior | 04/06 | 08/06 | Rodrigo | Guilherme |
+| 1. Backward From | 25/05 | 01/06 || Henrique | Igor |
+| 2. Forward From | 25/05 | 01/06 || Igor | Júlio |
+| 3. Gravação da apresentação | 02/06 | 02/06 || Matheus | Rodrigo |
+| 4. Correções do Ponto de Controle anterior | 04/06 | 08/06 || Rodrigo | Guilherme |
 
 #### Tabela 8 - Itens planejados Ponto de Controle 6. (Fonte: Guilherme Meister , 2024).
 
