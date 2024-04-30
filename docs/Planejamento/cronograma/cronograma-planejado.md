@@ -68,12 +68,12 @@ A Tabela 4 mostra as atividades planejadas para o Ponto de Controle 3, além de 
 
 | Atividade | Início | Fim | Data limite |Autores | Revisores |
 |-----------|--------|-----|-----|---------|-----------|
-| Casos de uso | 22/04 | 10/05 | Guilherme | Henrique |
-| Cenários |  22/04 | 10/05 | Henrique | Igor |
-| Léxico | 22/04 | 10/05 | Igor | Júlio |
-| Especificação suplementar | 22/04 | 10/05 | Júlio | Matheus |
-| Gravação da apresentação | 05/05 | 05/05 | Matheus | Rodrigo |
-| Correções do Ponto de Controle anterior | 07/05 | 09/05 | Rodrigo | Guilherme |
+| Casos de uso | 22/04 | 10/05 | | Guilherme | Henrique |
+| Cenários |  22/04 | 10/05 | | Henrique | Igor |
+| Léxico | 22/04 | 10/05 | | Igor | Júlio |
+| Especificação suplementar |  22/04 | 10/05 | | Júlio | Matheus |
+| Gravação da apresentação | 05/05 | 05/05 | | Matheus | Rodrigo |
+| Correções do Ponto de Controle anterior | 07/05 | 09/05 | | Rodrigo | Guilherme |
 
 #### Tabela 4 - Itens planejados Ponto de Controle 3. (Fonte: MEISTER, Guilherme 2024).
 
