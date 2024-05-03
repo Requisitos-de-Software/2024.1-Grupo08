@@ -2,23 +2,15 @@
 
 ## Introdução
 
-<div style="text-align:justify">
-
 O diagrama de casos, também chamado de diagrama comportamental, na notação da UML, tem como proposta documentar a maneira como o sistema deve se comportar do ponto de vista do usuário externo, utilizando dos lexos levantados para elaboração dos casos de uso, dessa forma descrevendo um conjunto de ações do sistema.
 
 ## Metodologia 
-
-<div style="text-align:justify">
   
 Para criação do artefato realizamos a criação de um diagrama de casos de uso UML com o intuito de mostrar como o sitema deve se comportar. Foi utilizada o <a href="https://www.lucidchart.com/pages/pt">LucidChart</a>, para criar o diagramação no geral. 
-</div>
 
 ## Componentes e símbolos
 
-<div style="text-align:justify">
-
 Um diagrama de casos de uso possui os seguintes elementos em sua composição:
-</div>
 
 | Nome | Função | Elemento
 |------|------|:-------:
