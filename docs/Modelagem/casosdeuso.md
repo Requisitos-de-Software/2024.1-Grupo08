@@ -22,3 +22,41 @@ Um diagrama de casos de uso possui os seguintes elementos em sua composição:
 <div style="text-align: center">
 <p> Tabela 1: Elementos do diagrama de casos de uso. (Fonte: MEISTER, Guilherme. 2024).</p>
 </div>
+
+## Casos de uso
+
+Os casos de usos mais importantes e mais utilizados encontrados no aplicativo estão representados na Figura 2. Uma melhor visualização da imagem pode ser encontrada em <a >casos de uso Consumidor.gov.</a></p>
+
+<p align="justify">A Figura 2 apresenta o diagrama de casos de uso do aplicativo Consumidor.gov.</p>
+
+<img src="" width="100%">
+
+<div align="center">
+<p> <b>Figura 2</b>: Elemento comunicação (Fonte: MEISTER, Guilherme 2024). </p>
+</div>
+
+<p align="justify">A seguir, a especificação dos casos de uso identificados com 'UC' (Use case) seguido por uma enumeração.</p>
+
+### UC01. 
+
+| UC01 | Mídia |
+| -: | :- |
+| **Atores** | Usuário |
+| **Frequência de uso** |  |
+| **Requisitos** |  |
+| **Condição de entrada** |  |
+| **Fluxo principal** |  |
+| **Fluxos alternativos** |  |
+| **Fluxos de exceção** | |
+| **Pós condições** |  |
+| **Data da criação** |  |
+| **Rastreabilidade** |  |
+
+<div style="text-align: center">
+<p> Tabela 2: Especificação do caso de uso: . (Fonte: MEISTER, Guilherme. 2023).</p>
+</div>
+
+## Bibliografia
+<div text-align="justify">
+[1] Ferramenta Lucidchart, disponível no <a href="https://www.lucidchart.com/pages/pt">link</a>. Acessado em 05 de maio. de 2024.
+</div>
