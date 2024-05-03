@@ -22,10 +22,10 @@ Um diagrama de casos de uso possui os seguintes elementos em sua composição:
 
 | Nome | Função | Elemento
 |------|------|:-------:
-| Ator | Representam os diferentes tipos de usuários externos que interagem com o sistema | <figure class="usecaseElement" style="width: 20%; display: flex;"></figure>
-| Elipse (Caso de Uso) | É usada para representar os casos de uso no diagrama. Um caso de uso descreve uma funcionalidade ou uma ação específica que o sistema pode realizar em resposta às interações dos atores. A elipse contém o nome do caso de uso | <figure class="usecaseElement" style="width: 40%; display: flex;"></figure>
-| Retângulo (Sistema) | Usado para representar o sistema ou o bloco em análise. Ele envolve os casos de uso e atores relacionados | <figure class="usecaseElement" style="width: 40%; display: flex;"></figure>
-| Flecha (Relações) | As flechas são usadas para representar as relações ou interações entre atores e casos de uso | <figure class="usecaseElement" style="width: 40%; display: flex;"></figure>
+| Atores | Representam os usuários e sistemas, ou um tipo dele, normalmente são representados por bonecos de palito | <figure class="usecaseElement" style="width: 20%; display: flex;"></figure>
+| Caso de uso | É uma atuação ou funcionalidade realizada pelo ator.Geralmente são definidos por um objeto na forma oval horizontal | <figure class="usecaseElement" style="width: 40%; display: flex;"></figure>
+| Cenário | Nesse elemento, eh descrito os eventos que acontecem quando um usuário manuseia o sistema. | <figure class="usecaseElement" style="width: 40%; display: flex;"></figure>
+| Comunicação (ou ação) | Consiste em uma ação que o usuário irá realizar sobre o caso de uso | <figure class="usecaseElement" style="width: 40%; display: flex;"></figure>
 
 <div style="text-align: center">
 <p> Tabela 1: Elementos do diagrama de casos de uso. (Fonte: MEISTER, Guilherme. 2024).</p>
