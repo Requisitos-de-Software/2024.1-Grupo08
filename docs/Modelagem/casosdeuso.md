@@ -14,10 +14,10 @@ Um diagrama de casos de uso possui os seguintes elementos em sua composição:
 
 | Nome | Função | Elemento
 |------|------|:-------:
-| Atores | Representam os usuários e sistemas, ou um tipo dele, normalmente são representados por bonecos de palito | <figure class="usecaseElement" style="width: 20%; display: flex;"></figure>
-| Caso de uso | É uma atuação ou funcionalidade realizada pelo ator.Geralmente são definidos por um objeto na forma oval horizontal | <figure class="usecaseElement" style="width: 40%; display: flex;"></figure>
-| Cenário | Nesse elemento, eh descrito os eventos que acontecem quando um usuário manuseia o sistema. | <figure class="usecaseElement" style="width: 40%; display: flex;"></figure>
-| Comunicação (ou ação) | Consiste em uma ação que o usuário irá realizar sobre o caso de uso | <figure class="usecaseElement" style="width: 40%; display: flex;"></figure>
+| Atores | Representam os usuários e sistemas, ou um tipo dele, normalmente são representados por bonecos de palito | <figure class="usecaseElement" style="width: 20%; display: flex;">![actor](../assets/usecase/actor.png)</figure>
+| Caso de uso | É uma atuação ou funcionalidade realizada pelo ator.Geralmente são definidos por um objeto na forma oval horizontal | <figure class="usecaseElement" style="width: 40%; display: flex;">![elipse](../assets/usecase/elipse.png)</figure>
+| Cenário | Nesse elemento, eh descrito os eventos que acontecem quando um usuário manuseia o sistema. | <figure class="usecaseElement" style="width: 40%; display: flex;">![retangulo](../assets/usecase/retangulo.png)</figure>
+| Comunicação (ou ação) | Consiste em uma ação que o usuário irá realizar sobre o caso de uso | <figure class="usecaseElement" style="width: 40%; display: flex;">![flechas](../assets/usecase/flecha.png)</figure>
 
 <div style="text-align: center">
 <p> Tabela 1: Elementos do diagrama de casos de uso. (Fonte: MEISTER, Guilherme. 2024).</p>
