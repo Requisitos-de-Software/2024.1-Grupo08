@@ -27,16 +27,26 @@ As imagens presentes na elaboração das personas foram criadas pelo site [This 
 
 Neste projeto, estaremos utilizando personas como uma ferramenta fundamental para a construção do artefato de encenação. As personas são representações fictícias de usuários reais que nos ajudam a entender melhor as necessidades, comportamentos e objetivos dos nossos usuários-alvo.
 
+### Aplicando ao projeto
+
+Cada projeto possui seu próprio elenco de personas, que consiste de três a 12 personas distintas. Dessa forma, ao analisar o perfil de usuário obtido para os usuários do Consumidor.gov , foi optado por utilizar 4 personas, em que utilizamos 3 personas para abranger todos os papeis de usuários coloetados e 1 persona que representaria o papel de um usuário que não se encaixa no perfil dos usuários, assim, chegamos a formulação das 4 personas do projeto.
+  
+Neste projeto, estaremos utilizando personas como uma ferramenta fundamental para a construção do artefato de encenação. As personas são representações fictícias de usuários reais que nos ajudam a entender melhor as necessidades, comportamentos e objetivos dos nossos usuários-alvo.
+  
+Ao criar personas, estamos essencialmente criando arquétipos de usuários com características específicas que podem representar diferentes segmentos do nosso público-alvo. Isso nos permite personalizar e direcionar nossos esforços de design, tornando-os mais centrados no usuário.
+
+Na encenação, por outro lado, o desenvolvedor responsável iria interpretar a persona, de maneira, que o time pudesse utilizar essa ferramenta para a elicitação de requisitos dentro do projeto.
+
 ## Perfil do Usuário
 
 As Personas partiram do perfil de usuário, representado na Tabela 1, que foi traçado a partir dos resultados do questionário aplicado pelo grupo.
 
 | Característica    | Descrição                                                                    |
 | ----------------- | ---------------------------------------------------------------------------- |
-| Idade             |                                                                    |
-| Experiência       |                                        |
-| Atitudes          |                                                                    |
-| Tarefas primárias |                                                 |
+| Idade             |      20-60 anos                                                              |
+| Experiência       |    média/baixa esperiência com tecnologia                                     |
+| Atitudes          |   Acadêmicos e não-acadêmicos                                                                 |
+| Tarefas primárias |   fazer reclamações a empresas                                           |
 
 #### Tabela 1: Perfil do usuário (fonte: MEISTER, Guilherme 2024).
 
