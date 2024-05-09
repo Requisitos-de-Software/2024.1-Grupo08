@@ -132,6 +132,12 @@ O elenco é composto de duas personas primárias, uma persona secundária e uma 
 
 #### Tabela 5: Persona 04 (DIOGO, Matheus. 2024).
 
+| Avaliador | Data | Horário | Local |
+| :-------------------: | :----------------: | :----------------: | :-------------------: |
+| Guilherme Meister e Matheus Ferreira | 17/04/2024 | 11:32 | Microsoft Team |
+
+#### Tabela 6: Dados da elicitação
+
 ## Bibliografia
 
 [1] This Person Doest Not Exist. Acesso em: 25/04/2023. Disponível em: <https://this-person-does-not-exist.com/en> <br>
@@ -140,10 +146,11 @@ O elenco é composto de duas personas primárias, uma persona secundária e uma 
 
 | Data | Versão | Descrição | Autor(es) | Data de revisão | Revisor(es) |
 | :--:       | :----: | :-------: | :---: | :-------------: | :-----: |
+| 09/05/2024 | `1.2`  | Correções apó feedback | [Guilherme Meister](https://github.com/gmeister18) | --/--/2024 | [Rodrigo ](https://github.com/rodrigogontijoo) |
 | 10/04/2024 | `1.1`  | Correções do artefato | [Henrique Galdino](https://github.com/hgaldino05) | 10/04/2024 | [Rodrigo ](https://github.com/rodrigogontijoo) |
 | 05/04/2024 | `1.0`  | Criação do artefato | [Guilherme Meister](https://github.com/gmeister18) e [Matheus Ferreira](https://github.com/matferreira1) | 10/04/2024 | [Henrique Galdino](https://github.com/hgaldino05) e [Rodrigo ](https://github.com/rodrigogontijoo) |
 
 <div align="center">
-<figcaption align="left">Tabela 6: Histórico de versões(Fonte: Autoria própria)</figcaption>
+<figcaption align="left">Tabela 7: Histórico de versões(Fonte: Autoria própria)</figcaption>
 </div>
 <br/>
