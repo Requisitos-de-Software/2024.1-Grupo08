@@ -31,6 +31,10 @@ A técnica utilizada neste documento é a análise de documentos. Essa técnica 
 - Respeito à privacidade do usuário e ausência de rastreamento ou coleta de dados invasiva [Política de Privacidade](https://www.consumidor.gov.br/pages/conteudo/publico/7). [Formato **PDF**](https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/assets/termo%20de%20privacidade.pdf)
 - Proteção contra vulnerabilidades [Política de Privacidade](https://www.consumidor.gov.br/pages/conteudo/publico/7). [Formato **PDF**](https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/assets/termo%20de%20privacidade.pdf)
 
+| Avaliador | Data | Horário | Local |
+| :-------: | :--: | :-----: | :---: |
+| Guilherme Meister | 16/04/2024 | 14:32 | Microsoft Teams |  
+
 ## Tabela de requisitos
 
 | Identificação | Descrição | Categoria |
