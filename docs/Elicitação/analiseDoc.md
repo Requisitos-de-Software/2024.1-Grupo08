@@ -23,13 +23,13 @@ A técnica utilizada neste documento é a análise de documentos. Essa técnica 
 
 ### Requisitos de Usabilidade e Acessibilidade
 
-- Interface do usuário intuitiva e fácil de usar [Consumidor.gov User Reviews](https://apps.apple.com/br/app/consumidor-gov-br/id1492523966?see-all=reviews). [Formato **PDF**](https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/assets/conheca-consumidor.gov.pdf)
+- Interface do usuário intuitiva e fácil de usar [Consumidor.gov User Reviews](https://apps.apple.com/br/app/consumidor-gov-br/id1492523966?see-all=reviews). [Formato **PDF**](https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/assets/review-apple.pdf)
 - Suporte ao modo escuro e letras maiores
 
 ### Requisitos de Segurança e Privacidade
 
-- Respeito à privacidade do usuário e ausência de rastreamento ou coleta de dados invasiva [Política de Privacidade](https://www.consumidor.gov.br/pages/conteudo/publico/7). [Formato **PDF**](https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/assets/conheca-consumidor.gov.pdf)
-- Proteção contra vulnerabilidades [Política de Privacidade](https://www.consumidor.gov.br/pages/conteudo/publico/7). [Formato **PDF**](https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/assets/conheca-consumidor.gov.pdf)
+- Respeito à privacidade do usuário e ausência de rastreamento ou coleta de dados invasiva [Política de Privacidade](https://www.consumidor.gov.br/pages/conteudo/publico/7). [Formato **PDF**](https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/assets/termo%20de%20privacidade.pdf)
+- Proteção contra vulnerabilidades [Política de Privacidade](https://www.consumidor.gov.br/pages/conteudo/publico/7). [Formato **PDF**](https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/assets/termo%20de%20privacidade.pdf)
 
 ## Tabela de requisitos
 
@@ -75,4 +75,5 @@ A técnica utilizada neste documento é a análise de documentos. Essa técnica 
 ## Histórico de Versões
 | Data | Versão | Descrição | Autor(es) | Data de revisão | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: | :-: |
+| 09/05/2024 | `1.1` | Correção após feedback | [Guilherme Meister](https://github.com/gmeister18) | 30/04/2023 | [Henrique Galdino](https://github.com/hgaldino05) |
 | 15/04/2024 | `1.0` | Criando o artefato | [Guilherme Meister](https://github.com/gmeister18) | 30/04/2023 | [Henrique Galdino](https://github.com/hgaldino05) |
