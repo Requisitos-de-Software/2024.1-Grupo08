@@ -75,5 +75,5 @@ A técnica utilizada neste documento é a análise de documentos. Essa técnica 
 ## Histórico de Versões
 | Data | Versão | Descrição | Autor(es) | Data de revisão | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| 09/05/2024 | `1.1` | Correção após feedback | [Guilherme Meister](https://github.com/gmeister18) | 30/04/2023 | [Henrique Galdino](https://github.com/hgaldino05) |
+| 09/05/2024 | `1.1` | Correção após feedback | [Guilherme Meister](https://github.com/gmeister18) | --/--/2023 | [Henrique Galdino](https://github.com/hgaldino05) |
 | 15/04/2024 | `1.0` | Criando o artefato | [Guilherme Meister](https://github.com/gmeister18) | 30/04/2023 | [Henrique Galdino](https://github.com/hgaldino05) |
