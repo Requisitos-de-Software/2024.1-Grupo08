@@ -22,7 +22,7 @@ A execução do questionário deve ser realizada levando em conta o público alv
 ## Resultados coletados
 
 Tendo em mente o vasto público-alvo que o aplicativo Consumidor.gov visa atender. Os resultados coletados para realizar a elicitação dos requisitos do projeto, proveniente do questionário, podem ser encontrados posteriormente no texto,
-Os usuários antes de realizar o Questionário aceitaram um <a href="https://docs.google.com/document/d/1DGywQBzByBvDd5y1Gb5rzf5P1LD43F0ZqC0eocd6_RA/edit">termo de consentimento</a> redigido pela equipe. As figuras numeradas de **1 a 9** apresentam as respostas coletadas no questionário, coletadas entre as datas **05/04/2024** e **09/04/2024**.
+Os usuários antes de realizar o Questionário aceitaram um <a href="https://docs.google.com/document/d/1DGywQBzByBvDd5y1Gb5rzf5P1LD43F0ZqC0eocd6_RA/edit">termo de consentimento</a> redigido pela equipe. As figuras numeradas de **1 a 9** apresentam as respostas coletadas no questionário, coletadas entre as datas **05/04/2024** e **09/04/2024**. Contamos com um total de **30 respostas** ao questionário.
 
 ### Pergunta 1
 
@@ -220,6 +220,7 @@ Dentro da tabela, podemos ver algumas sugestões e necessidades relacionados ao 
 
 | Data | Versão | Descrição | Autor(es) | Data de revisão | Revisor(es) |
 | :--:       | :----: | :-------: | :---: | :-------------: | :-----: |
+| 09/05/2024 | `1.2`  | Correções após feedback | [Guilherme Meister](https://github.com/gmeister18) | --/--/2024 | [Rodrigo ](https://github.com/rodrigogontijoo) |
 | 10/04/2024 | `1.1`  | Correções do artefato | [Henrique Galdino](https://github.com/hgaldino05) | 10/04/2024 | [Rodrigo ](https://github.com/rodrigogontijoo) |
 | 05/04/2024 | `1.0`  | Criação do artefato | [Guilherme Meister](https://github.com/gmeister18) e [Matheus Ferreira](https://github.com/matferreira1) | 10/04/2024 | [Henrique Galdino](https://github.com/hgaldino05) e [Rodrigo ](https://github.com/rodrigogontijoo) |
 
