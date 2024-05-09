@@ -207,6 +207,11 @@ Dentro da tabela, podemos ver algumas sugestões e necessidades relacionados ao 
 - RF: Requisito Funcional
 - RNF: Requisito Não Funcional
 
+| Avaliador | Data | Horário | Local |
+| :-------------------: | :----------------: | :----------------: | :-------------------: |
+| Guilherme Meister | 05/04/2024 a 09/04/2024 | 11:32 | Microsoft Team |
+
+#### Tabela 6: Dados da elicitação
 
 ## Bibliografia
 
