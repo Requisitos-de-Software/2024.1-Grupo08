@@ -148,6 +148,10 @@ O elenco é composto de duas personas primárias, uma persona secundária e uma 
 
 #### Tabela 6: Dados da elicitação
 
+## Referências Bibliográficas
+
+[1] BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011. <br>
+
 ## Bibliografia
 
 [1] This Person Doest Not Exist. Acesso em: 25/04/2023. Disponível em: <https://this-person-does-not-exist.com/en> <br>
