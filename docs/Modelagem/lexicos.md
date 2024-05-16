@@ -6,7 +6,7 @@ Léxicos são conjuntos de termos específicos usados em uma área particular, c
 
 ## <a> Metodologia </a>
 
-Para criar os léxicos, empregamos a metodologia do Léxico Ampliado da Linguagem (LAL)^1^, com os conceitos detalhados na Tabela 1, enquanto o modelo adotado está disponível na Tabela 2:
+Para criar os léxicos, empregamos a metodologia do Léxico Ampliado da Linguagem (LAL)<a id="anchor_1" href="#REF1">^1^</a>, com os conceitos detalhados na Tabela 1, enquanto o modelo adotado está disponível na Tabela 2:
 
 <figure markdown>
 <font size="3"><p style="text-align: center"><b>Tabela 1</b> - Léxicos do tipo LAL</p></font>
@@ -48,5 +48,15 @@ A tabela 3 mostra o template criado com base nos Léxicos do projeto [Bilheteria
 | Noção | Símbolo. |
 | Sinônimos | Dicionário de palavras |
 
-<font size="3"><p style="text-align: center">Fonte: [Júlio Cesar](https://github.com/Julio1099).</p></font>
+<font size="3"><p style="text-align: center">Fonte: [CÉSAR, Julio. 2024](https://github.com/Julio1099).</p></font>
 </figure>
+
+## Referências Bibliográficas
+
+> <a id="REF1" href="#anchor_1">1.</a> SAYÃO, Miriam, CARVALHO, Gustavo. Construção do léxico de aplicações. Information and Human Language Technology, 4th Workshop, Ribeirão Preto, 2006. Disponível em: <http://www-di.inf.puc-rio.br/~julio/bnncap3.pdf/>. Acesso em: 16/05/2024.
+
+## Histórico de Versões
+
+| Versão | Data       | Descrição                                    | Autor(es)                                        | Revisor(es)                                      |
+| ------ | ---------- | -------------------------------------------- | ------------------------------------------------ | ------------------------------------------------ |
+| `1.0`  | 16/05/2024 | Criação dos léxicos.                           | [Júlio Cesar](https://github.com/Julio1099) | ** |
