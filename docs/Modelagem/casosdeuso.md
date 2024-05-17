@@ -40,7 +40,7 @@ Os casos de usos mais importantes e mais utilizados encontrados no aplicativo es
 ### UC01. 
 
 | UC01 | Pesquisar empresa |
-| -: | :- |
+| :-----: | :-----: |
 | **Atores** | Usuário |
 | **Frequência de uso** | Alta |
 | **Requisitos** | Abrir a página principal do app |
@@ -61,7 +61,7 @@ formato **PDF** <a href="https://github.com/Requisitos-de-Software/2024.1-Consum
 ### UC02.
 
 | UC02 | Abrir reclamação |
-| -: | :- |
+| :-----: | :-----: |
 | **Atores** | Usuário |
 | **Frequência de uso** | Alta |
 | **Requisitos** | disponibilidade da empresa no app |
@@ -103,7 +103,7 @@ formato **PDF** <a href="https://github.com/Requisitos-de-Software/2024.1-Consum
 ### UC04.
 
 | UC04 | Visualizar minhas reclamaçãoes|
-| -: | :- |
+| :-----: | :-----:|
 | **Atores** | Usuário |
 | **Frequência de uso** | Alta |
 | **Requisitos** | usuário já deve ter realizado uma reclamação no app |
@@ -124,7 +124,7 @@ formato **PDF** <a href="https://github.com/Requisitos-de-Software/2024.1-Consum
 ### UC05.
 
 | UC05 | Visualizar Dados Gerais|
-| -: | :- |
+| :-----: | :-----: |
 | **Atores** | Usuário |
 | **Frequência de uso** | Baixa |
 | **Requisitos** | usuário deve clickar na opção |
@@ -145,7 +145,7 @@ formato **PDF** <a href="https://github.com/Requisitos-de-Software/2024.1-Consum
 ### UC06.
 
 | UC06 | Visualizar meus Dados |
-| -: | :- |
+| :-----: | :-----: |
 | **Atores** | Usuário |
 | **Frequência de uso** | Média |
 | **Requisitos** | usuário deve ter um cadastro no app |
@@ -166,7 +166,7 @@ formato **PDF** <a href="https://github.com/Requisitos-de-Software/2024.1-Consum
 ### UC07.
 
 | UC07 | Responder Reclamação |
-| -: | :- |
+| :-----: | :-----: |
 | **Atores** | Empresa |
 | **Frequência de uso** | Alta |
 | **Requisitos** | Empresa deve ter um cadastro no app |
@@ -184,7 +184,7 @@ formato **PDF** <a href="https://github.com/Requisitos-de-Software/2024.1-Consum
 ### UC08.
 
 | UC08 | Avaliar Empresa |
-| -: | :- |
+| :-----: | :-----: |
 | **Atores** | Usuário |
 | **Frequência de uso** | Alta |
 | **Requisitos** | usuário deve ter feito uma reclamação |
