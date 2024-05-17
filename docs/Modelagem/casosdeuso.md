@@ -53,8 +53,26 @@ Os casos de usos mais importantes e mais utilizados encontrados no aplicativo es
 | **Rastreabilidade** |  |
 
 <div style="text-align: center">
-<p> Tabela 2: Especificação do caso de uso: . (Fonte: MEISTER, Guilherme. 2023).</p>
+<p> Tabela 2: Especificação do caso de uso: Pesquisar empresa. (Fonte: MEISTER, Guilherme. 2024).</p>
 </div>
+
+### UC02.
+
+| UC02 | Abrir reclamação |
+| -: | :- |
+| **Atores** | Usuário |
+| **Frequência de uso** | Alta |
+| **Requisitos** | disponibilidade da empresa no app |
+| **Condição de entrada** | O usuário seleciona encontra a empresa e abre reclamação |
+| **Fluxo principal** | <ol> <li> O usuário clicka em uma empresa específica  <li> O  sistema da a opção: quero reclamar <li> Surgem as configurações para registrar reclamação </ol> |
+| **Fluxos alternativos** | Não há |
+| **Fluxos de exceção** | <b>Fluxo 1: O Usuário clicka na empresa desejada </b> <ol> <li> O sistema responde mostrando indicadores da empresa <li> O sistema da a opção do usuário abrir reclamação </ol> <b> Fluxo 2: O usuário clicka em QUERO RECLAMAR </b> <ol> <li> O sistema abre a página para registrar reclamação <li> O usuário tem que responder as seguintes perguntas <ul> <li> Procurou a empresa? <li> Como comprou? <li> Área <li> Assunto <li> Problema </ol> <b> Fluxo 3: O usuário clicka em Próximo </b> <ol> <li> O sistema abre a página para informações adicionais <ul> <li> Nota Fiscal <li> Data de compra <li> Ordem de compra <li> Marca/modelo </ol> <b>Fluxo 4: O usuário clicka próximo </b> <ol> <li> O sistema mostra espaços para cadastro de ultimas informações <ul> <li> Descreva a Reclamação <li> Pedido à empresa <li> incluir anexo </ol> <b> Fluxo 5: O usuário clicka em Próximo </b> <ol> <li> O sistema mostra o resumo da reclamação <li> usuário confirma. |
+| **Pós condições** | Não há |
+| **Data da criação** | 17/05/24 |
+| **Rastreabilidade** |  |
+
+<div style="text-align: center">
+<p> Tabela 2: Especificação do caso de uso: Abrir reclamação. (Fonte: MEISTER, Guilherme. 2024).</p>
 
 ## Bibliografia
 <div text-align="justify">
