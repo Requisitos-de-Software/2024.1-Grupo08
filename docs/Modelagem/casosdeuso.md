@@ -181,6 +181,27 @@ formato **PDF** <a href="https://github.com/Requisitos-de-Software/2024.1-Consum
 <div style="text-align: center">
 <p> Tabela 7: Especificação do caso de uso: Responder Reclamação. (Fonte: MEISTER, Guilherme. 2024).</p>
 
+### UC08.
+
+| UC08 | Avaliar Empresa |
+| -: | :- |
+| **Atores** | Usuário |
+| **Frequência de uso** | Alta |
+| **Requisitos** | usuário deve ter feito uma reclamação |
+| **Condição de entrada** | O usuário abre a seção da reclamação já finalizada |
+| **Fluxo principal** | <ol> <li> O usuário clicka em Minhas reclamações <li> O  sistema mostra a opção de avaliar resposta do fornecedor |
+| **Fluxos alternativos** | Não há |
+| **Fluxos de exceção** | <b>Fluxo 1: O Usuário clicka em Minhas reclamações </b> <ol> <li> O sistema responde mostrando o andamento do processo da reclamação <li> O usuário tem a opção de avaliar a resposta do fornecedor </ol> <b>Fluxo 2: O Usuário clicka em avaliar resposta </b> <ol> <li> O sistema responde mostrando um pop-up com campos para: <ul> <li> considerar a resolução da reclamação <li> avaliar seu grau de satisfação <li> fazer um comentário |
+| **Pós condições** | Não há |
+| **Data da criação** | 17/05/24 |
+| **Rastreabilidade** |  |
+
+formato **PDF** <a href="https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/assets/UC1%20(1).pdf">aqui</a>
+
+<div style="text-align: center">
+<p> Tabela 8: Especificação do caso de uso: Avaliar Empresa. (Fonte: MEISTER, Guilherme. 2024).</p>
+
+
 
 
 ## Bibliografia
