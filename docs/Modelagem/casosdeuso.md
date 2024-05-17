@@ -52,6 +52,8 @@ Os casos de usos mais importantes e mais utilizados encontrados no aplicativo es
 | **Data da criação** | 17/05/24 |
 | **Rastreabilidade** |  |
 
+formato **PDF** [aqui] (https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/assets/termo.pdf)
+
 <div style="text-align: center">
 <p> Tabela 2: Especificação do caso de uso: Pesquisar empresa. (Fonte: MEISTER, Guilherme. 2024).</p>
 </div>
@@ -70,6 +72,8 @@ Os casos de usos mais importantes e mais utilizados encontrados no aplicativo es
 | **Pós condições** | Não há |
 | **Data da criação** | 17/05/24 |
 | **Rastreabilidade** |  |
+
+formato **PDF** [aqui] (https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/assets/termo.pdf)
 
 <div style="text-align: center">
 <p> Tabela 2: Especificação do caso de uso: Abrir reclamação. (Fonte: MEISTER, Guilherme. 2024).</p>
