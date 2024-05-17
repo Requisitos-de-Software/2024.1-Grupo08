@@ -47,8 +47,8 @@ Os casos de usos mais importantes e mais utilizados encontrados no aplicativo es
 | **Condição de entrada** | O usuário utiliza a barra de pesquisa para encontrar a empresa desejada |
 | **Fluxo principal** | <ol> <li> O usuário clicka pesquise empresa <li> O usuário seleciona a empresa desejada <li> Abrir os indicadores da Empresa por default </ol> |
 | **Fluxos alternativos** | Não há |
-| **Fluxos de exceção** |  <b>Fluxo 1: O Usuário clicka em pesquisar empresa</b> <ol> <li> O sistema abre uma barra de pesquisa <li> De acordo com as palvaras digitadas, o app mostra as empresas disponíveis <li> O usuário escolhe uma opção <ul> </ol> <b> Fluxo 2: O usuário clicka em abrir uma empresa</b> <ol> <li> O sistema abre os indicadores da empresa <li> </ol> <b> Fluxo 3: O usuário navega entre os dados da empresa </b> <ol> <li> O Sistema oferece indicadores do ano atual e dentre todos os anos <ul> <li> O usuários podem obter todas as informações sobre o feedback da empresa <li></ol> |
-| **Pós condições** | O usuário tem a opção de abrie reclamação |
+| **Fluxos de exceção** |  <b>Fluxo 1: O Usuário clicka em pesquisar empresa</b> <ol> <li> O sistema abre uma barra de pesquisa <li> De acordo com as palvaras digitadas, o app mostra as empresas disponíveis <li> O usuário escolhe uma opção <ul> </ol> <b> Fluxo 2: O usuário clicka em abrir uma empresa</b> <ol> <li> O sistema abre os indicadores da empresa </ol> <b> Fluxo 3: O usuário navega entre os dados da empresa </b> <ol> <li> O Sistema oferece indicadores do ano atual e dentre todos os anos <ul> <li> O usuários podem obter todas as informações sobre o feedback da empresa </ol> |
+| **Pós condições** | O usuário tem a opção de abrir reclamação |
 | **Data da criação** | 17/05/24 |
 | **Rastreabilidade** |  |
 
