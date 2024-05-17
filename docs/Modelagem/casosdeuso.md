@@ -78,6 +78,7 @@ formato **PDF** [aqui] (https://github.com/Requisitos-de-Software/2024.1-Consumi
 <div style="text-align: center">
 <p> Tabela 2: Especificação do caso de uso: Abrir reclamação. (Fonte: MEISTER, Guilherme. 2024).</p>
 
+
 ### UC03.
 
 | UC03 | Visualizar reclamaçãoes de outros usuários |
@@ -97,6 +98,7 @@ formato **PDF** [aqui] (https://github.com/Requisitos-de-Software/2024.1-Consumi
 
 <div style="text-align: center">
 <p> Tabela 3: Especificação do caso de uso: Visualizar reclamaçãoes de outros usuários. (Fonte: MEISTER, Guilherme. 2024).</p>
+
 
 ### UC04.
 
@@ -118,6 +120,7 @@ formato **PDF** [aqui] (https://github.com/Requisitos-de-Software/2024.1-Consumi
 <div style="text-align: center">
 <p> Tabela 4: Especificação do caso de uso: Visualizar minhas reclamaçãoes. (Fonte: MEISTER, Guilherme. 2024).</p>
 
+
 ### UC05.
 
 | UC05 | Visualizar Dados Gerais|
@@ -137,6 +140,7 @@ formato **PDF** [aqui] (https://github.com/Requisitos-de-Software/2024.1-Consumi
 
 <div style="text-align: center">
 <p> Tabela 5: Especificação do caso de uso: Visualizar Dados Gerais. (Fonte: MEISTER, Guilherme. 2024).</p>
+
 
 ### UC06.
 
@@ -158,6 +162,7 @@ formato **PDF** [aqui] (https://github.com/Requisitos-de-Software/2024.1-Consumi
 <div style="text-align: center">
 <p> Tabela 6: Especificação do caso de uso: Visualizar meus Dados. (Fonte: MEISTER, Guilherme. 2024).</p>
 
+
 ### UC07.
 
 | UC07 | Responder Reclamação |
@@ -177,10 +182,11 @@ formato **PDF** [aqui] (https://github.com/Requisitos-de-Software/2024.1-Consumi
 <p> Tabela 7: Especificação do caso de uso: Responder Reclamação. (Fonte: MEISTER, Guilherme. 2024).</p>
 
 
+
 ## Bibliografia
 <div text-align="justify">
 [1] Ferramenta Lucidchart, disponível no <a href="https://www.lucidchart.com/pages/pt">link</a>. Acessado em 05 de maio. de 2024.
-</div>
+
 
 ## Histórico de Versões
 | Data | Versão | Descrição | Autor(es) | Data de revisão | Revisor(es) |
