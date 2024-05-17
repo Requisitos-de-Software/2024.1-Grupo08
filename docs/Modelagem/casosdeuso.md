@@ -78,6 +78,105 @@ formato **PDF** [aqui] (https://github.com/Requisitos-de-Software/2024.1-Consumi
 <div style="text-align: center">
 <p> Tabela 2: Especificação do caso de uso: Abrir reclamação. (Fonte: MEISTER, Guilherme. 2024).</p>
 
+### UC03.
+
+| UC03 | Visualizar reclamaçãoes de outros usuários |
+| -: | :- |
+| **Atores** | Usuário |
+| **Frequência de uso** | Alta |
+| **Requisitos** | disponibilidade da reclamações recentes no app |
+| **Condição de entrada** | O usuário seleciona reclamaçãoes de outros usuários |
+| **Fluxo principal** | <ol> <li> O usuário clicka em reclamaçãoes de outros usuários  <li> O  sistema mostra as últimas reclamações <li> usuário pode filtrar de acordo com o fornecedor desejado </ol> |
+| **Fluxos alternativos** | Não há |
+| **Fluxos de exceção** | <b>Fluxo 1: O Usuário clicka em reclamaçãoes de outros usuários </b> <ol> <li> O sistema responde mostrando as ultimas reclamações <li> O usuário pode visualizar a reclamação com mais detalhes </ol> <b> Fluxo 2: O usuário clicka na reclamação de outro cliente </b> <ol> <li> O sistema abre a página com os detalhes da reclamção </ol> <b> Fluxo 3: O usuário clicka em filtrar </b> <ol> <li> O sistema abre um pop-up com opção de filtragem <ul> <li> Palavra chave <li> Fornecedor |
+| **Pós condições** | Não há |
+| **Data da criação** | 17/05/24 |
+| **Rastreabilidade** |  |
+
+formato **PDF** [aqui] (https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/assets/termo.pdf)
+
+<div style="text-align: center">
+<p> Tabela 3: Especificação do caso de uso: Visualizar reclamaçãoes de outros usuários. (Fonte: MEISTER, Guilherme. 2024).</p>
+
+### UC04.
+
+| UC04 | Visualizar minhas reclamaçãoes|
+| -: | :- |
+| **Atores** | Usuário |
+| **Frequência de uso** | Alta |
+| **Requisitos** | usuário já deve ter realizado uma reclamação no app |
+| **Condição de entrada** | O usuário seleciona minhas reclamaçãoes |
+| **Fluxo principal** | <ol> <li> O usuário clicka em minhas reclamaçãoes <li> O  sistema mostra as reclamações feitas pelo usuário <li> usuário pode visualizar o andamento e interagir com a empresa </ol> |
+| **Fluxos alternativos** | Não há |
+| **Fluxos de exceção** | <b>Fluxo 1: O Usuário clicka em minhas reclamaçãoes </b> <ol> <li> O sistema responde mostrando as reclamações feitas pelo usuário <li> O usuário pode visualizar o andamento da reclamação  </ol> <b> Fluxo 2: O usuário clicka na reclamação </b> <ol> <li> O sistema abre a página com os detalhes da reclamção <ul> <li> área <li> Assunto <li> Problema <li> Gestor <li> Data de abertura </ol> <b> Fluxo 3: O usuário clicka em interagir com o fornecedor </b> <ol> <li> O sistema abre uma página com opção de digitar uma mensagem à empresa |
+| **Pós condições** | Não há |
+| **Data da criação** | 17/05/24 |
+| **Rastreabilidade** |  |
+
+formato **PDF** [aqui] (https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/assets/termo.pdf)
+
+<div style="text-align: center">
+<p> Tabela 4: Especificação do caso de uso: Visualizar minhas reclamaçãoes. (Fonte: MEISTER, Guilherme. 2024).</p>
+
+### UC05.
+
+| UC05 | Visualizar Dados Gerais|
+| -: | :- |
+| **Atores** | Usuário |
+| **Frequência de uso** | Baixa |
+| **Requisitos** | usuário deve clickar na opção |
+| **Condição de entrada** | O usuário seleciona dados gerais |
+| **Fluxo principal** | <ol> <li> O usuário clicka em dados gerais <li> O  sistema mostra dados sobre o app |
+| **Fluxos alternativos** | Não há |
+| **Fluxos de exceção** | <b>Fluxo 1: O Usuário clicka em dados gerais </b> <ol> <li> O sistema responde mostrando dados sobre o app coletados desde 2014 <li> O usuário pode visualizar os dados:  <ul> <li> Total de Reclamações finalizadas <li> Total de usuários cadastrados <li> Total de empresas cadastradas |
+| **Pós condições** | Não há |
+| **Data da criação** | 17/05/24 |
+| **Rastreabilidade** |  |
+
+formato **PDF** [aqui] (https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/assets/termo.pdf)
+
+<div style="text-align: center">
+<p> Tabela 5: Especificação do caso de uso: Visualizar Dados Gerais. (Fonte: MEISTER, Guilherme. 2024).</p>
+
+### UC06.
+
+| UC06 | Visualizar meus Dados |
+| -: | :- |
+| **Atores** | Usuário |
+| **Frequência de uso** | Média |
+| **Requisitos** | usuário deve ter um cadastro no app |
+| **Condição de entrada** | O usuário seleciona meus Dados |
+| **Fluxo principal** | <ol> <li> O usuário clicka em Menu <li> O  sistema mostra a opção Meus dados |
+| **Fluxos alternativos** | Não há |
+| **Fluxos de exceção** | <b>Fluxo 1: O Usuário clicka em Menu </b> <ol> <li> O sistema responde mostrando a opção de visualizar dados de usuário <li> O usuário pode visualizar seu respectivos dados:  <ul> <li> nome <li> CPF <li> Data de nascimento </ol> <b>Fluxo 2: O Usuário clicka em endereço </b> <ol> <li> O sistema responde mostrando dados de endereço do usuário </ol> <b>Fluxo 3: O Usuário clicka em contato </b> <ol> <li> O sistema responde mostrando dados de contato do usuário |
+| **Pós condições** | Não há |
+| **Data da criação** | 17/05/24 |
+| **Rastreabilidade** |  |
+
+formato **PDF** [aqui] (https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/assets/termo.pdf)
+
+<div style="text-align: center">
+<p> Tabela 6: Especificação do caso de uso: Visualizar meus Dados. (Fonte: MEISTER, Guilherme. 2024).</p>
+
+### UC07.
+
+| UC07 | Responder Reclamação |
+| -: | :- |
+| **Atores** | Empresa |
+| **Frequência de uso** | Alta |
+| **Requisitos** | Empresa deve ter um cadastro no app |
+| **Condição de entrada** | A empresa recebe uma reclamação advinda de um usuário |
+| **Fluxo principal** | <ol> <li> A empresa recebe a reclamação <li> O  sistema da a opção de responder |
+| **Fluxos alternativos** | Não há |
+| **Fluxos de exceção** |  |
+| **Pós condições** | Não há |
+| **Data da criação** | 17/05/24 |
+| **Rastreabilidade** |  |
+
+<div style="text-align: center">
+<p> Tabela 7: Especificação do caso de uso: Responder Reclamação. (Fonte: MEISTER, Guilherme. 2024).</p>
+
+
 ## Bibliografia
 <div text-align="justify">
 [1] Ferramenta Lucidchart, disponível no <a href="https://www.lucidchart.com/pages/pt">link</a>. Acessado em 05 de maio. de 2024.
