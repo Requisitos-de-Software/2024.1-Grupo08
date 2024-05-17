@@ -82,7 +82,7 @@ formato **PDF** <a href="https://github.com/Requisitos-de-Software/2024.1-Consum
 ### UC03.
 
 | UC03 | Visualizar reclamaçãoes de outros usuários |
-| -: | :- |
+|  :-----: |  :-----: |
 | **Atores** | Usuário |
 | **Frequência de uso** | Alta |
 | **Requisitos** | disponibilidade da reclamações recentes no app |
