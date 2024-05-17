@@ -52,7 +52,7 @@ Os casos de usos mais importantes e mais utilizados encontrados no aplicativo es
 | **Data da criação** | 17/05/24 |
 | **Rastreabilidade** |  |
 
-formato **PDF** [aqui] (https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/assets/termo.pdf)
+formato **PDF** <a href="https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/assets/UC1%20(1).pdf">aqui</a>
 
 <div style="text-align: center">
 <p> Tabela 2: Especificação do caso de uso: Pesquisar empresa. (Fonte: MEISTER, Guilherme. 2024).</p>
@@ -73,7 +73,7 @@ formato **PDF** [aqui] (https://github.com/Requisitos-de-Software/2024.1-Consumi
 | **Data da criação** | 17/05/24 |
 | **Rastreabilidade** |  |
 
-formato **PDF** [aqui] (https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/assets/termo.pdf)
+formato **PDF** <a href="https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/assets/UC2.pdf">aqui</a>
 
 <div style="text-align: center">
 <p> Tabela 2: Especificação do caso de uso: Abrir reclamação. (Fonte: MEISTER, Guilherme. 2024).</p>
@@ -94,7 +94,7 @@ formato **PDF** [aqui] (https://github.com/Requisitos-de-Software/2024.1-Consumi
 | **Data da criação** | 17/05/24 |
 | **Rastreabilidade** |  |
 
-formato **PDF** [aqui] (https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/assets/termo.pdf)
+formato **PDF** <a href="https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/assets/UC1%20(1).pdf">aqui</a>
 
 <div style="text-align: center">
 <p> Tabela 3: Especificação do caso de uso: Visualizar reclamaçãoes de outros usuários. (Fonte: MEISTER, Guilherme. 2024).</p>
@@ -115,7 +115,7 @@ formato **PDF** [aqui] (https://github.com/Requisitos-de-Software/2024.1-Consumi
 | **Data da criação** | 17/05/24 |
 | **Rastreabilidade** |  |
 
-formato **PDF** [aqui] (https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/assets/termo.pdf)
+formato **PDF** <a href="https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/assets/UC1%20(1).pdf">aqui</a>
 
 <div style="text-align: center">
 <p> Tabela 4: Especificação do caso de uso: Visualizar minhas reclamaçãoes. (Fonte: MEISTER, Guilherme. 2024).</p>
@@ -136,7 +136,7 @@ formato **PDF** [aqui] (https://github.com/Requisitos-de-Software/2024.1-Consumi
 | **Data da criação** | 17/05/24 |
 | **Rastreabilidade** |  |
 
-formato **PDF** [aqui] (https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/assets/termo.pdf)
+formato **PDF** <a href="https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/assets/UC1%20(1).pdf">aqui</a>
 
 <div style="text-align: center">
 <p> Tabela 5: Especificação do caso de uso: Visualizar Dados Gerais. (Fonte: MEISTER, Guilherme. 2024).</p>
@@ -157,7 +157,7 @@ formato **PDF** [aqui] (https://github.com/Requisitos-de-Software/2024.1-Consumi
 | **Data da criação** | 17/05/24 |
 | **Rastreabilidade** |  |
 
-formato **PDF** [aqui] (https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/assets/termo.pdf)
+formato **PDF** <a href="https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/assets/UC1%20(1).pdf">aqui</a>
 
 <div style="text-align: center">
 <p> Tabela 6: Especificação do caso de uso: Visualizar meus Dados. (Fonte: MEISTER, Guilherme. 2024).</p>
