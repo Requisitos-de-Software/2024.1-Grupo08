@@ -48,9 +48,9 @@ A seguir estão as tabelas que descrevem as histórias de usuário elicitadas pe
 | ID | US3 |
 | Título | Ver dados sobre uma empresa |
 | Descrição | Eu, como cliente, quero ver os dados de uma empresa para que eu possa obter informações detalhadas sobre ela. |
-| Critérios de aceitação | - O aplicativo deve exibir os dados oficiais da empresa (CNPJ, contatos, endereço, etc.).
+| Critérios de aceitação | <ol> - O aplicativo deve exibir os dados oficiais da empresa (CNPJ, contatos, endereço, etc.).
 - O aplicativo deve exibir os dados sobre as reclamações da empresa (notas, avaliações, comentários, etc.).
-- O aplicativo deve exibir gráficos e indicadores sobre a empresa, como tempo médio de resposta e confiabilidade. |
+- O aplicativo deve exibir gráficos e indicadores sobre a empresa, como tempo médio de resposta e confiabilidade. </ol> |
 | Prioridade | Alta |
 
 ### US4 - Fazer reclamação
@@ -60,10 +60,10 @@ A seguir estão as tabelas que descrevem as histórias de usuário elicitadas pe
 | ID | US4 |
 | Título | Fazer reclamação sobre uma empresa |
 | Descrição | Eu, como cliente, quero poder fazer uma reclamação sobre uma empresa, para que possa ter meu problema resolvido. |
-| Critérios de aceitação | - O aplicativo deve permitir que o usuário informe o meio que a compra foi feita.
+| Critérios de aceitação | <ol>- O aplicativo deve permitir que o usuário informe o meio que a compra foi feita.
 - O aplicativo deve permitir que o usuário informe a categoria da informação.
 - O aplicativo deve permitir que o usuário informe detalhes sobre a reclamação.
-- O aplicativo deve permitir que o usuário informe suas expectativas quanto a resolução da reclamação. |
+- O aplicativo deve permitir que o usuário informe suas expectativas quanto a resolução da reclamação. </ol> |
 | Prioridade | Alta |
 
 ### US5 - Anexar arquivos na reclamação
@@ -108,8 +108,8 @@ A seguir estão as tabelas que descrevem as histórias de usuário elicitadas pe
 | ID | US9 |
 | Título | Visualizar reclamações de outros usuários |
 | Descrição | Eu, como usuário, quero visualizar reclamações feitas por outros usuários para que eu possa ver problemas semelhantes. |
-| Critérios de aceitação | - O aplicativo deve exibir uma lista de reclamações feitas por outros usuários.
-- O aplicativo deve exibir os detalhes de cada reclamação (tipo, detalhes, anexos, etc.) |
+| Critérios de aceitação |<ol> - O aplicativo deve exibir uma lista de reclamações feitas por outros usuários.
+- O aplicativo deve exibir os detalhes de cada reclamação (tipo, detalhes, anexos, etc.) </ol> |
 | Prioridade | Média |
 
 ### US10 - Avaliar uma reclamação
@@ -127,9 +127,9 @@ A seguir estão as tabelas que descrevem as histórias de usuário elicitadas pe
 | ID | US11 |
 | Título | Cadastrar dados de uma empresa |
 | Descrição | Eu, como administrador, quero cadastrar os dados de uma empresa para que ela esteja disponível no sistema. |
-| Critérios de aceitação | - O aplicativo deve permitir o cadastro de dados como nome, CNPJ, contatos, etc.
+| Critérios de aceitação |<ol> - O aplicativo deve permitir o cadastro de dados como nome, CNPJ, contatos, etc.
 - O aplicativo deve permitir o upload de uma imagem da logomarca da empresa.
-- O aplicativo deve permitir o upload de documentos relevantes. |
+- O aplicativo deve permitir o upload de documentos relevantes. </ol>|
 | Prioridade | Alta |
 
 ### US12 - Responder uma reclamação 
