@@ -48,9 +48,7 @@ A seguir estão as tabelas que descrevem as histórias de usuário elicitadas pe
 | ID | US3 |
 | Título | Ver dados sobre uma empresa |
 | Descrição | Eu, como cliente, quero ver os dados de uma empresa para que eu possa obter informações detalhadas sobre ela. |
-| Critérios de aceitação | <ol> - O aplicativo deve exibir os dados oficiais da empresa (CNPJ, contatos, endereço, etc.).
-- O aplicativo deve exibir os dados sobre as reclamações da empresa (notas, avaliações, comentários, etc.).
-- O aplicativo deve exibir gráficos e indicadores sobre a empresa, como tempo médio de resposta e confiabilidade. </ol> |
+| Critérios de aceitação | <ol><li>- O aplicativo deve exibir os dados oficiais da empresa (CNPJ, contatos, endereço, etc.). <li>- O aplicativo deve exibir os dados sobre as reclamações da empresa (notas, avaliações, comentários, etc.).<li>- O aplicativo deve exibir gráficos e indicadores sobre a empresa, como tempo médio de resposta e confiabilidade. <ul></ol> |
 | Prioridade | Alta |
 
 ### US4 - Fazer reclamação
@@ -60,15 +58,13 @@ A seguir estão as tabelas que descrevem as histórias de usuário elicitadas pe
 | ID | US4 |
 | Título | Fazer reclamação sobre uma empresa |
 | Descrição | Eu, como cliente, quero poder fazer uma reclamação sobre uma empresa, para que possa ter meu problema resolvido. |
-| Critérios de aceitação | <ol>- O aplicativo deve permitir que o usuário informe o meio que a compra foi feita.
-- O aplicativo deve permitir que o usuário informe a categoria da informação.
-- O aplicativo deve permitir que o usuário informe detalhes sobre a reclamação.
-- O aplicativo deve permitir que o usuário informe suas expectativas quanto a resolução da reclamação. </ol> |
+| Critérios de aceitação | <ol><li>- O aplicativo deve permitir que o usuário informe o meio que a compra foi feita.<li>- O aplicativo deve permitir que o usuário informe a categoria da informação.<li>- O aplicativo deve permitir que o usuário informe detalhes sobre a reclamação.<li>- O aplicativo deve permitir que o usuário informe suas expectativas quanto a resolução da reclamação.<ul></ol> |
 | Prioridade | Alta |
 
 ### US5 - Anexar arquivos na reclamação
 
 | Propriedades | Descrição |
+|------|:-------:
 | ID | US5 |
 | Título | Anexar arquivos na reclamação |
 | Descrição | Eu, como usuário, quero anexar arquivos relacionados à minha reclamação para que eu possa fornecer evidências do problema. |
@@ -78,6 +74,7 @@ A seguir estão as tabelas que descrevem as histórias de usuário elicitadas pe
 ### US6 - Visualizar reclamações feitas no app
 
 | Propriedades | Descrição |
+|------|:-------:
 | ID | US6 |
 | Título | Visualizar reclamações feitas no app |
 | Descrição | Eu, como usuário, quero visualizar as reclamações que fiz no app para que eu possa acompanhar todas as minhas interações. |
@@ -87,6 +84,7 @@ A seguir estão as tabelas que descrevem as histórias de usuário elicitadas pe
 ### US7 - Acompanhar status de uma reclamação
 
 | Propriedades | Descrição |
+|------|:-------:
 | ID | US7 |
 | Título | Acompanhar status de uma reclamação |
 | Descrição | Eu, como usuário, quero acompanhar o status de uma reclamação feita para que eu possa saber seu andamento. |
@@ -96,6 +94,7 @@ A seguir estão as tabelas que descrevem as histórias de usuário elicitadas pe
 ### US8 - Receber notificações sobre o status das reclamações
 
 | Propriedades | Descrição |
+|------|:-------:
 | ID | US8 |
 | Título | Receber notificações sobre o status das reclamações |
 | Descrição | Eu, como usuário, quero receber notificações sobre o status das minhas reclamações para que eu esteja sempre atualizado. |
@@ -105,16 +104,17 @@ A seguir estão as tabelas que descrevem as histórias de usuário elicitadas pe
 ### US9 - Visualizar reclamações de outros usuários
 
 | Propriedades | Descrição |
+|------|:-------:
 | ID | US9 |
 | Título | Visualizar reclamações de outros usuários |
 | Descrição | Eu, como usuário, quero visualizar reclamações feitas por outros usuários para que eu possa ver problemas semelhantes. |
-| Critérios de aceitação |<ol> - O aplicativo deve exibir uma lista de reclamações feitas por outros usuários.
-- O aplicativo deve exibir os detalhes de cada reclamação (tipo, detalhes, anexos, etc.) </ol> |
+| Critérios de aceitação |<ol><li>- O aplicativo deve exibir uma lista de reclamações feitas por outros usuários.<li>- O aplicativo deve exibir os detalhes de cada reclamação (tipo, detalhes, anexos, etc.).<ul></ol> |
 | Prioridade | Média |
 
 ### US10 - Avaliar uma reclamação
 
 | Propriedades | Descrição |
+|------|:-------:
 | ID | US10 |
 | Título | Avaliar uma reclamação |
 | Descrição | Eu, como usuário, quero avaliar uma reclamação para que eu possa dar feedback sobre a resolução do problema. |
@@ -124,17 +124,17 @@ A seguir estão as tabelas que descrevem as histórias de usuário elicitadas pe
 ### US11 - Cadastrar dados de uma empresa
 
 | Propriedades | Descrição |
+|------|:-------:
 | ID | US11 |
 | Título | Cadastrar dados de uma empresa |
 | Descrição | Eu, como administrador, quero cadastrar os dados de uma empresa para que ela esteja disponível no sistema. |
-| Critérios de aceitação |<ol> - O aplicativo deve permitir o cadastro de dados como nome, CNPJ, contatos, etc.
-- O aplicativo deve permitir o upload de uma imagem da logomarca da empresa.
-- O aplicativo deve permitir o upload de documentos relevantes. </ol>|
+| Critérios de aceitação |<ol><li>- O aplicativo deve permitir o cadastro de dados como nome, CNPJ, contatos, etc.<li>- O aplicativo deve permitir o upload de uma imagem da logomarca da empresa.<li>- O aplicativo deve permitir o upload de documentos relevantes.<ul></ol>|
 | Prioridade | Alta |
 
 ### US12 - Responder uma reclamação 
 
 | Propriedades | Descrição |
+|------|:-------:
 | ID | US12 |
 | Título | Responder uma reclamação feita |
 | Descrição | Eu, como administrador, quero responder uma reclamação feita para que eu possa fornecer uma solução ao cliente. |
@@ -144,6 +144,7 @@ A seguir estão as tabelas que descrevem as histórias de usuário elicitadas pe
 ### US13 - Funcionamento em Android e iOS
 
 | Propriedades | Descrição |
+|------|:-------:
 | ID | US13 |
 | Título | Funcionamento em Android e iOS |
 | Descrição | Eu, como usuário, quero que o aplicativo funcione tanto em dispositivos Android quanto iOS para que eu possa usá-lo em qualquer dispositivo. |
@@ -152,7 +153,8 @@ A seguir estão as tabelas que descrevem as histórias de usuário elicitadas pe
 
 ### US14 - Interface simples e intuitiva
 
-| Propriedades | Descrição |
+| Propriedades | Descrição |7
+|------|:-------:
 | ID | US14 |
 | Título | Interface simples e intuitiva |
 | Descrição | Eu, como usuário, quero que o aplicativo apresente uma interface simples e intuitiva para que eu possa usá-lo facilmente. |
@@ -162,6 +164,7 @@ A seguir estão as tabelas que descrevem as histórias de usuário elicitadas pe
 ### US15 - Opções de acessibilidade 
 
 | Propriedades | Descrição |
+|------|:-------:
 | ID | US15 |
 | Título | Opções de acessibilidade |
 | Descrição | Eu, como usuário com necessidades especiais, quero que o aplicativo forneça opções de acessibilidade (modo escuro, esquemas de cores, conteúdos em libras, etc.) para que eu possa usá-lo confortavelmente. |
@@ -171,6 +174,7 @@ A seguir estão as tabelas que descrevem as histórias de usuário elicitadas pe
 ### US16 - Feedback em caso de erros
 
 | Propriedades | Descrição |
+|------|:-------:
 | ID | US16 |
 | Título | Feedback em caso de erros |
 | Descrição | Eu, como usuário, quero que o aplicativo forneça feedback em caso de erros/falhas para que eu saiba o que está acontecendo e como corrigir. |
@@ -180,6 +184,7 @@ A seguir estão as tabelas que descrevem as histórias de usuário elicitadas pe
 ### US17 - Medidas de proteção 
 
 | Propriedades | Descrição |
+|------|:-------:
 | ID | US17 |
 | Título | Medidas de proteção |
 | Descrição | Eu, como usuário, quero que o aplicativo apresente medidas de proteção para que meus dados estejam seguros. |
@@ -189,6 +194,7 @@ A seguir estão as tabelas que descrevem as histórias de usuário elicitadas pe
 ### US18 - Otimização de carregamento
 
 | Propriedades | Descrição |
+|------|:-------:
 | ID | US18 |
 | Título | Otimização de carregamento |
 | Descrição | Eu, como usuário, quero que o aplicativo otimize o carregamento de páginas/recursos para que minha experiência seja rápida e eficiente. |
