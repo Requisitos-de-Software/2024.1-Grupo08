@@ -197,7 +197,7 @@ A seguir estão as tabelas que descrevem as histórias de usuário elicitadas pe
 
 ## Bibliografia
 <div text-align="justify">
-[1] LONGO, Hugo. A Utilização de Histórias de Usuários no Levantamento de Requisitos Ágeis, disponível no <a href="https://periodicos.ufsc.br/index.php/ijkem/article/view/81819/46487">link</a>. Acessado em 18 de maio. de 2024.
+[1] LONGO, Hugo. A Utilização de Histórias de Usuários no Levantamento de Requisitos Ágeis, disponível no <a href="https://periodicos.ufsc.br/index.php/ijkem/article/view/81819/46487">link</a>. Acessado em 18 de maio. de 2024. </div>
 
 
 ## Histórico de Versões
