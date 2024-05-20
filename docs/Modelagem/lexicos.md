@@ -199,7 +199,7 @@ O Relacionamento dos léxicos, representado na tabela abaixo, mostra como cada l
 | L04: Visualizar Minhas Reclamações | L09: Usuário | O usuário visualiza as reclamações que ele próprio registrou no aplicativo. |
 | L05: Visualizar Dados Gerais | L09: Usuário | O usuário visualiza dados gerais sobre o aplicativo. |
 | L06: Visualizar Meus Dados | L09: Usuário | O usuário visualiza seus próprios dados cadastrais no aplicativo. |
-| L07: Responder Reclamação | L03: Usuário, L08: Avaliar Empresa | A empresa responde a uma reclamação recebida de um usuário no aplicativo. |
+| L07: Responder Reclamação | L03: Visualizar Reclamações de Outros Usuários, L08: Avaliar Empresa, L09: Usuário | A empresa responde a uma reclamação recebida de um usuário no aplicativo. |
 | L08: Avaliar Empresa | L09: Usuário | O usuário avalia a resposta de uma empresa à reclamação que ele fez. |
 | L09: Usuário | L01: Pesquisar Empresa, L02: Abrir Reclamação, L03: Visualizar Reclamações de Outros Usuários, L04: Visualizar Minhas Reclamações, L05: Visualizar Dados Gerais, L06: Visualizar Meus Dados, L07: Responder Reclamação, L08: Avaliar Empresa | O Usuário interage com todos os outros elementos do sistema de acordo com suas necessidades. |
 
