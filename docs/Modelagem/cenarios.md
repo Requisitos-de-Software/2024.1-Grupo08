@@ -64,6 +64,19 @@ Há cinco maneiras de descrever cenários: texto narrativo, texto estruturado, d
 | Exceção    | - Dispositivo sem energia <br> - Falta de internet <br> - Aplicativo travou
 
 
+## C04: Visualizar minhas reclamações 
+
+| Elemento   | Descrição                                                                                                                                                        |
+| ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Objetivo   | - Visualizar as reclamações já feitas pelo usuário|
+| Contexto   | - Local: em casa <br> - Tempo: dia <br> - Pré-condições: ter um dispositivo com acesso a internet|
+| Recursos   | - Celular <br> - Aplicativo
+| Ator       | - Usuário|
+| Episódios  | - Usuário clica no na aba "minhas reclamações" <br> - Usuário seleciona a reclamação que deseja acompanhar o andamento
+|Restrições  | - Usuário não ter feito reclamações |
+| Exceção    | - Dispositivo sem energia <br> - Falta de internet <br> - Aplicativo travou
+
+
 ## Histórico de Versão
 | Versão | Data de execução | Data de revisão |  Descrição            | Autor(es)         | Revisor(es)  |
 | :------: | :----------: | :--------: | :--------------------: | :-------------: | :----------: |
