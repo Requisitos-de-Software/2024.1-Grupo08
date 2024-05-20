@@ -25,7 +25,20 @@ Há cinco maneiras de descrever cenários: texto narrativo, texto estruturado, d
 
 
 
-## C01: Cadastrar reclamação
+## C01: Pesquisar empresa pelo nome
+
+| Elemento   | Descrição                                                                                                                                                        |
+| ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Objetivo   |- Pesquisar empresa pelo nome|
+| Contexto   | - Local: em casa <br> - Tempo: dia <br> - Pré-condições: ter um dispositivo com acesso a internet|
+| Recursos   | - Celular <br> - Aplicativo
+| Ator       | - Usuário|
+| Episódios  | - Usuário clica na barra de pesquisa <br> - Usuário digita o nome da empresa <br> - Usuário seleciona a empresa|
+|Restrições  | - Usuário não achar a empresa |
+| Exceção    | - Dispositivo sem energia <br> - Falta de internet <br> - Aplicativo travou
+
+
+## C02: Cadastrar reclamação
 
 | Elemento   | Descrição                                                                                                                                                        |
 | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -36,7 +49,6 @@ Há cinco maneiras de descrever cenários: texto narrativo, texto estruturado, d
 | Episódios  | - Usuário pesquisa uma empresa <br> - Usuário seleciona a empresa <br> - Usuário clica no botão escrito "QUERO RECLAMAR" <br> - Usuário preenche as informações do cadastro <br> - Usuário clica no botão "Enviar"|
 |Restrições  | - Usuário não achar a empresa <br> - Usuário não tem as informações necessárias para o cadastro|
 | Exceção    | - Dispositivo sem energia <br> - Falta de internet <br> - Aplicativo travou
-
 
 
 ## Histórico de Versão
