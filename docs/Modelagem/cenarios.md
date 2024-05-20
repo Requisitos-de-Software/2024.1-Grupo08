@@ -84,8 +84,8 @@ Há cinco maneiras de descrever cenários: texto narrativo, texto estruturado, d
 | Contexto   | - Local: Aba "Home". <br> - Tempo:  <br> - Pré-condições: Usuário estar logado. |
 | Recursos   | - Internet. <br> - Smartphone com a Consumidor.gov instalado. |
 | Ator       | - Usuário do Consumidor.gov.|
-| Episódios  | - O usuário acessa a seção "Home".<br> - Usuário clica em "Dados Gerais"  |
-| Restrições | - |
+| Episódios  | - O usuário acessa a seção "Home". <br> - Usuário clica em "Dados Gerais".  |
+| Restrições | - O aplicativo deve as estatíscas.|
 | Exceção    | - Dispositivo sem energia. <br> - Falha de conexão à internet. <br> - Aplicativo travou.
 
 ## C06: Visualizar meus Dados
@@ -93,35 +93,35 @@ Há cinco maneiras de descrever cenários: texto narrativo, texto estruturado, d
 | Elemento   | Descrição                                                                                                                                                        |
 | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Objetivo   | - Visualizar os dados do usuário cadastrado|
-| Contexto   | - Local:  <br> - Tempo:  <br> - Pré-condições: Usuário estar logado.|
+| Contexto   | - Local: Aba "Menu" <br> - Tempo:  <br> - Pré-condições: Usuário estar logado.|
 | Recursos   | - Internet. <br> - Smartphone com a Consumidor.gov instalado. |
 | Ator       | - Usuário do Consumidor.gov.|
-| Episódios  | - |
-| Restrições | -  |
+| Episódios  | - Usuário acessa a seção "Menu" <br> O usuário clica em "Meus Dados". |
+| Restrições | - Os dados devem estar cadastrados via gov.br |
 | Exceção    | - Dispositivo sem energia. <br> - Falha de conexão à internet. <br> - Aplicativo travou.
 
 ## C07: Responder Reclamação
 
 | Elemento   | Descrição                                                                                                                                                        |
 | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Objetivo   | - |
-| Contexto   | - Local: <br> - Tempo:  <br> - Pré-condições: Usuário estar logado.|
+| Objetivo   | - Responder uma reclamação feita por um usuário. |
+| Contexto   | - Local: <br> - Tempo:  <br> - Pré-condições: Empresa estar logada. <br> Um usuário ter feito uma reclamação sobre sua empresa.|
 | Recursos   | - Internet. <br> - Smartphone com a Consumidor.gov instalado. |
 | Ator       | - Empresa.|
 | Episódios  | - |
-| Restrições | -  |
+| Restrições | - A reclamação nao deve estar finalizada ou avaliada. |
 | Exceção    | - Dispositivo sem energia. <br> - Falha de conexão à internet. <br> - Aplicativo travou.
 
 ## C08: Avaliar Empresa
 
 | Elemento   | Descrição                                                                                                                                                        |
 | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Objetivo   | - |
-| Contexto   | - Local:  <br> - Tempo:  <br> - Pré-condições: Usuário estar logado.|
+| Objetivo   | - Avaliar  |
+| Contexto   | - Local: Aba "Minhas Reclamações". <br> - Tempo:  <br> - Pré-condições: Usuário estar logado. <br> Usuário deve ter feito uma reclamação e ter sido respondido.|
 | Recursos   | - Internet. <br> - Smartphone com a Consumidor.gov instalado. |
 | Ator       | - Usuário do Consumidor.gov.|
-| Episódios  | - |
-| Restrições | -  |
+| Episódios  | - O usuário acessa a seção "Minhas Reclamações". <br> O usuário escolhe uma reclamação. <br> O usuário escolhe avaliar resposta.|
+| Restrições | - A reclamação deve estar finalizada. |
 | Exceção    | - Dispositivo sem energia. <br> - Falha de conexão à internet. <br> - Aplicativo travou.
 
 ## Histórico de Versão
