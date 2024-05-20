@@ -124,6 +124,12 @@ Há cinco maneiras de descrever cenários: texto narrativo, texto estruturado, d
 | Restrições | - A reclamação deve estar finalizada. |
 | Exceção    | - Dispositivo sem energia. <br> - Falha de conexão à internet. <br> - Aplicativo travou.
 
+
+## Bibliografia
+
+> [1] CENÁRIOS: Rastreamento de Cenários. [S. l.]. Disponível em: <http://www-di.inf.puc-rio.br/~julio/bnncap3.pdf>.
+
+
 ## Histórico de Versão
 | Versão | Data de execução | Data de revisão |  Descrição            | Autor(es)         | Revisor(es)  |
 | :------: | :----------: | :--------: | :--------------------: | :-------------: | :----------: |
