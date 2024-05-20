@@ -14,10 +14,10 @@ Um diagrama de casos de uso possui os seguintes elementos em sua composição:
 
 | Nome | Função | Elemento
 |------|------|:-------:
-| Atores | Representam os usuários e sistemas, ou um tipo dele, normalmente são representados por bonecos de palito | <img src="https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/assets/img/modelagem/ator-removebg-preview.png" width="100">
-| Caso de uso | É uma atuação ou funcionalidade realizada pelo ator.Geralmente são definidos por um objeto na forma oval horizontal | <img src="https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/assets/img/modelagem/Casoa-removebg-preview.png" width="200">
-| Cenário | Nesse elemento, eh descrito os eventos que acontecem quando um usuário manuseia o sistema. | <img src="https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/assets/img/modelagem/Cenario-removebg-preview.png" width="200">
-| Comunicação (ou ação) | Consiste em uma ação que o usuário irá realizar sobre o caso de uso | <img src="https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/assets/img/modelagem/Comunicacao-removebg-preview.png" width="270">
+| Atores | Representam os usuários e sistemas, ou um tipo dele, normalmente são representados por bonecos de palito | <img src="https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/assets/img/modelagem/ator-removebg-preview.png?raw=true" width="100">
+| Caso de uso | É uma atuação ou funcionalidade realizada pelo ator.Geralmente são definidos por um objeto na forma oval horizontal | <img src="https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/assets/img/modelagem/Casoa-removebg-preview.png?raw=true" width="200">
+| Cenário | Nesse elemento, eh descrito os eventos que acontecem quando um usuário manuseia o sistema. | <img src="https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/assets/img/modelagem/Cenario-removebg-preview.png?raw=true" width="200">
+| Comunicação (ou ação) | Consiste em uma ação que o usuário irá realizar sobre o caso de uso | <img src="https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/assets/img/modelagem/Comunicacao-removebg-preview.png?raw=true" width="270">
 
 <div style="text-align: center">
 <p> Tabela 1: Elementos do diagrama de casos de uso. (Fonte: MEISTER, Guilherme. 2024).</p>
@@ -52,7 +52,7 @@ Os casos de usos mais importantes e mais utilizados encontrados no aplicativo es
 | **Data da criação** | 17/05/24 |
 | **Rastreabilidade** |  |
 
-formato **PDF** <a href="https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/assets/UC1%20(1).pdf">aqui</a>
+ <a href="https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/assets/UC1%20(1).pdf">Arquivo **PDF** aqui</a>
 
 <div style="text-align: center">
 <p> Tabela 2: Especificação do caso de uso: Pesquisar empresa. (Fonte: MEISTER, Guilherme. 2024).</p>
@@ -73,11 +73,11 @@ formato **PDF** <a href="https://github.com/Requisitos-de-Software/2024.1-Consum
 | **Data da criação** | 17/05/24 |
 | **Rastreabilidade** |  |
 
-formato **PDF** <a href="https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/assets/UC2.pdf">aqui</a>
+<a href="https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/assets/UC2.pdf">Arquivo **PDF** aqui</a>
 
 <div style="text-align: center">
 <p> Tabela 2: Especificação do caso de uso: Abrir reclamação. (Fonte: MEISTER, Guilherme. 2024).</p>
-
+</div>
 
 ### UC03.
 
@@ -98,7 +98,7 @@ formato **PDF** <a href="https://github.com/Requisitos-de-Software/2024.1-Consum
 
 <div style="text-align: center">
 <p> Tabela 3: Especificação do caso de uso: Visualizar reclamaçãoes de outros usuários. (Fonte: MEISTER, Guilherme. 2024).</p>
-
+</div>
 
 ### UC04.
 
@@ -119,7 +119,7 @@ formato **PDF** <a href="https://github.com/Requisitos-de-Software/2024.1-Consum
 
 <div style="text-align: center">
 <p> Tabela 4: Especificação do caso de uso: Visualizar minhas reclamaçãoes. (Fonte: MEISTER, Guilherme. 2024).</p>
-
+</div>
 
 ### UC05.
 
@@ -140,7 +140,7 @@ formato **PDF** <a href="https://github.com/Requisitos-de-Software/2024.1-Consum
 
 <div style="text-align: center">
 <p> Tabela 5: Especificação do caso de uso: Visualizar Dados Gerais. (Fonte: MEISTER, Guilherme. 2024).</p>
-
+</div>
 
 ### UC06.
 
@@ -161,7 +161,7 @@ formato **PDF** <a href="https://github.com/Requisitos-de-Software/2024.1-Consum
 
 <div style="text-align: center">
 <p> Tabela 6: Especificação do caso de uso: Visualizar meus Dados. (Fonte: MEISTER, Guilherme. 2024).</p>
-
+</div>
 
 ### UC07.
 
@@ -180,6 +180,7 @@ formato **PDF** <a href="https://github.com/Requisitos-de-Software/2024.1-Consum
 
 <div style="text-align: center">
 <p> Tabela 7: Especificação do caso de uso: Responder Reclamação. (Fonte: MEISTER, Guilherme. 2024).</p>
+</div>
 
 ### UC08.
 
@@ -200,14 +201,14 @@ formato **PDF** <a href="https://github.com/Requisitos-de-Software/2024.1-Consum
 
 <div style="text-align: center">
 <p> Tabela 8: Especificação do caso de uso: Avaliar Empresa. (Fonte: MEISTER, Guilherme. 2024).</p>
-
+</div>
 
 
 
 ## Bibliografia
 <div text-align="justify">
 [1] Ferramenta Lucidchart, disponível no <a href="https://www.lucidchart.com/pages/pt">link</a>. Acessado em 05 de maio. de 2024.
-
+</div>
 
 ## Histórico de Versões
 | Data | Versão | Descrição | Autor(es) | Data de revisão | Revisor(es) |
