@@ -179,7 +179,7 @@ formato **PDF** <a href="https://github.com/Requisitos-de-Software/2024.1-Consum
 | **Rastreabilidade** |  |
 
 <div style="text-align: center">
-<p> Tabela 7: Especificação do caso de uso: Responder Reclamação. (Fonte: CONTIJO, Rodrigo. 2024).</p>
+<p> Tabela 7: Especificação do caso de uso: Responder Reclamação. (Fonte: GONTIJO, Rodrigo. 2024).</p>
 </div>
 
 ### UC08.
@@ -197,7 +197,6 @@ formato **PDF** <a href="https://github.com/Requisitos-de-Software/2024.1-Consum
 | **Data da criação** | 17/05/24 |
 | **Rastreabilidade** |  |
 
-formato **PDF** <a href="https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/assets/UC1%20(1).pdf">aqui</a>
 
 <div style="text-align: center">
 <p> Tabela 8: Especificação do caso de uso: Avaliar Empresa. (Fonte: MEISTER, Guilherme. 2024).</p>
@@ -213,4 +212,9 @@ formato **PDF** <a href="https://github.com/Requisitos-de-Software/2024.1-Consum
 ## Histórico de Versões
 | Data | Versão | Descrição | Autor(es) | Data de revisão | Revisor(es) |
 | :--:       | :----: | :-------: | :---: | :-------------: | :-----: |
-| 03/05/2024 | `1.0`  | Criação do artefato | [Guilherme Meister](https://github.com/gmeister18) e [Matheus Ferreira](https://github.com/matferreira1) | 10/04/2024 | [Henrique Galdino](https://github.com/hgaldino05) e [Rodrigo ](https://github.com/rodrigogontijoo) |
+| `1.5` | 18/05/2024  | 18/05/2024 | Finalização da página | [Guilherme Meister](https://github.com/gmeister18) | [Igor Thiago](https://github.com/alladin-51) |
+| `1.4` | 18/05/2024  | 18/05/2024 | Adição das UC01, UC02 E UC07| [Rodrigo Gontijo](https://github.com/rodrigogontijoo), [Guilherme Meister](https://github.com/gmeister18) | [Igor Thiago](https://github.com/alladin-51) |
+| `1.3` | 17/05/2024  | 18/05/2024 | Adição das UC04 E UC06 | [Júlio César](https://github.com/Julio1099), [Henrique Galdino](https://github.com/hgaldino05) | [Rodrigo Gontijo](https://github.com/rodrigogontijoo) |
+| `1.2` | 17/05/2024  | 17/05/2024 | Adição das UC03 E UC05| [Igor Thiago](https://github.com/alladin-51), [Matheus Ferreira](https://github.com/matferreira1) | [Rodrigo Gontijo](https://github.com/rodrigogontijoo) |
+| `1.1` | 15/05/2024  | 17/05/2024 | Adição Diagrama| [Guilherme Meister](https://github.com/gmeister18), [Henrique Galdino](https://github.com/hgaldino05) | [Igor Thiago](https://github.com/alladin-51) |
+| `1.0` | 03/05/2024  | Criação do artefato | [Guilherme Meister](https://github.com/gmeister18) e [Matheus Ferreira](https://github.com/matferreira1) | 10/04/2024 | [Henrique Galdino](https://github.com/hgaldino05) e [Rodrigo ](https://github.com/rodrigogontijoo) |
