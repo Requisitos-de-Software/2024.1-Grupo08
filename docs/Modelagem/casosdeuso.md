@@ -32,7 +32,7 @@ Os casos de usos mais importantes e mais utilizados encontrados no aplicativo es
 <img src="" width="100%">
 
 <div align="center">
-<p> <b>Figura 2</b>: Elemento comunicação (Fonte: MEISTER, Guilherme 2024). </p>
+<p> <b>Figura 2</b>: Elemento comunicação (Fonte: FERREIRA, Matheus 2024). </p>
 </div>
 
 <p align="justify">A seguir, a especificação dos casos de uso identificados com 'UC' (Use case) seguido por uma enumeração.</p>
@@ -97,7 +97,7 @@ Os casos de usos mais importantes e mais utilizados encontrados no aplicativo es
 formato **PDF** <a href="https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/assets/UC1%20(1).pdf">aqui</a>
 
 <div style="text-align: center">
-<p> Tabela 3: Especificação do caso de uso: Visualizar reclamações de outros usuários. (Fonte: MEISTER, Guilherme. 2024).</p>
+<p> Tabela 3: Especificação do caso de uso: Visualizar reclamações de outros usuários. (Fonte: FERREIRA, Matheus. 2024).</p>
 </div>
 
 ### UC04.
@@ -118,7 +118,7 @@ formato **PDF** <a href="https://github.com/Requisitos-de-Software/2024.1-Consum
 formato **PDF** <a href="https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/assets/UC1%20(1).pdf">aqui</a>
 
 <div style="text-align: center">
-<p> Tabela 4: Especificação do caso de uso: Visualizar minhas reclamações. (Fonte: MEISTER, Guilherme. 2024).</p>
+<p> Tabela 4: Especificação do caso de uso: Visualizar minhas reclamações. (Fonte: GALDINO, Henrique. 2024).</p>
 </div>
 
 ### UC05.
@@ -139,7 +139,7 @@ formato **PDF** <a href="https://github.com/Requisitos-de-Software/2024.1-Consum
 formato **PDF** <a href="https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/assets/UC1%20(1).pdf">aqui</a>
 
 <div style="text-align: center">
-<p> Tabela 5: Especificação do caso de uso: Visualizar Dados Gerais. (Fonte: MEISTER, Guilherme. 2024).</p>
+<p> Tabela 5: Especificação do caso de uso: Visualizar Dados Gerais. (Fonte: THIAGO, Igor. 2024).</p>
 </div>
 
 ### UC06.
@@ -160,7 +160,7 @@ formato **PDF** <a href="https://github.com/Requisitos-de-Software/2024.1-Consum
 formato **PDF** <a href="https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/assets/UC1%20(1).pdf">aqui</a>
 
 <div style="text-align: center">
-<p> Tabela 6: Especificação do caso de uso: Visualizar meus Dados. (Fonte: MEISTER, Guilherme. 2024).</p>
+<p> Tabela 6: Especificação do caso de uso: Visualizar meus Dados. (Fonte: CÉSAR, Julio. 2024).</p>
 </div>
 
 ### UC07.
@@ -179,7 +179,7 @@ formato **PDF** <a href="https://github.com/Requisitos-de-Software/2024.1-Consum
 | **Rastreabilidade** |  |
 
 <div style="text-align: center">
-<p> Tabela 7: Especificação do caso de uso: Responder Reclamação. (Fonte: MEISTER, Guilherme. 2024).</p>
+<p> Tabela 7: Especificação do caso de uso: Responder Reclamação. (Fonte: CONTIJO, Rodrigo. 2024).</p>
 </div>
 
 ### UC08.
