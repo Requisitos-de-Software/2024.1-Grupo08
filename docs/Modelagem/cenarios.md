@@ -25,17 +25,17 @@ Há cinco maneiras de descrever cenários: texto narrativo, texto estruturado, d
 
 
 
-## C01: 
+## C01: Cadastrar reclamação
 
 | Elemento   | Descrição                                                                                                                                                        |
 | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Objetivo   |                                    |
-| Contexto   |                                    |
-| Recursos   |                                    |
-| Ator       |                                    |
-| Episódios  |                                    |
-|Restrições  |                                    |
-| Exceção    |                   
+| Objetivo   |Cadastrar uma reclamação de uma empresa|
+| Contexto   | - Local: em casa <br> - Tempo: dia <br> - Pré-condições: ter um dispositivo com acesso a internet|
+| Recursos   | - Celular <br> - Aplicativo
+| Ator       | - Usuário|
+| Episódios  | - Usuário pesquisa uma empresa <br> - Usuário seleciona a empresa <br> - Usuário clica no botão escrito "QUERO RECLAMAR" <br> - Usuário preenche as informações do cadastro <br> - Usuário clica no botão "Enviar"|
+|Restrições  | - Usuário não achar a empresa <br> - Usuário não tem as informações necessárias para o cadastro|
+| Exceção    | - Dispositivo sem energia <br> - Falta de internet <br> - Aplicativo travou
 
 
 
