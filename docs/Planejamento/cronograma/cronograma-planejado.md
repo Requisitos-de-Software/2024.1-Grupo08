@@ -68,12 +68,12 @@ A Tabela 4 mostra as atividades planejadas para o Ponto de Controle 3, além de 
 
 | Atividade | Início | Fim | Data limite |Autores | Revisores |
 |-----------|--------|-----|-----|---------|-----------|
-| Casos de uso | 03/05 | 19/05 | 21/05 | Guilherme, Matheus | Henrique |
-| Cenários |  03/05 | 19/05 | 21/05 | Henrique, Rodrigo | Igor |
-| Léxico | 03/05 | 19/05 | 21/05 | Igor, Júlio | Guilherme |
-| Especificação suplementar |  03/05 | 19/05 | 21/05 | Júlio, Matheus e Guilherme | Igor, Henrique |
-| Gravação da apresentação | 19/05 | 19/05 | 21/05 | Todos | Rodrigo |
-| Correções do Ponto de Controle anterior | 03/05 | 09/05 | 21/05 | Todos | Guilherme |
+| Casos de uso | 14/05 | 20/05 | 20/05 | Guilherme, Matheus | Henrique |
+| Cenários |  14/05 | 20/05 | 20/05 | Igor, Rodrigo | Guilherme |
+| Léxico | 14/05 | 20/05 | 20/05 | Júlio | Matheus |
+| Especificação suplementar |  14/05 | 20/05 | 20/05 | Henrique | Rodrigo |
+| Gravação da apresentação | 14/05 | 20/05 | 20/05 | Todos | Rodrigo |
+| Correções do Ponto de Controle anterior | 14/05 | 20/05 | 20/05 | Todos | Guilherme |
 
 #### Tabela 4 - Itens planejados Ponto de Controle 3. (Fonte: MEISTER, Guilherme 2024).
 
@@ -141,6 +141,7 @@ A Tabela 8 mostra as atividades planejadas para o Ponto de Controle 6, além de 
 ### Histórico de versão
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | :------: | :--------: | :-----------: | :-------: | :---------: |
+| 30/04 | `1.2` | atualização datas | [Henrique Galdino](https://github.com/hgaldino05) | [Guilherme Meister](https://github.com/gmeister18)|
 | 30/04 | `1.2` | novo cronograma para as novas datas | [Guilherme Meister](https://github.com/gmeister18) | [Henrique Galdino](https://github.com/hgaldino05)|
 | 03/04 | `1.1` | Preenchendo cronograma para as demais entregas | [Henrique Galdino](https://github.com/hgaldino05) | [Guilherme Meister](https://github.com/gmeister18)|
 | 03/04 | `1.0` | Criação da página cronograma planejado (divisão dos cronogramas) | Guilherme, Henrique, Igor, Júlio, Matheus, Rodrigo | [Guilherme Meister](https://github.com/gmeister18)
