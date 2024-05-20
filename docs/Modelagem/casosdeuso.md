@@ -81,15 +81,15 @@ Os casos de usos mais importantes e mais utilizados encontrados no aplicativo es
 
 ### UC03.
 
-| UC03 | Visualizar reclamaçãoes de outros usuários |
+| UC03 | Visualizar reclamações de outros usuários |
 |  :-----: |  :-----: |
 | **Atores** | Usuário |
 | **Frequência de uso** | Alta |
 | **Requisitos** | disponibilidade da reclamações recentes no app |
-| **Condição de entrada** | O usuário seleciona reclamaçãoes de outros usuários |
-| **Fluxo principal** | <ol> <li> O usuário clica em reclamaçãoes de outros usuários  <li> O  sistema mostra as últimas reclamações <li> usuário pode filtrar de acordo com o fornecedor desejado </ol> |
+| **Condição de entrada** | O usuário seleciona reclamações de outros usuários |
+| **Fluxo principal** | <ol> <li> O usuário clica em reclamações de outros usuários  <li> O  sistema mostra as últimas reclamações <li> usuário pode filtrar de acordo com o fornecedor desejado </ol> |
 | **Fluxos alternativos** | Não há |
-| **Fluxos de exceção** | <b>Fluxo 1: O Usuário clica em reclamaçãoes de outros usuários </b> <ol> <li> O sistema responde mostrando as ultimas reclamações <li> O usuário pode visualizar a reclamação com mais detalhes </ol> <b> Fluxo 2: O usuário clica na reclamação de outro cliente </b> <ol> <li> O sistema abre a página com os detalhes da reclamção </ol> <b> Fluxo 3: O usuário clica em filtrar </b> <ol> <li> O sistema abre um pop-up com opção de filtragem <ul> <li> Palavra chave <li> Fornecedor |
+| **Fluxos de exceção** | <b>Fluxo 1: O Usuário clica em reclamações de outros usuários </b> <ol> <li> O sistema responde mostrando as ultimas reclamações <li> O usuário pode visualizar a reclamação com mais detalhes </ol> <b> Fluxo 2: O usuário clica na reclamação de outro cliente </b> <ol> <li> O sistema abre a página com os detalhes da reclamção </ol> <b> Fluxo 3: O usuário clica em filtrar </b> <ol> <li> O sistema abre um pop-up com opção de filtragem <ul> <li> Palavra chave <li> Fornecedor |
 | **Pós condições** | Não há |
 | **Data da criação** | 17/05/24 |
 | **Rastreabilidade** |  |
@@ -97,20 +97,20 @@ Os casos de usos mais importantes e mais utilizados encontrados no aplicativo es
 formato **PDF** <a href="https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/assets/UC1%20(1).pdf">aqui</a>
 
 <div style="text-align: center">
-<p> Tabela 3: Especificação do caso de uso: Visualizar reclamaçãoes de outros usuários. (Fonte: MEISTER, Guilherme. 2024).</p>
+<p> Tabela 3: Especificação do caso de uso: Visualizar reclamações de outros usuários. (Fonte: MEISTER, Guilherme. 2024).</p>
 </div>
 
 ### UC04.
 
-| UC04 | Visualizar minhas reclamaçãoes|
+| UC04 | Visualizar minhas reclamações|
 | :-----: | :-----:|
 | **Atores** | Usuário |
 | **Frequência de uso** | Alta |
 | **Requisitos** | usuário já deve ter realizado uma reclamação no app |
-| **Condição de entrada** | O usuário seleciona minhas reclamaçãoes |
-| **Fluxo principal** | <ol> <li> O usuário clica em minhas reclamaçãoes <li> O  sistema mostra as reclamações feitas pelo usuário <li> usuário pode visualizar o andamento e interagir com a empresa </ol> |
+| **Condição de entrada** | O usuário seleciona minhas reclamações |
+| **Fluxo principal** | <ol> <li> O usuário clica em minhas reclamações <li> O  sistema mostra as reclamações feitas pelo usuário <li> usuário pode visualizar o andamento e interagir com a empresa </ol> |
 | **Fluxos alternativos** | Não há |
-| **Fluxos de exceção** | <b>Fluxo 1: O Usuário clica em minhas reclamaçãoes </b> <ol> <li> O sistema responde mostrando as reclamações feitas pelo usuário <li> O usuário pode visualizar o andamento da reclamação  </ol> <b> Fluxo 2: O usuário clica na reclamação </b> <ol> <li> O sistema abre a página com os detalhes da reclamção <ul> <li> área <li> Assunto <li> Problema <li> Gestor <li> Data de abertura </ol> <b> Fluxo 3: O usuário clica em interagir com o fornecedor </b> <ol> <li> O sistema abre uma página com opção de digitar uma mensagem à empresa |
+| **Fluxos de exceção** | <b>Fluxo 1: O Usuário clica em minhas reclamações </b> <ol> <li> O sistema responde mostrando as reclamações feitas pelo usuário <li> O usuário pode visualizar o andamento da reclamação  </ol> <b> Fluxo 2: O usuário clica na reclamação </b> <ol> <li> O sistema abre a página com os detalhes da reclamção <ul> <li> área <li> Assunto <li> Problema <li> Gestor <li> Data de abertura </ol> <b> Fluxo 3: O usuário clica em interagir com o fornecedor </b> <ol> <li> O sistema abre uma página com opção de digitar uma mensagem à empresa |
 | **Pós condições** | Não há |
 | **Data da criação** | 17/05/24 |
 | **Rastreabilidade** |  |
@@ -118,7 +118,7 @@ formato **PDF** <a href="https://github.com/Requisitos-de-Software/2024.1-Consum
 formato **PDF** <a href="https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/assets/UC1%20(1).pdf">aqui</a>
 
 <div style="text-align: center">
-<p> Tabela 4: Especificação do caso de uso: Visualizar minhas reclamaçãoes. (Fonte: MEISTER, Guilherme. 2024).</p>
+<p> Tabela 4: Especificação do caso de uso: Visualizar minhas reclamações. (Fonte: MEISTER, Guilherme. 2024).</p>
 </div>
 
 ### UC05.
