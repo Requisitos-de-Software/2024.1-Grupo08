@@ -29,7 +29,7 @@ Há cinco maneiras de descrever cenários: texto narrativo, texto estruturado, d
 
 | Elemento   | Descrição                                                                                                                                                        |
 | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Objetivo   |- Pesquisar empresa pelo nome|
+| Objetivo   | - Pesquisar empresa pelo nome|
 | Contexto   | - Local: em casa <br> - Tempo: dia <br> - Pré-condições: ter um dispositivo com acesso a internet|
 | Recursos   | - Celular <br> - Aplicativo
 | Ator       | - Usuário|
@@ -42,12 +42,25 @@ Há cinco maneiras de descrever cenários: texto narrativo, texto estruturado, d
 
 | Elemento   | Descrição                                                                                                                                                        |
 | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Objetivo   |Cadastrar uma reclamação de uma empresa|
+| Objetivo   | - Cadastrar uma reclamação de uma empresa|
 | Contexto   | - Local: em casa <br> - Tempo: dia <br> - Pré-condições: ter um dispositivo com acesso a internet|
 | Recursos   | - Celular <br> - Aplicativo
 | Ator       | - Usuário|
 | Episódios  | - Usuário pesquisa uma empresa <br> - Usuário seleciona a empresa <br> - Usuário clica no botão escrito "QUERO RECLAMAR" <br> - Usuário preenche as informações do cadastro <br> - Usuário clica no botão "Enviar"|
 |Restrições  | - Usuário não achar a empresa <br> - Usuário não tem as informações necessárias para o cadastro|
+| Exceção    | - Dispositivo sem energia <br> - Falta de internet <br> - Aplicativo travou
+
+
+## C03: Visualizar reclamações de outros usuários
+
+| Elemento   | Descrição                                                                                                                                                        |
+| ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Objetivo   | - Visualizar reclamações de outros usuários|
+| Contexto   | - Local: em casa <br> - Tempo: dia <br> - Pré-condições: ter um dispositivo com acesso a internet|
+| Recursos   | - Celular <br> - Aplicativo
+| Ator       | - Usuário|
+| Episódios  | - Usuário clica no botão escrito "Visualizar reclamações de outros usuários" <br> - Usuário clica no botão "Filtro" <br> - Usuário digita o nome da empresa que deseja filtrar as reclamações <br> - Usuário seleciona a reclamação que deseja visualizar|
+|Restrições  | - Usuário não achar a empresa |
 | Exceção    | - Dispositivo sem energia <br> - Falta de internet <br> - Aplicativo travou
 
 
