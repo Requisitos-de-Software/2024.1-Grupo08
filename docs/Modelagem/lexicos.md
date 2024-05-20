@@ -179,7 +179,8 @@ O usuário avalia a resposta de uma empresa à reclamação que ele fez.
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição                                    | Autor(es)                                        | Revisor(es)                                      |
-| ------ | ---------- | -------------------------------------------- | ------------------------------------------------ | ------------------------------------------------ |
-| `1.0`  | 16/05/2024 | Criação dos léxicos.                           | [Júlio Cesar](https://github.com/Julio1099) | |
+| Versão | Data       | Descrição               | Autor                                           | Revisor                                              |
+|--------|------------|-------------------------|-------------------------------------------------|------------------------------------------------------|
+| `1.0`  | 16/05/2024 | Criação dos léxicos.    | [Júlio Cesar](https://github.com/Julio1099)     | [Matheus Ferreira](https://github.com/matferreira1)  |
+
 
