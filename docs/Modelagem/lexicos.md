@@ -45,7 +45,7 @@ A tabela 3 mostra o template criado com base nos Léxicos do projeto [Bilheteria
 
 ### L01: Pesquisar Empresa
 
-O usuário busca uma empresa específica dentro do aplicativo.
+O usuário busca uma empresa específica dentro do aplicativo. Ele faz uso do requisito <a href="https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicitação/requisitos-elicitados/">RF02</a>.
 
 #### Tabela 4 - Léxico 01:  Pesquisar Empresa (L01)
 
@@ -61,7 +61,7 @@ O usuário busca uma empresa específica dentro do aplicativo.
 
 ### L02: Abrir Reclamação
 
-O usuário registra uma reclamação contra uma empresa no aplicativo.
+O usuário registra uma reclamação contra uma empresa no aplicativo. Ele faz uso dos requisitos <a href="https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicitação/requisitos-elicitados/">RF06</a>, <a href="https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicitação/requisitos-elicitados/">RF07</a>, <a href="https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicitação/requisitos-elicitados/">RF09</a>.
 
 #### Tabela 5 - Léxico 02: Abrir Reclamação (L02)
 
@@ -77,7 +77,7 @@ O usuário registra uma reclamação contra uma empresa no aplicativo.
 
 ### L03: Visualizar Reclamações de Outros Usuários
 
-O usuário visualiza as reclamações registradas por outros usuários no aplicativo.
+O usuário visualiza as reclamações registradas por outros usuários no aplicativo. Ele faz uso dos requisitos <a href="https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicitação/requisitos-elicitados/">RF03</a>, <a href="https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicitação/requisitos-elicitados/">RF04</a>.
 
 #### Tabela 6 - Léxico 03: Visualizar Reclamações de Outros Usuários (L03)
 
@@ -93,7 +93,7 @@ O usuário visualiza as reclamações registradas por outros usuários no aplica
 
 ### L04: Visualizar Minhas Reclamações
 
-O usuário visualiza as reclamações que ele próprio registrou no aplicativo.
+O usuário visualiza as reclamações que ele próprio registrou no aplicativo. Ele faz uso dos requisitos <a href="https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicitação/requisitos-elicitados/">RF10</a>, <a href="https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicitação/requisitos-elicitados/">RF11</a>.
 
 #### Tabela 7 - Léxico 04: Visualizar Minhas Reclamações (L04)
 
