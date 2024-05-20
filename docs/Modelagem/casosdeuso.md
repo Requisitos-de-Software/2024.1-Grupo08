@@ -2,11 +2,11 @@
 
 ## Introdução
 
-O diagrama de casos, também chamado de diagrama comportamental, na notação da UML, tem como proposta documentar a maneira como o sistema deve se comportar do ponto de vista do usuário externo, utilizando dos lexos levantados para elaboração dos casos de uso, dessa forma descrevendo um conjunto de ações do sistema.
+O diagrama de casos, também chamado de diagrama comportamental, na notação da UML, tem como proposta documentar a maneira como o sistema deve se comportar do ponto de vista do usuário externo, utilizando dos léxicos levantados para elaboração dos casos de uso, dessa forma descrevendo um conjunto de ações do sistema.
 
 ## Metodologia 
   
-Para criação do artefato realizamos a criação de um diagrama de casos de uso UML com o intuito de mostrar como o sitema deve se comportar. Foi utilizada o <a href="https://www.lucidchart.com/pages/pt">LucidChart</a>, para criar o diagramação no geral. 
+Para criação do artefato realizamos a criação de um diagrama de casos de uso UML com o intuito de mostrar como o sistema deve se comportar. Foi utilizada o <a href="https://www.lucidchart.com/pages/pt">LucidChart</a>, para criar o diagramação no geral. 
 
 ## Componentes e símbolos
 
@@ -14,18 +14,23 @@ Um diagrama de casos de uso possui os seguintes elementos em sua composição:
 
 | Nome | Função | Elemento
 |------|------|:-------:
-| Atores | Representam os usuários e sistemas, ou um tipo dele, normalmente são representados por bonecos de palito | <img src="https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/assets/img/modelagem/ator-removebg-preview.png?raw=true" width="100">
-| Caso de uso | É uma atuação ou funcionalidade realizada pelo ator.Geralmente são definidos por um objeto na forma oval horizontal | <img src="https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/assets/img/modelagem/Casoa-removebg-preview.png?raw=true" width="200">
-| Cenário | Nesse elemento, eh descrito os eventos que acontecem quando um usuário manuseia o sistema. | <img src="https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/assets/img/modelagem/Cenario-removebg-preview.png?raw=true" width="200">
-| Comunicação (ou ação) | Consiste em uma ação que o usuário irá realizar sobre o caso de uso | <img src="https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/assets/img/modelagem/Comunicacao-removebg-preview.png?raw=true" width="270">
+| Atores | Representam os usuários e sistemas, ou um tipo dele, normalmente são representados por bonecos de palito | <img src="https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/assets/img/modelagem/ator-removebg-preview.png" width="100">
+| Caso de uso | É uma atuação ou funcionalidade realizada pelo ator.Geralmente são definidos por um objeto na forma oval horizontal | <img src="https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/assets/img/modelagem/Casoa-removebg-preview.png" width="200">
+| Cenário | Nesse elemento, é descrito os eventos que acontecem quando um usuário manuseia o sistema. | <img src="https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/assets/img/modelagem/Cenario-removebg-preview.png" width="200">
+| Comunicação (ou ação) | Consiste em uma ação que o usuário irá realizar sobre o caso de uso | <img src="https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/assets/img/modelagem/Comunicacao-removebg-preview.png" width="270">
 
 <div style="text-align: center">
 <p> Tabela 1: Elementos do diagrama de casos de uso. (Fonte: MEISTER, Guilherme. 2024).</p>
 </div>
 
+## Diagrama de casos de uso
+
+Segue o diagrama de casos de uso feito.
+
+<img src="../assets/Diagrama de caso de uso.png"/>
 ## Casos de uso
 
-Os casos de usos mais importantes e mais utilizados encontrados no aplicativo estão representados na Figura 2. Uma melhor visualização da imagem pode ser encontrada em <a >casos de uso Consumidor.gov.</a></p>
+Os casos de usos mais importantes e mais utilizados no aplicativo estão representados na Figura 2. Uma melhor visualização da imagem pode ser encontrada em <a >casos de uso Consumidor.gov.</a></p>
 
 <p align="justify">A Figura 2 apresenta o diagrama de casos de uso do aplicativo Consumidor.gov.</p>
 
@@ -45,7 +50,7 @@ Os casos de usos mais importantes e mais utilizados encontrados no aplicativo es
 | **Frequência de uso** | Alta |
 | **Requisitos** | Abrir a página principal do app |
 | **Condição de entrada** | O usuário utiliza a barra de pesquisa para encontrar a empresa desejada |
-| **Fluxo principal** | <ol> <li> O usuário clica pesquise empresa <li> O usuário seleciona a empresa desejada <li> Abrir os indicadores da Empresa por default </ol> |
+| **Fluxo principal** | <ol> <li> O usuário clica em pesquisar empresa <li> O usuário seleciona a empresa desejada <li> Abrir os indicadores da Empresa por default </ol> |
 | **Fluxos alternativos** | Não há |
 | **Fluxos de exceção** |  <b>Fluxo 1: O Usuário clica em pesquisar empresa</b> <ol> <li> O sistema abre uma barra de pesquisa <li> De acordo com as palvaras digitadas, o app mostra as empresas disponíveis <li> O usuário escolhe uma opção <ul> </ol> <b> Fluxo 2: O usuário clica em abrir uma empresa</b> <ol> <li> O sistema abre os indicadores da empresa </ol> <b> Fluxo 3: O usuário navega entre os dados da empresa </b> <ol> <li> O Sistema oferece indicadores do ano atual e dentre todos os anos <ul> <li> O usuários podem obter todas as informações sobre o feedback da empresa </ol> |
 | **Pós condições** | O usuário tem a opção de abrir reclamação |
@@ -60,15 +65,15 @@ Os casos de usos mais importantes e mais utilizados encontrados no aplicativo es
 
 ### UC02.
 
-| UC02 | Abrir reclamação |
+| UC02 | Fazer reclamação |
 | :-----: | :-----: |
 | **Atores** | Usuário |
 | **Frequência de uso** | Alta |
-| **Requisitos** | disponibilidade da empresa no app |
+| **Requisitos** | Disponibilidade da empresa no app |
 | **Condição de entrada** | O usuário seleciona encontra a empresa e abre reclamação |
-| **Fluxo principal** | <ol> <li> O usuário clica em uma empresa específica  <li> O  sistema da a opção: quero reclamar <li> Surgem as configurações para registrar reclamação </ol> |
+| **Fluxo principal** | <ol> <li> O usuário clica em uma empresa específica  <li> É exibida a opção de fazer reclamação <li> Surgem as configurações para registrar reclamação </ol> |
 | **Fluxos alternativos** | Não há |
-| **Fluxos de exceção** | <b>Fluxo 1: O Usuário clica na empresa desejada </b> <ol> <li> O sistema responde mostrando indicadores da empresa <li> O sistema da a opção do usuário abrir reclamação </ol> <b> Fluxo 2: O usuário clica em QUERO RECLAMAR </b> <ol> <li> O sistema abre a página para registrar reclamação <li> O usuário tem que responder as seguintes perguntas <ul> <li> Procurou a empresa? <li> Como comprou? <li> Área <li> Assunto <li> Problema </ol> <b> Fluxo 3: O usuário clica em Próximo </b> <ol> <li> O sistema abre a página para informações adicionais <ul> <li> Nota Fiscal <li> Data de compra <li> Ordem de compra <li> Marca/modelo </ol> <b>Fluxo 4: O usuário clica próximo </b> <ol> <li> O sistema mostra espaços para cadastro de ultimas informações <ul> <li> Descreva a Reclamação <li> Pedido à empresa <li> incluir anexo </ol> <b> Fluxo 5: O usuário clica em Próximo </b> <ol> <li> O sistema mostra o resumo da reclamação <li> usuário confirma. |
+| **Fluxos de exceção** | <b>Fluxo 1: O Usuário clica na empresa desejada </b> <ol> <li> O sistema responde mostrando indicadores da empresa <li>É exibida a opção de fazer reclamação  </ol> <b> Fluxo 2: O usuário clica em QUERO RECLAMAR </b> <ol> <li> O sistema abre a página para registrar reclamação <li> O usuário tem que responder as seguintes perguntas <ul> <li> Procurou a empresa? <li> Como comprou? <li> Área <li> Assunto <li> Problema </ol> <b> Fluxo 3: O usuário clica em Próximo </b> <ol> <li> O sistema abre a página para informações adicionais <ul> <li> Nota Fiscal <li> Data de compra <li> Ordem de compra <li> Marca/modelo </ol> <b>Fluxo 4: O usuário clica próximo </b> <ol> <li> O sistema mostra espaços para cadastro de ultimas informações <ul> <li> Descreva a Reclamação <li> Pedido à empresa <li> incluir anexo </ol> <b> Fluxo 5: O usuário clica em Próximo </b> <ol> <li> O sistema mostra o resumo da reclamação <li> usuário confirma. |
 | **Pós condições** | Não há |
 | **Data da criação** | 17/05/24 |
 | **Rastreabilidade** |  |
