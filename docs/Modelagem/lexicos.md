@@ -171,6 +171,41 @@ O usuário avalia a resposta de uma empresa à reclamação que ele fez.
 <font size="3"><p style="text-align: center">Fonte: [CÉSAR, Julio. 2024](https://github.com/Julio1099).</p></font>
 </figure>
 
+### L09: Usuário
+
+#### Tabela 12 - Léxico Usuário
+
+| Usuário | Descrição |
+|---------|-----------|
+| Classificação | Sujeito |
+| Impacto | Pessoa que utiliza o aplicativo para interagir com as funcionalidades disponíveis |
+| Noção | O usuário realiza diversas ações dentro do aplicativo, como pesquisar empresas, abrir reclamações, visualizar dados gerais e suas próprias reclamações, responder reclamações e avaliar respostas de empresas. |
+| Sinônimos | Cliente, Consumidor, Utilizador |
+
+<font size="3"><p style="text-align: center">Fonte: [CÉSAR, Julio. 2024](https://github.com/Julio1099).</p></font>
+</figure>
+
+## Relacionamento dos Léxicos
+
+O Relacionamento dos léxicos, representado na tabela abaixo, mostra como cada léxico é associado a outros léxicos relevantes, com uma descrição detalhada de como essas entidades estão conectadas. A tabela serve não só como uma ferramenta de referência rápida, mas também como uma base para a revisão e melhoria.
+
+#### Tabela 13 - Tabela de Relacionamento dos Léxicos
+
+| Léxico | Relaciona-se com | Descrição do Relacionamento |
+|--------|------------------|-----------------------------|
+| L01: Pesquisar Empresa | L09: Usuário | O usuário utiliza o sistema para pesquisar uma empresa específica dentro do aplicativo. |
+| L02: Abrir Reclamação | L09: Usuário | O usuário registra uma reclamação contra uma empresa no aplicativo. |
+| L03: Visualizar Reclamações de Outros Usuários | L09: Usuário | O usuário visualiza as reclamações registradas por outros usuários no aplicativo. |
+| L04: Visualizar Minhas Reclamações | L09: Usuário | O usuário visualiza as reclamações que ele próprio registrou no aplicativo. |
+| L05: Visualizar Dados Gerais | L09: Usuário | O usuário visualiza dados gerais sobre o aplicativo. |
+| L06: Visualizar Meus Dados | L09: Usuário | O usuário visualiza seus próprios dados cadastrais no aplicativo. |
+| L07: Responder Reclamação | L03: Usuário, L08: Avaliar Empresa | A empresa responde a uma reclamação recebida de um usuário no aplicativo. |
+| L08: Avaliar Empresa | L09: Usuário | O usuário avalia a resposta de uma empresa à reclamação que ele fez. |
+| L09: Usuário | L01: Pesquisar Empresa, L02: Abrir Reclamação, L03: Visualizar Reclamações de Outros Usuários, L04: Visualizar Minhas Reclamações, L05: Visualizar Dados Gerais, L06: Visualizar Meus Dados, L07: Responder Reclamação, L08: Avaliar Empresa | O Usuário interage com todos os outros elementos do sistema de acordo com suas necessidades. |
+
+<font size="3"><p style="text-align: center">Fonte: [CÉSAR, Julio. 2024](https://github.com/Julio1099).</p></font>
+</figure>
+
 ## Referências Bibliográficas
 
 >SERRANO, Milene. Requisitos – Aula 10. 2017. Apresentação de slides. Disponível em: [https://aprender3.unb.br/pluginfile.php/2523091/mod_resource/content/1/Aula%2010.pdf](https://aprender3.unb.br/pluginfile.php/2523091/mod_resource/content/1/Aula%2010.pdf). Acesso em: 15/05/2024.
