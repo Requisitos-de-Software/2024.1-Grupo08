@@ -74,11 +74,16 @@ A tabela abaixo apresenta os resultados da priorização de requisitos, demonstr
 
 <div style="text-align: center;"><p>Tabela 3 - Tabela de Resultado da Priorização de Requisitos (Fonte: CÉSAR, Julio. 2024).</p></div>
 
-## Link da Gravação
+## Cronograma e gravação
 
-[Priorização - First Thing First(Mediador/Desenvolvedor)](https://youtu.be/CtUni6w0gSs)
+A tabela 4, mostra o período em que foi realizado a priorização junto ao cliente:
 
-[Priorização - First Thing First(Mediador/Usuário)](https://youtu.be/jka4Mdmq9TI)
+| Data | Hora | Local | Tema | Mediador | Participante |
+| :--: | :--: | :---: | ------- | ------------ | ----- |
+| 16/04/2024 | 17h | Teams | Priorização First Things First (cliente) |[Henrique Galdino](https://github.com/hgaldino05)| Matheus Assis|
+| 16/04/2024 | 19h | Teams | Priorização First Things First (desenvolvedor) |[Henrique Galdino](https://github.com/hgaldino05)| [Igor Thiago](https://github.com/alladin-51)|
+<div style="text-align: center;"><p>Tabela 4 - Cronograma da Priorização de Requisitos (Fonte: CÉSAR, Julio. 2024).</p></div>
+
 
 ## Bibliografia
 
