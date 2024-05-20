@@ -80,49 +80,49 @@ Há cinco maneiras de descrever cenários: texto narrativo, texto estruturado, d
 
 | Elemento   | Descrição                                                                                                                                                        |
 | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Objetivo   | - |
-| Contexto   | - Local: em casa <br> - Tempo: dia <br> - Pré-condições: ter um dispositivo com acesso a internet|
-| Recursos   | - Celular <br> - Aplicativo
-| Ator       | - Usuário|
-| Episódios  | - |
-|Restrições  | -  |
-| Exceção    | - Dispositivo sem energia <br> - Falta de internet <br> - Aplicativo travou
+| Objetivo   | - Visualizar dados gerais do aplicativo (Total de reclamações finalizadas, Total de Usuários Cadastrados e Total de Empresas Cadastradas). |
+| Contexto   | - Local: Aba "Home". <br> - Tempo:  <br> - Pré-condições: Usuário estar logado. |
+| Recursos   | - Internet. <br> - Smartphone com a Consumidor.gov instalado. |
+| Ator       | - Usuário do Consumidor.gov.|
+| Episódios  | - O usuário acessa a seção "Home".<br> - Usuário clica em "Dados Gerais"  |
+| Restrições | - |
+| Exceção    | - Dispositivo sem energia. <br> - Falha de conexão à internet. <br> - Aplicativo travou.
 
 ## C06: Visualizar meus Dados
 
 | Elemento   | Descrição                                                                                                                                                        |
 | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Objetivo   | - |
-| Contexto   | - Local: em casa <br> - Tempo: dia <br> - Pré-condições: ter um dispositivo com acesso a internet|
-| Recursos   | - Celular <br> - Aplicativo
-| Ator       | - Usuário|
+| Objetivo   | - Visualizar os dados do usuário cadastrado|
+| Contexto   | - Local:  <br> - Tempo:  <br> - Pré-condições: Usuário estar logado.|
+| Recursos   | - Internet. <br> - Smartphone com a Consumidor.gov instalado. |
+| Ator       | - Usuário do Consumidor.gov.|
 | Episódios  | - |
-|Restrições  | -  |
-| Exceção    | - Dispositivo sem energia <br> - Falta de internet <br> - Aplicativo travou
+| Restrições | -  |
+| Exceção    | - Dispositivo sem energia. <br> - Falha de conexão à internet. <br> - Aplicativo travou.
 
 ## C07: Responder Reclamação
 
 | Elemento   | Descrição                                                                                                                                                        |
 | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Objetivo   | - |
-| Contexto   | - Local: em casa <br> - Tempo: dia <br> - Pré-condições: ter um dispositivo com acesso a internet|
-| Recursos   | - Celular <br> - Aplicativo
-| Ator       | - Usuário|
+| Contexto   | - Local: <br> - Tempo:  <br> - Pré-condições: Usuário estar logado.|
+| Recursos   | - Internet. <br> - Smartphone com a Consumidor.gov instalado. |
+| Ator       | - Empresa.|
 | Episódios  | - |
-|Restrições  | -  |
-| Exceção    | - Dispositivo sem energia <br> - Falta de internet <br> - Aplicativo travou
+| Restrições | -  |
+| Exceção    | - Dispositivo sem energia. <br> - Falha de conexão à internet. <br> - Aplicativo travou.
 
 ## C08: Avaliar Empresa
 
 | Elemento   | Descrição                                                                                                                                                        |
 | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Objetivo   | - |
-| Contexto   | - Local: em casa <br> - Tempo: dia <br> - Pré-condições: ter um dispositivo com acesso a internet|
-| Recursos   | - Celular <br> - Aplicativo
-| Ator       | - Usuário|
+| Contexto   | - Local:  <br> - Tempo:  <br> - Pré-condições: Usuário estar logado.|
+| Recursos   | - Internet. <br> - Smartphone com a Consumidor.gov instalado. |
+| Ator       | - Usuário do Consumidor.gov.|
 | Episódios  | - |
-|Restrições  | -  |
-| Exceção    | - Dispositivo sem energia <br> - Falta de internet <br> - Aplicativo travou
+| Restrições | -  |
+| Exceção    | - Dispositivo sem energia. <br> - Falha de conexão à internet. <br> - Aplicativo travou.
 
 ## Histórico de Versão
 | Versão | Data de execução | Data de revisão |  Descrição            | Autor(es)         | Revisor(es)  |
