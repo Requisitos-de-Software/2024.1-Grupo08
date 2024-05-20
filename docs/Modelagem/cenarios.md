@@ -76,6 +76,53 @@ Há cinco maneiras de descrever cenários: texto narrativo, texto estruturado, d
 |Restrições  | - Usuário não ter feito reclamações |
 | Exceção    | - Dispositivo sem energia <br> - Falta de internet <br> - Aplicativo travou
 
+## C05: Visualizar Dados Gerais
+
+| Elemento   | Descrição                                                                                                                                                        |
+| ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Objetivo   | - |
+| Contexto   | - Local: em casa <br> - Tempo: dia <br> - Pré-condições: ter um dispositivo com acesso a internet|
+| Recursos   | - Celular <br> - Aplicativo
+| Ator       | - Usuário|
+| Episódios  | - |
+|Restrições  | -  |
+| Exceção    | - Dispositivo sem energia <br> - Falta de internet <br> - Aplicativo travou
+
+## C06: Visualizar meus Dados
+
+| Elemento   | Descrição                                                                                                                                                        |
+| ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Objetivo   | - |
+| Contexto   | - Local: em casa <br> - Tempo: dia <br> - Pré-condições: ter um dispositivo com acesso a internet|
+| Recursos   | - Celular <br> - Aplicativo
+| Ator       | - Usuário|
+| Episódios  | - |
+|Restrições  | -  |
+| Exceção    | - Dispositivo sem energia <br> - Falta de internet <br> - Aplicativo travou
+
+## C07: Responder Reclamação
+
+| Elemento   | Descrição                                                                                                                                                        |
+| ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Objetivo   | - |
+| Contexto   | - Local: em casa <br> - Tempo: dia <br> - Pré-condições: ter um dispositivo com acesso a internet|
+| Recursos   | - Celular <br> - Aplicativo
+| Ator       | - Usuário|
+| Episódios  | - |
+|Restrições  | -  |
+| Exceção    | - Dispositivo sem energia <br> - Falta de internet <br> - Aplicativo travou
+
+## C08: Avaliar Empresa
+
+| Elemento   | Descrição                                                                                                                                                        |
+| ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Objetivo   | - |
+| Contexto   | - Local: em casa <br> - Tempo: dia <br> - Pré-condições: ter um dispositivo com acesso a internet|
+| Recursos   | - Celular <br> - Aplicativo
+| Ator       | - Usuário|
+| Episódios  | - |
+|Restrições  | -  |
+| Exceção    | - Dispositivo sem energia <br> - Falta de internet <br> - Aplicativo travou
 
 ## Histórico de Versão
 | Versão | Data de execução | Data de revisão |  Descrição            | Autor(es)         | Revisor(es)  |
