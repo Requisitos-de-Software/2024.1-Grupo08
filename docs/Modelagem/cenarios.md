@@ -116,7 +116,7 @@ Há cinco maneiras de descrever cenários: texto narrativo, texto estruturado, d
 
 | Elemento   | Descrição                                                                                                                                                        |
 | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Objetivo   | - Avaliar  |
+| Objetivo   | - Avaliar uma reclamação concluída de uma empresa. |
 | Contexto   | - Local: Aba "Minhas Reclamações". <br> - Tempo:  <br> - Pré-condições: Usuário estar logado. <br> Usuário deve ter feito uma reclamação e ter sido respondido.|
 | Recursos   | - Internet. <br> - Smartphone com a Consumidor.gov instalado. |
 | Ator       | - Usuário do Consumidor.gov.|
