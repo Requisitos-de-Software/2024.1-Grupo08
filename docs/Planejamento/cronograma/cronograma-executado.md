@@ -51,6 +51,7 @@ A Tabela 3 mostra as atividades realizadas do Ponto de Controle 3, com seus resp
 | Atividade | Início | Fim | Data limite |Autores | Revisores |
 |-----------|--------|-----|-----|---------|-----------|
 | Casos de Uso | 13/05 | 20/05 | 20/05 | Guilherme Meister, Matheus Ferreira | Henrique Galdino, Rodrigo Gontijo |
+| Validação dos Casos de Uso | 13/05 | 20/05 | 20/05 | Henrique Galdino, Júlio César | Rodrigo Gontijo |
 | Cenários | 13/05 | 20/05 | 20/05 | Igor Thiago, Rodrigo Gontijo | Guilherme Meister, Matheus Ferreira |
 | Léxicos | 13/05 | 20/05 | 20/05 | Júlio César | Igor Thiago |
 | Especificação Suplementar | 13/05 | 20/05 | 20/05 | Henrique Galdino | Igor Thiago |
