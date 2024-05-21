@@ -105,10 +105,10 @@ Há cinco maneiras de descrever cenários: texto narrativo, texto estruturado, d
 | Elemento   | Descrição                                                                                                                                                        |
 | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Objetivo   | - Responder uma reclamação feita por um usuário. |
-| Contexto   | - Local: <br> - Tempo:  <br> - Pré-condições: Empresa estar logada. <br> Um usuário ter feito uma reclamação sobre sua empresa.|
+| Contexto   | - Local: Plataforma consumidor.gov para empresas <br> - Tempo:  <br> - Pré-condições: Empresa estar logada. <br> Um usuário ter feito uma reclamação sobre sua empresa.|
 | Recursos   | - Internet. <br> - Smartphone com a Consumidor.gov instalado. |
 | Ator       | - Empresa.|
-| Episódios  | - |
+| Episódios  | - A empresa seleciona uma reclamação. <br> - A empresa responde a reclamação.|
 | Restrições | - A reclamação nao deve estar finalizada ou avaliada. |
 | Exceção    | - Dispositivo sem energia. <br> - Falha de conexão à internet. <br> - Aplicativo travou.
 
