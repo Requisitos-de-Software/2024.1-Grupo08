@@ -2,10 +2,6 @@
 
 ## Introdução
 
-Léxicos são conjuntos de termos específicos usados em uma área particular, como medicina ou programação, para descrever conceitos e trocar informações de maneira precisa. Eles incluem vocabulário técnico e especializado que é essencial para a comunicação eficaz dentro desses contextos específic# Léxicos
-
-## Introdução
-
 Léxicos são conjuntos de termos específicos usados em uma área particular, como medicina ou programação, para descrever conceitos e trocar informações de maneira precisa. Eles incluem vocabulário técnico e especializado que é essencial para a comunicação eficaz dentro desses contextos específicos, estabelecendo uma linguagem compartilhada entre os profissionais e membros da comunidade. O integrante responsável pela criação dos léxicos deste projeto é [Júlio Cesar](https://github.com/Julio1099).
 
 ## Metodologia
@@ -394,6 +390,8 @@ O usuário avalia a resposta de uma empresa à reclamação que ele fez.
 
 ### L09: Usuário
 
+Um usuário é uma pessoa que interage com um sistema, plataforma ou serviço, seja ele físico ou digital.
+
 #### Tabela 12 - Léxico Usuário
 
 | Usuário | Descrição |
@@ -438,5 +436,3 @@ O Relacionamento dos léxicos, representado na tabela abaixo, mostra como cada l
 | Versão | Data       | Descrição               | Autor                                           | Revisor                                              |
 |--------|------------|-------------------------|-------------------------------------------------|------------------------------------------------------|
 | `1.0`  | 16/05/2024 | Criação dos léxicos.    | [Júlio Cesar](https://github.com/Julio1099)     | [Matheus Ferreira](https://github.com/matferreira1)  |
-
-
