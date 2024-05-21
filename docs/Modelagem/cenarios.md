@@ -35,7 +35,9 @@ Há cinco maneiras de descrever cenários: texto narrativo, texto estruturado, d
 |Restrições  | - Usuário não achar a empresa |
 | Exceção    | - Dispositivo sem energia <br> - Falta de internet <br> - Aplicativo travou
 
-Tabela 2: Cenário 01: Pesquisar empresa pelo nome. (Fonte: THIAGO, Igor. 2024).
+<div style="text-align: center">
+<p>Tabela 2: Cenário 01: Pesquisar empresa pelo nome. (Fonte: THIAGO, Igor. 2024).</p>
+</div>
 
 ## C02: Cadastrar reclamação
 
@@ -49,7 +51,9 @@ Tabela 2: Cenário 01: Pesquisar empresa pelo nome. (Fonte: THIAGO, Igor. 2024).
 |Restrições  | - Usuário não achar a empresa <br> - Usuário não tem as informações necessárias para o cadastro|
 | Exceção    | - Dispositivo sem energia <br> - Falta de internet <br> - Aplicativo travou
 
-Tabela 3: Cenário 02: Cadastrar reclamação. (Fonte: THIAGO, Igor. 2024).
+<div style="text-align: center">
+<p>Tabela 3: Cenário 02: Cadastrar reclamação. (Fonte: THIAGO, Igor. 2024).</p>
+</div>
 
 ## C03: Visualizar reclamações de outros usuários
 
@@ -63,7 +67,9 @@ Tabela 3: Cenário 02: Cadastrar reclamação. (Fonte: THIAGO, Igor. 2024).
 |Restrições  | - Usuário não achar a empresa |
 | Exceção    | - Dispositivo sem energia <br> - Falta de internet <br> - Aplicativo travou
 
-Tabela 4: Cenário 03: Visualizar reclamações de outros usuários. (Fonte: THIAGO, Igor. 2024).
+<div style="text-align: center">
+<p>Tabela 4: Cenário 03: Visualizar reclamações de outros usuários. (Fonte: THIAGO, Igor. 2024).</p>
+</div>
 
 ## C04: Visualizar minhas reclamações 
 
@@ -77,7 +83,9 @@ Tabela 4: Cenário 03: Visualizar reclamações de outros usuários. (Fonte: THI
 |Restrições  | - Usuário não ter feito reclamações |
 | Exceção    | - Dispositivo sem energia <br> - Falta de internet <br> - Aplicativo travou
 
-Tabela 5: Cenário 04: Visualizar minhas reclamações. (Fonte: THIAGO, Igor. 2024).
+<div style="text-align: center">
+<p>Tabela 5: Cenário 04: Visualizar minhas reclamações. (Fonte: THIAGO, Igor. 2024).</p>
+</div>
 
 ## C05: Visualizar Dados Gerais
 
@@ -91,7 +99,9 @@ Tabela 5: Cenário 04: Visualizar minhas reclamações. (Fonte: THIAGO, Igor. 20
 | Restrições | - O aplicativo deve as estatíscas.|
 | Exceção    | - Dispositivo sem energia. <br> - Falha de conexão à internet. <br> - Aplicativo travou.
 
-Tabela 6: Cenário 05: Visualizar Dados Gerais. (Fonte: GONTIJO, Rodrigo. 2024).
+<div style="text-align: center">
+<p>Tabela 6: Cenário 05: Visualizar Dados Gerais. (Fonte: GONTIJO, Rodrigo. 2024).</p>
+</div>
 
 ## C06: Visualizar meus Dados
 
@@ -105,7 +115,9 @@ Tabela 6: Cenário 05: Visualizar Dados Gerais. (Fonte: GONTIJO, Rodrigo. 2024).
 | Restrições | - Os dados devem estar cadastrados via gov.br |
 | Exceção    | - Dispositivo sem energia. <br> - Falha de conexão à internet. <br> - Aplicativo travou.
 
-Tabela 7: Cenário 06: Visualizar meus Dados. (Fonte: GONTIJO, Rodrigo. 2024).
+<div style="text-align: center">
+<p>Tabela 7: Cenário 06: Visualizar meus Dados. (Fonte: GONTIJO, Rodrigo. 2024).</p>
+</div>
 
 ## C07: Responder Reclamação
 
@@ -119,7 +131,9 @@ Tabela 7: Cenário 06: Visualizar meus Dados. (Fonte: GONTIJO, Rodrigo. 2024).
 | Restrições | - A reclamação nao deve estar finalizada ou avaliada. |
 | Exceção    | - Dispositivo sem energia. <br> - Falha de conexão à internet. <br> - Aplicativo travou.
 
-Tabela 8: Cenário 07: Responder Reclamação. (Fonte: GONTIJO, Rodrigo. 2024).
+<div style="text-align: center">
+<p>Tabela 8: Cenário 07: Responder Reclamação. (Fonte: GONTIJO, Rodrigo. 2024).</p>
+</div>
 
 ## C08: Avaliar Empresa
 
@@ -133,7 +147,9 @@ Tabela 8: Cenário 07: Responder Reclamação. (Fonte: GONTIJO, Rodrigo. 2024).
 | Restrições | - A reclamação deve estar finalizada. |
 | Exceção    | - Dispositivo sem energia. <br> - Falha de conexão à internet. <br> - Aplicativo travou.
 
-Tabela 9: Cenário 08: Avaliar Empresa. (Fonte: GONTIJO, Rodrigo. 2024).
+<div style="text-align: center">
+<p>Tabela 9: Cenário 08: Avaliar Empresa. (Fonte: GONTIJO, Rodrigo. 2024).</p>
+</div>
 
 
 ## Bibliografia
