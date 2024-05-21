@@ -25,7 +25,8 @@ Esse documento visa registrar o acontecimento da  4ª reunião do grupo 8, marca
 - Gravação da entrega 2
 
 ## Gravação
-A gravação desta reunião pode ser acessada [aqui]().
+A gravação desta reunião foi realizada, porém o arquivo em vídeo foi corrompido e consequentemente não salvo e disponibilizado no youtube.
+Por ter sido gravada a parte, disponibilizamos o link da gravação feita para a entrega 2, que foi uma das atividades elaboradas durante a reunião, e que pode ser vista [aqui](https://www.youtube.com/watch?v=XnDJr5Tsn3o).
 
 ## Histórico de Versões
 

@@ -19,7 +19,7 @@ O cronograma da validação pode ser visto abaixo:
 </div>
 
 
-A gravação pode ser acessada neste [link]()
+A gravação pode ser acessada neste [link](https://youtu.be/1yrFuK8WFGc)
 ## Histórico de Versão
 | Versão | Data de execução | Data de revisão |  Descrição            | Autor(es)         | Revisor(es)  |
 | :------: | :----------: | :--------: | :--------------------: | :-------------: | :----------: |
