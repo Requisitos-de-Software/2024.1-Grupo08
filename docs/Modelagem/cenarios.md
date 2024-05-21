@@ -29,11 +29,11 @@ Há cinco maneiras de descrever cenários: texto narrativo, texto estruturado, d
 | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Objetivo   | - Pesquisar empresa pelo nome|
 | Contexto   | - Local: Aba "Home". <br> - Tempo: Menos de 30 segundos. <br> - Pré-condições: ter um dispositivo com acesso a internet|
-| Recursos   | - Celular <br> - Aplicativo
+| Recursos   | - Internet. <br> - Smartphone com a Consumidor.gov instalado. |
 | Ator       | - Usuário|
 | Episódios  | - Usuário clica na barra de pesquisa <br> - Usuário digita o nome da empresa <br> - Usuário seleciona a empresa|
 |Restrições  | - Usuário não achar a empresa |
-| Exceção    | - Dispositivo sem energia <br> - Falta de internet <br> - Aplicativo travou
+| Exceção    | - Falha de conexão à internet. <br> - Aplicativo travou
 
 <div style="text-align: center">
 <p>Tabela 2: Cenário 01: Pesquisar empresa pelo nome. (Fonte: THIAGO, Igor. 2024).</p>
@@ -45,11 +45,11 @@ Há cinco maneiras de descrever cenários: texto narrativo, texto estruturado, d
 | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Objetivo   | - Cadastrar uma reclamação de uma empresa|
 | Contexto   | - Local: Aba "Home". <br> - Tempo: Menos de 5 minutos. <br> - Pré-condições: ter um dispositivo com acesso a internet|
-| Recursos   | - Celular <br> - Aplicativo
+| Recursos   | - Internet. <br> - Smartphone com a Consumidor.gov instalado. |
 | Ator       | - Usuário|
 | Episódios  | - Usuário pesquisa uma empresa <br> - Usuário seleciona a empresa <br> - Usuário clica no botão escrito "QUERO RECLAMAR" <br> - Usuário preenche as informações do cadastro <br> - Usuário clica no botão "Enviar"|
 |Restrições  | - Usuário não achar a empresa <br> - Usuário não tem as informações necessárias para o cadastro|
-| Exceção    | - Dispositivo sem energia <br> - Falta de internet <br> - Aplicativo travou
+| Exceção    | - Falha de conexão à internet. <br> - Aplicativo travou
 
 <div style="text-align: center">
 <p>Tabela 3: Cenário 02: Cadastrar reclamação. (Fonte: THIAGO, Igor. 2024).</p>
@@ -61,11 +61,11 @@ Há cinco maneiras de descrever cenários: texto narrativo, texto estruturado, d
 | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Objetivo   | - Visualizar reclamações de outros usuários|
 | Contexto   | - Local: Aba "Visualizar reclamações de outros usuários" <br> - Tempo: Menos de 1 minuto. <br> - Pré-condições: ter um dispositivo com acesso a internet|
-| Recursos   | - Celular <br> - Aplicativo
+| Recursos   | - Internet. <br> - Smartphone com a Consumidor.gov instalado. |
 | Ator       | - Usuário|
 | Episódios  | - Usuário clica no botão escrito "Visualizar reclamações de outros usuários" <br> - Usuário clica no botão "Filtro" <br> - Usuário digita o nome da empresa que deseja filtrar as reclamações <br> - Usuário seleciona a reclamação que deseja visualizar|
 |Restrições  | - Usuário não achar a empresa |
-| Exceção    | - Dispositivo sem energia <br> - Falta de internet <br> - Aplicativo travou
+| Exceção    | - Falha de conexão à internet. <br> - Aplicativo travou
 
 <div style="text-align: center">
 <p>Tabela 4: Cenário 03: Visualizar reclamações de outros usuários. (Fonte: THIAGO, Igor. 2024).</p>
@@ -77,11 +77,11 @@ Há cinco maneiras de descrever cenários: texto narrativo, texto estruturado, d
 | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Objetivo   | - Visualizar as reclamações já feitas pelo usuário|
 | Contexto   | - Local: Aba "Minhas Reclamações" <br> - Tempo: Menos de 1 minuto. <br> - Pré-condições: ter um dispositivo com acesso a internet|
-| Recursos   | - Celular <br> - Aplicativo
+| Recursos   | - Internet. <br> - Smartphone com a Consumidor.gov instalado. |
 | Ator       | - Usuário|
 | Episódios  | - Usuário clica no na aba "minhas reclamações" <br> - Usuário seleciona a reclamação que deseja acompanhar o andamento
 |Restrições  | - Usuário não ter feito reclamações |
-| Exceção    | - Dispositivo sem energia <br> - Falta de internet <br> - Aplicativo travou
+| Exceção    | - Falha de conexão à internet. <br> - Aplicativo travou
 
 <div style="text-align: center">
 <p>Tabela 5: Cenário 04: Visualizar minhas reclamações. (Fonte: THIAGO, Igor. 2024).</p>
@@ -97,7 +97,7 @@ Há cinco maneiras de descrever cenários: texto narrativo, texto estruturado, d
 | Ator       | - Usuário do Consumidor.gov.|
 | Episódios  | - O usuário acessa a seção "Home". <br> - Usuário clica em "Dados Gerais".  |
 | Restrições | - O aplicativo deve as estatíscas.|
-| Exceção    | - Dispositivo sem energia. <br> - Falha de conexão à internet. <br> - Aplicativo travou.
+| Exceção    | - Falha de conexão à internet. <br> - Aplicativo travou.
 
 <div style="text-align: center">
 <p>Tabela 6: Cenário 05: Visualizar Dados Gerais. (Fonte: GONTIJO, Rodrigo. 2024).</p>
@@ -113,7 +113,7 @@ Há cinco maneiras de descrever cenários: texto narrativo, texto estruturado, d
 | Ator       | - Usuário do Consumidor.gov.|
 | Episódios  | - Usuário acessa a seção "Menu" <br> O usuário clica em "Meus Dados". |
 | Restrições | - Os dados devem estar cadastrados via gov.br |
-| Exceção    | - Dispositivo sem energia. <br> - Falha de conexão à internet. <br> - Aplicativo travou.
+| Exceção    | - Falha de conexão à internet. <br> - Aplicativo travou.
 
 <div style="text-align: center">
 <p>Tabela 7: Cenário 06: Visualizar meus Dados. (Fonte: GONTIJO, Rodrigo. 2024).</p>
@@ -129,7 +129,7 @@ Há cinco maneiras de descrever cenários: texto narrativo, texto estruturado, d
 | Ator       | - Empresa.|
 | Episódios  | - A empresa seleciona uma reclamação. <br> - A empresa responde a reclamação.|
 | Restrições | - A reclamação nao deve estar finalizada ou avaliada. |
-| Exceção    | - Dispositivo sem energia. <br> - Falha de conexão à internet. <br> - Aplicativo travou.
+| Exceção    | - Falha de conexão à internet. <br> - Aplicativo travou.
 
 <div style="text-align: center">
 <p>Tabela 8: Cenário 07: Responder Reclamação. (Fonte: GONTIJO, Rodrigo. 2024).</p>
@@ -145,7 +145,7 @@ Há cinco maneiras de descrever cenários: texto narrativo, texto estruturado, d
 | Ator       | - Usuário do Consumidor.gov.|
 | Episódios  | - O usuário acessa a seção "Minhas Reclamações". <br> O usuário escolhe uma reclamação. <br> O usuário escolhe avaliar resposta.|
 | Restrições | - A reclamação deve estar finalizada. |
-| Exceção    | - Dispositivo sem energia. <br> - Falha de conexão à internet. <br> - Aplicativo travou.
+| Exceção    | - Falha de conexão à internet. <br> - Aplicativo travou.
 
 <div style="text-align: center">
 <p>Tabela 9: Cenário 08: Avaliar Empresa. (Fonte: GONTIJO, Rodrigo. 2024).</p>
@@ -160,6 +160,7 @@ Há cinco maneiras de descrever cenários: texto narrativo, texto estruturado, d
 ## Histórico de Versão
 | Versão | Data de execução | Data de revisão |  Descrição            | Autor(es)         | Revisor(es)  |
 | :------: | :----------: | :--------: | :--------------------: | :-------------: | :----------: |
+| `1.1` | 20/05/2024  | 20/05/2024| Correção de erros de finalização do documento de cenários. | [Igor Thiago](https://github.com/Alladin-51), [Rodrigo ](https://github.com/rodrigogontijoo)  | [Júlio Cesar](https://github.com/Julio1099) |
 | `1.0` | 20/05/2024  | 20/05/2024| Criação dos cenários | [Igor Thiago](https://github.com/Alladin-51), [Rodrigo ](https://github.com/rodrigogontijoo)  | [Júlio Cesar](https://github.com/Julio1099) |
 
 
