@@ -56,7 +56,7 @@ Os casos de usos mais importantes e mais utilizados no aplicativo estão represe
 | **Fluxos de exceção** |  <b>Fluxo 1: O Usuário clica em pesquisar empresa</b> <ol> <li> O sistema abre uma barra de pesquisa <li> De acordo com as palvaras digitadas, o app mostra as empresas disponíveis <li> O usuário escolhe uma opção <ul> </ol> <b> Fluxo 2: O usuário clica em abrir uma empresa</b> <ol> <li> O sistema abre os indicadores da empresa </ol> <b> Fluxo 3: O usuário navega entre os dados da empresa </b> <ol> <li> O Sistema oferece indicadores do ano atual e dentre todos os anos <ul> <li> O usuários podem obter todas as informações sobre o feedback da empresa </ol> |
 | **Pós condições** | O usuário tem a opção de abrir reclamação |
 | **Data da criação** | 17/05/24 |
-| **Rastreabilidade** |  |
+| **Rastreabilidade** | ST04  |
 
  <a href="https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/assets/UC1%20(1).pdf">Arquivo **PDF** aqui</a>
 
@@ -77,7 +77,7 @@ Os casos de usos mais importantes e mais utilizados no aplicativo estão represe
 | **Fluxos de exceção** | <b>Fluxo 1: O Usuário clica na empresa desejada </b> <ol> <li> O sistema responde mostrando indicadores da empresa <li>É exibida a opção de fazer reclamação  </ol> <b> Fluxo 2: O usuário clica em QUERO RECLAMAR </b> <ol> <li> O sistema abre a página para registrar reclamação <li> O usuário tem que responder as seguintes perguntas <ul> <li> Procurou a empresa? <li> Como comprou? <li> Área <li> Assunto <li> Problema </ol> <b> Fluxo 3: O usuário clica em Próximo </b> <ol> <li> O sistema abre a página para informações adicionais <ul> <li> Nota Fiscal <li> Data de compra <li> Ordem de compra <li> Marca/modelo </ol> <b>Fluxo 4: O usuário clica próximo </b> <ol> <li> O sistema mostra espaços para cadastro de ultimas informações <ul> <li> Descreva a Reclamação <li> Pedido à empresa <li> incluir anexo </ol> <b> Fluxo 5: O usuário clica em Próximo </b> <ol> <li> O sistema mostra o resumo da reclamação <li> usuário confirma. |
 | **Pós condições** | Não há |
 | **Data da criação** | 17/05/24 |
-| **Rastreabilidade** |  |
+| **Rastreabilidade** | ST01 ST03 |
 
 <a href="https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/assets/UC2.pdf">Arquivo **PDF** aqui</a>
 
@@ -98,7 +98,7 @@ Os casos de usos mais importantes e mais utilizados no aplicativo estão represe
 | **Fluxos de exceção** | <b>Fluxo 1: O Usuário clica em reclamações de outros usuários </b> <ol> <li> O sistema responde mostrando as ultimas reclamações <li> O usuário pode visualizar a reclamação com mais detalhes </ol> <b> Fluxo 2: O usuário clica na reclamação de outro cliente </b> <ol> <li> O sistema abre a página com os detalhes da reclamção </ol> <b> Fluxo 3: O usuário clica em filtrar </b> <ol> <li> O sistema abre um pop-up com opção de filtragem <ul> <li> Palavra chave <li> Fornecedor |
 | **Pós condições** | Não há |
 | **Data da criação** | 17/05/24 |
-| **Rastreabilidade** |  |
+| **Rastreabilidade** | QUE04 ST05 ST07 |
 
 formato **PDF** <a href="https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/assets/UC1%20(1).pdf">aqui</a>
 
@@ -119,7 +119,7 @@ formato **PDF** <a href="https://github.com/Requisitos-de-Software/2024.1-Consum
 | **Fluxos de exceção** | <b>Fluxo 1: O Usuário clica em minhas reclamações </b> <ol> <li> O sistema responde mostrando as reclamações feitas pelo usuário <li> O usuário pode visualizar o andamento da reclamação  </ol> <b> Fluxo 2: O usuário clica na reclamação </b> <ol> <li> O sistema abre a página com os detalhes da reclamção <ul> <li> área <li> Assunto <li> Problema <li> Gestor <li> Data de abertura </ol> <b> Fluxo 3: O usuário clica em interagir com o fornecedor </b> <ol> <li> O sistema abre uma página com opção de digitar uma mensagem à empresa |
 | **Pós condições** | Não há |
 | **Data da criação** | 17/05/24 |
-| **Rastreabilidade** |  |
+| **Rastreabilidade** | ST02 QUE07 QUE06 |
 
 formato **PDF** <a href="https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/assets/UC1%20(1).pdf">aqui</a>
 
@@ -140,7 +140,7 @@ formato **PDF** <a href="https://github.com/Requisitos-de-Software/2024.1-Consum
 | **Fluxos de exceção** | <b>Fluxo 1: O Usuário clica em dados gerais </b> <ol> <li> O sistema responde mostrando dados sobre o app coletados desde 2014 <li> O usuário pode visualizar os dados:  <ul> <li> Total de Reclamações finalizadas <li> Total de usuários cadastrados <li> Total de empresas cadastradas |
 | **Pós condições** | Não há |
 | **Data da criação** | 17/05/24 |
-| **Rastreabilidade** |  |
+| **Rastreabilidade** | QUE05 QUE04 |
 
 formato **PDF** <a href="https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/assets/UC1%20(1).pdf">aqui</a>
 
@@ -161,7 +161,7 @@ formato **PDF** <a href="https://github.com/Requisitos-de-Software/2024.1-Consum
 | **Fluxos de exceção** | <b>Fluxo 1: O Usuário clica em Menu </b> <ol> <li> O sistema responde mostrando a opção de visualizar dados de usuário <li> O usuário pode visualizar seu respectivos dados:  <ul> <li> nome <li> CPF <li> Data de nascimento </ol> <b>Fluxo 2: O Usuário clica em endereço </b> <ol> <li> O sistema responde mostrando dados de endereço do usuário </ol> <b>Fluxo 3: O Usuário clica em contato </b> <ol> <li> O sistema responde mostrando dados de contato do usuário |
 | **Pós condições** | Não há |
 | **Data da criação** | 17/05/24 |
-| **Rastreabilidade** |  |
+| **Rastreabilidade** | ST09 |
 
 formato **PDF** <a href="https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/assets/UC1%20(1).pdf">aqui</a>
 
@@ -182,7 +182,7 @@ formato **PDF** <a href="https://github.com/Requisitos-de-Software/2024.1-Consum
 | **Fluxos de exceção** |  |
 | **Pós condições** | Não há |
 | **Data da criação** | 17/05/24 |
-| **Rastreabilidade** |  |
+| **Rastreabilidade** | INT28 INT30 |
 
 <div style="text-align: center">
 <p> Tabela 7: Especificação do caso de uso: Responder Reclamação. (Fonte: GONTIJO, Rodrigo. 2024).</p>
@@ -201,7 +201,7 @@ formato **PDF** <a href="https://github.com/Requisitos-de-Software/2024.1-Consum
 | **Fluxos de exceção** | <b>Fluxo 1: O Usuário clica em Minhas reclamações </b> <ol> <li> O sistema responde mostrando o andamento do processo da reclamação <li> O usuário tem a opção de avaliar a resposta do fornecedor </ol> <b>Fluxo 2: O Usuário clica em avaliar resposta </b> <ol> <li> O sistema responde mostrando um pop-up com campos para: <ul> <li> considerar a resolução da reclamação <li> avaliar seu grau de satisfação <li> fazer um comentário |
 | **Pós condições** | Não há |
 | **Data da criação** | 17/05/24 |
-| **Rastreabilidade** |  |
+| **Rastreabilidade** | QUE07  |
 
 
 <div style="text-align: center">
