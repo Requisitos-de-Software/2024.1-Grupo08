@@ -28,7 +28,8 @@ Um diagrama de casos de uso possui os seguintes elementos em sua composição:
 Segue o diagrama de casos de uso feito.
 
 <img src="https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/docs/assets/Diagrama%20de%20caso%20de%20uso.png?raw=true"/>
-## Casos de uso
+
+## Especificação dos Casos de uso
 
 Os casos de usos mais importantes e mais utilizados no aplicativo estão representados na Figura 2. Uma melhor visualização da imagem pode ser encontrada em <a >casos de uso Consumidor.gov.</a></p>
 
