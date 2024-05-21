@@ -14,10 +14,10 @@ Um diagrama de casos de uso possui os seguintes elementos em sua composição:
 
 | Nome | Função | Elemento
 |------|------|:-------:
-| Atores | Representam os usuários e sistemas, ou um tipo dele, normalmente são representados por bonecos de palito | <img src="https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/assets/img/modelagem/ator-removebg-preview.png" width="100">
-| Caso de uso | É uma atuação ou funcionalidade realizada pelo ator.Geralmente são definidos por um objeto na forma oval horizontal | <img src="https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/assets/img/modelagem/Casoa-removebg-preview.png" width="200">
-| Cenário | Nesse elemento, é descrito os eventos que acontecem quando um usuário manuseia o sistema. | <img src="https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/assets/img/modelagem/Cenario-removebg-preview.png" width="200">
-| Comunicação (ou ação) | Consiste em uma ação que o usuário irá realizar sobre o caso de uso | <img src="https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/assets/img/modelagem/Comunicacao-removebg-preview.png" width="270">
+| Atores | Representam os usuários e sistemas, ou um tipo dele, normalmente são representados por bonecos de palito | <img src="https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/assets/img/modelagem/ator-removebg-preview.png?raw=true" width="100">
+| Caso de uso | É uma atuação ou funcionalidade realizada pelo ator.Geralmente são definidos por um objeto na forma oval horizontal | <img src="https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/assets/img/modelagem/Casoa-removebg-preview.png?raw=true" width="200">
+| Cenário | Nesse elemento, é descrito os eventos que acontecem quando um usuário manuseia o sistema. | <img src="https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/assets/img/modelagem/Cenario-removebg-preview.png?raw=true" width="200">
+| Comunicação (ou ação) | Consiste em uma ação que o usuário irá realizar sobre o caso de uso | <img src="https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/assets/img/modelagem/Comunicacao-removebg-preview.png?raw=true" width="270">
 
 <div style="text-align: center">
 <p> Tabela 1: Elementos do diagrama de casos de uso. (Fonte: MEISTER, Guilherme. 2024).</p>
