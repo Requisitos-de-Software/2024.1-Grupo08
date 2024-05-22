@@ -20,7 +20,7 @@ Um diagrama de casos de uso possui os seguintes elementos em sua composição:
 | Comunicação (ou ação) | Consiste em uma ação que o usuário irá realizar sobre o caso de uso | <img src="https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/assets/img/modelagem/Comunicacao-removebg-preview.png?raw=true" width="270">
 
 <div style="text-align: center">
-<p> Tabela 1: Elementos do diagrama de casos de uso. (Fonte: MEISTER, Guilherme. 2024).</p>
+<p> Tabela 1: Elementos do diagrama de casos de uso. (Autor: MEISTER, Guilherme. 2024).</p>
 </div>
 
 ## Diagrama de casos de uso
@@ -38,7 +38,7 @@ Os casos de usos mais importantes e mais utilizados no aplicativo estão represe
 <img src="" width="100%">
 
 <div align="center">
-<p> <b>Figura 2</b>: Elemento comunicação (Fonte: FERREIRA, Matheus 2024). </p>
+<p> <b>Figura 2</b>: Elemento comunicação (Autor: FERREIRA, Matheus 2024). </p>
 </div>
 
 <p align="justify">A seguir, a especificação dos casos de uso identificados com 'UC' (Use case) seguido por uma enumeração.</p>
@@ -53,15 +53,21 @@ Os casos de usos mais importantes e mais utilizados no aplicativo estão represe
 | **Condição de entrada** | O usuário utiliza a barra de pesquisa para encontrar a empresa desejada |
 | **Fluxo principal** | <b>Fluxo 1: O Usuário clica em pesquisar empresa</b> <ol> <li> O sistema abre uma barra de pesquisa <li> De acordo com as palvaras digitadas, o app mostra as empresas disponíveis <li> O usuário escolhe uma opção <ul> </ol> <b> Fluxo 2: O usuário clica em abrir uma empresa</b> <ol> <li> O sistema abre os indicadores da empresa </ol> <b> Fluxo 3: O usuário navega entre os dados da empresa </b> <ol> <li> O Sistema oferece indicadores do ano atual e dentre todos os anos <ul> <li> O usuários podem obter todas as informações sobre o feedback da empresa </ol> |
 | **Fluxos alternativos** | Não há |
+<<<<<<< HEAD
+| **Fluxos de exceção** |  <b>Fluxo 1: O Usuário clicka em pesquisar empresa</b> <ol> <li> O sistema abre uma barra de pesquisa <li> De acordo com as palvaras digitadas, o app mostra as empresas disponíveis <li> O usuário escolhe uma opção <ul> </ol> <b> Fluxo 2: O usuário clicka em abrir uma empresa</b> <ol> <li> O sistema abre os indicadores da empresa <li> </ol> <b> Fluxo 3: O usuário navega entre os dados da empresa </b> <ol> <li> O Sistema oferece indicadores do ano atual e dentre todos os anos <ul> <li> O usuários podem obter todas as informações sobre o feedback da empresa <li></ol> |
+| **Pós condições** | O usuário tem a opção de abrir
+ reclamação |
+=======
 | **Fluxos de exceção** |  - Falha de conexão à internet. <br> - Aplicativo travou |
 | **Pós condições** | O usuário tem a opção de abrir reclamação |
+>>>>>>> eeda57fe4ca9e11ce606d27fecab6a43f28be680
 | **Data da criação** | 17/05/24 |
 | **Rastreabilidade** | ST04  |
 
  <a href="https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/assets/UC1%20(1).pdf">Arquivo **PDF** aqui</a>
 
 <div style="text-align: center">
-<p> Tabela 2: Especificação do caso de uso: Pesquisar empresa. (Fonte: MEISTER, Guilherme. 2024).</p>
+<p> Tabela 2: Especificação do caso de uso: Pesquisar empresa. (Autor: MEISTER, Guilherme. 2024).</p>
 </div>
 
 ### UC02.
@@ -82,7 +88,7 @@ Os casos de usos mais importantes e mais utilizados no aplicativo estão represe
 <a href="https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/assets/UC2.pdf">Arquivo **PDF** aqui</a>
 
 <div style="text-align: center">
-<p> Tabela 2: Especificação do caso de uso: Abrir reclamação. (Fonte: MEISTER, Guilherme. 2024).</p>
+<p> Tabela 2: Especificação do caso de uso: Abrir reclamação. (Autor: MEISTER, Guilherme. 2024).</p>
 </div>
 
 ### UC03.
@@ -103,7 +109,7 @@ Os casos de usos mais importantes e mais utilizados no aplicativo estão represe
 formato **PDF** <a href="https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/assets/UC1%20(1).pdf">aqui</a>
 
 <div style="text-align: center">
-<p> Tabela 3: Especificação do caso de uso: Visualizar reclamações de outros usuários. (Fonte: FERREIRA, Matheus. 2024).</p>
+<p> Tabela 3: Especificação do caso de uso: Visualizar reclamações de outros usuários. (Autor: FERREIRA, Matheus. 2024).</p>
 </div>
 
 ### UC04.
@@ -124,7 +130,7 @@ formato **PDF** <a href="https://github.com/Requisitos-de-Software/2024.1-Consum
 formato **PDF** <a href="https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/assets/UC1%20(1).pdf">aqui</a>
 
 <div style="text-align: center">
-<p> Tabela 4: Especificação do caso de uso: Visualizar minhas reclamações. (Fonte: GALDINO, Henrique. 2024).</p>
+<p> Tabela 4: Especificação do caso de uso: Visualizar minhas reclamações. (Autor: GALDINO, Henrique. 2024).</p>
 </div>
 
 ### UC05.
@@ -145,7 +151,7 @@ formato **PDF** <a href="https://github.com/Requisitos-de-Software/2024.1-Consum
 formato **PDF** <a href="https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/assets/UC1%20(1).pdf">aqui</a>
 
 <div style="text-align: center">
-<p> Tabela 5: Especificação do caso de uso: Visualizar Dados Gerais. (Fonte: THIAGO, Igor. 2024).</p>
+<p> Tabela 5: Especificação do caso de uso: Visualizar Dados Gerais. (Autor: THIAGO, Igor. 2024).</p>
 </div>
 
 ### UC06.
@@ -166,7 +172,7 @@ formato **PDF** <a href="https://github.com/Requisitos-de-Software/2024.1-Consum
 formato **PDF** <a href="https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/assets/UC1%20(1).pdf">aqui</a>
 
 <div style="text-align: center">
-<p> Tabela 6: Especificação do caso de uso: Visualizar meus Dados. (Fonte: CÉSAR, Julio. 2024).</p>
+<p> Tabela 6: Especificação do caso de uso: Visualizar meus Dados. (Autor: CÉSAR, Julio. 2024).</p>
 </div>
 
 ### UC07.
@@ -185,7 +191,7 @@ formato **PDF** <a href="https://github.com/Requisitos-de-Software/2024.1-Consum
 | **Rastreabilidade** | INT28 INT30 |
 
 <div style="text-align: center">
-<p> Tabela 7: Especificação do caso de uso: Responder Reclamação. (Fonte: GONTIJO, Rodrigo. 2024).</p>
+<p> Tabela 7: Especificação do caso de uso: Responder Reclamação. (Autor: GONTIJO, Rodrigo. 2024).</p>
 </div>
 
 ### UC08.
@@ -205,7 +211,7 @@ formato **PDF** <a href="https://github.com/Requisitos-de-Software/2024.1-Consum
 
 
 <div style="text-align: center">
-<p> Tabela 8: Especificação do caso de uso: Avaliar Empresa. (Fonte: MEISTER, Guilherme. 2024).</p>
+<p> Tabela 8: Especificação do caso de uso: Avaliar Empresa. (Autor: MEISTER, Guilherme. 2024).</p>
 </div>
 
 
@@ -213,6 +219,7 @@ formato **PDF** <a href="https://github.com/Requisitos-de-Software/2024.1-Consum
 ## Bibliografia
 <div text-align="justify">
 [1] Ferramenta Lucidchart, disponível no <a href="https://www.lucidchart.com/pages/pt">link</a>. Acessado em 05 de maio. de 2024.
+[2] BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
 </div>
 
 ## Histórico de Versões
