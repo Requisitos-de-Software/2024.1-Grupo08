@@ -1,1 +1,124 @@
 # Backlog do Produto
+
+## Introdução
+
+<div style="text-align:justify">
+<p>&emsp;&emsp;Refere-se a uma lista priorizada de requisitos do produto, onde cada item representa uma funcionalidade, melhoria, correção de defeitos ou qualquer outra demanda relacionada ao produto que precisa ser implementada pela equipe de desenvolvimento. isso permite um planejamento melhor das sprints em técnicas ágeis[1].</p>
+<p>&emsp;&emsp; É importante salientar que novos itens importantes podem compor o backlog a qualquer etapa do desenvolvimento. Os requisitos associados ao backlog podem ser fragmentados em diferentes níveis de abstração, e hierárquicos, sendo eles épicos, temas e histórias de usuário[2].</p>
+</div>
+
+## Vantagens de usar o backlog 
+<div style="text-align:justify">
+    <ul>
+        <li>Facilita a comunicação e o alinhamento entre todos os stakeholders sobre as prioridades e o progresso do projeto.
+        <li>Prioriza as funcionalidades mais valiosas, garantindo que a equipe trabalhe nas tarefas que trazem mais benefícios ao negócio.
+        <li>Permite ajustes rápidos às mudanças e novas informações, mantendo o projeto alinhado com as necessidades atuais.
+        <li>A revisão constante dos itens do backlog promove a refinamento progressivo e a melhoria contínua do produto.
+        <li>Considera os produtos em longo prazo, não apenas em termos de necessidades imediatas.
+        <li>Agrega valor ao cliente
+        <li>Identifica antecipadamente possíveis problemas, permitindo a mitigação de riscos antes que se tornem críticos.
+    </ul>
+</div>
+
+## Metodologia
+<div style="text-align:justify">
+<p>&emsp;&emsp; Para a metodologia foi utilizado uma planilha em excel para organizar em temas e épico dos requisitos funcionais, partindo da análise e verificação dos mesmos elicitados. Posteriormente os dados vieram o artefato. </p>
+
+## Requisitos Elicitados
+<div style="text-align:justify">
+<p>&emsp;&emsp; Nas Tabelas de 1 a 5 estão registrados todos os requisitos elicitados durante o processo de elicitação, juntamente com a rastreabilidade de cada um.</p>
+
+### 3.1. Funcionalidades
+
+| ID  | Requisito                                                               | Rastreabilidade                           |
+| --- | ----------------------------------------------------------------------- | ----------------------------------------- |
+| RE01 | Deve ser possível visualizar o "perfil" uma empresa. | [INT](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicita%C3%A7%C3%A3o/introspec/) |
+| RE02 | Deve ser possível visualizar contatos da empresa no perfil (email, telefone, redes sociais).                            | [INT](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicita%C3%A7%C3%A3o/introspec/) |
+| RE03 | Deve ser possível informar como/onde foi feita a compra (internet, loja física, telefone, etc.).   | [INT](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicita%C3%A7%C3%A3o/introspec/) |
+| RE04 | Deve ser possível escolher qual a categoria da reclamação (atendimento, cobrança, entrega, etc.).                                  | [INT](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicita%C3%A7%C3%A3o/introspec/) |
+| RE05 | Deve ser possível informar o que espera da empresa (reembolso, resposta, justificativa, etc.) | [INT](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicita%C3%A7%C3%A3o/introspec/) |
+| RE06 | Deve ser possível visualizar as reclamações feitas | [INT](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicita%C3%A7%C3%A3o/introspec/) |
+| RE11 | Deve ser possível avaliar uma reclamação (nível de satisfação/nota).                             | [INT](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicita%C3%A7%C3%A3o/introspec/) |
+| RE12 | Deve ser possível visualizar os detalhes de uma reclamação feita por outro usuário (status, avaliação, tempo de resposta, etc.). | [INT](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicita%C3%A7%C3%A3o/introspec/) |
+| RE13 | Deve ser possível comparar as estatísticas de empresas diferentes.                                     | [INT](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicita%C3%A7%C3%A3o/introspec/) |
+| RE14 | Deve ser possível fazer login utilizando o gov.br. | [INT](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicita%C3%A7%C3%A3o/introspec/) |
+| RE15 | Deve ser exibidos gráficos/indicadores relacionados aos dados sobre uma empresa (Tempo médio de resposta, confiabilidade, etc.). | [INT](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicita%C3%A7%C3%A3o/introspec/) |
+
+<div align="center">
+<p> <b>Tabela 1</b>: Funcionalidades (Autor: autores, 2024). </p>
+</div>
+
+### 3.2. Interface de Usuário
+
+| ID  | Requisito                                                               | Rastreabilidade                           |
+| --- | ----------------------------------------------------------------------- | ----------------------------------------- |
+| RE18 | A interface de usuário deve ter contraste de cor.  | [ST](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicita%C3%A7%C3%A3o/Storytelling/) |
+| RE19 | Deve possuir uma interface facilmente acessível.  | [ST](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicita%C3%A7%C3%A3o/Storytelling/) |
+| RE20 | O aplicativo deve possuir uma interface de fácil compreensão. | [QUE](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicita%C3%A7%C3%A3o/Question%C3%A1rio/) |
+
+<div align="center">
+<p> <b>Tabela 2</b>: Interface de usuário (Autor: autores, 2024). </p>
+</div>
+
+### 3.3. Requisitos de Armazenamento
+
+| ID  | Requisito                                                               | Rastreabilidade                           |
+| --- | ----------------------------------------------------------------------- | ----------------------------------------- |
+| RE09 | O aplicativo deve ocupar um espaço de armazenamento razoável.            | [INT](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicita%C3%A7%C3%A3o/introspec/) |
+
+<div align="center">
+<p> <b>Tabela 3</b>: Requisitos de Armazenamento (Autor: autores, 2024). </p>
+</div>
+
+### 3.4. Desempenho
+
+| ID  | Requisito                                                               | Rastreabilidade                           |
+| --- | ----------------------------------------------------------------------- | ----------------------------------------- |
+| RE10 | Eu, como usuário, gostaria de tempos de resposta rápidos para garantir uma experiência de usuário satisfatória. | [ST](https://requisitos-de-software.github.io/2024.1-VLC/#/elicitacao/storytelling) |
+| RE16 | O aplicativo deve ter uma boa performance e velocidade. | [QUE](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicita%C3%A7%C3%A3o/Question%C3%A1rio/) |
+
+<div align="center">
+<p> <b>Tabela 4</b>: Desempenho (Autor: autores, 2024). </p>
+</div>
+
+### 3.5. Segurança e Privacidade
+
+| ID  | Requisito                                                               | Rastreabilidade                           |
+| --- | ----------------------------------------------------------------------- | ----------------------------------------- |
+| RE30 | O aplicativo deve proteger os dados sensíveis do usuário.             | [INT](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicita%C3%A7%C3%A3o/introspec/) |
+| RE31 | O aplicativo deve apresentar medidas de proteção.  | [INT](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicita%C3%A7%C3%A3o/introspec/) |
+| RE33 | Fornecimento de informações funcione corretamente.           | [ADD](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicita%C3%A7%C3%A3o/analiseDoc/) |
+| RE34 | Risco de violação de privacidade do usuário e coleta de dados invasiva. | [ADD](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicita%C3%A7%C3%A3o/analiseDoc/) |
+
+<div align="center">
+<p> <b>Tabela 5</b>: Segurança e Privacidade (Autor: autores, 2024). </p>
+</div>
+
+## Backlog 
+
+### Temas 
+<div style="text-align:justify">
+    <p>&emsp;&emsp; Após a etapa de verificação e análise dos requisitos, foi observado que eles poderiam ser organizados em cinco grandes temas, que compõem o maior nível de abstração do backlog.</p>
+    <ul>
+        <li> 
+        <li> 
+        <li> 
+        <li> 
+        <li> 
+    </ul>
+    <p>&emsp;&emsp; Após a definição dos temas, os requisitos foram especificados em um maior nível de abstração, por meio dos épicos. Os épicos são histórias de usuário que ainda podem ser mais especificadas e foram escritos utilizando o mesmo padrão do utilizado nas histórias de usuário.</p>
+</div>
+
+### Épicos 
+
+<div style="text-align: justify">
+
+&emsp;&emsp; Para diminuir o nível de abstração expresso nos temas, foram registrados os épicos, que são histórias de usuário que ainda podem ser mais especificadas. Para facilitar a leitura do backlog, os épicos estão especificados a seguir.
+
+</div>
+
+## Bibliografia
+
+- RADIGAN, Dan. O backlog do produto: sua lista de tarefas definitiva. Atlassian. Disponível em: [Backlog](https://www.atlassian.com/br/agile/scrum/backlogs)
+
+- O QUE É BACKLOG DO PRODUTO SCRUM E COMO FAZER UM. Lucidchart. Disponível em: [Backlog](https://www.lucidchart.com/blog/pt/como-fazer-um-backlog-do-produto) 
