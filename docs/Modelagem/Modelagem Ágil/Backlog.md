@@ -121,4 +121,10 @@
 
 - RADIGAN, Dan. O backlog do produto: sua lista de tarefas definitiva. Atlassian. Disponível em: [Backlog](https://www.atlassian.com/br/agile/scrum/backlogs)
 
-- O QUE É BACKLOG DO PRODUTO SCRUM E COMO FAZER UM. Lucidchart. Disponível em: [Backlog](https://www.lucidchart.com/blog/pt/como-fazer-um-backlog-do-produto) 
+- O QUE É BACKLOG DO PRODUTO SCRUM E COMO FAZER UM. Lucidchart. Disponível em: [Backlog](https://www.lucidchart.com/blog/pt/como-fazer-um-backlog-do-produto)
+
+  ## Histórico de Versões
+|   Data     | Versão | Descrição                   |    Autor(es)     |  Data de revisão | Revisor(es) |
+| :--------: | :----: | :-------------------------: | :--------------: | :--------------: | :---------: |
+| 23/05/2023   |  `1.0`  | Criação do documento               | [Guilherme Meister](https://github.com/gmeister18) | 25/05/2023 | [Matheus Ferreira](https://github.com/) |
+
