@@ -72,6 +72,7 @@ A tabela 1 apresenta os requisitos elicitados a partir destas técnicas, apresen
 ## Histórico de Versão
 | Versão | Data de execução | Data de revisão |  Descrição            | Autor(es)         | Revisor(es)  |
 | :------: | :----------: | :--------: | :--------------------: | :-------------: | :----------: |
+| `1.3` | 23/05/2024  | 23/05/2024 | Adição e correção conforme feedback | [Matheus Ferreira](https://github.com/matferreira1) | [Guilherme Meister](https://github.com/gmeister18) |
 | `1.2` | 21/04/2024  | 22/04/2024 | Adição novos requisitos | [Rodrigo Gontijo](https://github.com/rodrigogontijoo) | [Guilherme Meister](https://github.com/gmeister18) |
 | `1.1` | 16/04/2024  | 16/04/2024 | Correções de formatação da revisão | [Rodrigo Gontijo](https://github.com/rodrigogontijoo) | [Guilherme Meister](https://github.com/gmeister18) |
 | `1.0` | 10/04/2024  | 10/04/2024 | Criação do artefato de introspecção | [Henrique Galdino](https://github.com/hgaldino05) | [Igor Thiago](https://github.com/alladin-51) |
