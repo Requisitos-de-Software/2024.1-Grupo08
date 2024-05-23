@@ -36,7 +36,7 @@ A partir deste contexto, Henrique identificou alguns requisitos, que podem ser v
 | INT14 | Deve ser possível visualizar os detalhes de uma reclamação feita por outro usuário (status, avaliação, tempo de resposta, etc.) | Requisito Funcional |
 | INT15 | Deve ser possível avaliar uma reclamação (nível de satisfação/nota) | Requisito Funcional |
 | INT16 | Deve ser possível comparar as estatísticas de empresas diferentes | Requisito Funcional |
-| INT17 | O aplicativo deve funcionar tanto em dispositivos Android quanto iOS | Requisito Não Funcional |
+| INT17 | O aplicativo deve funcionar tanto em dispositivos Android quanto iOS sem utilizar muito espaço de armazenamento | Requisito Não Funcional |
 | INT18 | O aplicativo deve apresentar uma interface simples e intuitiva | Requisito Não Funcional |
 | INT19 | O aplicativo deve fornecer opções de acessibilidade (modo escuro, esquemas de cores, conteúdos em libras, etc.) | Requisito Não Funcional |
 | INT20 | O aplicativo deve fornecer feedback ao usuário em caso de erros/falhas | Requisito Não Funcional |
