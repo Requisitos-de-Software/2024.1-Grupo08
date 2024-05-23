@@ -43,7 +43,7 @@ Os requisitos de usabilidade são aqueles que representam os requisitos relacion
 | RUS6 | O aplicativo deve permitir realizar uma reclamação com no máximo 5 cliques | [RNF4](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicitação/requisitos-elicitados/) |
 
 <div align="center">
-<figcaption align="left">Tabela 1: Requisitos de Usabilidade (Fonte: MEISTER, GUILHERME 2024)</figcaption>
+<figcaption align="left">Tabela 1: Requisitos de Usabilidade (Autor: MEISTER, GUILHERME 2024)</figcaption>
 </div>
 <br/>
 
@@ -59,7 +59,7 @@ Os requisitos de confiabilidade são aqueles que representam os requisitos relac
 | RCO4 | O aplicativo deve estar protegido de tentativas de acesso não autorizados (interligado ao sistema Gov.br)   | [RNF5, RNF6](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicitação/requisitos-elicitados/) |
 
 <div align="center">
-<figcaption align="left">Tabela 2: Requisitos de Confiabilidade (Fonte: THIAGO, Igor 2024)</figcaption>
+<figcaption align="left">Tabela 2: Requisitos de Confiabilidade (Autor: THIAGO, Igor 2024)</figcaption>
 </div>
 <br/>
 
@@ -75,7 +75,7 @@ Os requisitos de performance são aqueles que representam os requisitos relacion
 | RPE4 | O aplicativo deve realizar autenticação (login) em no máximo 10 segundos | [RNF7](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicitação/requisitos-elicitados/) |
 
 <div align="center">
-<figcaption align="left">Tabela 3: Requisitos de Performance (Fonte: CÉSAR, Júlio 2024)</figcaption>
+<figcaption align="left">Tabela 3: Requisitos de Performance (Autor: CÉSAR, Júlio 2024)</figcaption>
 </div>
 <br/>
 
@@ -93,7 +93,7 @@ Os requisitos de suportabilidade são aqueles que representam os requisitos rela
 | RSU6 | As atualizações do aplicativo devem ser devidamente testadas antes de publicadas na Play Store e/ou App Store |  |
 
 <div align="center">
-<figcaption align="left">Tabela 4: Requisitos de Suportabilidade (Fonte: FERREIRA, Matheus 2024)</figcaption>
+<figcaption align="left">Tabela 4: Requisitos de Suportabilidade (Autor: FERREIRA, Matheus 2024)</figcaption>
 </div>
 <br/>
 
@@ -111,7 +111,7 @@ Os requisitos de implementação são aqueles que representam os requisitos rela
 | RIM3 | O aplicativo deve informar ao usuário as permissões que devem ser concedidas ao aplicativo para seu funcionamento | |
 
 <div align="center">
-<figcaption align="left">Tabela 5: Requisitos de Implementação (Fonte: GONTIJO, Rodrigo 2024)</figcaption>
+<figcaption align="left">Tabela 5: Requisitos de Implementação (Autor: GONTIJO, Rodrigo 2024)</figcaption>
 </div>
 <br/>
 
@@ -124,7 +124,7 @@ Os requisitos de interface são aqueles que representam os requisitos relacionad
 | RIN2 | O aplicativo deve apresentar uma tela  "home", contendo os atalhos para as funcionalidades do mesmo |  |
 
 <div align="center">
-<figcaption align="left">Tabela 6: Requisitos de Interface (Fonte: GALDINO, Henrique 2024)</figcaption>
+<figcaption align="left">Tabela 6: Requisitos de Interface (Autor: GALDINO, Henrique 2024)</figcaption>
 </div>
 
 ### Requisitos Físicos
@@ -136,7 +136,7 @@ Os requisitos físicos são aqueles que representam os requisitos relacionados a
 | RFI2 | O aplicativo deve funcionar em dispositivos móveis (smartphones e tablets) e computadores/notebooks |  |
 
 <div align ="center">
-<figcaption align="left">Tabela 7: Requisitos Físicos (Fonte: GALDINO, Henrique 2024)</figcaption>
+<figcaption align="left">Tabela 7: Requisitos Físicos (Autor: GALDINO, Henrique 2024)</figcaption>
 </div>
 
 ### Restrições de Design
@@ -148,7 +148,7 @@ As restrições de design são aquelas que representam as restrições relaciona
 | RDD2 | O aplicativo deve manter um padrão de cores e fontes para todas suas interfaces e componentes |
 
 <div align="center">
-<figcaption align="left">Tabela 8: Restrições de Design (Fonte: GALDINO, Henrique 2024)</figcaption>
+<figcaption align="left">Tabela 8: Restrições de Design (Autor: GALDINO, Henrique 2024)</figcaption>
 </div>
 
 ### Requisitos de Documentação
@@ -162,7 +162,7 @@ Os requisitos de documentação são aqueles que representam os requisitos relac
 | RDO4 | O aplicativo deve disponibilizar os Termos de Uso e Orientações de Uso para o usuário |
 
 <div align="center">
-<figcaption align="left">Tabela 9: Requisitos de Documentação (Fonte: GALDINO, Henrique 2024)</figcaption>
+<figcaption align="left">Tabela 9: Requisitos de Documentação (Autor: GALDINO, Henrique 2024)</figcaption>
 </div>
 
 ## Bibliografia
@@ -183,6 +183,6 @@ FURPS+, 2008. Acesso em 16 de maio de 2024. Disponível em: <https://qualidadebr
 | `1.0` | 16/05/2024  | 16/05/2024 | Criação do artefato de Especificação Suplementar | [Henrique Galdino](https://github.com/hgaldino05) | [Igor Thiago](https://github.com/alladin-51) |
 
 <div align="center">
-<figcaption align="left">Tabela 10: Histórico de versões(Fonte: GALDINO, Henrique 2024)</figcaption>
+<figcaption align="left">Tabela 10: Histórico de versões(Autor: GALDINO, Henrique 2024)</figcaption>
 </div>
 <br/>

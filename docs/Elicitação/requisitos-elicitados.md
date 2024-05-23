@@ -56,7 +56,7 @@ A tabela 1 apresenta os requisitos elicitados a partir destas técnicas, apresen
 
 
 <div align="center">
-<figcaption align="left">Tabela 1: Requisitos identificados através da introspecção(Fonte: GALDINO, Henrique 2024)</figcaption>
+<figcaption align="left">Tabela 1: Requisitos identificados através da introspecção(Autor: GALDINO, Henrique 2024)</figcaption>
 </div>
 <br/>
 
@@ -74,6 +74,6 @@ A tabela 1 apresenta os requisitos elicitados a partir destas técnicas, apresen
 | `1.1` | 16/04/2024  | 16/04/2024 | Correções de formatação da revisão | [Rodrigo Gontijo](https://github.com/rodrigogontijoo) | [Guilherme Meister](https://github.com/gmeister18) |
 | `1.0` | 10/04/2024  | 10/04/2024 | Criação do artefato de introspecção | [Henrique Galdino](https://github.com/hgaldino05) | [Igor Thiago](https://github.com/alladin-51) |
 <div align="center">
-<figcaption align="left">Tabela 2: Histórico de versões(Fonte: GALDINO, Henrique 2024)</figcaption>
+<figcaption align="left">Tabela 2: Histórico de versões(Autor: GALDINO, Henrique 2024)</figcaption>
 </div>
 <br/>

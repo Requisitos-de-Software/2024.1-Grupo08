@@ -44,7 +44,7 @@ A partir deste contexto, Henrique identificou alguns requisitos, que podem ser v
 | INT22 | O aplicativo deve proteger os dados sensíveis do usuário | Requisito Não Funcional |
 
 <div align="center">
-<figcaption align="left">Tabela 1: Requisitos identificados através da introspecção do ponto de vista do consumidor (Fonte: GALDINO, Henrique 2024)</figcaption>
+<figcaption align="left">Tabela 1: Requisitos identificados através da introspecção do ponto de vista do consumidor (Autor: GALDINO, Henrique 2024)</figcaption>
 </div>
 <br/>
 
@@ -78,7 +78,7 @@ A partir deste contexto, Rodrigo identificou alguns requisitos, que podem ser vi
 | INT39 | O aplicativo deve proteger os dados sensíveis do usuário | Requisito Não Funcional 
 
 <div align="center">
-<figcaption align="left">Tabela 2: Requisitos identificados através da introspecção do ponto de vista da empresa (Fonte: GONTIJO, Rodrigo 2024)</figcaption>
+<figcaption align="left">Tabela 2: Requisitos identificados através da introspecção do ponto de vista da empresa (Autor: GONTIJO, Rodrigo 2024)</figcaption>
 </div>
 <br/>
 
@@ -99,6 +99,6 @@ A partir deste contexto, Rodrigo identificou alguns requisitos, que podem ser vi
 
 
 <div align="center">
-<figcaption align="left">Tabela 2: Histórico de versões(Fonte: GALDINO, Henrique 2024)</figcaption>
+<figcaption align="left">Tabela 2: Histórico de versões(Autor: GALDINO, Henrique 2024)</figcaption>
 </div>
 <br/>

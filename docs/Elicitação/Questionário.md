@@ -28,7 +28,7 @@ Os usuários antes de realizar o Questionário aceitaram um <a href="https://doc
 
 <div align="center">
 <img src="https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/assets/img/Elicitação/Questao01.png?raw=true" alt = Figura3  />
-<figcaption align="center">Figura 1: Pergunta 1 (Fonte: MEISTER, Guilherme2024)</figcaption>
+<figcaption align="center">Figura 1: Pergunta 1 (Autor: MEISTER, Guilherme2024)</figcaption>
 </div>
 <br/>
   
@@ -36,7 +36,7 @@ Os usuários antes de realizar o Questionário aceitaram um <a href="https://doc
 
 <div align="center">
 <img src="https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/assets/img/Elicitação/Questao02.png?raw=true" alt = Figura3  />
-<figcaption align="center">Figura 2: Pergunta 2 (Fonte: MEISTER, Guilherme2024)</figcaption>
+<figcaption align="center">Figura 2: Pergunta 2 (Autor: MEISTER, Guilherme2024)</figcaption>
 </div>
 <br/>
 
@@ -44,7 +44,7 @@ Os usuários antes de realizar o Questionário aceitaram um <a href="https://doc
 
 <div align="center">
 <img src="https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/assets/img/Elicitação/Questao03.png?raw=true" alt = Figura3  />
-<figcaption align="center">Figura 3: Pergunta 3 (Fonte: MEISTER, Guilherme2024)</figcaption>
+<figcaption align="center">Figura 3: Pergunta 3 (Autor: MEISTER, Guilherme2024)</figcaption>
 </div>
 <br/>
 
@@ -52,7 +52,7 @@ Os usuários antes de realizar o Questionário aceitaram um <a href="https://doc
 
 <div align="center">
 <img src="https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/assets/img/Elicitação/Questao04.png?raw=true" alt = Figura4  />
-<figcaption align="center">Figura 4: Pergunta 4 (Fonte: MEISTER, Guilherme2024)</figcaption>
+<figcaption align="center">Figura 4: Pergunta 4 (Autor: MEISTER, Guilherme2024)</figcaption>
 </div>
 <br/> 
 
@@ -61,7 +61,7 @@ Os usuários antes de realizar o Questionário aceitaram um <a href="https://doc
 
 <div align="center">
 <img src="https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/assets/img/Elicitação/Questao05.png?raw=true" alt = Figura5  />
-<figcaption align="center">Figura 5: Pergunta 5 (Fonte: MEISTER, Guilherme2024)</figcaption>
+<figcaption align="center">Figura 5: Pergunta 5 (Autor: MEISTER, Guilherme2024)</figcaption>
 </div>
 <br/>
 
@@ -69,7 +69,7 @@ Os usuários antes de realizar o Questionário aceitaram um <a href="https://doc
 
 <div align="center">
 <img src="https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/assets/img/Elicitação/Questao06.png?raw=true" alt = Figura6 />
-<figcaption align="center">Figura 6: Pergunta 6 (Fonte: MEISTER, Guilherme2024)</figcaption>
+<figcaption align="center">Figura 6: Pergunta 6 (Autor: MEISTER, Guilherme2024)</figcaption>
 </div>
 <br/>
 
@@ -77,7 +77,7 @@ Os usuários antes de realizar o Questionário aceitaram um <a href="https://doc
 
 <div align="center">
 <img src="https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/assets/img/Elicitação/Questao07.png?raw=true" alt = Figura7  />
-<figcaption align="center">Figura 7: Pergunta 7 (Fonte: MEISTER, Guilherme2024)</figcaption>
+<figcaption align="center">Figura 7: Pergunta 7 (Autor: MEISTER, Guilherme2024)</figcaption>
 </div>
 <br/> 
 
@@ -86,7 +86,7 @@ Os usuários antes de realizar o Questionário aceitaram um <a href="https://doc
 
 <div align="center">
 <img src="https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/assets/img/Elicitação/Questao08.png?raw=true" alt = Figura8  />
-<figcaption align="center">Figura 8: Pergunta 8 (Fonte: MEISTER, Guilherme2024)</figcaption>
+<figcaption align="center">Figura 8: Pergunta 8 (Autor: MEISTER, Guilherme2024)</figcaption>
 </div>
 <br/>
 
@@ -118,7 +118,7 @@ A *tabela 1* apresenta as respostas para a Pergunta 9, representadas diretamente
 || Registrar reclamações, Ver o status de minha reclamação ||
 
 <div align="center">
-<figcaption align="left">Tabela 1: Respostas da pergunta 9. (Fonte: MEISTER, Guilherme2024) </figcaption>
+<figcaption align="left">Tabela 1: Respostas da pergunta 9. (Autor: MEISTER, Guilherme2024) </figcaption>
 </div>
 <br/>
 
@@ -126,7 +126,7 @@ A *tabela 1* apresenta as respostas para a Pergunta 9, representadas diretamente
 
 <div align="center">
 <img src="https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/assets/img/Elicitação/Questao09.png?raw=true" alt = Figura3  />
-<figcaption align="center">Figura 9: Pergunta 10 (Fonte: Guilherme, Meister 2024)</figcaption>
+<figcaption align="center">Figura 9: Pergunta 10 (Autor: Guilherme, Meister 2024)</figcaption>
 </div>
 <br/> 
 
@@ -135,7 +135,7 @@ A *tabela 1* apresenta as respostas para a Pergunta 9, representadas diretamente
 
 <div align="center">
 <img src="https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/assets/img/Elicitação/Questao10.png?raw=true" alt = Figura10  />
-<figcaption align="center">Figura 10: Pergunta 11 (Fonte: Guilherme, Meister 2024)</figcaption>
+<figcaption align="center">Figura 10: Pergunta 11 (Autor: Guilherme, Meister 2024)</figcaption>
 </div>
 <br/> 
 
@@ -172,7 +172,7 @@ A tabela 2 lista as respostas diretas dos participantes para a pergunta **"Você
 
 
 <div align="center">
-<figcaption align="left">Tabela 2: Respostas para a pergunta 12(Fonte: MEISTER, Guilherme2024)</figcaption>
+<figcaption align="left">Tabela 2: Respostas para a pergunta 12(Autor: MEISTER, Guilherme2024)</figcaption>
 </div>
 <br/>
 
@@ -197,7 +197,7 @@ Dentro da tabela, podemos ver algumas sugestões e necessidades relacionados ao 
 
 
 <div align="center">
-<figcaption align="left">Tabela 3: Possíveis Requisitos(Fonte: Guilherme Meister e Matheus Ferreira, 2024)</figcaption>
+<figcaption align="left">Tabela 3: Possíveis Requisitos(Autor: Guilherme Meister e Matheus Ferreira, 2024)</figcaption>
 </div>
 <br/>
 
@@ -230,6 +230,6 @@ Dentro da tabela, podemos ver algumas sugestões e necessidades relacionados ao 
 | 05/04/2024 | `1.0`  | Criação do artefato | [Guilherme Meister](https://github.com/gmeister18) e [Matheus Ferreira](https://github.com/matferreira1) | 10/04/2024 | [Henrique Galdino](https://github.com/hgaldino05) e [Rodrigo ](https://github.com/rodrigogontijoo) |
 
 <div align="center">
-<figcaption align="left">Tabela 4: Histórico de versões(Fonte: MEISTER, Guilherme2023)</figcaption>
+<figcaption align="left">Tabela 4: Histórico de versões(Autor: MEISTER, Guilherme2023)</figcaption>
 </div>
 <br/>

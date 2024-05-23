@@ -36,7 +36,7 @@ Há cinco maneiras de descrever cenários: texto narrativo, texto estruturado, d
 | Exceção    | - Falha de conexão à internet. <br> - Aplicativo travou
 
 <div style="text-align: center">
-<p>Tabela 2: Cenário 01: Pesquisar empresa pelo nome. (Fonte: THIAGO, Igor. 2024).</p>
+<p>Tabela 2: Cenário 01: Pesquisar empresa pelo nome. (Autor: THIAGO, Igor. 2024).</p>
 </div>
 
 ## C02: Cadastrar reclamação
@@ -52,7 +52,7 @@ Há cinco maneiras de descrever cenários: texto narrativo, texto estruturado, d
 | Exceção    | - Falha de conexão à internet. <br> - Aplicativo travou
 
 <div style="text-align: center">
-<p>Tabela 3: Cenário 02: Cadastrar reclamação. (Fonte: THIAGO, Igor. 2024).</p>
+<p>Tabela 3: Cenário 02: Cadastrar reclamação. (Autor: THIAGO, Igor. 2024).</p>
 </div>
 
 ## C03: Visualizar reclamações de outros usuários
@@ -68,7 +68,7 @@ Há cinco maneiras de descrever cenários: texto narrativo, texto estruturado, d
 | Exceção    | - Falha de conexão à internet. <br> - Aplicativo travou
 
 <div style="text-align: center">
-<p>Tabela 4: Cenário 03: Visualizar reclamações de outros usuários. (Fonte: THIAGO, Igor. 2024).</p>
+<p>Tabela 4: Cenário 03: Visualizar reclamações de outros usuários. (Autor: THIAGO, Igor. 2024).</p>
 </div>
 
 ## C04: Visualizar minhas reclamações 
@@ -84,7 +84,7 @@ Há cinco maneiras de descrever cenários: texto narrativo, texto estruturado, d
 | Exceção    | - Falha de conexão à internet. <br> - Aplicativo travou
 
 <div style="text-align: center">
-<p>Tabela 5: Cenário 04: Visualizar minhas reclamações. (Fonte: THIAGO, Igor. 2024).</p>
+<p>Tabela 5: Cenário 04: Visualizar minhas reclamações. (Autor: THIAGO, Igor. 2024).</p>
 </div>
 
 ## C05: Visualizar Dados Gerais
@@ -100,7 +100,7 @@ Há cinco maneiras de descrever cenários: texto narrativo, texto estruturado, d
 | Exceção    | - Falha de conexão à internet. <br> - Aplicativo travou.
 
 <div style="text-align: center">
-<p>Tabela 6: Cenário 05: Visualizar Dados Gerais. (Fonte: GONTIJO, Rodrigo. 2024).</p>
+<p>Tabela 6: Cenário 05: Visualizar Dados Gerais. (Autor: GONTIJO, Rodrigo. 2024).</p>
 </div>
 
 ## C06: Visualizar meus Dados
@@ -116,7 +116,7 @@ Há cinco maneiras de descrever cenários: texto narrativo, texto estruturado, d
 | Exceção    | - Falha de conexão à internet. <br> - Aplicativo travou.
 
 <div style="text-align: center">
-<p>Tabela 7: Cenário 06: Visualizar meus Dados. (Fonte: GONTIJO, Rodrigo. 2024).</p>
+<p>Tabela 7: Cenário 06: Visualizar meus Dados. (Autor: GONTIJO, Rodrigo. 2024).</p>
 </div>
 
 ## C07: Responder Reclamação
@@ -132,7 +132,7 @@ Há cinco maneiras de descrever cenários: texto narrativo, texto estruturado, d
 | Exceção    | - Falha de conexão à internet. <br> - Aplicativo travou.
 
 <div style="text-align: center">
-<p>Tabela 8: Cenário 07: Responder Reclamação. (Fonte: GONTIJO, Rodrigo. 2024).</p>
+<p>Tabela 8: Cenário 07: Responder Reclamação. (Autor: GONTIJO, Rodrigo. 2024).</p>
 </div>
 
 ## C08: Avaliar Empresa
@@ -148,7 +148,7 @@ Há cinco maneiras de descrever cenários: texto narrativo, texto estruturado, d
 | Exceção    | - Falha de conexão à internet. <br> - Aplicativo travou.
 
 <div style="text-align: center">
-<p>Tabela 9: Cenário 08: Avaliar Empresa. (Fonte: GONTIJO, Rodrigo. 2024).</p>
+<p>Tabela 9: Cenário 08: Avaliar Empresa. (Autor: GONTIJO, Rodrigo. 2024).</p>
 </div>
 
 

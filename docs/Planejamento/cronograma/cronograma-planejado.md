@@ -19,7 +19,7 @@ A Tabela 1 mostra todos os Pontos de Controles com suas respectivas datas de ent
 |   5.2 | Análise de requistos  | verificação e validação 2 | 17/06 | 18/06 |
 |   6   | Pós-rastreabilidade | gerência 2 | 03/06 | 04/06 |
 
-#### Tabela 1 - Cronograma Geral. (Fonte: MEISTER, Guilherme 2024).
+#### Tabela 1 - Cronograma Geral. (Autor: MEISTER, Guilherme 2024).
 
 ### Etapa 1
 A Tabela 2 mostra as atividades planejadas para a apresentação do projeto etapa 1, além de seus autores, revisores e datas de entrega.
@@ -36,7 +36,7 @@ A Tabela 2 mostra as atividades planejadas para a apresentação do projeto etap
 | GitPage | 30/03 | 31/03 |01/04 | Guilherme, Henrique, Igor, Júlio, Matheus, Rodrigo | Guilherme, Henrique, Igor, Júlio, Matheus, Rodrigo |
 | Gravação da apresentação | 30/03 | 31/03 |01/04 | Guilherme, Henrique, Igor, Júlio, Matheus, Rodrigo | Guilherme, Henrique, Igor, Júlio, Matheus, Rodrigo |
 
-#### Tabela 2 - Itens planejados Ponto de Controle 1. (Fonte: MEISTER, Guilherme 2024).
+#### Tabela 2 - Itens planejados Ponto de Controle 1. (Autor: MEISTER, Guilherme 2024).
 
 ### Etapa 2
 A Tabela 3 mostra as atividades planejadas para o Ponto de Controle 2, além de seus autores, revisores e datas de entrega.
@@ -60,7 +60,7 @@ A Tabela 3 mostra as atividades planejadas para o Ponto de Controle 2, além de 
 | Gravação da apresentação | 14/04 | 17/04 | 17/04 | Guilherme,Henrique, Igor, Júlio, Matheus, Rodrigo | Guilherme,Henrique, Igor, Júlio, Matheus, Rodrigo |
 
 
-#### Tabela 3 - Itens planejados Ponto de Controle 2. (Fonte: MEISTER, Guilherme 2024).
+#### Tabela 3 - Itens planejados Ponto de Controle 2. (Autor: MEISTER, Guilherme 2024).
 
 
 ### Etapa 3
@@ -75,7 +75,7 @@ A Tabela 4 mostra as atividades planejadas para o Ponto de Controle 3, além de 
 | Gravação da apresentação | 14/05 | 20/05 | 20/05 | Todos | Rodrigo |
 | Correções do Ponto de Controle anterior | 14/05 | 20/05 | 20/05 | Todos | Guilherme |
 
-#### Tabela 4 - Itens planejados Ponto de Controle 3. (Fonte: MEISTER, Guilherme 2024).
+#### Tabela 4 - Itens planejados Ponto de Controle 3. (Autor: MEISTER, Guilherme 2024).
 
 
 ### Etapa 4
@@ -89,7 +89,7 @@ A Tabela 5 mostra as atividades planejadas para o Ponto de Controle 4, além de 
 | 4. Gravação da apresentação | 27/05 | 27/05 | 28/05 | Todos | Matheus |
 | 5. Correções do Ponto de Controle anterior | 23/05 | 25/05 | 28/05 | Todos | Rodrigo |
 
-#### Tabela 5 - Itens planejados Ponto de Controle 4. (Fonte: MEISTER, Guilherme 2024).
+#### Tabela 5 - Itens planejados Ponto de Controle 4. (Autor: MEISTER, Guilherme 2024).
 
 
 ### Etapa 5.1
@@ -102,7 +102,7 @@ A Tabela 6 mostra as atividades planejadas para o Ponto de Controle 5.1, além d
 | 3. Gravação da apresentação | 10/06 | 10/06 |11/06| Guilherme, Rodrigo | Henrique, Matheus |
 | 4. Correções do Ponto de Controle anterior | 30/05 | 04/06 | 11/06 | Matheus, Henrique | Rodrigo, Júlio |
 
-#### Tabela 6 - Itens planejados Ponto de Controle 5.1. (Fonte: MEISTER, Guilherme 2024).
+#### Tabela 6 - Itens planejados Ponto de Controle 5.1. (Autor: MEISTER, Guilherme 2024).
 
 
 ### Etapa 5.2
@@ -115,7 +115,7 @@ A Tabela 7 mostra as atividades planejadas para o Ponto de Controle 5.2, além d
 | 3. Gravação da apresentação | 24/06 | 24/06 |25/06| Henrique, Matheus | Igor, Rodrigo |
 | 4. Correções do Ponto de Controle anterior | 19/06 | 22/06 |25/06| Igor, Rodrigo | Júlio, Guilherme |
 
-#### Tabela 7 - Itens planejados Ponto de Controle 5.2. (Fonte: MEISTER, Guilherme 2024).
+#### Tabela 7 - Itens planejados Ponto de Controle 5.2. (Autor: MEISTER, Guilherme 2024).
 
 
 ### Etapa 6
@@ -128,7 +128,7 @@ A Tabela 8 mostra as atividades planejadas para o Ponto de Controle 6, além de 
 | 3. Gravação da apresentação | 17/06 | 17/06 |18/06| Matheus | Rodrigo |
 | 4. Correções do Ponto de Controle anterior | 11/06 | 15/06 |18/06| Rodrigo | Guilherme |
 
-#### Tabela 8 - Itens planejados Ponto de Controle 6. (Fonte: Guilherme Meister , 2024).
+#### Tabela 8 - Itens planejados Ponto de Controle 6. (Autor: Guilherme Meister , 2024).
 
 
 ---

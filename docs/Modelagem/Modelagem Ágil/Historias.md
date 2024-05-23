@@ -15,7 +15,7 @@ A história do usuário adotará o seguinte padrão
 | Prioridade | Alta, média ou baixa |
 
 <div style="text-align: center">
-<p> Tabela 1: Modelo de história do usuário. (Fonte: DIOGO, Matheus. 2024).</p>
+<p> Tabela 1: Modelo de história do usuário. (Autor: DIOGO, Matheus. 2024).</p>
 </div>
 
 ## História do Usuário

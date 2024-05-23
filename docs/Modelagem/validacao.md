@@ -15,7 +15,7 @@ O cronograma da validação pode ser visto abaixo:
 | 20/05/2024 | 20:00 | Google Meet |[Guilherme Meister (entrevistador)](https://github.com/gmeister18), [Henrique Galdino (interpretando persona/cliente)](https://github.com/hgaldino05), [Júlio César (mediador)](https://github.com/Julio1099)|
 
 <div align="center">
-<figcaption align="left">Tabela 1: Cronograma validação (Fonte: GALDINO, Henrique 2024)</figcaption>
+<figcaption align="left">Tabela 1: Cronograma validação (Autor: GALDINO, Henrique 2024)</figcaption>
 </div>
 
 

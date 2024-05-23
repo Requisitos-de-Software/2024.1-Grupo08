@@ -13,7 +13,7 @@ Esse documento visa registrar o acontecimento da  4ª reunião do grupo 8, marca
 | Guilherme, Henrique, Igor, Júlio, Matheus, Rodrigo  | 22/04/2024 |      21:00 - 22:00      | Plataforma Teams |
 
 <div style="text-align: center">
-<p> Tabela 1: Dados da reunião (Fonte: MEISTER, Guilherme; 2024). </p>
+<p> Tabela 1: Dados da reunião (Autor: MEISTER, Guilherme; 2024). </p>
 </div>
 
 <br />
@@ -35,5 +35,5 @@ Por ter sido gravada a parte, disponibilizamos o link da gravação feita para a
 | 23/04/2024 | `1.0`  | Criação da página | [Guilherme Meister](https://github.com/gmeister18) | 03/04/2024 | [Igor](https://github.com/alladin-51)|
 
 <div style="text-align: center">
-<p> Tabela 2: Histórico de Versões (Fonte: MEISTER, Guilherme 2024). </p>
+<p> Tabela 2: Histórico de Versões (Autor: MEISTER, Guilherme 2024). </p>
 </div>

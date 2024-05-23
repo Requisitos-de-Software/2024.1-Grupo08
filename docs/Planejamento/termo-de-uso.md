@@ -23,6 +23,6 @@ Como o documento de Termo de Uso está sujeito a alterações, é importante res
 | `1.1`  | 02/04/2024 | 22/04/2024 | Criação do documento | [Guilherme Meister](https://github.com/gmeister18) | [Júlio Cesar](https://github.com/Julio1099) |
 
 <div align="center">
-<figcaption align="left">Tabela 1: Histórico de versões(Fonte: Autoria própria)</figcaption>
+<figcaption align="left">Tabela 1: Histórico de versões(Autor: Autoria própria)</figcaption>
 </div>
 <br/>

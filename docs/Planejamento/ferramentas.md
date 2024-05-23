@@ -23,7 +23,7 @@ Na tabela abaixo, estão listadas as ferramentas utilizadas:
 | <img src="https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/assets/img/logos/logo-canva.png?raw=true" width="200" />     | O Canva é uma ferramenta de design gráfico online que permite criar uma variedade de conteúdos visuais, como cartões, apresentações, imagens para redes sociais, entre outros. Ele é amplamente utilizado para criar material visual para o projeto, como banners, infográficos e layouts de apresentações.[¹²](#ancora12) |                                                                                                                                                                                                                                                                                                
 
 <div align="center">
-<figcaption align="left">Tabela 1: Lista de ferramentas utilizadas (Fonte: Autoria própria)</figcaption>
+<figcaption align="left">Tabela 1: Lista de ferramentas utilizadas (Autor: Autoria própria)</figcaption>
 </div>
 <br/>
 
@@ -61,6 +61,6 @@ Na tabela abaixo, estão listadas as ferramentas utilizadas:
 | `1.1`  | 13/04/2024 | **/04/2024 | Atualização do documento | [Júlio](https://github.com/Julio1099) | [-----------](https://github.com/) |
 
 <div align="center">
-<figcaption align="left">Tabela 2: Histórico de versões(Fonte: Autoria própria)</figcaption>
+<figcaption align="left">Tabela 2: Histórico de versões(Autor: Autoria própria)</figcaption>
 </div>
 <br/>

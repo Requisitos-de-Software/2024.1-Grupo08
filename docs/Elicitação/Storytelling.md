@@ -35,12 +35,12 @@ A <i>Tabela 1</i> a seguir informa os dados do primeiro Storytelling, bem como a
 | :----------: | :-------: | :--: | :-----: | :---: |
 | Mateus Vieira | Matheus Ferreira | 16/04/2024 | 19:17 | Microsoft Teams |
 
-<figcaption align='center'> Tabela 1: Dados do StoryTelling 1 (Fonte: MEISTER, Guilherme 2024)</figcaption>
+<figcaption align='center'> Tabela 1: Dados do StoryTelling 1 (Autor: MEISTER, Guilherme 2024)</figcaption>
 
 <iframe width="750" height="422" src="https://youtube.com/embed/YSzEU-EsOt8" title="StoryTelling 1 Grupo 8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-Vídeo 2: gravação do StoryTelling 2 (Fonte: MEISTER, Guilherme 2024).
+Vídeo 2: gravação do StoryTelling 2 (Autor: MEISTER, Guilherme 2024).
 
 ### A memória RAM com marcas de uso
 
@@ -56,12 +56,12 @@ A <i>Tabela 2</i> a seguir informa os dados do segundo Storytelling, bem como a 
 | :----------: | :-------: | :--: | :-----: | :---: |
 | Matheus Menezes | Guilherme Meister | 16/04/2024 | 22:24 | Microsoft Teams |
 
-<figcaption align='center'> Tabela 2: Dados do StoryTelling 2 (Fonte: MEISTER, Guilherme 2024)</figcaption>
+<figcaption align='center'> Tabela 2: Dados do StoryTelling 2 (Autor: MEISTER, Guilherme 2024)</figcaption>
 
 <iframe width="750" height="422" src="https://youtube.com/embed/Pls15d-WQQc" title="StoryTelling 2 Grupo 8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-Vídeo 2: gravação do StoryTelling 2 (Fonte: MEISTER, Guilherme 2024).
+Vídeo 2: gravação do StoryTelling 2 (Autor: MEISTER, Guilherme 2024).
 
 
 ## Requisitos Elicitados
@@ -85,7 +85,7 @@ Vídeo 2: gravação do StoryTelling 2 (Fonte: MEISTER, Guilherme 2024).
 | ST12          | Eu, como usuário, gostaria de realizar registro/login em uma conta.                                       | RF   | Sim          | Todas |
 
 <div style="text-align: center">
-<p> Tabela 3: Requisitos elicitados com o Storytelling (Fonte: MEISTER, Guilherme 2024).</p>
+<p> Tabela 3: Requisitos elicitados com o Storytelling (Autor: MEISTER, Guilherme 2024).</p>
 </div>
 
 **Legenda:**

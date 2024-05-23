@@ -13,7 +13,7 @@ Esse documento visa registrar o acontecimento da  1ª reunião do grupo 8, marca
 | Guilherme, Henrique, Igor, Júlio, Matheus, Rodrigo  | 30/03/2024 |      19:45 - 21:00      | Plataforma Teams |
 
 <div style="text-align: center">
-<p> Tabela 1: Dados da reunião (Fonte: MEISTER, Guilherme; 2024). </p>
+<p> Tabela 1: Dados da reunião (Autor: MEISTER, Guilherme; 2024). </p>
 </div>
 
 <br />
@@ -41,7 +41,7 @@ Esse documento visa registrar o acontecimento da  1ª reunião do grupo 8, marca
 
 
 <div style="text-align: center">
-<p> Tabela 2: Atividades a serem feitas (Fonte: GALDINO; Henrique 2024). </p>
+<p> Tabela 2: Atividades a serem feitas (Autor: GALDINO; Henrique 2024). </p>
 </div>
 
 <br />
@@ -61,5 +61,5 @@ A gravação desta reunião pode ser acessada [aqui](https://youtu.be/0WflF4iFI8
 | 30/03/2024 | `1.0`| Criação da ata de reunião | Guilherme, Henrique, Igor, Júlio, Matheus, Rodrigo | 30/03/2024 | Guilherme, Henrique, Igor, Júlio, Matheus, Rodrigo |
 
 <div style="text-align: center">
-<p> Tabela 3: Histórico de Versões (Fonte: GALDINO; Henrique 2024). </p>
+<p> Tabela 3: Histórico de Versões (Autor: GALDINO; Henrique 2024). </p>
 </div>

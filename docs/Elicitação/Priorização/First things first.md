@@ -37,7 +37,7 @@ A prioridade: valor % / ((custo % * peso custo) + (risco % * peso risco)). Foi u
 | Custo         | 1     |
 | Risco         | 0.5   |
 
-<div style="text-align: center;"><p>Tabela 1 - Peso relativo (Fonte: CÉSAR, Julio. 2024).</p></div>
+<div style="text-align: center;"><p>Tabela 1 - Peso relativo (Autor: CÉSAR, Julio. 2024).</p></div>
 
 
 
@@ -48,7 +48,7 @@ A prioridade: valor % / ((custo % * peso custo) + (risco % * peso risco)). Foi u
 | [Igor Thiago](https://github.com/Alladin-51)  | Desenvolvedor |
 
 
-<div style="text-align: center;"><p>Tabela 2 - Participantes (Fonte: CÉSAR, Julio. 2024).</p></div>
+<div style="text-align: center;"><p>Tabela 2 - Participantes (Autor: CÉSAR, Julio. 2024).</p></div>
 
 A tabela abaixo apresenta os resultados da priorização de requisitos, demonstrando o valor total, o percentual de valor, o custo relativo, o percentual de custo, o risco relativo, o percentual de risco e a prioridade de cada funcionalidade.
 
@@ -72,7 +72,7 @@ A tabela abaixo apresenta os resultados da priorização de requisitos, demonstr
 | REQ14 - acessibilidade                     | 7               | 4                    | 18          | 4.9       | 8              | 11.26   | 3              | 3.84    | 0.37       |
 
 
-<div style="text-align: center;"><p>Tabela 3 - Tabela de Resultado da Priorização de Requisitos (Fonte: CÉSAR, Julio. 2024).</p></div>
+<div style="text-align: center;"><p>Tabela 3 - Tabela de Resultado da Priorização de Requisitos (Autor: CÉSAR, Julio. 2024).</p></div>
 
 ## Cronograma e gravação
 
@@ -82,7 +82,7 @@ A tabela 4, mostra o período em que foi realizado a priorização utilizando Fi
 | :--: | :--: | :---: | ------- | ------------ | ----- |
 | 16/04/2024 | 17h | Teams | Priorização First Things First (cliente) |[Henrique Galdino](https://github.com/hgaldino05)| Matheus Assis|
 | 16/04/2024 | 19h | Teams | Priorização First Things First (desenvolvedor) |[Henrique Galdino](https://github.com/hgaldino05)| [Igor Thiago](https://github.com/alladin-51)|
-<div style="text-align: center;"><p>Tabela 4 - Cronograma da Priorização de Requisitos (Fonte: CÉSAR, Julio. 2024).</p></div>
+<div style="text-align: center;"><p>Tabela 4 - Cronograma da Priorização de Requisitos (Autor: CÉSAR, Julio. 2024).</p></div>
 
 As gravações podem ser acessadas nos links abaixo:
 [Priorização - First Thing First(Mediador/Desenvolvedor)](https://youtu.be/CtUni6w0gSs)

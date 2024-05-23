@@ -10,13 +10,13 @@ Para o desenvolvimento do projeto, foi elaborado um Rich Picture do aplicativo C
 <img src="https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/assets/img/planejamento/rich-picture.jpg?raw=true"/>
 
 <div align="center">
-<figcaption align="left">Figura 01: Rich Picture Consumidor.gov (Fonte: Autoria própria)</figcaption>
+<figcaption align="left">Figura 01: Rich Picture Consumidor.gov (Autor: Autoria própria)</figcaption>
 </div>
 <br/>
 
 <img src="https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/assets/img/planejamento/rich-picture-legenda.jpg?raw=true"/>
 <div align="center">
-<figcaption align="left">Figura 02: Legenda - Rich Picture Consumidor.gov (Fonte: Autoria própria)</figcaption>
+<figcaption align="left">Figura 02: Legenda - Rich Picture Consumidor.gov (Autor: Autoria própria)</figcaption>
 </div>
 <br/>
 
@@ -36,6 +36,6 @@ Para o desenvolvimento do projeto, foi elaborado um Rich Picture do aplicativo C
 
 
 <div align="center">
-<figcaption align="left">Tabela 01: Histórico de versões(Fonte: Autoria própria)</figcaption>
+<figcaption align="left">Tabela 01: Histórico de versões(Autor: Autoria própria)</figcaption>
 </div>
 <br/>

@@ -29,7 +29,7 @@ O Método "In or Out" é uma abordagem simples e eficaz para priorizar requisito
 | REQ14 | O aplicativo deve fornecer opções de acessibilidade (modo escuro, esquemas de cores, conteúdos em libras, etc.) | Requisito Não Funcional | [QUE03](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicitação/Questionário/#possiveis-requisitos); [INT13](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicitação/introspec/#metodologia) | OUT |
 | REQ15 | O aplicativo deve fornecer feedback ao usuário em caso de erros/falhas | Requisito Não Funcional | [INT14](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicitação/introspec/#metodologia) | IN |
 
-<div style="text-align: center;"><p>Tabela 1 - requisitos selecionados (Fonte: CÉSAR, Julio. 2024).</p></div>
+<div style="text-align: center;"><p>Tabela 1 - requisitos selecionados (Autor: CÉSAR, Julio. 2024).</p></div>
 
 ## Reunião
 
@@ -37,7 +37,7 @@ O Método "In or Out" é uma abordagem simples e eficaz para priorizar requisito
 | :--: | :--: | :---: | ------- | ------------ | ----- |
 | 17/04/2024 | 21h | Teams | Priorização de requisitos elicitados utilizando a técnica In or Out |[Júlio Cesar](https://github.com/Julio1099)|Gabrielle Kitahara|
 
-<div style="text-align: center;"><p>Tabela 2 - cronograma da reunião (Fonte: CÉSAR, Julio. 2024).</p></div>
+<div style="text-align: center;"><p>Tabela 2 - cronograma da reunião (Autor: CÉSAR, Julio. 2024).</p></div>
 
 ## Link da Gravação
 

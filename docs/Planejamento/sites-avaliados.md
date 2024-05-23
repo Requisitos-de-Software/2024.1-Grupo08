@@ -8,7 +8,7 @@ Para uma das atividades da disciplina, cada membro da equipe teve que criar uma 
 | Meu Sus Digital| [Play Store](https://play.google.com/store/apps/details?id=br.gov.datasus.cnsdigital)  / [App Store](https://apps.apple.com/br/app/meu-sus-digital/id1045754608) |
 | Consumidor.gov | [Play Store](https://play.google.com/store/apps/details?id=br.com.consumidor)  / [App Store](https://apps.apple.com/br/app/consumidor-gov-br/id1492523966) |
 <div align="center">
-<figcaption align="left">Tabela 01: Lista de apps avaliados(Fonte: Autoria própria)</figcaption>
+<figcaption align="left">Tabela 01: Lista de apps avaliados(Autor: Autoria própria)</figcaption>
 </div>
 <br/>
 
@@ -77,6 +77,6 @@ Dentre os aplicativos cogitados, a equipe decidiu utilizar o **_Consumidor.gov_*
 
 
 <div align="center">
-<figcaption align="left">Tabela 02: Histórico de versões(Fonte: Autoria própria)</figcaption>
+<figcaption align="left">Tabela 02: Histórico de versões(Autor: Autoria própria)</figcaption>
 </div>
 <br/>

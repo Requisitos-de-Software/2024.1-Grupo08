@@ -48,7 +48,7 @@ As Personas partiram do perfil de usuário, representado na Tabela 1, que foi tr
 | Atitudes          |   Acadêmicos e não-acadêmicos                                                                 |
 | Tarefas primárias |   fazer reclamações a empresas                                           |
 
-#### Tabela 1: Perfil do usuário (fonte: MEISTER, Guilherme 2024).
+#### Tabela 1: Perfil do usuário (Autor: MEISTER, Guilherme 2024).
 
 ## Personas do nosso projeto
 
@@ -165,6 +165,6 @@ O elenco é composto de duas personas primárias, uma persona secundária e uma 
 | 05/04/2024 | `1.0`  | Criação do artefato | [Guilherme Meister](https://github.com/gmeister18) e [Matheus Ferreira](https://github.com/matferreira1) | 10/04/2024 | [Henrique Galdino](https://github.com/hgaldino05) e [Rodrigo ](https://github.com/rodrigogontijoo) |
 
 <div align="center">
-<figcaption align="left">Tabela 7: Histórico de versões(Fonte: Autoria própria)</figcaption>
+<figcaption align="left">Tabela 7: Histórico de versões(Autor: Autoria própria)</figcaption>
 </div>
 <br/>

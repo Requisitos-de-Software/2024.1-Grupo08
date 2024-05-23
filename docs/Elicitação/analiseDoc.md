@@ -45,7 +45,7 @@ A técnica utilizada neste documento é a análise de documentos. Essa técnica 
 | ADD04 | Sistemas operacionais suportados: Android e iOS. | RNF |
 | ADD05 | Interface do usuário intuitiva. | RI |
 | ADD06 | Suporte ao modo escuro | RI |
-| ADD07 | Suporte a fontes maiores | RI |
+| ADD07 | Suporte a Autors maiores | RI |
 | ADD08 | Capacidade de lidar com grande número de empresas e usúarios. | RPR |
 | ADD09 | Risco de violação de privacidade do usuário. | RR |
 | ADD10 | Testes para garantir que os Fornecimento de informações funcione corretamente. | RT |
@@ -53,7 +53,7 @@ A técnica utilizada neste documento é a análise de documentos. Essa técnica 
 | ADD12 | Testes para garantir que a interface do usuário seja intuitiva para todos. | RT |
 | ADD13 | Testes para garantir que o software respeite a privacidade do usuário. | RT |
 | ADD14 | Testes para garantir que o software tenha um bom desempenho em todos dispositivos. | RT |
-<div style="text-align: center;"><p>Tabela 1 - Tabela dos requisitos levantados (Fonte: MEISTER, Guilherme. 2024).</p></div>
+<div style="text-align: center;"><p>Tabela 1 - Tabela dos requisitos levantados (Autor: MEISTER, Guilherme. 2024).</p></div>
 
 ## Legenda
 

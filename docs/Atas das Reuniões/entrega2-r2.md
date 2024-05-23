@@ -13,7 +13,7 @@ Esse documento visa registrar o acontecimento da  2ª reunião do grupo 8 para a
 | Guilherme, Henrique, Igor, Júlio, Matheus, Rodrigo  | 16/04/2024 |      10h - 11h45min      | Sala S6 - UAC (FGA/UnB) |
 
 <div style="text-align: center">
-<p> Tabela 1: Dados da reunião (Fonte: GALDINO, Henrique 2024). </p>
+<p> Tabela 1: Dados da reunião (Autor: GALDINO, Henrique 2024). </p>
 </div>
 
 <br />
@@ -34,5 +34,5 @@ Por se tratar de uma reunião presencial e em horário de aula, não foi realiza
 | 16/04/2024 | `1.0`  | Criação da página | [Henrique Galdino](https://github.com/hgaldino05) | 03/04/2024 | [Igor Thiago](https://github.com/alladin-51)|
 
 <div style="text-align: center">
-<p> Tabela 2: Histórico de Versões (Fonte: GALDINO, Henrique 2024). </p>
+<p> Tabela 2: Histórico de Versões (Autor: GALDINO, Henrique 2024). </p>
 </div>

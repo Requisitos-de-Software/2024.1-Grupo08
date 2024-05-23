@@ -38,7 +38,7 @@ A tabela 3 mostra o template criado com base nos Léxicos do projeto [Bilheteria
 | Noção | Símbolo. |
 | Sinônimos | Dicionário de palavras |
 
-<font size="3"><p style="text-align: center">Fonte: [CÉSAR, Julio. 2024](https://github.com/Julio1099).</p></font>
+<font size="3"><p style="text-align: center">Autor: [CÉSAR, Julio. 2024](https://github.com/Julio1099).</p></font>
 </figure>
 
 ## Léxicos
@@ -56,7 +56,7 @@ O usuário busca uma empresa específica dentro do aplicativo. Ele faz uso do re
 | Noção | O usuário utiliza a barra de pesquisa para encontrar a empresa desejada <br> O sistema exibe uma lista de empresas correspondentes à pesquisa <br> O usuário seleciona a empresa desejada |
 | Sinônimos | Buscar Empresa, Procurar Empresa |
 
-<font size="3"><p style="text-align: center">Fonte: [CÉSAR, Julio. 2024](https://github.com/Julio1099).</p></font>
+<font size="3"><p style="text-align: center">Autor: [CÉSAR, Julio. 2024](https://github.com/Julio1099).</p></font>
 </figure>
 
 ### L02: Abrir Reclamação
@@ -72,7 +72,7 @@ O usuário registra uma reclamação contra uma empresa no aplicativo. Ele faz u
 | Noção | O usuário seleciona uma empresa específica <br> O sistema oferece a opção "Quero reclamar" <br> O usuário preenche as configurações necessárias para registrar a reclamação |
 | Sinônimos | Registrar Reclamação, Iniciar Reclamação |
 
-<font size="3"><p style="text-align: center">Fonte: [CÉSAR, Julio. 2024](https://github.com/Julio1099).</p></font>
+<font size="3"><p style="text-align: center">Autor: [CÉSAR, Julio. 2024](https://github.com/Julio1099).</p></font>
 </figure>
 
 ### L03: Visualizar Reclamações de Outros Usuários
@@ -88,7 +88,7 @@ O usuário visualiza as reclamações registradas por outros usuários no aplica
 | Noção | O usuário seleciona a opção "Reclamações de Outros Usuários" <br> O sistema exibe as últimas reclamações registradas <br> O usuário pode filtrar as reclamações por fornecedor desejado |
 | Sinônimos | Ver Reclamações, Visualizar Queixas de Outros Usuários |
 
-<font size="3"><p style="text-align: center">Fonte: [CÉSAR, Julio. 2024](https://github.com/Julio1099).</p></font>
+<font size="3"><p style="text-align: center">Autor: [CÉSAR, Julio. 2024](https://github.com/Julio1099).</p></font>
 </figure>
 
 ### L04: Visualizar Minhas Reclamações
@@ -104,7 +104,7 @@ O usuário visualiza as reclamações que ele próprio registrou no aplicativo. 
 | Noção | O usuário seleciona a opção "Minhas Reclamações" <br> O sistema exibe as reclamações feitas pelo usuário <br> O usuário pode visualizar o andamento das reclamações e interagir com a empresa |
 | Sinônimos | Ver Minhas Queixas, Visualizar Minhas Reclamações |
 
-<font size="3"><p style="text-align: center">Fonte: [CÉSAR, Julio. 2024](https://github.com/Julio1099).</p></font>
+<font size="3"><p style="text-align: center">Autor: [CÉSAR, Julio. 2024](https://github.com/Julio1099).</p></font>
 </figure>
 
 ### L05: Visualizar Dados Gerais
@@ -120,7 +120,7 @@ O usuário visualiza dados gerais sobre o aplicativo, como total de reclamaçõe
 | Noção | O usuário seleciona a opção "Dados Gerais" <br> O sistema exibe informações sobre o aplicativo, coletadas desde 2014 <br> O usuário pode visualizar dados como total de reclamações finalizadas, total de usuários cadastrados e total de empresas cadastradas |
 | Sinônimos | Ver Estatísticas, Visualizar Informações Gerais |
 
-<font size="3"><p style="text-align: center">Fonte: [CÉSAR, Julio. 2024](https://github.com/Julio1099).</p></font>
+<font size="3"><p style="text-align: center">Autor: [CÉSAR, Julio. 2024](https://github.com/Julio1099).</p></font>
 </figure>
 
 ### L06: Visualizar Meus Dados
@@ -136,7 +136,7 @@ O usuário visualiza seus próprios dados cadastrais no aplicativo, incluindo no
 | Noção | O usuário acessa o menu e seleciona a opção "Meus Dados" <br> O sistema exibe os dados cadastrais do usuário, incluindo nome, CPF e data de nascimento <br> O usuário pode visualizar também seus dados de endereço e contato |
 | Sinônimos | Ver Meu Perfil, Visualizar Dados Pessoais |
 
-<font size="3"><p style="text-align: center">Fonte: [CÉSAR, Julio. 2024](https://github.com/Julio1099).</p></font>
+<font size="3"><p style="text-align: center">Autor: [CÉSAR, Julio. 2024](https://github.com/Julio1099).</p></font>
 </figure>
 
 ### L07: Responder Reclamação
@@ -152,7 +152,7 @@ A empresa responde a uma reclamação recebida de um usuário no aplicativo. Ele
 | Noção | A empresa recebe a reclamação de um usuário <br> O sistema oferece a opção de responder à reclamação |
 | Sinônimos | Responder a Queixa, Dar Retorno à Reclamação |
 
-<font size="3"><p style="text-align: center">Fonte: [CÉSAR, Julio. 2024](https://github.com/Julio1099).</p></font>
+<font size="3"><p style="text-align: center">Autor: [CÉSAR, Julio. 2024](https://github.com/Julio1099).</p></font>
 </figure>
 
 ### L08: Avaliar Empresa
@@ -168,7 +168,7 @@ O usuário avalia a resposta de uma empresa à reclamação que ele fez. Ele faz
 | Noção | O usuário acessa a seção "Minhas Reclamações" <br> O sistema exibe a opção de avaliar a resposta do fornecedor <br> O usuário pode avaliar a resolução da reclamação, seu grau de satisfação e deixar um comentário |
 | Sinônimos | Avaliar Resposta da Empresa, Dar Feedback sobre Resposta |
 
-<font size="3"><p style="text-align: center">Fonte: [CÉSAR, Julio. 2024](https://github.com/Julio1099).</p></font>
+<font size="3"><p style="text-align: center">Autor: [CÉSAR, Julio. 2024](https://github.com/Julio1099).</p></font>
 </figure>
 
 ### L09: Usuário
@@ -182,7 +182,7 @@ O usuário avalia a resposta de uma empresa à reclamação que ele fez. Ele faz
 | Noção | O usuário realiza diversas ações dentro do aplicativo, como pesquisar empresas, abrir reclamações, visualizar dados gerais e suas próprias reclamações, responder reclamações e avaliar respostas de empresas. |
 | Sinônimos | Cliente, Consumidor, Utilizador |
 
-<font size="3"><p style="text-align: center">Fonte: [CÉSAR, Julio. 2024](https://github.com/Julio1099).</p></font>
+<font size="3"><p style="text-align: center">Autor: [CÉSAR, Julio. 2024](https://github.com/Julio1099).</p></font>
 </figure>
 
 ## Relacionamento dos Léxicos
@@ -203,7 +203,7 @@ O Relacionamento dos léxicos, representado na tabela abaixo, mostra como cada l
 | L08: Avaliar Empresa | L09: Usuário | O usuário avalia a resposta de uma empresa à reclamação que ele fez. |
 | L09: Usuário | L01: Pesquisar Empresa, L02: Abrir Reclamação, L03: Visualizar Reclamações de Outros Usuários, L04: Visualizar Minhas Reclamações, L05: Visualizar Dados Gerais, L06: Visualizar Meus Dados, L07: Responder Reclamação, L08: Avaliar Empresa | O Usuário interage com todos os outros elementos do sistema de acordo com suas necessidades. |
 
-<font size="3"><p style="text-align: center">Fonte: [CÉSAR, Julio. 2024](https://github.com/Julio1099).</p></font>
+<font size="3"><p style="text-align: center">Autor: [CÉSAR, Julio. 2024](https://github.com/Julio1099).</p></font>
 </figure>
 
 ## Referências Bibliográficas
