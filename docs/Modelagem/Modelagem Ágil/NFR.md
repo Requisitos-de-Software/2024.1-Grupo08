@@ -1,9 +1,13 @@
 # NFR Framework
 
 ## Introdução
-(Citação, DA SILVA) O NFR Framework é um framework de modelagem de requisitos, mais especificamente Requisitos Não-Funcionais, utilizando das **Softgoals**, objetivos que não possui uma clara definição nem critérios de satisfação precisos[¹](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Modelagem/Modelagem%20%C3%81gil/NFR/#referencias-bibliograficas)
+(Citação, DA SILVA) O NFR Framework é um framework de modelagem de requisitos, mais especificamente Requisitos Não-Funcionais, utilizando das **Softgoals**, objetivos que não possui uma clara definição nem critérios de satisfação precisos[¹](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Modelagem/Modelagem%20%C3%81gil/NFR/#referencias-bibliograficas). Os softgoals são utilizados para representar Requisitos Não-Funcionais e podem estar inter-relacionados, expressando a influência de um softgoal em outro.
 
-O Framework utiliza o conceito de softgoal: um objetivo que não possui uma clara definição nem critérios de satisfação precisos. Os softgoals são utilizados para representar Requisitos Não-Funcionais e podem estar inter-relacionados, expressando a influência de um softgoal em outro
+## Metodologia
+
+## Cartões
+
+## NFR
 
 
 ## Referências Bibliográficas
