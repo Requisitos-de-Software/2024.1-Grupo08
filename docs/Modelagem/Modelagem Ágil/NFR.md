@@ -7,6 +7,7 @@ O Framework utiliza o conceito de softgoal: um objetivo que não possui uma clar
 
 
 ## Referências Bibliográficas
+[1] DA SILVA, Reinaldo Antônio. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados, 2019. Disponível em: <https://aprender3.unb.br/pluginfile.php/2845051/mod_resource/content/2/DISSERTA%C3%87%C3%83O%20Reinaldo%20Ant%C3%B4nio%20da%20Silva.pdf> Acesso em: 23 de maio de 2024.
 
 ## Bibliografia
 
@@ -24,6 +25,6 @@ DA SILVA, Reinaldo Antônio. NFR4ES: Um Catálogo de Requisitos Não-Funcionais 
 | `1.0` | 22/05/2024  | 23/05/2024 | Criação do artefato NFR Framework | [Henrique Galdino](https://github.com/hgaldino05) | [Igor Thiago](https://github.com/alladin-51) |
 
 <div align="center">
-<figcaption align="left">Tabela 1: Histórico de versões(Autor: GALDINO, Henrique 2024)</figcaption>
+<figcaption align="left">Tabela 1: Histórico de versões(Autor: GALDINO, Henrique. 2024)</figcaption>
 </div>
 <br/>
