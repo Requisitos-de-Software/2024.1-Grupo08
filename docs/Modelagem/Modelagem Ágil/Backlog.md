@@ -100,9 +100,9 @@
 <div style="text-align:justify">
     <p>&emsp;&emsp; Após a etapa de verificação e análise dos requisitos, foi observado que eles poderiam ser organizados em cinco grandes temas, que compõem o maior nível de abstração do backlog.</p>
     <ul>
-        <li> 
-        <li> 
-        <li> 
+        <li> Abertura de reclamação 
+        <li> Avaliações
+        <li> Acessibilidade
         <li> 
         <li> 
     </ul>
@@ -116,6 +116,59 @@
 &emsp;&emsp; Para diminuir o nível de abstração expresso nos temas, foram registrados os épicos, que são histórias de usuário que ainda podem ser mais especificadas. Para facilitar a leitura do backlog, os épicos estão especificados a seguir.
 
 </div>
+
+- #### Épico 1: Abertura e acompanhamento de reclamações
+
+    - Requisitos relacionados: RE04, RE03, RE05, RE06, RE11, RE12.
+    - Descrição: Este épico aborda a funcionalidade principal do Consumidor.gov, que é a de abrir reclamações. Ele inclui requisitos como visualizar as reclamações feitas, avaliar uma reclamação (nível de satisfação/nota), escolher qual a categoria da reclamação (atendimento, cobrança, entrega, etc.), informar o que espera da empresa (reembolso, resposta, justificativa, etc.).
+
+- #### Épico 2: Interface de Usuário
+
+    - Requisitos relacionados: RE18, RE19, RE20.
+    - Descrição: Este épico trata da interface de usuário do Consumidor.gov. Ele engloba requisitos como uma interface de usuário deve ter contraste de cor, interface facilmente acessível e de fácil compreensão.
+
+- #### Épico 3: Armazenamento
+
+    - Requisitos relacionados: RE09.
+    - Descrição: Este épico aborda os requisitos relacionados ao armazenamento do aplicativo Consumidor.gov. O único requisito incluído é que o aplicativo deve ocupar um espaço de armazenamento razoável.
+
+- #### Épico 4: Desempenho
+
+    - Requisitos relacionados: RE10, RE16.
+    - Descrição: Este épico trata dos requisitos de desempenho do Consumidor.gov. Inclui requisitos como resposta rápidos para garantir uma experiência de usuário satisfatória e O aplicativo deve ter uma boa performance e velocidade.
+
+- #### Épico 5: Segurança e Privacidade
+
+    - Requisitos relacionados: RE30, RE31, RE33, RE34
+    - Descrição: Este épico aborda os requisitos de segurança e privacidade do Consumidor.gov. Inclui requisitos como gproteger os dados sensíveis do usuário, apresentar medidas de proteção, Fornecimento de informações funcione corretamente.
+
+A tabela 6 abaixo vai relacionar a prioridade de cada história:
+
+| História de Usuário | Épico                  | Prioridade |
+|--------------------|------------------------|----------------------------------------|
+| US01               | Épico 3:  |        |
+| US02               | Épico 5:  |        |
+| US03               | Épico 4: Desempenho    | Must       |
+| US04               | Épico 4: Desempenho    | Must       |
+| US05               | Épico 1: Reprodução de Mídia | Must  |
+| US06               | Épico 4: Desempenho    | Could      |
+| US07               | Épico 4: Desempenho    | Could      |
+| US08               | Épico 4: Desempenho    | Could      |
+| US09               | Épico 2: Interface de Usuário | Must |
+| US10               | Épico 4: Desempenho    | Could      |
+| US11               | Épico 4: Desempenho    | Could      |
+| US12               | Épico 4: Desempenho    | Could      |
+| US13               | Épico 4: Desempenho    | Could      |
+| US14               | Épico 4: Desempenho    | Could      |
+| US15               | Épico 4: Desempenho    | Could      |
+| US16               | Épico 4: Desempenho    | Could      |
+| US17               | Épico 4: Desempenho    | Could      |
+| US18               | Épico 4: Desempenho    | Could      |
+
+<div align="center">
+<p> <b>Tabela 6</b>: Backlog do produto (Fonte: autores, 2023). </p>
+</div>
+
 
 ## Bibliografia
 
