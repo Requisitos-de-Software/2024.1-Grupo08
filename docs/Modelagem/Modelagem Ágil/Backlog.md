@@ -179,5 +179,5 @@ A tabela 6 abaixo vai relacionar a prioridade de cada história:
   ## Histórico de Versões
 |   Data     | Versão | Descrição                   |    Autor(es)     |  Data de revisão | Revisor(es) |
 | :--------: | :----: | :-------------------------: | :--------------: | :--------------: | :---------: |
-| 23/05/2023   |  `1.0`  | Criação do documento               | [Guilherme Meister](https://github.com/gmeister18) | 25/05/2023 | [Matheus Ferreira](https://github.com/) |
+| 23/05/2024   |  `1.0`  | Criação do documento               | [Guilherme Meister](https://github.com/gmeister18) | 25/05/2024 | [Matheus Ferreira](https://github.com/) |
 
