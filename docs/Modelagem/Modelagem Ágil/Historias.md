@@ -18,6 +18,24 @@ A história do usuário adotará o seguinte padrão
 <p> Tabela 1: Modelo de história do usuário. (Autor: DIOGO, Matheus. 2024).</p>
 </div>
 
+## Metodologia
+Para desenvolver as histórias de usuários, durante uma reunião, utilizamos os requisitos elicitados em etapas anteriores seguindo o planejamento da tabela 1, além disso para validar as histórias contamos com um usuário do Consumidor.gov para atuar como PO do projeto.
+
+
+| Função | Participante |
+| -: | :- |
+| Scrum Master | Guilherme Meister |
+| Desenvolvedor | ------- |
+| Desenvolvedor | ------- |
+| Product Owner | ------- |
+
+<div style="text-align: center">
+<p> Tabela 2: Relação de função e participantes das histórias. (Autor: MEISTER, Guilherme. 2024).</p>
+</div>
+
+O usuário que colaborou com a validação das histórias foi o --------, aluno da UnB. O entrevistado utilizou o Consumidor.gov de maneira ocasional e especialmente para realizar e acompanhar uma reclamação. Na entrevista para validação das Histórias de Usuários, ------- foi questionado se as histórias presentes nesse documento são pertinentes e condizentes com o escopo do app, além disso, o entrevistado também respondeu se as história eram válidas para o uso que ele faz do aplicativo.
+
+
 ## História do Usuário
 A seguir estão as tabelas que descrevem as histórias de usuário elicitadas pelo grupo.
 
