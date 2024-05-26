@@ -11,39 +11,37 @@ Neste documento, descreveremos 12 Requisitos Não Funcionais (NFRs) derivados do
 
 Para cada categoria, elaboramos um SIG (Softgoal Interdependency Graph), um diagrama que ilustra a propagação de impactos, e um cartão de especificação contendo informações detalhadas sobre o NFR, como sua descrição, categoria, possíveis conflitos, origem, critérios e outras informações relevantes.
 
-## Cartões
+# NFR
 
-## NFR
+## NFR01 - Usabilidade
 
-# NFR01 - Usabilidade
+Usabilidade se refere à facilidade e eficácia com que um usuário pode interagir com um sistema, produto ou serviço para alcançar seus objetivos de forma eficiente e satisfatória.
 
-Usabilidade, segundo Nielsen, é a medida de quão fácil e agradável é usar um sistema para alcançar os objetivos dos usuários.
+### Softgoal Interdependency Graph
 
-#### Softgoal Interdependency Graph
-
-O Softgoal Interdependency Graph do softgoal "Performance" pode ser visto na figura 7.
+O Softgoal Interdependency Graph do softgoal "Usabilidade" pode ser visto na figura X.
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Figura 7:</b> Softgoal Interdependency Graph do softgoal "Performance".</p></font>
+<font size="3"><p style="text-align: center"><b>Figura X:</b> Softgoal Interdependency Graph do softgoal "Usabilidade".</p></font>
+
+<img src="URL_DA_IMAGEM" style="width: 85%;">
+
+<font size="3"><p style="text-align: center"><b>Autor:</b> Seu Nome, Ano</p></font>
+</div>
+
+### Propagação de Impactos
+
+A propagação de impactos do softgoal "Usabilidade" pode ser vista na figura X.
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Figura X:</b> Propagação de impactos do softgoal "Usabilidade"</p></font>
 
 <img src="URL_DA_IMAGEM" style="width: 85%;">
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> Seu Nome, Ano</p></font>
 </div>
 
-#### Propagação de Impactos
-
-A propagação de impactos do softgoal "Performance" pode ser vista na figura 8.
-
-<div align="center">
-<font size="3"><p style="text-align: center"><b>Figura 8:</b> Propagação de impactos do softgoal "Performance"</p></font>
-
-<img src="URL_DA_IMAGEM" style="width: 85%;">
-
-<font size="3"><p style="text-align: center"><b>Fonte:</b> Seu Nome, Ano</p></font>
-</div>
-
-## Cartão de Especificação
+### Cartão de Especificação
 
 Na tabela 1, temos o cartão de especificação do softgoal "Usabilidade".
 
@@ -94,35 +92,35 @@ Na tabela 1, temos o cartão de especificação do softgoal "Usabilidade".
 <font size="3"><p style="text-align: center">Autor: CÉSAR, Julio. 2024</p></font>
 </figure>
 
-### NFR02 - Confiabilidade
+## NFR02 - Confiabilidade
 
-Confiabilidade (Reliability) refere-se à capacidade do aplicativo de funcionar de forma consistente, estável e sem falhas, garantindo uma experiência positiva do usuário e a credibilidade do aplicativo.
+Confiabilidade se refere à capacidade de um sistema, produto ou serviço realizar suas funções de forma consistente e previsível ao longo do tempo, sob condições específicas.
 
-#### Softgoal Interdependency Graph
+### Softgoal Interdependency Graph
 
-O Softgoal Interdependency Graph do softgoal "Performance" pode ser visto na figura 7.
+O Softgoal Interdependency Graph do softgoal "Confiabilidade" pode ser visto na figura X.
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Figura 7:</b> Softgoal Interdependency Graph do softgoal "Performance".</p></font>
+<font size="3"><p style="text-align: center"><b>Figura X:</b> Softgoal Interdependency Graph do softgoal "Confiabilidade".</p></font>
 
 <img src="URL_DA_IMAGEM" style="width: 85%;">
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> Seu Nome, Ano</p></font>
+<font size="3"><p style="text-align: center"><b>Autor:</b> Seu Nome, Ano</p></font>
 </div>
 
-#### Propagação de Impactos
+### Propagação de Impactos
 
-A propagação de impactos do softgoal "Performance" pode ser vista na figura 8.
+A propagação de impactos do softgoal "Confiabilidade" pode ser vista na figura X.
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Figura 8:</b> Propagação de impactos do softgoal "Performance"</p></font>
+<font size="3"><p style="text-align: center"><b>Figura X:</b> Propagação de impactos do softgoal "Confiabilidade"</p></font>
 
 <img src="URL_DA_IMAGEM" style="width: 85%;">
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> Seu Nome, Ano</p></font>
+<font size="3"><p style="text-align: center"><b>Autor:</b> Seu Nome, Ano</p></font>
 </div>
 
-#### Cartão de Especificação
+### Cartão de Especificação
 Na tabela 2, temos o cartão de especificação do softgoal "Confiabilidade".
 
 <div align="center">
@@ -173,35 +171,35 @@ Na tabela 2, temos o cartão de especificação do softgoal "Confiabilidade".
 <font size="3"><p style="text-align: center">Autor: CÉSAR, Julio. 2024</p></font>
 </figure>
 
-### NFR03 - Performance
+## NFR03 - Performance
 
-Performance refere-se ao desempenho e tempo de resposta do sistema. É crucial que o sistema responda de maneira rápida e eficiente para garantir uma experiência satisfatória para o usuário. Na tabela 3 abaixo estão listados os requisitos não funcionais de performance do aplicativo.
+Performance se refere ao desempenho ou à capacidade de um sistema, produto ou serviço em cumprir suas funções de forma eficiente e rápida, atendendo às expectativas de desempenho dos usuários.
 
-#### Softgoal Interdependency Graph
+### Softgoal Interdependency Graph
 
-O Softgoal Interdependency Graph do softgoal "Performance" pode ser visto na figura 7.
+O Softgoal Interdependency Graph do softgoal "Performance" pode ser visto na figura X.
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Figura 7:</b> Softgoal Interdependency Graph do softgoal "Performance".</p></font>
+<font size="3"><p style="text-align: center"><b>Figura X:</b> Softgoal Interdependency Graph do softgoal "Performance".</p></font>
 
 <img src="URL_DA_IMAGEM" style="width: 85%;">
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> Seu Nome, Ano</p></font>
+<font size="3"><p style="text-align: center"><b>Autor:</b> Seu Nome, Ano</p></font>
 </div>
 
-#### Propagação de Impactos
+### Propagação de Impactos
 
-A propagação de impactos do softgoal "Performance" pode ser vista na figura 8.
+A propagação de impactos do softgoal "Performance" pode ser vista na figura X.
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Figura 8:</b> Propagação de impactos do softgoal "Performance"</p></font>
+<font size="3"><p style="text-align: center"><b>Figura X:</b> Propagação de impactos do softgoal "Performance"</p></font>
 
 <img src="URL_DA_IMAGEM" style="width: 85%;">
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> Seu Nome, Ano</p></font>
+<font size="3"><p style="text-align: center"><b>Autor:</b> Seu Nome, Ano</p></font>
 </div>
 
-#### Cartão de Especificação
+### Cartão de Especificação
 
 Na tabela 3, temos o cartão de especificação do softgoal "Performance".
 
@@ -252,9 +250,35 @@ Na tabela 3, temos o cartão de especificação do softgoal "Performance".
 <font size="3"><p style="text-align: center">Autor: CÉSAR, Julio. 2024</p></font>
 </figure>
 
-### NFR04 - Suportabilidade
+## NFR04 - Suportabilidade
 
-#### Cartão de Especificação
+Suportabilidade se refere à capacidade de um sistema, produto ou serviço de ser mantido, atualizado e adaptado ao longo do tempo, garantindo sua operacionalidade contínua e a capacidade de lidar com mudanças no ambiente ou nos requisitos do usuário.
+
+### Softgoal Interdependency Graph
+
+O Softgoal Interdependency Graph do softgoal "Performance" pode ser visto na figura X.
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Figura X:</b> Softgoal Interdependency Graph do softgoal "Performance".</p></font>
+
+<img src="URL_DA_IMAGEM" style="width: 85%;">
+
+<font size="3"><p style="text-align: center"><b>Autor:</b> Seu Nome, Ano</p></font>
+</div>
+
+### Propagação de Impactos
+
+A propagação de impactos do softgoal "Performance" pode ser vista na figura X.
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Figura X:</b> Propagação de impactos do softgoal "Performance"</p></font>
+
+<img src="URL_DA_IMAGEM" style="width: 85%;">
+
+<font size="3"><p style="text-align: center"><b>Autor:</b> Seu Nome, Ano</p></font>
+</div>
+
+### Cartão de Especificação
 
 Na tabela 4, temos o cartão de especificação do softgoal "Suporte".
 
@@ -306,14 +330,40 @@ Na tabela 4, temos o cartão de especificação do softgoal "Suporte".
 </figure>
 </div>
 
-### NFR05 - Restrições de Design
+## NFR05 - Restrições de Design
 
-#### Cartão de Especificação
+Restrições de design são limitações ou condições específicas que influenciam o processo de criação e desenvolvimento de um produto, sistema ou serviço.
 
-Na tabela 8, temos o cartão de especificação do Softgoal "Restrições de Design".
+### Softgoal Interdependency Graph
+
+O Softgoal Interdependency Graph do softgoal "Design" pode ser visto na figura X.
 
 <div align="center">
-<p><b>Tabela 8:</b> Cartão de Especificação do Softgoal "Restrições de Design"</p>
+<font size="3"><p style="text-align: center"><b>Figura X:</b> Softgoal Interdependency Graph do softgoal "Design".</p></font>
+
+<img src="URL_DA_IMAGEM" style="width: 85%;">
+
+<font size="3"><p style="text-align: center"><b>Autor:</b> Seu Nome, Ano</p></font>
+</div>
+
+### Propagação de Impactos
+
+A propagação de impactos do softgoal "Design" pode ser vista na figura X.
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Figura X:</b> Propagação de impactos do softgoal "Design"</p></font>
+
+<img src="URL_DA_IMAGEM" style="width: 85%;">
+
+<font size="3"><p style="text-align: center"><b>Autor:</b> Seu Nome, Ano</p></font>
+</div>
+
+### Cartão de Especificação
+
+Na tabela 5, temos o cartão de especificação do Softgoal "Restrições de Design".
+
+<div align="center">
+<p><b>Tabela 5:</b> Cartão de Especificação do Softgoal "Restrições de Design"</p>
 <table>
   <tr>
     <th>Tópico</th>
@@ -356,6 +406,332 @@ Na tabela 8, temos o cartão de especificação do Softgoal "Restrições de Des
     <td>26/05/2024</td>
   </tr>
 </table>
+<font size="3"><p style="text-align: center">Autor: CÉSAR, Julio. 2024</p></font>
+</figure>
+
+## NFR06 - Implementação
+
+Implementação é o processo de colocar em prática um plano ou conceito. Em termos de desenvolvimento de software ou engenharia de sistemas, implementação refere-se à fase em que o código é escrito e as soluções são construídas de acordo com as especificações e requisitos previamente definidos.
+
+### Softgoal Interdependency Graph
+
+O Softgoal Interdependency Graph do softgoal "Implementação" pode ser visto na figura X.
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Figura X:</b> Softgoal Interdependency Graph do softgoal "Implementação".</p></font>
+
+<img src="URL_DA_IMAGEM" style="width: 85%;">
+
+<font size="3"><p style="text-align: center"><b>Autor:</b> Seu Nome, Ano</p></font>
+</div>
+
+### Propagação de Impactos
+
+A propagação de impactos do softgoal "Implementação" pode ser vista na figura X.
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Figura X:</b> Propagação de impactos do softgoal "Implementação"</p></font>
+
+<img src="URL_DA_IMAGEM" style="width: 85%;">
+
+<font size="3"><p style="text-align: center"><b>Autor:</b> Seu Nome, Ano</p></font>
+</div>
+
+### Cartão de Especificação
+
+Na tabela 6, temos o cartão de especificação do Softgoal "Implementação".
+
+<div align="center">
+<p><b>Tabela 6:</b> Cartão de Especificação do Softgoal "Restrições de Design"</p>
+
+<table>
+  <tr>
+    <th>Tópico</th>
+    <th>Informação</th>
+  </tr>
+  <tr>
+    <td>Identificador</td>
+    <td>NFR06</td>
+  </tr>
+  <tr>
+    <td>Classificação</td>
+    <td>Implementação</td>
+  </tr>
+  <tr>
+    <td>Descrição</td>
+    <td>Implementação é transformar ideias em ações. É o elo entre planejamento e resultados concretos. Requer organização, recursos e comprometimento para atingir objetivos em projetos, políticas ou estratégias.</td>
+  </tr>
+  <tr>
+    <td>Justificativa</td>
+    <td>A implementação é essencial para concretizar os planos e garantir que as ideias se transformem em ações tangíveis.</td>
+  </tr>
+  <tr>
+    <td>Origem do Requisito</td>
+    <td>Especificação suplementar e requisitos elicitados</td>
+  </tr>
+  <tr>
+    <td>Dependências</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Prioridade</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Conflitos</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>História</td>
+    <td></td>
+  </tr>
+</table>
+
+<font size="3"><p style="text-align: center">Autor: CÉSAR, Julio. 2024</p></font>
+</figure>
+
+## NFR07 - Requisitos de Interface
+
+Interface refere-se ao ponto de interação entre dois sistemas, componentes ou entidades, onde ocorre a troca de informações, comandos ou interações. Em computação e tecnologia, uma interface pode ser tanto física quanto digital.
+
+### Softgoal Interdependency Graph
+
+O Softgoal Interdependency Graph do softgoal "Interface" pode ser visto na figura X.
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Figura X:</b> Softgoal Interdependency Graph do softgoal "Interface".</p></font>
+
+<img src="URL_DA_IMAGEM" style="width: 85%;">
+
+<font size="3"><p style="text-align: center"><b>Autor:</b> Seu Nome, Ano</p></font>
+</div>
+
+### Propagação de Impactos
+
+A propagação de impactos do softgoal "Interface" pode ser vista na figura X.
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Figura X:</b> Propagação de impactos do softgoal "Interface"</p></font>
+
+<img src="URL_DA_IMAGEM" style="width: 85%;">
+
+<font size="3"><p style="text-align: center"><b>Autor:</b> Seu Nome, Ano</p></font>
+</div>
+
+### Cartão de Especificação
+
+Na tabela 7, temos o cartão de especificação do Softgoal "Interface".
+
+<div align="center">
+<p><b>Tabela 7:</b> Cartão de Especificação do Softgoal "Restrições de Design"</p>
+
+<table>
+  <tr>
+    <th>Tópico</th>
+    <th>Informação</th>
+  </tr>
+  <tr>
+    <td>Identificador</td>
+    <td>NFR07</td>
+  </tr>
+  <tr>
+    <td>Classificação</td>
+    <td>Interface</td>
+  </tr>
+  <tr>
+    <td>Descrição</td>
+    <td>Uma interface é a fronteira onde a interação ocorre entre dois sistemas, ou entre um sistema e seus usuários.</td>
+  </tr>
+  <tr>
+    <td>Justificativa</td>
+    <td>A interface é a ponte entre os usuários e os sistemas, e sua implementação é crucial para proporcionar uma experiência de usuário fluida e intuitiva.</td>
+  </tr>
+  <tr>
+    <td>Origem do Requisito</td>
+    <td>Especificação suplementar e requisitos elicitados</td>
+  </tr>
+  <tr>
+    <td>Dependências</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Prioridade</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Conflitos</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>História</td>
+    <td></td>
+  </tr>
+</table>
+
+<font size="3"><p style="text-align: center">Autor: CÉSAR, Julio. 2024</p></font>
+</figure>
+
+## NFR08 - Requisitos de Físicos
+
+Os requisitos físicos são aqueles que representam os requisitos relacionados a hardware do sistema.
+
+### Softgoal Interdependency Graph
+
+O Softgoal Interdependency Graph do softgoal "Físicos" pode ser visto na figura X.
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Figura X:</b> Softgoal Interdependency Graph do softgoal "Físicos".</p></font>
+
+<img src="URL_DA_IMAGEM" style="width: 85%;">
+
+<font size="3"><p style="text-align: center"><b>Autor:</b> Seu Nome, Ano</p></font>
+</div>
+
+### Propagação de Impactos
+
+A propagação de impactos do softgoal "Físicos" pode ser vista na figura X.
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Figura X:</b> Propagação de impactos do softgoal "Físicos"</p></font>
+
+<img src="URL_DA_IMAGEM" style="width: 85%;">
+
+<font size="3"><p style="text-align: center"><b>Autor:</b> Seu Nome, Ano</p></font>
+</div>
+
+### Cartão de Especificação
+
+Na tabela 8, temos o cartão de especificação do Softgoal "Físicos".
+
+<div align="center">
+<p><b>Tabela 8:</b> Cartão de Especificação do Softgoal "Restrições de Design"</p>
+
+<table>
+  <tr>
+    <th>Tópico</th>
+    <th>Informação</th>
+  </tr>
+  <tr>
+    <td>Identificador</td>
+    <td>NFR08</td>
+  </tr>
+  <tr>
+    <td>Classificação</td>
+    <td>Físicos</td>
+  </tr>
+  <tr>
+    <td>Descrição</td>
+    <td>
+Os requisitos físicos referem-se às características tangíveis e materiais que um produto, sistema ou processo deve possuir para atender às necessidades práticas e funcionais.</td>
+  </tr>
+  <tr>
+    <td>Justificativa</td>
+    <td>A implementação dos requisitos físicos é essencial para garantir que o produto ou sistema atenda às necessidades práticas e funcionais dos usuários.</td>
+  </tr>
+  <tr>
+    <td>Origem do Requisito</td>
+    <td>Especificação suplementar e requisitos elicitados</td>
+  </tr>
+  <tr>
+    <td>Dependências</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Prioridade</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Conflitos</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>História</td>
+    <td></td>
+  </tr>
+</table>
+
+<font size="3"><p style="text-align: center">Autor: CÉSAR, Julio. 2024</p></font>
+</figure>
+
+## NFR09 - Requisitos de Documentação
+
+
+Documentação refere-se ao conjunto de registros, informações e instruções que descrevem um sistema, processo, produto ou serviço.
+
+### Softgoal Interdependency Graph
+
+O Softgoal Interdependency Graph do softgoal "Documentação" pode ser visto na figura X.
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Figura X:</b> Softgoal Interdependency Graph do softgoal "Documentação".</p></font>
+
+<img src="URL_DA_IMAGEM" style="width: 85%;">
+
+<font size="3"><p style="text-align: center"><b>Autor:</b> Seu Nome, Ano</p></font>
+</div>
+
+### Propagação de Impactos
+
+A propagação de impactos do softgoal "Documentação" pode ser vista na figura X.
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Figura X:</b> Propagação de impactos do softgoal "Documentação"</p></font>
+
+<img src="URL_DA_IMAGEM" style="width: 85%;">
+
+<font size="3"><p style="text-align: center"><b>Autor:</b> Seu Nome, Ano</p></font>
+</div>
+
+### Cartão de Especificação
+
+Na tabela 9, temos o cartão de especificação do Softgoal "Documentação".
+
+<div align="center">
+<p><b>Tabela 9:</b> Cartão de Especificação do Softgoal "Restrições de Design"</p>
+
+<table>
+  <tr>
+    <th>Tópico</th>
+    <th>Informação</th>
+  </tr>
+  <tr>
+    <td>Identificador</td>
+    <td>NFR09</td>
+  </tr>
+  <tr>
+    <td>Classificação</td>
+    <td>Documentação</td>
+  </tr>
+  <tr>
+    <td>Descrição</td>
+    <td>A documentação é o conjunto de registros escritos, gráficos ou audiovisuais que descrevem detalhadamente um produto, processo ou sistema.</td>
+  </tr>
+  <tr>
+    <td>Justificativa</td>
+    <td>A implementação da documentação é vital para garantir a compreensão clara e precisa do produto, processo ou sistema.</td>
+  </tr>
+  <tr>
+    <td>Origem do Requisito</td>
+    <td>Especificação suplementar e requisitos elicitados</td>
+  </tr>
+  <tr>
+    <td>Dependências</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Prioridade</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Conflitos</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>História</td>
+    <td></td>
+  </tr>
+</table>
+
 <font size="3"><p style="text-align: center">Autor: CÉSAR, Julio. 2024</p></font>
 </figure>
 
