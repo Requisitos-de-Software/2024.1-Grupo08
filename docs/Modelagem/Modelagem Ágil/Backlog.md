@@ -2,31 +2,30 @@
 
 ## Introdução
 
-<div style="text-align:justify">
+
 <p>&emsp;&emsp;Refere-se a uma lista priorizada de requisitos do produto, onde cada item representa uma funcionalidade, melhoria, correção de defeitos ou qualquer outra demanda relacionada ao produto que precisa ser implementada pela equipe de desenvolvimento. isso permite um planejamento melhor das sprints em técnicas ágeis[1].</p>
 <p>&emsp;&emsp; É importante salientar que novos itens importantes podem compor o backlog a qualquer etapa do desenvolvimento. Os requisitos associados ao backlog podem ser fragmentados em diferentes níveis de abstração, e hierárquicos, sendo eles épicos, temas e histórias de usuário[2].</p>
-</div>
+
 
 ## Vantagens de usar o backlog 
-<div style="text-align:justify">
-    <ul>
-        <li>Facilita a comunicação e o alinhamento entre todos os stakeholders sobre as prioridades e o progresso do projeto.
-        <li>Prioriza as funcionalidades mais valiosas, garantindo que a equipe trabalhe nas tarefas que trazem mais benefícios ao negócio.
-        <li>Permite ajustes rápidos às mudanças e novas informações, mantendo o projeto alinhado com as necessidades atuais.
-        <li>A revisão constante dos itens do backlog promove a refinamento progressivo e a melhoria contínua do produto.
-        <li>Considera os produtos em longo prazo, não apenas em termos de necessidades imediatas.
-        <li>Agrega valor ao cliente
-        <li>Identifica antecipadamente possíveis problemas, permitindo a mitigação de riscos antes que se tornem críticos.
-    </ul>
-</div>
+
+- Facilita a comunicação e o alinhamento entre todos os stakeholders sobre as prioridades e o progresso do projeto.
+- Prioriza as funcionalidades mais valiosas, garantindo que a equipe trabalhe nas tarefas que trazem mais benefícios ao negócio.
+- Permite ajustes rápidos às mudanças e novas informações, mantendo o projeto alinhado com as necessidades atuais.
+- A revisão constante dos itens do backlog promove a refinamento progressivo e a melhoria contínua do produto.
+- Considera os produtos em longo prazo, não apenas em termos de necessidades imediatas.
+- Agrega valor ao cliente
+- Identifica antecipadamente possíveis problemas, permitindo a mitigação de riscos antes que se tornem críticos.
+
 
 ## Metodologia
-<div style="text-align:justify">
+
 <p>&emsp;&emsp; Para a metodologia foi utilizado uma planilha em excel para organizar em temas e épico dos requisitos funcionais, partindo da análise e verificação dos mesmos elicitados. Posteriormente os dados vieram o artefato. </p>
 
 ## Requisitos Elicitados
 <div style="text-align:justify">
 <p>&emsp;&emsp; Nas Tabelas de 1 a 5 estão registrados todos os requisitos elicitados durante o processo de elicitação, juntamente com a rastreabilidade de cada um.</p>
+</div>
 
 ### 3.1. Funcionalidades
 
@@ -176,7 +175,7 @@ A tabela 6 abaixo vai relacionar a prioridade de cada história:
 
 - O QUE É BACKLOG DO PRODUTO SCRUM E COMO FAZER UM. Lucidchart. Disponível em: [Backlog](https://www.lucidchart.com/blog/pt/como-fazer-um-backlog-do-produto)
 
-  ## Histórico de Versões
+## Histórico de Versões
 |   Data     | Versão | Descrição                   |    Autor(es)     |  Data de revisão | Revisor(es) |
 | :--------: | :----: | :-------------------------: | :--------------: | :--------------: | :---------: |
 | 23/05/2024   |  `1.0`  | Criação do documento               | [Guilherme Meister](https://github.com/gmeister18) | 25/05/2024 | [Matheus Ferreira](https://github.com/) |
