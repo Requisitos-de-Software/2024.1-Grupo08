@@ -45,7 +45,7 @@ A técnica utilizada neste documento é a análise de documentos. Essa técnica 
 | ADD04 | Sistemas operacionais suportados: Android e iOS. | RNF |
 | ADD05 | Interface do usuário intuitiva. | RI |
 | ADD06 | Suporte ao modo escuro | RI |
-| ADD07 | Suporte a Autors maiores | RI |
+| ADD07 | Suporte a fontes maiores | RI |
 | ADD08 | Capacidade de lidar com grande número de empresas e usúarios. | RPR |
 | ADD09 | Risco de violação de privacidade do usuário. | RR |
 | ADD10 | Testes para garantir que os Fornecimento de informações funcione corretamente. | RT |

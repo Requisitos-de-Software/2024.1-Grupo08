@@ -6,7 +6,7 @@ A introspecção é uma técnica que consiste em analisar e identificar, a parti
 
 ## Metodologia
 
-Após conversas entre os membros da equipe, foram relatadas diversas situações nas quais os mesmos poderiam ter feito uso da plataforma Consumidor.gov, e como as funcionalidades do app poderiam ter ajudado a contornar os problemas enfrentados. Para o uso da técnica de  introspecção, foi imaginado um possível contexto no qual um usuário poderia fazer uso do aplicativo Consumidor.gov, e a partir disso, foram identificados os requisitos que seriam necessários para que este pudesse tentar resolver o problema enfrentado, sendo que o membro Henrique Galdino ficou responsável por esta tarefa.
+Após conversas entre os membros da equipe, foram relatadas diversas situações nas quais os mesmos poderiam ter feito uso da plataforma Consumidor.gov, e como as funcionalidades do app poderiam ter ajudado a contornar os problemas enfrentados. Para o uso da técnica de  introspecção, foi imaginado um possível contexto no qual um usuário poderia fazer uso do aplicativo Consumidor.gov, e a partir disso, foram identificados os requisitos funcionais que seriam necessários para que este pudesse tentar resolver o problema enfrentado, sendo que o membro Henrique Galdino ficou responsável por esta tarefa.
 
 
 ## **Ponto de vista - Consumidor**
@@ -17,7 +17,7 @@ O contexto imaginado foi o seguinte:
 
 A partir deste contexto, Henrique identificou alguns requisitos, que podem ser vistos na **tabela 1**, identificados com o código ***INT*** e numerados de **1** até **16**, junto com a **descrição** do requisito.
 
-### Requisitos identificados
+### Requisitos funcionais identificados
 | Identificador  |     Descrição    |
 | :-: | :----------------------------------------: |
 | INT01 | Deve ser possível fazer login utilizando o gov.br |
@@ -38,7 +38,7 @@ A partir deste contexto, Henrique identificou alguns requisitos, que podem ser v
 | INT16 | Deve ser possível comparar as estatísticas de empresas diferentes |
 
 <div align="center">
-<figcaption align="left">Tabela 1: Requisitos identificados através da introspecção do ponto de vista do consumidor (Autor: GALDINO, Henrique 2024)</figcaption>
+<figcaption align="left">Tabela 1: Requisitos funcionais identificados através da introspecção do ponto de vista do consumidor (Autor: GALDINO, Henrique 2024)</figcaption>
 </div>
 <br/>
 
@@ -50,7 +50,7 @@ O contexto imaginado foi o seguinte:
 
 A partir deste contexto, Rodrigo identificou alguns requisitos, que podem ser vistos na **tabela 2**, identificados com o código ***INT*** e numerados de **17** até **27**, junto com a **descrição** do requisito.
 
-### Requisitos identificados
+### Requisitos funcionais identificados
 | Identificador  |     Descrição    |
 | :-: | :----------------------------------------: | 
 | INT17 | Deve ser possível fazer login utilizando o gov.br |
@@ -66,7 +66,7 @@ A partir deste contexto, Rodrigo identificou alguns requisitos, que podem ser vi
 | INT27 | Deve ser possível visualizar avaliação das reclamações |
 
 <div align="center">
-<figcaption align="left">Tabela 2: Requisitos identificados através da introspecção do ponto de vista da empresa (Autor: GONTIJO, Rodrigo 2024)</figcaption>
+<figcaption align="left">Tabela 2: Requisitos funcionais identificados através da introspecção do ponto de vista da empresa (Autor: GONTIJO, Rodrigo 2024)</figcaption>
 </div>
 <br/>
 
@@ -87,13 +87,15 @@ Além dos requisitos funcionais, foram identificados alguns requisitos não func
 | INT37 | O aplicativo deve seguir as normas e padrões do gov.br |
 | INT38 | O aplicativo deve fornecer opções de acessibilidade (modo escuro, esquemas de cores, conteúdos em libras, etc.) |
 | INT39 | O aplicativo deve responder imediatamente às ações do usuário (mesmo que seja necessário carregamento de interfaces, componentes e/ou funções) |
-| INT40 | O aplicativo deve estar disponível a qualquer momento (com exceção de desativação proposital ou acidental) |
+| INT40 | O aplicativo deve estar disponível a qualquer momento (com exceção de desativação ténica ou falha) |
 | INT41 | O aplicativo deve fornecer feedback ao usuário em caso de erros/falhas |
 | INT42 | O aplicativo deve apresentar medidas de proteção contra invasões/acessos sem autorização|
 | INT43 | O aplicativo deve proteger os dados sensíveis do usuário |
 | INT44 | O aplicativo deve apresentar guias de utilização |
 | INT45 | O aplicativo deve apresentar Termos de Uso |
 
+<div align="center">
+<figcaption align="left">Tabela 3: Requisitos não funcionais identificados através da introspecção (Autor: GALDINO, Henrique 2024)</figcaption>
 
 ## Bibliografia
 
@@ -105,6 +107,7 @@ Além dos requisitos funcionais, foram identificados alguns requisitos não func
 ## Histórico de Versão
 | Versão | Data de execução | Data de revisão |  Descrição            | Autor(es)         | Revisor(es)  |
 | :------: | :----------: | :--------: | :--------------------: | :-------------: | :----------: |
+| `1.4` | 25/05/2024  | 25/05/2024 | Correções ortográficas | [Henrique Galdino](https://github.com/hgaldino05) | [Rodrigo Gontijo](https://github.com/rodrigogontijoo) |
 | `1.3` | 22/04/2024  | 22/04/2024 | Correções ortográficas | [Henrique Galdino](https://github.com/hgaldino05), [Rodrigo Gontijo](https://github.com/rodrigogontijoo) | [Guilherme Meister](https://github.com/gmeister18), [Igor Thiago](https://github.com/alladin-51) |
 | `1.2` | 21/04/2024  | 22/04/2024 | Introspecção de empresa | [Rodrigo Gontijo](https://github.com/rodrigogontijoo) | [Guilherme Meister](https://github.com/gmeister18) |
 | `1.1` | 16/04/2024  | 16/04/2024 | Correções de formatação da revisão | [Rodrigo Gontijo](https://github.com/rodrigogontijoo) | [Guilherme Meister](https://github.com/gmeister18) |
