@@ -72,7 +72,7 @@ Na tabela 1, temos o cartão de especificação do softgoal "Usabilidade".
   </tr>
   <tr>
     <td>Origem do Requisito</td>
-    <td>RNF2, RNF3, RNF4, RNF7, RNF8, RNF13, RNF18, RNF19</td>
+    <td>Especificação suplementar e requisitos elicitados</td>
   </tr>
   <tr>
     <td>Dependências</td>
@@ -150,7 +150,7 @@ Na tabela 2, temos o cartão de especificação do softgoal "Confiabilidade".
   </tr>
   <tr>
     <td>Origem do Requisito</td>
-    <td><a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/especificacao-suplementar/">Especificação suplementar</a> e <a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/elicitacao/requisitos-elicitados/">requisitos elicitados</a></td>
+    <td>Especificação suplementar e requisitos elicitados</td>
   </tr>
   <tr>
     <td>Dependências</td>
@@ -283,7 +283,7 @@ Na tabela 4, temos o cartão de especificação do softgoal "Suporte".
   </tr>
   <tr>
     <td>Origem do Requisito</td>
-    <td><a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/especificacao-suplementar/">Especificação suplementar</a> e <a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/elicitacao/requisitos-elicitados/">requisitos elicitados</a></td>
+    <td>Especificação suplementar e requisitos elicitados</td>
   </tr>
   <tr>
     <td>Dependências</td>
@@ -302,7 +302,8 @@ Na tabela 4, temos o cartão de especificação do softgoal "Suporte".
     <td>26/05/2024</td>
   </tr>
 </table>
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>, 2023</p></font>
+<font size="3"><p style="text-align: center">Autor: CÉSAR, Julio. 2024</p></font>
+</figure>
 </div>
 
 ### NFR05 - Restrições de Design
