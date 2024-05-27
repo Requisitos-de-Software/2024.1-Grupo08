@@ -5,6 +5,34 @@ Segundo Silva[¹](https://requisitos-de-software.github.io/2024.1-Consumidor.gov
 
 Os softgoals são utilizados para representar Requisitos Não-Funcionais e podem estar inter-relacionados, expressando a influência de um softgoal em outro.
 
+### Tipos de softgoals
+
+Existem três tipos de softgoals, descritos a seguir, cujas representações podem ser vistas na Figura 1, retirada da dissertação de mestrado de Reinaldo Antônio da Silva: NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados [1]. Essa figura também servirá como legenda para os NFRs apresentados neste documento.
+
+1. **Softgoals NFR**: Representam os Requisitos Não-Funcionais e podem ser organizados hierarquicamente no desenvolvimento do projeto.
+
+2. **Softgoals de Operacionalização**: Representam as soluções de implementação para atender aos softgoals NFR ou outros softgoals de operacionalização. Incluem operações, processos, estruturas de dados e restrições no sistema para satisfazer as necessidades indicadas pelos softgoals.
+
+3. **Softgoals de Afirmação**: Consideram as características do domínio, como prioridades e carga de trabalho, no processo de tomada de decisão. Servem como justificativa para apoiar ou negar a priorização e seleção de componentes, facilitando a revisão, a justificação e a melhoria do sistema, bem como o rastreamento das decisões de desenvolvimento.
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Figura 1:</b> Representação dos tipos de softgoal.</p></font>
+
+<img src="URL_DA_IMAGEM" style="width: 85%;">
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> (CHUNG et al., 2000).</a></p></font>
+</div>
+
+O processo de avaliação determina o nível de cumprimento dos requisitos não funcionais através de um conjunto de decisões. Em outras palavras, o procedimento de avaliação verifica se cada softgoal ou interdependência no SIG foi adequadamente atendido. Isso é feito atribuindo rótulos aos softgoals, sendo que os rótulos possíveis incluem "satisfeito", "parcialmente satisfeito", "não atendido", "parcialmente não atendido", "conflitante" e "indeterminado". A figura 2 ilustra um exemplo de cada rótulo, conforme apresentado no artigo de Reinaldo Antônio da Silva [1]. Essa figura também servirá como legenda para os NFRs que serão discutidos neste documento.
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Figura 2:</b> Rótulos da propagação de impactos.</p></font>
+
+<img src="URL_DA_IMAGEM" style="width: 85%;">
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> (CHUNG et al., 2000).</a></p></font>
+</div>
+
 ## Metodologia
 
 Neste documento, descreveremos 12 Requisitos Não Funcionais (NFRs) derivados do nosso documento de especificação suplementar, o qual se fundamentou no modelo FURPS+. Cada membro da equipe foi responsável por definir um NFR dentro de uma categoria do modelo FURPS+.
@@ -70,7 +98,8 @@ Na tabela 1, temos o cartão de especificação do softgoal "Usabilidade".
   </tr>
   <tr>
     <td>Origem do Requisito</td>
-    <td>Especificação suplementar e requisitos elicitados</td>
+    <td><a href="https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Modelagem/especsuplementar/">Especificação suplementar</a> e <a href="https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicitação/requisitos-elicitados/">requisitos elicitados</a></td>
+</td>
   </tr>
   <tr>
     <td>Dependências</td>
@@ -92,7 +121,7 @@ Na tabela 1, temos o cartão de especificação do softgoal "Usabilidade".
 <font size="3"><p style="text-align: center">Autor: CÉSAR, Julio. 2024</p></font>
 </figure>
 
-## NFR02 - Confiabilidade
+## NFR02 - Confiabilidade 
 
 Confiabilidade se refere à capacidade de um sistema, produto ou serviço realizar suas funções de forma consistente e previsível ao longo do tempo, sob condições específicas.
 
@@ -148,7 +177,7 @@ Na tabela 2, temos o cartão de especificação do softgoal "Confiabilidade".
   </tr>
   <tr>
     <td>Origem do Requisito</td>
-    <td>Especificação suplementar e requisitos elicitados</td>
+    <td><a href="https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Modelagem/especsuplementar/">Especificação suplementar</a> e <a href="https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicitação/requisitos-elicitados/">requisitos elicitados</a></td>
   </tr>
   <tr>
     <td>Dependências</td>
@@ -228,7 +257,7 @@ Na tabela 3, temos o cartão de especificação do softgoal "Performance".
   </tr>
   <tr>
     <td>Origem do Requisito</td>
-    <td>Requisitos elicitados</td>
+    <td><a href="https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Modelagem/especsuplementar/">Especificação suplementar</a> e <a href="https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicitação/requisitos-elicitados/">requisitos elicitados</a></td>
   </tr>
   <tr>
     <td>Dependências</td>
@@ -307,7 +336,7 @@ Na tabela 4, temos o cartão de especificação do softgoal "Suporte".
   </tr>
   <tr>
     <td>Origem do Requisito</td>
-    <td>Especificação suplementar e requisitos elicitados</td>
+    <td><a href="https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Modelagem/especsuplementar/">Especificação suplementar</a> e <a href="https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicitação/requisitos-elicitados/">requisitos elicitados</a></td>
   </tr>
   <tr>
     <td>Dependências</td>
@@ -387,7 +416,7 @@ Na tabela 5, temos o cartão de especificação do Softgoal "Restrições de Des
   </tr>
   <tr>
     <td>Origem do Requisito</td>
-    <td>Especificação suplementar e requisitos elicitados</td>
+    <td><a href="https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Modelagem/especsuplementar/">Especificação suplementar</a> e <a href="https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicitação/requisitos-elicitados/">requisitos elicitados</a></td>
   </tr>
   <tr>
     <td>Dependências</td>
@@ -467,7 +496,7 @@ Na tabela 6, temos o cartão de especificação do Softgoal "Implementação".
   </tr>
   <tr>
     <td>Origem do Requisito</td>
-    <td>Especificação suplementar e requisitos elicitados</td>
+    <td><a href="https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Modelagem/especsuplementar/">Especificação suplementar</a> e <a href="https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicitação/requisitos-elicitados/">requisitos elicitados</a></td>
   </tr>
   <tr>
     <td>Dependências</td>
@@ -548,7 +577,7 @@ Na tabela 7, temos o cartão de especificação do Softgoal "Interface".
   </tr>
   <tr>
     <td>Origem do Requisito</td>
-    <td>Especificação suplementar e requisitos elicitados</td>
+    <td><a href="https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Modelagem/especsuplementar/">Especificação suplementar</a> e <a href="https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicitação/requisitos-elicitados/">requisitos elicitados</a></td>
   </tr>
   <tr>
     <td>Dependências</td>
@@ -630,7 +659,7 @@ Os requisitos físicos referem-se às características tangíveis e materiais qu
   </tr>
   <tr>
     <td>Origem do Requisito</td>
-    <td>Especificação suplementar e requisitos elicitados</td>
+    <td><a href="https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Modelagem/especsuplementar/">Especificação suplementar</a> e <a href="https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicitação/requisitos-elicitados/">requisitos elicitados</a></td>
   </tr>
   <tr>
     <td>Dependências</td>
@@ -712,7 +741,7 @@ Na tabela 9, temos o cartão de especificação do Softgoal "Documentação".
   </tr>
   <tr>
     <td>Origem do Requisito</td>
-    <td>Especificação suplementar e requisitos elicitados</td>
+    <td><a href="https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Modelagem/especsuplementar/">Especificação suplementar</a> e <a href="https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicitação/requisitos-elicitados/">requisitos elicitados</a></td>
   </tr>
   <tr>
     <td>Dependências</td>
