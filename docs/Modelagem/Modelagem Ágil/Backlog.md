@@ -44,7 +44,7 @@
 | RE15 | Deve ser exibidos gráficos/indicadores relacionados aos dados sobre uma empresa (Tempo médio de resposta, confiabilidade, etc.). | [INT](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicita%C3%A7%C3%A3o/introspec/) |
 
 <div align="center">
-<p> <b>Tabela 1</b>: Funcionalidades (Autor: autores, 2024). </p>
+<p> <b>Tabela 1</b>: Funcionalidades (Autor: MEISTER, Guilherme 2024). </p>
 </div>
 
 ### 3.2. Interface de Usuário
@@ -56,7 +56,7 @@
 | RE20 | O aplicativo deve possuir uma interface de fácil compreensão. | [QUE](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicita%C3%A7%C3%A3o/Question%C3%A1rio/) |
 
 <div align="center">
-<p> <b>Tabela 2</b>: Interface de usuário (Autor: autores, 2024). </p>
+<p> <b>Tabela 2</b>: Interface de usuário (Autor: MEISTER, Guilherme 2024). </p>
 </div>
 
 ### 3.3. Requisitos de Armazenamento
@@ -66,7 +66,7 @@
 | RE09 | O aplicativo deve ocupar um espaço de armazenamento razoável.            | [INT](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicita%C3%A7%C3%A3o/introspec/) |
 
 <div align="center">
-<p> <b>Tabela 3</b>: Requisitos de Armazenamento (Autor: autores, 2024). </p>
+<p> <b>Tabela 3</b>: Requisitos de Armazenamento (Autor: MEISTER, Guilherme 2024). </p>
 </div>
 
 ### 3.4. Desempenho
@@ -77,7 +77,7 @@
 | RE16 | O aplicativo deve ter uma boa performance e velocidade. | [QUE](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicita%C3%A7%C3%A3o/Question%C3%A1rio/) |
 
 <div align="center">
-<p> <b>Tabela 4</b>: Desempenho (Autor: autores, 2024). </p>
+<p> <b>Tabela 4</b>: Desempenho (Autor: MEISTER, Guilherme 2024). </p>
 </div>
 
 ### 3.5. Segurança e Privacidade
@@ -90,7 +90,7 @@
 | RE34 | Risco de violação de privacidade do usuário e coleta de dados invasiva. | [ADD](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicita%C3%A7%C3%A3o/analiseDoc/) |
 
 <div align="center">
-<p> <b>Tabela 5</b>: Segurança e Privacidade (Autor: autores, 2024). </p>
+<p> <b>Tabela 5</b>: Segurança e Privacidade (Autor: MEISTER, Guilherme 2024). </p>
 </div>
 
 ## Backlog 
@@ -144,28 +144,28 @@
 A tabela 6 abaixo vai relacionar a prioridade de cada história:
 
 | História de Usuário | Épico                  | Prioridade |
-|--------------------|------------------------|----------------------------------------|
-| US01               | Épico 3:  |        |
-| US02               | Épico 5:  |        |
-| US03               | Épico 4: Desempenho    | Must       |
-| US04               | Épico 4: Desempenho    | Must       |
-| US05               | Épico 1: Reprodução de Mídia | Must  |
-| US06               | Épico 4: Desempenho    | Could      |
-| US07               | Épico 4: Desempenho    | Could      |
-| US08               | Épico 4: Desempenho    | Could      |
-| US09               | Épico 2: Interface de Usuário | Must |
-| US10               | Épico 4: Desempenho    | Could      |
-| US11               | Épico 4: Desempenho    | Could      |
-| US12               | Épico 4: Desempenho    | Could      |
-| US13               | Épico 4: Desempenho    | Could      |
-| US14               | Épico 4: Desempenho    | Could      |
-| US15               | Épico 4: Desempenho    | Could      |
-| US16               | Épico 4: Desempenho    | Could      |
-| US17               | Épico 4: Desempenho    | Could      |
-| US18               | Épico 4: Desempenho    | Could      |
+|--------------------|------------------------------------------------------|--------------------------------------------------------------------------------|
+| US01               | Épico 5 |   Must |
+| US02               | Épico 1 |  Must      |
+| US03               | Épico 1  | Must       |
+| US04               | Épico 1  | Must       |
+| US05               | Épico 1 | Must  |
+| US06               | Épico 1   | Must      |
+| US07               | Épico 1  | Must      |
+| US08               | Épico 1   | Could      |
+| US09               | Épico 1 | Could |
+| US10               | Épico 1  | Must      |
+| US11               | Épico 3   | Could      |
+| US12               | Épico 1  | Must     |
+| US13               | Épico 5   | Could      |
+| US14               | Épico 2   | Must      |
+| US15               | Épico 2   | Could      |
+| US16               | Épico 2   | Must      |
+| US17               | Épico    | Could      |
+| US18               | Épico 4   | Could      |
 
 <div align="center">
-<p> <b>Tabela 6</b>: Backlog do produto (Fonte: autores, 2023). </p>
+<p> <b>Tabela 6</b>: Backlog do produto (Autor: MEISTER, Guilherme 2024). </p>
 </div>
 
 
