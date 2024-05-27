@@ -102,8 +102,8 @@
         <li> Abertura de reclamação 
         <li> Avaliações
         <li> Acessibilidade
-        <li> 
-        <li> 
+        <li> Segurança
+        <li> Desempenho
     </ul>
     <p>&emsp;&emsp; Após a definição dos temas, os requisitos foram especificados em um maior nível de abstração, por meio dos épicos. Os épicos são histórias de usuário que ainda podem ser mais especificadas e foram escritos utilizando o mesmo padrão do utilizado nas histórias de usuário.</p>
 </div>
