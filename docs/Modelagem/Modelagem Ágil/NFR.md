@@ -742,16 +742,11 @@ Na tabela 9, temos o cartão de especificação do Softgoal "Documentação".
 
 SERRANO, et al. Requisitos – Aula 17, 2024. Disponível em: <https://aprender3.unb.br/pluginfile.php/2845052/mod_resource/content/1/Requisitos%20-%20Aula%20019a.pdf>
 
-YRJÖNEN, Anton; MERILLINA, Janne. Extending the NFR Framework with Measurable NonFunctional Requirements, 2009. Disponível em: <https://ceur-ws.org/Vol-553/paper2.pdf>
+YRJÖNEN, Anton; MERILLINA, Janne. Extending the NFR Framework with Measurable Non-Functional Requirements, 2009. Disponível em: <https://ceur-ws.org/Vol-553/paper2.pdf>
 
 CASTRO, Jaelson. Requisitos Não-Funcionais, 2014. Disponível em: <https://www.cin.ufpe.br/~if716/arquivos20152/experimentoBruno/Aula2/Aula2-Parte2-NFR%20Framework.pdf>
 
 ## Histórico de Versão
 | Versão | Data de execução | Data de revisão |  Descrição            | Autor(es)         | Revisor(es)  |
 | :------: | :----------: | :--------: | :--------------------: | :-------------: | :----------: |
-| `1.0` | 22/05/2024  | 23/05/2024 | Criação do artefato NFR Framework | [Henrique Galdino](https://github.com/hgaldino05) | [Igor Thiago](https://github.com/alladin-51) |
-
-<div align="center">
-<figcaption align="left">Tabela 1: Histórico de versões(Autor: GALDINO, Henrique. 2024)</figcaption>
-</div>
-<br/>
+| 1.0 | 22/05/2024  | 23/05/2024 | Criação do artefato NFR Framework | [Henrique Galdino](https://github.com/hgaldino05) | [Igor Thiago](https://github.com/alladin-51) |
