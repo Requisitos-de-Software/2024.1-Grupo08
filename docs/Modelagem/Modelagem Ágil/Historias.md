@@ -208,24 +208,11 @@ A seguir estão as tabelas que descrevem as histórias de usuário elicitadas pe
 <p> Autor: DIOGO, Matheus. 2024.</p>
 </div>
 
-### US14 - Interface simples e intuitiva
+### US14 - Opções de acessibilidade 
 
 | Propriedades | Descrição |
 |------|:-------:
 | ID | US14 |
-| Título | Interface simples e intuitiva |
-| Descrição | Eu, como usuário, quero que o aplicativo apresente uma interface simples e intuitiva para que eu possa usá-lo facilmente. |
-| Critérios de aceitação | - O aplicativo deve ter uma interface de usuário clara e fácil de navegar. |
-| Prioridade | Alta |
-<div style="text-align: center">
-<p> Autor: DIOGO, Matheus. 2024.</p>
-</div>
-
-### US15 - Opções de acessibilidade 
-
-| Propriedades | Descrição |
-|------|:-------:
-| ID | US15 |
 | Título | Opções de acessibilidade |
 | Descrição | Eu, como usuário com necessidades especiais, quero que o aplicativo forneça opções de acessibilidade (modo escuro, esquemas de cores, conteúdos em libras, etc.) para que eu possa usá-lo confortavelmente. |
 | Critérios de aceitação | - O aplicativo deve incluir opções de acessibilidade como modo escuro, ajustes de cores e conteúdos em libras. |
@@ -234,11 +221,11 @@ A seguir estão as tabelas que descrevem as histórias de usuário elicitadas pe
 <p> Autor: DIOGO, Matheus. 2024.</p>
 </div>
 
-### US16 - Feedback em caso de erros
+### US15 - Feedback em caso de erros
 
 | Propriedades | Descrição |
 |------|:-------:
-| ID | US16 |
+| ID | US15 |
 | Título | Feedback em caso de erros |
 | Descrição | Eu, como usuário, quero que o aplicativo forneça feedback em caso de erros/falhas para que eu saiba o que está acontecendo e como corrigir. |
 | Critérios de aceitação | - O aplicativo deve exibir mensagens de erro claras e instruções para correção. |
@@ -247,11 +234,11 @@ A seguir estão as tabelas que descrevem as histórias de usuário elicitadas pe
 <p> Autor: DIOGO, Matheus. 2024.</p>
 </div>
 
-### US17 - Medidas de proteção 
+### US16 - Medidas de proteção 
 
 | Propriedades | Descrição |
 |------|:-------:
-| ID | US17 |
+| ID | US16 |
 | Título | Medidas de proteção |
 | Descrição | Eu, como usuário, quero que o aplicativo apresente medidas de proteção para que meus dados estejam seguros. |
 | Critérios de aceitação | - O aplicativo deve implementar medidas de segurança como criptografia de dados e autenticação de usuário. |
@@ -260,11 +247,11 @@ A seguir estão as tabelas que descrevem as histórias de usuário elicitadas pe
 <p> Autor: DIOGO, Matheus. 2024.</p>
 </div>
 
-### US18 - Otimização de carregamento
+### US17 - Otimização de carregamento
 
 | Propriedades | Descrição |
 |------|:-------:
-| ID | US18 |
+| ID | US17 |
 | Título | Otimização de carregamento |
 | Descrição | Eu, como usuário, quero que o aplicativo otimize o carregamento de páginas/recursos para que minha experiência seja rápida e eficiente. |
 | Critérios de aceitação | - O aplicativo deve carregar páginas e recursos de forma rápida e eficiente. |
