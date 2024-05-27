@@ -38,9 +38,9 @@ Os requisitos de usabilidade são aqueles que representam os requisitos relacion
 | RUS2 | O aplicativo deve apresentar recursos de acessibilidade (contraste/modo escuro, paleta de cores para daltônicos, recursos de aúdio, etc.) | [RNF3](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicitação/requisitos-elicitados/) |
 | RUS3 | O aplicativo deve responder imediatamente às ações do usuário (mesmo que seja necessário carregamento de interface ou componentes) | [RNF7, RNF13](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicitação/requisitos-elicitados/) |
 | RUS4 | O aplicativo deve apresentar navegação simples entre suas interfaces | [RNF2, RNF8](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicitação/requisitos-elicitados/) |
-| RUS4 | O aplicativo deve apresentar um padrão para suas interfaces, mantendo a estilização de cores e componentes entre as mesmas | [RNF18, RNF19](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicitação/requisitos-elicitados/) |
-| RUS5 | O aplicativo deve apresentar feedback para o usuário em caso de erros ou falhas | [RNF4](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicitação/requisitos-elicitados/) |
-| RUS6 | O aplicativo deve permitir realizar uma reclamação com no máximo 5 cliques | [RNF8](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicitação/requisitos-elicitados/) |
+| RUS5 | O aplicativo deve apresentar um padrão para suas interfaces, mantendo a estilização de cores e componentes entre as mesmas | [RNF18, RNF19](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicitação/requisitos-elicitados/) |
+| RUS6 | O aplicativo deve apresentar feedback para o usuário em caso de erros ou falhas | [RNF4](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicitação/requisitos-elicitados/) |
+| RUS7 | O aplicativo deve permitir realizar uma reclamação com no máximo 5 cliques | [RNF8](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicitação/requisitos-elicitados/) |
 
 <div align="center">
 <figcaption align="left">Tabela 1: Requisitos de Usabilidade (Autor: MEISTER, GUILHERME 2024)</figcaption>
