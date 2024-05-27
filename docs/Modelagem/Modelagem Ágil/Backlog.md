@@ -97,11 +97,10 @@
 
 ### Temas 
 <div style="text-align:justify">
-    <p>&emsp;&emsp; Após a etapa de verificação e análise dos requisitos, foi observado que eles poderiam ser organizados em cinco grandes temas, que compõem o maior nível de abstração do backlog.</p>
+    <p>&emsp;&emsp; Após a etapa de verificação e análise dos requisitos, foi observado que eles poderiam ser organizados em quatro grandes temas, que compõem o maior nível de abstração do backlog.</p>
     <ul>
-        <li> Abertura de reclamação 
-        <li> Avaliações
-        <li> Acessibilidade
+        <li> Abertura e acompanhamento de reclamação 
+        <li> Pesquisa de empresa
         <li> Segurança
         <li> Desempenho
     </ul>
