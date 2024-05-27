@@ -210,7 +210,7 @@ A seguir estão as tabelas que descrevem as histórias de usuário elicitadas pe
 
 ### US14 - Interface simples e intuitiva
 
-| Propriedades | Descrição |7
+| Propriedades | Descrição |
 |------|:-------:
 | ID | US14 |
 | Título | Interface simples e intuitiva |
@@ -281,4 +281,4 @@ A seguir estão as tabelas que descrevem as histórias de usuário elicitadas pe
 ## Histórico de Versões
 | Data | Versão | Descrição | Autor(es) | Data de revisão | Revisor(es) |
 | :--:       | :----: | :-------: | :---: | :-------------: | :-----: |
-| 18/05/2024 | `1.0`  | Criação do artefato | [Guilherme Meister](https://github.com/gmeister18) e [Matheus Ferreira](https://github.com/matferreira1) | 10/04/2024 | [Henrique Galdino](https://github.com/hgaldino05) e [Rodrigo ](https://github.com/rodrigogontijoo) |
+| 18/05/2024 | `1.0`  | Criação do artefato | [Guilherme Meister](https://github.com/gmeister18) e [Matheus Ferreira](https://github.com/matferreira1) | 26/05/2024 | [Henrique Galdino](https://github.com/hgaldino05) e [Rodrigo ](https://github.com/rodrigogontijoo) |
