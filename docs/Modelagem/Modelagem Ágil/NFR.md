@@ -18,7 +18,7 @@ Existem três tipos de softgoals, descritos a seguir, cujas representações pod
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Figura 1:</b> Representação dos tipos de softgoal.</p></font>
 
-<img src="https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/docs/assets/nfr/nfr-tipos.png?raw=true" style="width: 85%;">
+<img src="https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/docs/assets/nfr/nfr-tipos.png?raw=true">
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> (SILVA, 2014).</a></p></font>
 </div>
@@ -36,7 +36,7 @@ A figura 2 ilustra um exemplo de cada rótulo, conforme apresentado no artigo de
 
 ## Metodologia
 
-Neste documento, descreveremos 7 Requisitos Não Funcionais (NFRs) derivados do nosso documento de especificação suplementar, o qual se fundamentou no modelo FURPS+. Cada membro da equipe foi responsável por definir um NFR dentro de uma categoria do modelo FURPS+.
+Neste documento, descreveremos 6 Requisitos Não Funcionais (NFRs) derivados do nosso documento de especificação suplementar, o qual se fundamentou no modelo FURPS+ e foi discutido anteriormente pelos membros da equipe.
 
 Para cada categoria, elaboramos um SIG (Softgoal Interdependency Graph), um diagrama que ilustra a propagação de impactos, e um cartão de especificação contendo informações detalhadas sobre o NFR, como sua descrição, categoria, possíveis conflitos, origem, critérios e outras informações relevantes.
 
@@ -48,10 +48,10 @@ Usabilidade se refere à facilidade e eficácia com que um usuário pode interag
 
 #### Softgoal Interdependency Graph
 
-O Softgoal Interdependency Graph do softgoal "Usabilidade" pode ser visto na figura X.
+O Softgoal Interdependency Graph do softgoal "Usabilidade" pode ser visto na figura 3.
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Figura X:</b> Softgoal Interdependency Graph do softgoal "Usabilidade".</p></font>
+<font size="3"><p style="text-align: center"><b>Figura 3:</b> Softgoal Interdependency Graph do softgoal "Usabilidade".</p></font>
 
 <img src="https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/docs/assets/nfr/usabilidade.png?raw=true" style="width: 95%;">
 
@@ -60,14 +60,14 @@ O Softgoal Interdependency Graph do softgoal "Usabilidade" pode ser visto na fig
 
 #### Propagação de Impactos
 
-A propagação de impactos do softgoal "Usabilidade" pode ser vista na figura X.
+A propagação de impactos do softgoal "Usabilidade" pode ser vista na figura 4.
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Figura X:</b> Propagação de impactos do softgoal "Usabilidade"</p></font>
+<font size="3"><p style="text-align: center"><b>Figura 4:</b> Propagação de impactos do softgoal "Usabilidade"</p></font>
 
 <img src="https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/docs/assets/nfr/impacto-usabilidade.png?raw=true" style="width: 85%;">
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> CÉSAR, Júlio. 2024</p></font>
+<font size="3"><p style="text-align: center"><b>Autor:</b> GALDINO, Henrique. 2024</p></font>
 </div>
 
 #### Cartão de Especificação
@@ -129,10 +129,10 @@ Confiabilidade se refere à capacidade de um sistema, produto ou serviço realiz
 
 #### Softgoal Interdependency Graph
 
-O Softgoal Interdependency Graph do softgoal "Confiabilidade" pode ser visto na figura X.
+O Softgoal Interdependency Graph do softgoal "Confiabilidade" pode ser visto na figura 5.
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Figura X:</b> Softgoal Interdependency Graph do softgoal "Confiabilidade".</p></font>
+<font size="3"><p style="text-align: center"><b>Figura 5:</b> Softgoal Interdependency Graph do softgoal "Confiabilidade".</p></font>
 
 <img src="https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/docs/assets/nfr/confiabilidade.png?raw=true" style="width: 95%;">
 
@@ -141,14 +141,14 @@ O Softgoal Interdependency Graph do softgoal "Confiabilidade" pode ser visto na 
 
 #### Propagação de Impactos
 
-A propagação de impactos do softgoal "Confiabilidade" pode ser vista na figura X.
+A propagação de impactos do softgoal "Confiabilidade" pode ser vista na figura 6.
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Figura X:</b> Propagação de impactos do softgoal "Confiabilidade"</p></font>
+<font size="3"><p style="text-align: center"><b>Figura 6:</b> Propagação de impactos do softgoal "Confiabilidade"</p></font>
 
 <img src="https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/docs/assets/nfr/impacto-confiabilidade.png?raw=true" style="width: 95%;" style="width: 85%;">
 
-<font size="3"><p style="text-align: center"><b>Autor:</b> CÉSAR, Júlio. 2024</p></font>
+<font size="3"><p style="text-align: center"><b>Autor:</b> GALDINO, Henrique. 2024</p></font>
 </div>
 
 #### Cartão de Especificação
@@ -209,10 +209,10 @@ Performance se refere ao desempenho ou à capacidade de um sistema, produto ou s
 
 #### Softgoal Interdependency Graph
 
-O Softgoal Interdependency Graph do softgoal "Performance" pode ser visto na figura X.
+O Softgoal Interdependency Graph do softgoal "Performance" pode ser visto na figura 7.
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Figura X:</b> Softgoal Interdependency Graph do softgoal "Performance".</p></font>
+<font size="3"><p style="text-align: center"><b>Figura 7:</b> Softgoal Interdependency Graph do softgoal "Performance".</p></font>
 
 <img src="https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/docs/assets/nfr/performance.png?raw=true" style="width: 85%;">
 
@@ -221,14 +221,14 @@ O Softgoal Interdependency Graph do softgoal "Performance" pode ser visto na fig
 
 #### Propagação de Impactos
 
-A propagação de impactos do softgoal "Performance" pode ser vista na figura X.
+A propagação de impactos do softgoal "Performance" pode ser vista na figura 8.
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Figura X:</b> Propagação de impactos do softgoal "Performance"</p></font>
+<font size="3"><p style="text-align: center"><b>Figura 8:</b> Propagação de impactos do softgoal "Performance"</p></font>
 
 <img src="https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/docs/assets/nfr/impacto-performance.png?raw=true" style="width: 85%;" style="width: 85%;">
 
-<font size="3"><p style="text-align: center"><b>Autor:</b> CÉSAR, Júlio. 2024</p></font>
+<font size="3"><p style="text-align: center"><b>Autor:</b> GALDINO, Henrique. 2024</p></font>
 </div>
 
 #### Cartão de Especificação
@@ -289,24 +289,24 @@ Suportabilidade se refere à capacidade de um sistema, produto ou serviço de se
 
 #### Softgoal Interdependency Graph
 
-O Softgoal Interdependency Graph do softgoal "Performance" pode ser visto na figura X.
+O Softgoal Interdependency Graph do softgoal "Performance" pode ser visto na figura 9.
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Figura X:</b> Softgoal Interdependency Graph do softgoal "Performance".</p></font>
+<font size="3"><p style="text-align: center"><b>Figura 9:</b> Softgoal Interdependency Graph do softgoal "Performance".</p></font>
 
-<img src="https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/docs/assets/nfr/portabilidade.png?raw=true" style="width: 85%;">
+<img src="https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/docs/assets/nfr/suportabilidade.png?raw=true" style="width: 85%;">
 
 <font size="3"><p style="text-align: center"><b>Autor:</b> CÉSAR, Júlio. 2024</p></font>
 </div>
 
 #### Propagação de Impactos
 
-A propagação de impactos do softgoal "Performance" pode ser vista na figura X.
+A propagação de impactos do softgoal "Performance" pode ser vista na figura 10.
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Figura X:</b> Propagação de impactos do softgoal "Performance"</p></font>
+<font size="3"><p style="text-align: center"><b>Figura 10:</b> Propagação de impactos do softgoal "Performance"</p></font>
 
-<img src="https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/docs/assets/nfr/impacto-portabilidade.png?raw=true" style="width: 85%;" style="width: 85%;">
+<img src="https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/docs/assets/nfr/impacto-suportabilidade.png?raw=true" style="width: 85%;" style="width: 85%;">
 
 <font size="3"><p style="text-align: center"><b>Autor:</b> GALDINO, Henrique. 2024</p></font>
 </div>
@@ -369,10 +369,10 @@ Os requisitos de implementação são aqueles que representam os requisitos rela
 
 #### Softgoal Interdependency Graph
 
-O Softgoal Interdependency Graph do softgoal "Implementação" pode ser visto na figura X.
+O Softgoal Interdependency Graph do softgoal "Implementação" pode ser visto na figura 12.
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Figura X:</b> Softgoal Interdependency Graph do softgoal "Implementação".</p></font>
+<font size="3"><p style="text-align: center"><b>Figura 12:</b> Softgoal Interdependency Graph do softgoal "Implementação".</p></font>
 
 <img src="https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/docs/assets/nfr/implementacao.png?raw=true" style="width: 85%;">
 
@@ -381,14 +381,14 @@ O Softgoal Interdependency Graph do softgoal "Implementação" pode ser visto na
 
 #### Propagação de Impactos
 
-A propagação de impactos do softgoal "Implementação" pode ser vista na figura X.
+A propagação de impactos do softgoal "Implementação" pode ser vista na figura 13.
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Figura X:</b> Propagação de impactos do softgoal "Implementação"</p></font>
+<font size="3"><p style="text-align: center"><b>Figura 13:</b> Propagação de impactos do softgoal "Implementação"</p></font>
 
 <img src="https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/docs/assets/nfr/impacto-implementacao.png?raw=true" style="width: 85%;">
 
-<font size="3"><p style="text-align: center"><b>Autor:</b> CÉSAR, Júlio. 2024</p></font>
+<font size="3"><p style="text-align: center"><b>Autor:</b> GALDINO, Henrique. 2024</p></font>
 </div>
 
 #### Cartão de Especificação
@@ -449,10 +449,10 @@ Documentação se refere a documentação do sistema do sistema em si, ou seja, 
 
 #### Softgoal Interdependency Graph
 
-O Softgoal Interdependency Graph do softgoal "Documentação" pode ser visto na figura X.
+O Softgoal Interdependency Graph do softgoal "Documentação" pode ser visto na figura 14.
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Figura X:</b> Softgoal Interdependency Graph do softgoal "Documentação".</p></font>
+<font size="3"><p style="text-align: center"><b>Figura 14:</b> Softgoal Interdependency Graph do softgoal "Documentação".</p></font>
 
 <img src="https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/docs/assets/nfr/documentacao.png?raw=true" style="width: 85%;">
 
@@ -461,14 +461,14 @@ O Softgoal Interdependency Graph do softgoal "Documentação" pode ser visto na 
 
 #### Propagação de Impactos
 
-A propagação de impactos do softgoal "Implementação" pode ser vista na figura X.
+A propagação de impactos do softgoal "Implementação" pode ser vista na figura 15.
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Figura X:</b> Propagação de impactos do softgoal "Documentação"</p></font>
+<font size="3"><p style="text-align: center"><b>Figura 15:</b> Propagação de impactos do softgoal "Documentação"</p></font>
 
 <img src="https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/docs/assets/nfr/impacto-documentacao.png?raw=true" style="width: 85%;" style="width: 85%;">
 
-<font size="3"><p style="text-align: center"><b>Autor:</b> CÉSAR, Júlio. 2024</p></font>
+<font size="3"><p style="text-align: center"><b>Autor:</b> GALDINO, Henrique. 2024</p></font>
 </div>
 
 #### Cartão de Especificação
@@ -541,4 +541,7 @@ Na tabela 6, temos o cartão de especificação do Softgoal "Documentação".
 
 | Versão | Data de execução | Data de revisão |  Descrição                          | Autor(es)                                           | Revisor(es)                                           |
 | :----: | :--------------: | :-------------: | :---------------------------------: | :-------------------------------------------------: | :---------------------------------------------------: |
+| 1.3    | 26/05/2024       | 27/05/2024      | Textos e tabelas - propagação de impacto   | [Henrique Galdino](https://github.com/hgaldino05)   | [Igor Thiago](https://github.com/alladin-51)         |
+| 1.2    | 26/05/2024       | 27/05/2024      | Textos e tabelas softgoals   | [Júlio César](https://github.com/Julio1099)   | [Igor Thiago](https://github.com/alladin-51)         |
+| 1.1    | 22/05/2024       | 23/05/2024      | Complementando textos   | [Henrique Galdino](https://github.com/hgaldino05)   | [Igor Thiago](https://github.com/alladin-51)         |
 | 1.0    | 22/05/2024       | 23/05/2024      | Criação do artefato NFR Framework   | [Henrique Galdino](https://github.com/hgaldino05)   | [Igor Thiago](https://github.com/alladin-51)         |
