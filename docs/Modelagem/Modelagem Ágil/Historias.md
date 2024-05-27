@@ -25,15 +25,24 @@ Para desenvolver as histórias de usuários, durante uma reunião, utilizamos os
 | Função | Participante |
 | -: | :- |
 | Scrum Master | Guilherme Meister |
-| Desenvolvedor | ------- |
-| Desenvolvedor | ------- |
-| Product Owner | ------- |
+| Desenvolvedor | Rodrigo Gontijo |
+| Product Owner | Clara Vaz |
 
 <div style="text-align: center">
 <p> Tabela 2: Relação de função e participantes das histórias. (Autor: MEISTER, Guilherme. 2024).</p>
 </div>
 
-O usuário que colaborou com a validação das histórias foi o --------, aluno da UnB. O entrevistado utilizou o Consumidor.gov de maneira ocasional e especialmente para realizar e acompanhar uma reclamação. Na entrevista para validação das Histórias de Usuários, ------- foi questionado se as histórias presentes nesse documento são pertinentes e condizentes com o escopo do app, além disso, o entrevistado também respondeu se as história eram válidas para o uso que ele faz do aplicativo.
+O usuário que colaborou com a validação das histórias foi a Clara Vaz, aluna da UnB. A reunião foi realizada através da plataforma Teams no dia 27 de maio de 2024, às 20:00 hrs e pode ser encontrada [neste link](https://youtu.be/n4FLe8Lhvc0?si=vJSvIdDAxlfA9A-W). A entrevistada utilizou o Consumidor.gov de maneira ocasional e especialmente para realizar e acompanhar uma reclamação. Na entrevista para validação das Histórias de Usuários, Clara foi questionada se as histórias presentes nesse documento são pertinentes e condizentes com o escopo do app, além disso, o entrevistado também respondeu se as história eram válidas para o uso que ele faz do aplicativo.
+
+No vídeo 1 encontra-se a gravação da entrevista.
+
+<div align="center">
+<p style="text-align: center"><a href="https://youtu.be/n4FLe8Lhvc0?si=vJSvIdDAxlfA9A-W" target="blanket"><b>Vídeo 1:</b> Validação das Histórias de Usuário</a></p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4FLe8Lhvc0?si=vJSvIdDAxlfA9A-W" title="Apresentação 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/rodrigogontijoo">GONTIJO, Rodrigo</a>, 2024</p></font>
+</div >
 
 
 ## História do Usuário
@@ -268,4 +277,5 @@ A seguir estão as tabelas que descrevem as histórias de usuário elicitadas pe
 ## Histórico de Versões
 | Data | Versão | Descrição | Autor(es) | Data de revisão | Revisor(es) |
 | :--:       | :----: | :-------: | :---: | :-------------: | :-----: |
-| 18/05/2024 | `1.0`  | Criação do artefato | [Guilherme Meister](https://github.com/gmeister18) e [Matheus Ferreira](https://github.com/matferreira1) | 26/05/2024 | [Henrique Galdino](https://github.com/hgaldino05) e [Rodrigo ](https://github.com/rodrigogontijoo) |
+| 27/05/2024 | `1.1`  | Adicionando Validação das histórias de Usuário | [Rodrigo Gontijo](https://github.com/rodrigogontijoo) | 27/05/2024 | [Guilherme Meister](https://github.com/gmeister18) e [Matheus Ferreira](https://github.com/matferreira1) |
+| 18/05/2024 | `1.0`  | Criação do artefato | [Guilherme Meister](https://github.com/gmeister18) e [Matheus Ferreira](https://github.com/matferreira1) | 26/05/2024 | [Henrique Galdino](https://github.com/hgaldino05) e [Rodrigo Gontijo](https://github.com/rodrigogontijoo) |
