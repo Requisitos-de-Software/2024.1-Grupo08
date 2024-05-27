@@ -1,4 +1,4 @@
-# Ata de Reunião E2 - 16/05/2024
+# Ata de Reunião E3 - 16/05/2024
 
 ## Introdução
 
