@@ -736,17 +736,19 @@ Na tabela 9, temos o cartão de especificação do Softgoal "Documentação".
 </figure>
 
 ## Referências Bibliográficas
-[1] DA SILVA, Reinaldo Antônio. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados, 2019. Disponível em: <https://aprender3.unb.br/pluginfile.php/2845051/mod_resource/content/2/DISSERTA%C3%87%C3%83O%20Reinaldo%20Ant%C3%B4nio%20da%20Silva.pdf> Acesso em: 23 de maio de 2024.
+
+> [1] DA SILVA, Reinaldo Antônio. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados, 2019. Disponível em: [https://aprender3.unb.br/pluginfile.php/2845051/mod_resource/content/2/DISSERTA%C3%87%C3%83O%20Reinaldo%20Ant%C3%B4nio%20da%20Silva.pdf](https://aprender3.unb.br/pluginfile.php/2845051/mod_resource/content/2/DISSERTA%C3%87%C3%83O%20Reinaldo%20Ant%C3%B4nio%20da%20Silva.pdf). Acesso em: 23 de maio de 2024.
 
 ## Bibliografia
 
-SERRANO, et al. Requisitos – Aula 17, 2024. Disponível em: <https://aprender3.unb.br/pluginfile.php/2845052/mod_resource/content/1/Requisitos%20-%20Aula%20019a.pdf>
+> SERRANO, et al. Requisitos – Aula 17, 2024. Disponível em: [https://aprender3.unb.br/pluginfile.php/2845052/mod_resource/content/1/Requisitos%20-%20Aula%20019a.pdf](https://aprender3.unb.br/pluginfile.php/2845052/mod_resource/content/1/Requisitos%20-%20Aula%20019a.pdf). Acesso em: 23 de maio de 2024.
 
-YRJÖNEN, Anton; MERILLINA, Janne. Extending the NFR Framework with Measurable Non-Functional Requirements, 2009. Disponível em: <https://ceur-ws.org/Vol-553/paper2.pdf>
+> YRJÖNEN, Anton; MERILLINA, Janne. Extending the NFR Framework with Measurable Non-Functional Requirements, 2009. Disponível em: [https://ceur-ws.org/Vol-553/paper2.pdf](https://ceur-ws.org/Vol-553/paper2.pdf). Acesso em: 23 de maio de 2024.
 
-CASTRO, Jaelson. Requisitos Não-Funcionais, 2014. Disponível em: <https://www.cin.ufpe.br/~if716/arquivos20152/experimentoBruno/Aula2/Aula2-Parte2-NFR%20Framework.pdf>
+> CASTRO, Jaelson. Requisitos Não-Funcionais, 2014. Disponível em: [https://www.cin.ufpe.br/~if716/arquivos20152/experimentoBruno/Aula2/Aula2-Parte2-NFR%20Framework.pdf](https://www.cin.ufpe.br/~if716/arquivos20152/experimentoBruno/Aula2/Aula2-Parte2-NFR%20Framework.pdf). Acesso em: 23 de maio de 2024.
 
 ## Histórico de Versão
-| Versão | Data de execução | Data de revisão |  Descrição            | Autor(es)         | Revisor(es)  |
-| :------: | :----------: | :--------: | :--------------------: | :-------------: | :----------: |
-| 1.0 | 22/05/2024  | 23/05/2024 | Criação do artefato NFR Framework | [Henrique Galdino](https://github.com/hgaldino05) | [Igor Thiago](https://github.com/alladin-51) |
+
+| Versão | Data de execução | Data de revisão |  Descrição                          | Autor(es)                                           | Revisor(es)                                           |
+| :----: | :--------------: | :-------------: | :---------------------------------: | :-------------------------------------------------: | :---------------------------------------------------: |
+| 1.0    | 22/05/2024       | 23/05/2024      | Criação do artefato NFR Framework   | [Henrique Galdino](https://github.com/hgaldino05)   | [Igor Thiago](https://github.com/alladin-51)         |
