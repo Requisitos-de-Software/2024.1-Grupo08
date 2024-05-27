@@ -81,7 +81,7 @@ A seguir estão as tabelas que descrevem as histórias de usuário elicitadas pe
 | ID | US4 |
 | Título | Fazer reclamação sobre uma empresa |
 | Descrição | Eu, como cliente, quero poder fazer uma reclamação sobre uma empresa, para que possa ter meu problema resolvido. |
-| Critérios de aceitação | <ol><li>- O aplicativo deve permitir que o usuário informe o meio que a compra foi feita.<li>- O aplicativo deve permitir que o usuário informe a categoria da informação.<li>- O aplicativo deve permitir que o usuário informe detalhes sobre a reclamação.<li>- O aplicativo deve permitir que o usuário informe suas expectativas quanto a resolução da reclamação.<ul></ol> |
+| Critérios de aceitação | <ol><li>- O aplicativo deve permitir que o usuário informe o meio e a data que a compra foi feita.<li>- O aplicativo deve permitir que o usuário informe a categoria da informação.<li>- O aplicativo deve permitir que o usuário informe detalhes sobre a reclamação.<li>- O aplicativo deve permitir que o usuário informe suas expectativas quanto a resolução da reclamação.<ul></ol> |
 | Prioridade | Alta |
 <div style="text-align: center">
 <p> Autor: DIOGO, Matheus. 2024.</p>
@@ -212,7 +212,7 @@ A seguir estão as tabelas que descrevem as histórias de usuário elicitadas pe
 | Título | Opções de acessibilidade |
 | Descrição | Eu, como usuário com necessidades especiais, quero que o aplicativo forneça opções de acessibilidade (modo escuro, esquemas de cores, conteúdos em libras, etc.) para que eu possa usá-lo confortavelmente. |
 | Critérios de aceitação | - O aplicativo deve incluir opções de acessibilidade como modo escuro, ajustes de cores e conteúdos em libras. |
-| Prioridade | Média |
+| Prioridade | Alta |
 <div style="text-align: center">
 <p> Autor: DIOGO, Matheus. 2024.</p>
 </div>
@@ -281,6 +281,7 @@ No vídeo 1 encontra-se a gravação da entrevista.
 ## Histórico de Versões
 | Data | Versão | Descrição | Autor(es) | Data de revisão | Revisor(es) |
 | :--:       | :----: | :-------: | :---: | :-------------: | :-----: |
+| 27/05/2024 | `1.3`  | Correções das histórias de usuário vindas da entrevista de validação | [Rodrigo Gontijo](https://github.com/rodrigogontijoo) | 27/05/2024 | [Guilherme Meister](https://github.com/gmeister18) e [Matheus Ferreira](https://github.com/matferreira1) |
 | 27/05/2024 | `1.2`  | Correções de formatação | [Rodrigo Gontijo](https://github.com/rodrigogontijoo) | 27/05/2024 | [Guilherme Meister](https://github.com/gmeister18) e [Matheus Ferreira](https://github.com/matferreira1) |
 | 27/05/2024 | `1.1`  | Adicionando Validação das histórias de Usuário | [Rodrigo Gontijo](https://github.com/rodrigogontijoo) | 27/05/2024 | [Guilherme Meister](https://github.com/gmeister18) e [Matheus Ferreira](https://github.com/matferreira1) |
 | 18/05/2024 | `1.0`  | Criação do artefato | [Guilherme Meister](https://github.com/gmeister18) e [Matheus Ferreira](https://github.com/matferreira1) | 26/05/2024 | [Henrique Galdino](https://github.com/hgaldino05) e [Rodrigo Gontijo](https://github.com/rodrigogontijoo) |
