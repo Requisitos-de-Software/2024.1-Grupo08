@@ -201,7 +201,7 @@ A seguir estão as tabelas que descrevem as histórias de usuário elicitadas pe
 | Critérios de aceitação | - O aplicativo deve ser compatível com as plataformas Android e iOS. |
 | Prioridade | Alta |
 <div style="text-align: center">
-<p> Autor: DIOGO, Matheus. 2024.</p>
+<p> Autor: THIAGO, Igor. 2024.</p>
 </div>
 
 ### US14 - Opções de acessibilidade 
@@ -214,7 +214,7 @@ A seguir estão as tabelas que descrevem as histórias de usuário elicitadas pe
 | Critérios de aceitação | - O aplicativo deve incluir opções de acessibilidade como modo escuro, ajustes de cores e conteúdos em libras. |
 | Prioridade | Alta |
 <div style="text-align: center">
-<p> Autor: DIOGO, Matheus. 2024.</p>
+<p> Autor: THIAGO, Igor. 2024.</p>
 </div>
 
 ### US15 - Feedback em caso de erros
@@ -227,7 +227,7 @@ A seguir estão as tabelas que descrevem as histórias de usuário elicitadas pe
 | Critérios de aceitação | - O aplicativo deve exibir mensagens de erro claras e instruções para correção. |
 | Prioridade | Alta |
 <div style="text-align: center">
-<p> Autor: DIOGO, Matheus. 2024.</p>
+<p> Autor: THIAGO, Igor. 2024.</p>
 </div>
 
 ### US16 - Medidas de proteção 
@@ -240,7 +240,7 @@ A seguir estão as tabelas que descrevem as histórias de usuário elicitadas pe
 | Critérios de aceitação | - O aplicativo deve implementar medidas de segurança como criptografia de dados e autenticação de usuário. |
 | Prioridade | Alta |
 <div style="text-align: center">
-<p> Autor: DIOGO, Matheus. 2024.</p>
+<p> Autor: THIAGO, Igor. 2024.</p>
 </div>
 
 ### US17 - Otimização de carregamento
@@ -253,7 +253,7 @@ A seguir estão as tabelas que descrevem as histórias de usuário elicitadas pe
 | Critérios de aceitação | - O aplicativo deve carregar páginas e recursos de forma rápida e eficiente. |
 | Prioridade | Média |
 <div style="text-align: center">
-<p> Autor: DIOGO, Matheus. 2024.</p>
+<p> Autor: THIAGO, Igor. 2024.</p>
 </div>
 
 ## Validação das Histórias de Usuário
@@ -281,7 +281,7 @@ No vídeo 1 encontra-se a gravação da entrevista.
 ## Histórico de Versões
 | Data | Versão | Descrição | Autor(es) | Data de revisão | Revisor(es) |
 | :--:       | :----: | :-------: | :---: | :-------------: | :-----: |
-| 27/05/2024 | `1.3`  | Correções das histórias de usuário vindas da entrevista de validação | [Rodrigo Gontijo](https://github.com/rodrigogontijoo) | 27/05/2024 | [Guilherme Meister](https://github.com/gmeister18) e [Matheus Ferreira](https://github.com/matferreira1) |
-| 27/05/2024 | `1.2`  | Correções de formatação | [Rodrigo Gontijo](https://github.com/rodrigogontijoo) | 27/05/2024 | [Guilherme Meister](https://github.com/gmeister18) e [Matheus Ferreira](https://github.com/matferreira1) |
-| 27/05/2024 | `1.1`  | Adicionando Validação das histórias de Usuário | [Rodrigo Gontijo](https://github.com/rodrigogontijoo) | 27/05/2024 | [Guilherme Meister](https://github.com/gmeister18) e [Matheus Ferreira](https://github.com/matferreira1) |
-| 18/05/2024 | `1.0`  | Criação do artefato | [Guilherme Meister](https://github.com/gmeister18) e [Matheus Ferreira](https://github.com/matferreira1) | 26/05/2024 | [Henrique Galdino](https://github.com/hgaldino05) e [Rodrigo Gontijo](https://github.com/rodrigogontijoo) |
+| 27/05/2024 | `1.3`  | Correções das histórias de usuário vindas da entrevista de validação | [Rodrigo Gontijo](https://github.com/rodrigogontijoo) | 27/05/2024 | [Henrique Galdino](https://github.com/hgaldino05) |
+| 27/05/2024 | `1.2`  | Correções de formatação | [Rodrigo Gontijo](https://github.com/rodrigogontijoo) | 27/05/2024 | [Henrique Galdino](https://github.com/hgaldino05) |
+| 27/05/2024 | `1.1`  | Adicionando Validação das histórias de Usuário | [Rodrigo Gontijo](https://github.com/rodrigogontijoo) | 27/05/2024 | [Henrique Galdino](https://github.com/hgaldino05) |
+| 18/05/2024 | `1.0`  | Criação do artefato | [Guilherme Meister](https://github.com/gmeister18), [Igor Thiago](https://github.com/alladin-51) e [Matheus Ferreira](https://github.com/matferreira1) | 26/05/2024 | [Henrique Galdino](https://github.com/hgaldino05) |

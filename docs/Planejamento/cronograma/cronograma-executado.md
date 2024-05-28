@@ -62,6 +62,22 @@ A Tabela 3 mostra as atividades realizadas do Ponto de Controle 3, com seus resp
 
 #### Tabela 3 - Itens realizados Ponto de Controle 3. (Autor: GALDINO, Henrique 2024).
 
+## Ponto de Controle 4
+A Tabela 3 mostra as atividades realizadas do Ponto de Controle 3, com seus respectivos autores, revisores e datas.
+
+| Atividade | Início | Fim | Data limite |Autores | Revisores |
+|-----------|--------|-----|-----|---------|-----------|
+| Backlog | 21/05 | 27/05 | 27/05 | Guilherme Meister | Matheus Ferreira  |
+| Histórias de Usuário | 21/05 | 27/05 | 27/05 | Guilherme Meister, Igor Thiago, Matheus Ferreira | Henrique Galdino |
+| Validação das Histórias de Usuário | 21/05 | 27/05 | 27/05 | Rodrigo Gontijo | Henrique Galdino |
+| NFR Framework | 21/05 | 27/05 | 27/05 | Henrique Galdino, Júlio César | Igor Thiago |
+| Atualização Cronogramas |  21/05 | 27/05 | 27/05 | Henrique Galdino | Rodrigo Gontijo |
+| Atas das Reuniões (E4) | 21/05 | 27/05 | 27/05 | Henrique Galdino | Guilherme Meister, Igor Thiago |
+| Página da apresentação | 21/05 | 27/05 | 27/05 | Henrique Galdino | Rodrigo Gontijo |
+| Gravação da apresentação | 21/05 | 27/05 | 27/05 | Guilherme, Henrique, Igor, Júlio, Matheus, Rodrigo | Guilherme, Henrique, Igor, Júlio, Matheus, Rodrigo |
+
+#### Tabela 4 - Itens realizados Ponto de Controle 4. (Autor: GALDINO, Henrique 2024).
+
 ---
 
 ### Bibliografia
@@ -72,6 +88,7 @@ A Tabela 3 mostra as atividades realizadas do Ponto de Controle 3, com seus resp
 ### Histórico de versão
 | Versão | Data de execução  | Data de revisão |  Descrição    | Autor(es)     |  Revisor(es)  |
 | :----: | :---------------: | :-------------: | :-----------: | :-----------: | :-----------: |
+| `1.4` | 27/05 | 27/05 | Atualizando cronograma (entrega 4)| [Henrique Galdino](https://github.com/hgaldino05) | [Rodrigo Gontijo](https://github.com/rodrigogontijoo)|
 | `1.3` | 21/04 | 21/04 | Atualizando cronograma (entrega 3)| [Henrique Galdino](https://github.com/hgaldino05) | [Igor Thiago](https://github.com/alladin-51), [Rodrigo Gontijo](https://github.com/rodrigogontijoo)|
 | `1.2` | 21/04 | 21/04 | Atualizando cronograma (entrega 2)| [Henrique Galdino](https://github.com/hgaldino05) | [Igor Thiago](https://github.com/alladin-51), [Rodrigo Gontijo](https://github.com/rodrigogontijoo)|
 | `1.1` | 03/04 | 03/04 | Atualizando cronograma (entrega 1)| [Henrique Galdino](https://github.com/hgaldino05) | [Guilherme Meister](https://github.com/gmeister18)|

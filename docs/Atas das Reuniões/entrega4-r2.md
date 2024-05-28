@@ -30,7 +30,7 @@ A gravação desta reunião pode ser vista [aqui](https://youtu.be/Ydy-ARaK64E).
 
 | <p align="center">Data</p> | <p align="center">Versão</p> | <p align="center">Descrição</p> | <p align="center">Autor(es)</p> | <p align="center">Data de revisão</p> | <p align="center">Revisor(es)</p> |
 | :--:       | :----: | :-------: | :---: | :-------------: | :-----: |
-| 27/05/2024 | `1.0`  | Criação da página | [Henrique Galdino](https://github.com/hgaldino05) | 27/05/2024 | [Igor Thiago](https://github.com/alladin-51)|
+| 27/05/2024 | `1.0`  | Criação da página | [Henrique Galdino](https://github.com/hgaldino05) | 27/05/2024 | [Guilherme Meister](https://github.com/gmeister18), [Igor Thiago](https://github.com/alladin-51)|
 
 <div style="text-align: center">
 <p> Tabela 2: Histórico de Versões (Autor: GALDINO, Henrique 2024). </p>
