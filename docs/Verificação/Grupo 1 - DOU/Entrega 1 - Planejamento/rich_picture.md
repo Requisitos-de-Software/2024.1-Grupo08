@@ -1,1 +1,1 @@
-# Verificação do artefato "Rich Picture"
+# Rich Picture

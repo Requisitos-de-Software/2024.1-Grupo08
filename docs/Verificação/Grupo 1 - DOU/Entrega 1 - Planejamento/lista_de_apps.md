@@ -1,1 +1,1 @@
-# Verificação do artefato "Lista de aplicativos"
+# Lista de aplicativos

@@ -1,1 +1,1 @@
-# Verificação do artefato "Termo de Uso"
+# Termo de Uso

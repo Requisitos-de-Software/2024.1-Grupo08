@@ -1,1 +1,1 @@
-# Verificação do artefato "Heatmap"
+# Heatmap
