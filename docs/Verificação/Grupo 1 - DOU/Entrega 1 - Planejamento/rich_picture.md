@@ -17,7 +17,6 @@ Por meio desta, o objetivo deste documento é realizar tal procedimento em cima 
 
 ### Verificação
 
-
 Para realizar a verificação do artefato,iremos usar uma adaptação da técnica de inspeção, aonde teremos um Checklist de verificação para cada etapa do projeto desenvolvida pelo <a href="https://github.com/Requisitos-de-Software/2024.1-Grupo01">Grupo 1</a>.
 
 ## Checklist
@@ -29,13 +28,13 @@ A tabela 1 apresenta o checklist de verificação desenvolvido com base no artef
 | 1 | O artefato apresenta introdução? | SIM | - |
 | 2 | O artefato apresenta histórico de versão padronizado (com autores e revisores)? | SIM | - |
 | 3 | O artefato apresenta legenda e fonte (chamadas no texto) nas imagens/tabelas? | SIM | Atentar-se para diferença entre FONTE e AUTOR |
-| 4 | O artefato apresenta referência bibliográfica e/ou bibliografia? | SIM | Referência sem link/data |
-| 5 | As ferramentas foram claramente apresentadas? | SIM | - |
-| 6 | A escolha da ferramenta para comunicação do grupo foi apropriada? | SIM | - |
-| 7 | A ferramenta escolhida para a documentação é apropriada? | SIM | - |
-| 8 | A ferramenta escolhida para gravar as reuniões é apropriada? | SIM | - |
-| 9 | A ferramenta escolhida para elaborar diagramas é adequada? | SIM | - |
-| 10 | Todas as ferramentas utilizadas estão presentes no documento? | NÃO | - | Faltou a ferramenta utilizada para criação das personas |
+| 4 | O artefato apresenta referência bibliográfica e/ou bibliografia? | SIM | |
+| 5 | O(s) Ator(es) do RichPicture, está do lado de fora do sistema? | SIM | - |
+| 6 | Há a presença dos 5 principais componentes de um Richpicture? | SIM | - |
+| 7 | O componente Fronteira está sendo utilizado de acordo com as diretrizes? | SIM | - |
+| 8 | O componente Fluxo está sendo aplicado da maneira correta? | SIM | - |
+| 9 | O componente Atores está empregado de maneira apropriada no artefato? | SIM | - |
+| 10 | O componente Operações está sendo empregado corretamente? | SIM | - |
 
 <div align="center">
 <figcaption align="center">Tabela 01: Checklist (Autor: Meister, Guilherme)</figcaption>
@@ -48,8 +47,6 @@ A tabela 1 apresenta o checklist de verificação desenvolvido com base no artef
 O artefato segue os padrões esperados, porém alguns pontos são passíveis de revisão e correção:
 
 - As tabelas que foram feitas pelos membros da equipe estão marcadas como "Fonte", mas este termo deve ser utilizado para tabelas que têm origem em alguma das referências, o correto seria usar "Autor"
-
-- Acredito que faltou a adição da ferramenta utilizada para criação das personas.
 
 ## Bibliografia
 
