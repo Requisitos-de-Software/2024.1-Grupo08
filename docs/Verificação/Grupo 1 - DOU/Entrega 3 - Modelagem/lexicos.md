@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Este artefato contém a verificação da versão **1.4** do artefato ***[Léxicos](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/modelagem/lexicos/)*** desenvolvido pelo *Grupo 01*, a qual foi adicionada na data 17/05/2024 pelo membro [João Artur](https://github.com/joao-artl).
+Este artefato contém a verificação da versão **1.4** do artefato [Léxicos](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/modelagem/lexicos/) desenvolvido pelo *Grupo 01*, a qual foi adicionada na data 17/05/2024 pelo membro [João Artur](https://github.com/joao-artl).
 
 ## Checklist
 
@@ -22,7 +22,7 @@ A tabela 1 apresenta o checklist de verificação desenvolvido com base no artef
 | 10 | Os léxicos apresentados no artefato apresentam *classificação*, *impacto*, *noção* e *sinônimos*? | SIM | - |
 
 <div align="center">
-<figcaption align="left">Tabela 01: Checklist (Autor: Henrique Galdino)</figcaption>
+<figcaption align="center">Tabela 01: Checklist (Autor: Henrique Galdino)</figcaption>
 </div>
 <br/>
 
@@ -43,6 +43,6 @@ O artefato segue os padrões esperados, porém alguns pontos são passíveis de 
 | 1.0    | 05/06/2024       | 05/06/2024      | Criação do checklist Léxicos   | [Henrique Galdino](https://github.com/hgaldino05)   | [Júlio César](https://github.com/Julio1099)         |
 
 <div align="center">
-<figcaption align="left">Tabela 02: Histórico de versões   (Autor: Henrique Galdino)</figcaption>
+<figcaption align="center">Tabela 02: Histórico de versões   (Autor: Henrique Galdino)</figcaption>
 </div>
 <br/>
