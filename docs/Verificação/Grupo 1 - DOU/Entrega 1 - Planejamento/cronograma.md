@@ -2,28 +2,21 @@
 
 ## Introdução
 
-<div align="justify">
-
 A verificação de artefatos em requisitos de software é uma prática essencial no processo de desenvolvimento de sistemas de software. Ela assegura que os requisitos, que definem o que o software deve fazer, estão corretos, completos, consistentes e claros antes de prosseguir para as fases subsequentes de design e implementação.
 Por meio desta, o objetivo deste documento é realizar tal procedimento em cima do artefato <a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/planejamento/cronograma/">Cronograma</a>, que foi desenvolvido pelo <a href="https://github.com/Requisitos-de-Software/2024.1-DiarioOficialdaUniao">Grupo 1</a>. A verificação levou como base o básico que cada documentação deve ter e algumas perguntas específicas, além de usar como base os critérios de avaliação utilizados pelo professor.
-</div>
+
 
 ## Metodologia
 
-<div align="justify">
-
  A nossa verificação terá a verificação do conteúdo esperado no artefato, criamos uma checklist baseada na leitura do plano de ensino, contendo perguntas estritamente sobre a construção do artefato <a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/planejamento/cronograma/">Cronograma</a>. A tabela 1 apresenta uma base de funcionamento da avaliação, vale ressaltar que as respostas foram tomadas a partir da análise do artefato disponível na última versão disponibilizada pelo <a href="https://github.com/Requisitos-de-Software/2024.1-DiarioOficialdaUniao">Grupo 1</a>, ou seja, a 1.6 no dia 27/05/2024.
 
-</div>
 
 ## Conteúdo esperado
-<div align="justify">
-<p>É esperado que o artefato apresente o cronograma planejado e executado do desenvolvimento do projeto.</p>
-</div>
+
+É esperado que o artefato apresente o cronograma planejado e executado do desenvolvimento do projeto.
+
 
 ### Verificação
-
-<div align="justify">
 
 Para realizar a verificação do artefato,iremos usar uma adaptação da técnica de inspeção, aonde teremos um Checklist de verificação para cada etapa do projeto desenvolvida pelo <a href="https://github.com/Requisitos-de-Software/2023.1-Booking">Grupo 1</a>.
 
