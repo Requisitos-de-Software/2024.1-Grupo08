@@ -7,7 +7,7 @@ Por meio desta, o objetivo deste documento é realizar tal procedimento em cima 
 
 ## Metodologia
 
- A nossa verificação terá a verificação do conteúdo esperado no artefato, criamos uma checklist baseada na leitura do plano de ensino, contendo perguntas estritamente sobre a construção do artefato <a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/pre-rastreabilidade/rich-picture/">Rich Picture</a>. A tabela 1 apresenta uma base de funcionamento da avaliação, vale ressaltar que as respostas foram tomadas a partir da análise do artefato disponível na última versão disponibilizada pelo <a href="https://github.com/Requisitos-de-Software/2024.1-DiarioOficialdaUniao">Grupo 1</a>, ou seja, a 1.1 no dia 04/04/2024.
+ A nossa verificação terá a verificação do conteúdo esperado no artefato, criamos uma checklist baseada nos conteúdos já vistos em sala de aula, contendo perguntas estritamente sobre o artefato <a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/pre-rastreabilidade/rich-picture/">Rich Picture</a>. A tabela 1 apresenta uma base de funcionamento da avaliação, vale ressaltar que as respostas foram tomadas a partir da análise do artefato disponível na última versão disponibilizada pelo <a href="https://github.com/Requisitos-de-Software/2024.1-DiarioOficialdaUniao">Grupo 1</a>, ou seja, a 1.1 no dia 04/04/2024.
 
 
 ## Conteúdo esperado
@@ -19,28 +19,44 @@ Por meio desta, o objetivo deste documento é realizar tal procedimento em cima 
 
 Para realizar a verificação do artefato,iremos usar uma adaptação da técnica de inspeção, aonde teremos um Checklist de verificação para cada etapa do projeto desenvolvida pelo <a href="https://github.com/Requisitos-de-Software/2024.1-Grupo01">Grupo 1</a>.
 
-## Checklist
 
-A tabela 1 apresenta o checklist de verificação desenvolvido com base no artefato e seus itens podem ser marcados como **SIM**, **NÃO** ou **INCOMPLETO**, além de apresentar observações sobre os mesmos, caso necessário.
+## Checklist itens gerais
 
-| ID | Descrição | Verificação | Observação |
-| :--: | :-----: | :---------: | :--------: |
-| 1 | O artefato apresenta introdução? | SIM | - |
-| 2 | O artefato apresenta histórico de versão padronizado (com autores e revisores)? | SIM | - |
-| 3 | O artefato apresenta legenda e fonte (chamadas no texto) nas imagens/tabelas? | SIM | Atentar-se para diferença entre FONTE e AUTOR |
-| 4 | O artefato apresenta referência bibliográfica e/ou bibliografia? | SIM | |
-| 5 | O(s) Ator(es) do RichPicture, está do lado de fora do sistema? | SIM | - |
-| 6 | Há a presença dos 5 principais componentes de um Richpicture? | SIM | - |
-| 7 | O componente Fronteira está sendo utilizado de acordo com as diretrizes? | SIM | - |
-| 8 | O componente Fluxo está sendo aplicado da maneira correta? | SIM | - |
-| 9 | O componente Atores está empregado de maneira apropriada no artefato? | SIM | - |
-| 10 | O componente Operações está sendo empregado corretamente? | SIM | - |
+A tabela 1 apresenta o checklist dos itens gerais de verificação desenvolvido com base no artefato e seus itens podem ser marcados como **SIM**, **NÃO** ou **INCOMPLETO**, além de apresentar observações sobre os mesmos, caso necessário.
+
+| ID | Descrição | Verificação | Observação | Autor da inspeção |
+| :--: | :-----: | :---------: | :--------: | :--------: |
+| 1 | O artefato apresenta introdução? | SIM | - | [Matheus Ferreira](https://github.com/matferreira1) |
+| 2 | O artefato apresenta histórico de versão padronizado (com autores e revisores)? | SIM | - |  [Matheus Ferreira](https://github.com/matferreira1) |
+| 3 | O artefato apresenta legenda e fonte (chamadas no texto) nas imagens/tabelas? | SIM | Atentar-se para diferença entre FONTE e AUTOR | [Matheus Ferreira](https://github.com/matferreira1) | 
+| 4 | O artefato apresenta referência bibliográfica e/ou bibliografia? | SIM | - | [Matheus Ferreira](https://github.com/matferreira1) |
 
 <div align="center">
 <figcaption align="center">Tabela 01: Checklist (Autor: Meister, Guilherme)</figcaption>
 </div>
 <br/>
 
+## Checklist itens específicos
+
+A tabela 2 apresenta o checklist dos itens de conteúdos apresentados, desenvolvido com base no artefato e seus itens podem ser marcados como **SIM**, **NÃO** ou **INCOMPLETO**, além de apresentar observações sobre os mesmos, caso necessário.
+
+| ID | Descrição | Verificação | Observação | Autor da inspeção|
+| :--: | :-----: | :---------: | :--------: | :--------: |
+| 5 | O(s) Ator(es) do RichPicture, está do lado de fora do sistema? | SIM | - | [Matheus Ferreira](https://github.com/matferreira1) |
+| 6 | Há a presença dos 5 principais componentes de um Richpicture? | SIM | - | [Matheus Ferreira](https://github.com/matferreira1) |
+| 7 | O componente Fronteira está sendo utilizado de acordo com as diretrizes? | SIM | - | [Matheus Ferreira](https://github.com/matferreira1) |
+| 8 | O componente Fluxo está sendo aplicado da maneira correta? | SIM | - | [Matheus Ferreira](https://github.com/matferreira1) |
+| 9 | O componente Atores está empregado de maneira apropriada no artefato? | SIM | - | [Matheus Ferreira](https://github.com/matferreira1) |
+| 10 | O componente Operações está sendo empregado corretamente? | SIM | - | [Matheus Ferreira](https://github.com/matferreira1) | 
+
+<div align="center">
+<figcaption align="center">Tabela 02: Checklist (Autor: Meister, Guilherme)</figcaption>
+</div>
+<br/>
+
+## Inspeção Individual
+
+<iframe width="560" height="315" src="https://www.youtube.com/" title="inspeção individual " frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Comentários
 
@@ -50,7 +66,7 @@ O artefato segue os padrões esperados, porém alguns pontos são passíveis de 
 
 ## Bibliografia
 
-- [1] SALES, André Barros. Plano de ensino da disciplina. Disponível em: https://aprender3.unb.br/pluginfile.php/2523005/mod_resource/content/27/Plano_de_Ensino%20RE%20202301%20Turma%202.pdf. Acesso em 20 de junho de 2023.
+- [1] Introducing Rich Pictures - Rich Picture Drawing Guidelines. Disponível em: https://aprender3.unb.br/pluginfile.php/2523045/mod_resource/content/2/1_5145791542719414573.pdf. Acessado em: 06 de junho de 2024
 
 - ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. ABNT. Disponível em: <https://www.abnt.org.br/>. Acesso em: 04 jun. 2024.
 
@@ -62,4 +78,5 @@ O artefato segue os padrões esperados, porém alguns pontos são passíveis de 
 
 | <p align="center">Data</p> | <p align="center">Versão</p> | <p align="center">Descrição</p> | <p align="center">Autor(es)</p> | <p align="center">Data de revisão</p> | <p align="center">Revisor(es)</p> |
 | - | - | - | - | - | - | 
-| 05/06/2024 | `1.0` | Documento criado | [Guilherme Meister](https://github.com/gmeister18) | --/06/2023 | [--------](https://github.com/) |
+| 05/06/2024 | `1.0` | Documento criado | [Guilherme Meister](https://github.com/gmeister18) | --/06/2023 | [Matheus Ferreira](https://github.com/) |
+| 06/06/2024 | `1.1` | Correções | [Guilherme Meister](https://github.com/gmeister18) | --/06/2023 | [Matheus Ferreira](https://github.com/matferreira1) |
