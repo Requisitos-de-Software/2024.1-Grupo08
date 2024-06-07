@@ -48,6 +48,9 @@ A tabela 2 apresenta o checklist dos itens de conteúdos apresentados, desenvolv
 | 8 | O componente Fluxo está sendo aplicado da maneira correta? | SIM | - | [Matheus Ferreira](https://github.com/matferreira1) |
 | 9 | O componente Atores está empregado de maneira apropriada no artefato? | SIM | - | [Matheus Ferreira](https://github.com/matferreira1) |
 | 10 | O componente Operações está sendo empregado corretamente? | SIM | - | [Matheus Ferreira](https://github.com/matferreira1) | 
+| 11 | O rich picture passa uma mensagem de forma efetiva? | SIM | - | [Matheus Ferreira](https://github.com/matferreira1) | 
+| 12 | O rich picture consegue contar uma história de maneira eficiente?  | SIM | - | [Matheus Ferreira](https://github.com/matferreira1) | 
+
 
 <div align="center">
 <figcaption align="center">Tabela 02: Checklist (Autor: Meister, Guilherme)</figcaption>
