@@ -57,10 +57,6 @@ A tabela 2 apresenta o checklist dos itens de conteúdos apresentados, desenvolv
 </div>
 <br/>
 
-## Inspeção Individual
-
-<iframe width="560" height="315" src="https://www.youtube.com/" title="inspeção individual " frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 ## Comentários
 
 O artefato segue os padrões esperados, porém alguns pontos são passíveis de revisão e correção:
