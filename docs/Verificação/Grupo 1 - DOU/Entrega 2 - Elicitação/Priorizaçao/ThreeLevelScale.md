@@ -62,7 +62,7 @@ O artefato segue os padrões esperados, porém alguns pontos são passíveis de 
 
 ## Bibliografia
 
-- [1] Presman, Roger S; Maxim, Bruce R. Engenharia de software. 8. ed. Bookman, 2016 p. 87-92. Acessado em: 06 de junho de 2024
+- [1] Presman, Roger S; Maxim, Bruce R. Engenharia de software. 8. ed. Bookman, 2016. Acessado em: 06 de junho de 2024
 
 - ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. ABNT. Disponível em: <https://www.abnt.org.br/>. Acesso em: 07 jun. 2024.
 
