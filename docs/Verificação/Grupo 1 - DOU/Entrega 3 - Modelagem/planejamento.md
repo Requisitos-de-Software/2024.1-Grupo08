@@ -9,7 +9,7 @@ A verificação é uma etapa crucial no desenvolvimento de projetos, visando ana
 O objetivo é analisar e avaliar os artefatos feitos para a entrega 3, vendo se os conceitos ministrados ao decorrer da disciplina foram corretamente aplicados no desenvolvimento de cada um deles.
 
 ## Metodologia
-
+Segundo Fagan[¹]()
 
 ## Objetos de Verificação
 
@@ -38,6 +38,10 @@ O objetivo é analisar e avaliar os artefatos feitos para a entrega 3, vendo se 
 ### Checklist de Casos de Uso
 
 ### Checklist de Especificação Suplementar
+
+## Referências Bibliográficas
+
+> <a id="1" href="#anchor_1">1.</a> SERRANO, et al. Requisitos - Aula 23. Disponível em: h<https://aprender3.unb.br/pluginfile.php/2845073/mod_resource/content/2/Requisitos%20-%20Aula%20023.pdf>. Acesso em: 06/06/2024.
 
 ## Histórico de Versão
 
