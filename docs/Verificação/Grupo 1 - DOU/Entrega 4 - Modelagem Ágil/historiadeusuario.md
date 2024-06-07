@@ -65,11 +65,11 @@ O artefato segue os padrões esperados, porém alguns pontos são passíveis de 
 
 ## Bibliografia
 
-- [1] Presman, Roger S; Maxim, Bruce R. Engenharia de software. 8. ed. Bookman, 2016 p. 87-92. Acessado em: 06 de junho de 2024
+- [1] Presman, Roger S; Maxim, Bruce R. Engenharia de software. 8. ed. Bookman, 2016. Acessado em: 06 de junho de 2024
 
-- ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. ABNT. Disponível em: <https://www.abnt.org.br/>. Acesso em: 04 jun. 2024.
+- ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. ABNT. Disponível em: <https://www.abnt.org.br/>. Acesso em: 07 jun. 2024.
 
-- [2]Documento de verificação do Grupo 3 Disciplina de Requisitos. Disponível em: <https://github.com/Requisitos-de-Software/2023.1-VLC>. Acesso em 04 jun. 2024
+- [2]Documento de verificação do Grupo 3 Disciplina de Requisitos. Disponível em: <https://github.com/Requisitos-de-Software/2023.1-VLC>. Acesso em 07 jun. 2024
 
 - [3] Bourque and R.E. Fairley, eds., Guide to the Software Engineering Body of Knowledge, Version 3.0, IEEE Computer Society, 2014; www.swebok.org.
 
