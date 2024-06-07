@@ -9,7 +9,9 @@ A verificação é uma etapa crucial no desenvolvimento de projetos, visando ana
 O objetivo é analisar e avaliar os artefatos feitos para a entrega 3, vendo se os conceitos ministrados ao decorrer da disciplina foram corretamente aplicados no desenvolvimento de cada um deles.
 
 ## Metodologia
-Segundo Fagan[¹]()
+A metodologia utilizada foi a técnica de **Inspeção**, cujo objetivo é averiguar se o modelo de requisitos está de acordo com o esperado e com a sua notação. Segundo Fagan[¹]() um método de inspeção estabelece um processo com seis passos, sendo eles:
+
+
 
 ## Objetos de Verificação
 
