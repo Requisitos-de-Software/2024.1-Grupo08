@@ -13,9 +13,14 @@ A tabela 1 apresenta o checklist de verificação desenvolvido com base no artef
 | 1 | O artefato apresenta as especificações dos léxicos? | SIM | - |
 | 2 | O artefato apresenta relacionamento entre os léxicos? | SIM | - |
 | 3 | O relacionamento entre os léxicos apresenta hiperlinks? | SIM | - |
-| 4 | O relacionamento entre os léxicos apresenta hiperlinks? | SIM | - |
-| 5 | Os léxicos apresentados no artefato seguem a estrutura de dicionário (verbo, objeto, estado)? | SIM | - |
-| 6 | Os léxicos apresentados no artefato apresentam *classificação*, *impacto*, *noção* e *sinônimos*? | SIM | - |
+| 4 | Os léxicos apresentados no artefato seguem a estrutura de dicionário (verbo, objeto, estado)? | SIM | - |
+| 5 | Os léxicos apresentados no artefato apresentam *classificação*, *impacto*, *noção* e *sinônimos*? | SIM | - |
+| 6 | Os léxicos apresentam noção e impacto corretamente? | SIM | - |
+| 7 | Os léxicos estão classificados corretamente? | INCOMPLETO | O [Léxico 06](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/modelagem/lexicos/#l06-configuracao-de-notificacoes) está classificado como *objeto* |
+| 8 | Cada léxico apresenta zero ou mais sinônimos? | SIM | - |
+| 9 | Cada léxico apresenta uma ou mais noções? | SIM | - |
+| 10 | Cada léxico apresenta um ou mais impactos? | SIM | - |
+| 11 | A circularidade foi aplicada entre os léxicos? | SIM | - |
 
 <div align="center">
 <figcaption align="center">Tabela 01: Checklist (Autor: Henrique Galdino)</figcaption>
@@ -24,7 +29,7 @@ A tabela 1 apresenta o checklist de verificação desenvolvido com base no artef
 
 ## Comentários
 
-O artefato segue os padrões esperados e apresenta conteúdos relacionados aos materiais vistos no decorrer do curso, porém alguns pontos são passíveis de revisão e correção:
+O artefato segue os padrões esperados e apresenta conteúdos relacionados aos materiais vistos no decorrer do curso, porém alguns pontos são passíveis de revisão e correção. Seguem algumas das sugestões de correção relacionadas tanto aos conteúdos quanto à formatação do artefato:
 
 - As tabelas que foram feitas pelos membros da equipe estão marcadas como "Fonte", mas este termo deve ser utilizado para tabelas que têm origem em alguma das referências (como é o caso da [tabela 1](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/modelagem/lexicos/#metodologia) presente no artefato). Neste caso, o correto seria usar "Autor"
 
@@ -42,6 +47,7 @@ O artefato segue os padrões esperados e apresenta conteúdos relacionados aos m
 
 | Versão | Data de execução | Data de revisão |  Descrição                          | Autor(es)                                           | Revisor(es)                                           |
 | :----: | :--------------: | :-------------: | :---------------------------------: | :-------------------------------------------------: | :---------------------------------------------------: |
+| 1.1    | 08/06/2024       | 08/06/2024      | Complementando Checklist   | [Henrique Galdino](https://github.com/hgaldino05)   | [Júlio César](https://github.com/Julio1099)         |
 | 1.0    | 05/06/2024       | 05/06/2024      | Criação do checklist Léxicos   | [Henrique Galdino](https://github.com/hgaldino05)   | [Júlio César](https://github.com/Julio1099)         |
 
 <div align="center">
