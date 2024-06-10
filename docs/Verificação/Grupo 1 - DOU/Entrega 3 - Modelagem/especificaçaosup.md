@@ -9,7 +9,7 @@ Este artefato contém a verificação da versão **1.1** do artefato [Especifica
 
 A tabela 1 apresenta o checklist de verificação desenvolvido com base no artefato e seus itens podem ser marcados como **SIM**, **NÃO** ou **INCOMPLETO**, além de apresentar observações sobre os mesmos, caso necessário.
 | ID | Descrição | Avaliação | Observações |
-|:-:|---|:-:|---|
+|:-:|:---:|:-:|:---:|
 | 1 | O documento é orientado pelo padrão FURPS? |**SIM**  |  |
 | 2 | O documento aborda sobre a estética e o design na Usabilidade? | **SIM** |  |
 | 3 | O documento aborda e especifica sobre a facilidade de memorização na usabilidade? | **NÃO** |  |
