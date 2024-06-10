@@ -36,7 +36,7 @@ A tabela 1 apresenta o checklist de verificação desenvolvido com base no artef
 <details>
 <summary>Consultar Documentos Legislativos</summary>
 
-### Tabela 2: Tabela de verificação para Calcular preços e prazos de entrega
+### Tabela 2: Tabela de verificação para Consultar Documentos Legislativos
 
 | ID | Descrição | Verificação | Observação |
 | :--: | :-----: | :---------: | :--------: |
@@ -66,7 +66,7 @@ A tabela 1 apresenta o checklist de verificação desenvolvido com base no artef
 <details>
 <summary>Salvar Documentos para Consulta Offline</summary>
 
-### Tabela 3: Tabela de verificação para Realizar compras na loja online
+### Tabela 3: Tabela de verificação para Salvar Documentos para Consulta Offline
 
 | ID | Descrição | Verificação | Observação |
 | :--: | :-----: | :---------: | :--------: |
@@ -96,7 +96,7 @@ A tabela 1 apresenta o checklist de verificação desenvolvido com base no artef
 <details>
 <summary>Receber Notificações Personalizadas</summary>
 
-### Tabela 4: Tabela de verificação para Realizar pré-postagem
+### Tabela 4: Tabela de verificação para Receber Notificações Personalizadas
 
 | ID | Descrição | Verificação | Observação |
 | :--: | :-----: | :---------: | :--------: |
