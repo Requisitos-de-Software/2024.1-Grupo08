@@ -10,20 +10,19 @@ A tabela 1 apresenta o checklist de verificação desenvolvido com base no artef
 
 | ID | Descrição | Verificação | Observação |
 | :--: | :-----: | :---------: | :--------: |
-| 1 | Cada caso de uso fornece um resultado observável e valioso para os atores ou outras partes interessadas no sistema? <a id="REF3" href="#anchor_3">3</a> | - | - |
+| 1 | O caso de uso desenvolvido corresponde a uma funcionalidade completa que agrega algum valor? <a id="REF3" href="#anchor_3">3</a> | - | - |
 | 2 | Os verbos são usados ​​no infinitivo em vez de substantivos? <a id="REF1" href="#anchor_3">1</a> | - | - |
 | 3 | Existem relações de “extend”, “generalization” e “include”? <a id="REF3" href="#anchor_3">3</a>| - | - |
 | 4 | O caso de uso reflete o usuário e suas interações com o sistema? <a id="REF3" href="#anchor_3">3</a>| - | - |
 | 5 | O usuário é identificado por um nome, como cliente, funcionário, aluno, etc.? <a id="REF3" href="#anchor_3">3</a> | - | - |
-| 6 | O caso de uso desenvolvido corresponde a uma funcionalidade completa que agrega algum valor? <a id="REF3" href="#anchor_3">3</a> | - | - |
-| 7 | Os casos de uso representam requisitos funcionais? <a id="REF3" href="#anchor_3">3</a> | - | - |
-| 8 | Alguma técnica específica foi usada para desenvolver os casos de uso? <a id="REF3" href="#anchor_3">3</a> | - | - |
-| 9 | Os elementos de atores, sistema e objetivos estão presentes no caso de uso? <a id="REF3" href="#anchor_3">2</a> | - | - |
-| 10 | Existem fluxos principais, alternativos e de exceção? <a id="REF3" href="#anchor_3">1</a> | - | - |
-| 11 | Cada especificação de caso de uso contém apenas um fluxo principal? <a id="REF3" href="#anchor_3">1</a> | - | - |
-| 12 | Os fluxos principais demonstram como o usuário usaria principalmente a funcionalidade? <a id="REF3" href="#anchor_3">1</a> | - | - |
-| 13 | Os fluxos alternativos apresentam cenários alternativos ao fluxo principal? <a id="REF3" href="#anchor_3"> 3 </a> | - | - |
-| 14 | Os fluxos de exceção mostram como o sistema reagirá a situações inesperadas? <a id="REF3" href="#anchor_3">3</a> | - | - |
+| 6 | Os casos de uso representam requisitos funcionais? <a id="REF3" href="#anchor_3">3</a> | - | - |
+| 7 | Alguma técnica específica foi usada para desenvolver os casos de uso? <a id="REF3" href="#anchor_3">3</a> | - | - |
+| 8 | Os elementos de atores, sistema e objetivos estão presentes no caso de uso? <a id="REF3" href="#anchor_3">2</a> | - | - |
+| 9 | Existem fluxos principais, alternativos e de exceção? <a id="REF3" href="#anchor_3">1</a> | - | - |
+| 10 | Cada especificação de caso de uso contém apenas um fluxo principal? <a id="REF3" href="#anchor_3">1</a> | - | - |
+| 11 | Os fluxos principais demonstram como o usuário usaria principalmente a funcionalidade? <a id="REF3" href="#anchor_3">1</a> | - | - |
+| 12 | Os fluxos alternativos apresentam cenários alternativos ao fluxo principal? <a id="REF3" href="#anchor_3"> 3 </a> | - | - |
+| 13 | Os fluxos de exceção mostram como o sistema reagirá a situações inesperadas? <a id="REF3" href="#anchor_3">3</a> | - | - |
 
 
 
@@ -32,11 +31,157 @@ A tabela 1 apresenta o checklist de verificação desenvolvido com base no artef
 </div>
 <br/>
 
-## Comentários
+## Avaliações
 
+<details>
+<summary>Consultar Documentos Legislativos</summary>
 
+### Tabela 2: Tabela de verificação para Calcular preços e prazos de entrega
 
+| ID | Descrição | Verificação | Observação |
+| :--: | :-----: | :---------: | :--------: |
+| 1 | O caso de uso desenvolvido corresponde a uma funcionalidade completa que agrega algum valor? <a id="REF3" href="#anchor_3">3</a> | SIM | - |
+| 2 | Os verbos são usados ​​no infinitivo em vez de substantivos? <a id="REF1" href="#anchor_3">1</a> | SIM | - |
+| 3 | Existem relações de “extend”, “generalization” e “include”? <a id="REF3" href="#anchor_3">3</a>| SIM | - |
+| 4 | O caso de uso reflete o usuário e suas interações com o sistema? <a id="REF3" href="#anchor_3">3</a>| SIM | - |
+| 5 | O usuário é identificado por um nome, como cliente, funcionário, aluno, etc.? <a id="REF3" href="#anchor_3">3</a> | SIM | O usuário é apenas referido como "Usuário" sem especificação. |
+| 6 | Os casos de uso representam requisitos funcionais? <a id="REF3" href="#anchor_3">3</a> | SIM | - |
+| 7 | Alguma técnica específica foi usada para desenvolver os casos de uso? <a id="REF3" href="#anchor_3">3</a> | Incompleto | Não há menção de técnicas específicas usadas para desenvolver este caso de uso. |
+| 8 | Os elementos de atores, sistema e objetivos estão presentes no caso de uso? <a id="REF3" href="#anchor_3">2</a> | SIM | - |
+| 9 | Existem fluxos principais, alternativos e de exceção? <a id="REF3" href="#anchor_3">1</a> | SIM | - |
+| 10 | Cada especificação de caso de uso contém apenas um fluxo principal? <a id="REF3" href="#anchor_3">1</a> | SIM | - |
+| 11 | Os fluxos principais demonstram como o usuário usaria principalmente a funcionalidade? <a id="REF3" href="#anchor_3">1</a> | SIM | - |
+| 12 | Os fluxos alternativos apresentam cenários alternativos ao fluxo principal? <a id="REF3" href="#anchor_3"> 3 </a> | SIM | Porém não há fluxos alternativos descritos. |
+| 13 | Os fluxos de exceção mostram como o sistema reagirá a situações inesperadas? <a id="REF3" href="#anchor_3">3</a> | SIM | - |
 
+<br>
+
+<div align="center">
+<figcaption align="center">Autor: Júlio Cesar</figcaption>
+</div>
+<br/>
+
+</details>
+
+<details>
+<summary>Salvar Documentos para Consulta Offline</summary>
+
+### Tabela 3: Tabela de verificação para Realizar compras na loja online
+
+| ID | Descrição | Verificação | Observação |
+| :--: | :-----: | :---------: | :--------: |
+| 1 | O caso de uso desenvolvido corresponde a uma funcionalidade completa que agrega algum valor? <a id="REF3" href="#anchor_3">3</a> | SIM | - |
+| 2 | Os verbos são usados ​​no infinitivo em vez de substantivos? <a id="REF1" href="#anchor_3">1</a> | SIM | - |
+| 3 | Existem relações de “extend”, “generalization” e “include”? <a id="REF3" href="#anchor_3">3</a>| SIM | - |
+| 4 | O caso de uso reflete o usuário e suas interações com o sistema? <a id="REF3" href="#anchor_3">3</a>| SIM | - |
+| 5 | O usuário é identificado por um nome, como cliente, funcionário, aluno, etc.? <a id="REF3" href="#anchor_3">3</a> | SIM | O usuário é apenas referido como "Usuário" sem especificação. |
+| 6 | Os casos de uso representam requisitos funcionais? <a id="REF3" href="#anchor_3">3</a> | SIM | - |
+| 7 | Alguma técnica específica foi usada para desenvolver os casos de uso? <a id="REF3" href="#anchor_3">3</a> | Incompleto | Não há menção de técnicas específicas usadas para desenvolver este caso de uso. |
+| 8 | Os elementos de atores, sistema e objetivos estão presentes no caso de uso? <a id="REF3" href="#anchor_3">2</a> | SIM | - |
+| 9 | Existem fluxos principais, alternativos e de exceção? <a id="REF3" href="#anchor_3">1</a> | SIM | - |
+| 10 | Cada especificação de caso de uso contém apenas um fluxo principal? <a id="REF3" href="#anchor_3">1</a> | SIM | - |
+| 11 | Os fluxos principais demonstram como o usuário usaria principalmente a funcionalidade? <a id="REF3" href="#anchor_3">1</a> | SIM | - |
+| 12 | Os fluxos alternativos apresentam cenários alternativos ao fluxo principal? <a id="REF3" href="#anchor_3"> 3 </a> | SIM | Porém não há fluxos alternativos descritos. |
+| 13 | Os fluxos de exceção mostram como o sistema reagirá a situações inesperadas? <a id="REF3" href="#anchor_3">3</a> | SIM | - |
+
+<br>
+
+<div align="center">
+<figcaption align="center">Autor: Júlio Cesar</figcaption>
+</div>
+<br/>
+
+</details>
+
+<details>
+<summary>Receber Notificações Personalizadas</summary>
+
+### Tabela 4: Tabela de verificação para Realizar pré-postagem
+
+| ID | Descrição | Verificação | Observação |
+| :--: | :-----: | :---------: | :--------: |
+| 1 | O caso de uso desenvolvido corresponde a uma funcionalidade completa que agrega algum valor? <a id="REF3" href="#anchor_3">3</a> | SIM | - |
+| 2 | Os verbos são usados ​​no infinitivo em vez de substantivos? <a id="REF1" href="#anchor_3">1</a> | SIM | - |
+| 3 | Existem relações de “extend”, “generalization” e “include”? <a id="REF3" href="#anchor_3">3</a>| SIM | - |
+| 4 | O caso de uso reflete o usuário e suas interações com o sistema? <a id="REF3" href="#anchor_3">3</a>| SIM | - |
+| 5 | O usuário é identificado por um nome, como cliente, funcionário, aluno, etc.? <a id="REF3" href="#anchor_3">3</a> | SIM | O usuário é apenas referido como "Usuário" sem especificação. |
+| 6 | Os casos de uso representam requisitos funcionais? <a id="REF3" href="#anchor_3">3</a> | SIM | - |
+| 7 | Alguma técnica específica foi usada para desenvolver os casos de uso? <a id="REF3" href="#anchor_3">3</a> | Incompleto | Não há menção de técnicas específicas usadas para desenvolver este caso de uso. |
+| 8 | Os elementos de atores, sistema e objetivos estão presentes no caso de uso? <a id="REF3" href="#anchor_3">2</a> | SIM | - |
+| 9 | Existem fluxos principais, alternativos e de exceção? <a id="REF3" href="#anchor_3">1</a> | SIM | - |
+| 10 | Cada especificação de caso de uso contém apenas um fluxo principal? <a id="REF3" href="#anchor_3">1</a> | SIM | - |
+| 11 | Os fluxos principais demonstram como o usuário usaria principalmente a funcionalidade? <a id="REF3" href="#anchor_3">1</a> | SIM | - |
+| 12 | Os fluxos alternativos apresentam cenários alternativos ao fluxo principal? <a id="REF3" href="#anchor_3"> 3 </a> | SIM | Porém não há fluxos alternativos descritos. |
+| 13 | Os fluxos de exceção mostram como o sistema reagirá a situações inesperadas? <a id="REF3" href="#anchor_3">3</a> | SIM | - |
+
+<br>
+
+<div align="center">
+<figcaption align="center">Autor: Júlio Cesar</figcaption>
+</div>
+<br/>
+
+</details>
+
+<details>
+<summary>Acessar Histórico de Publicações Legislativas</summary>
+
+### Tabela 5: Tabela de verificação para Acessar Histórico de Publicações Legislativas
+
+| ID | Descrição | Verificação | Observação |
+| :--: | :-----: | :---------: | :--------: |
+| 1 | O caso de uso desenvolvido corresponde a uma funcionalidade completa que agrega algum valor? <a id="REF3" href="#anchor_3">3</a> | SIM | - |
+| 2 | Os verbos são usados ​​no infinitivo em vez de substantivos? <a id="REF1" href="#anchor_3">1</a> | SIM | - |
+| 3 | Existem relações de “extend”, “generalization” e “include”? <a id="REF3" href="#anchor_3">3</a>| SIM | - |
+| 4 | O caso de uso reflete o usuário e suas interações com o sistema? <a id="REF3" href="#anchor_3">3</a>| SIM | - |
+| 5 | O usuário é identificado por um nome, como cliente, funcionário, aluno, etc.? <a id="REF3" href="#anchor_3">3</a> | SIM | O usuário é apenas referido como "Usuário" sem especificação. |
+| 6 | Os casos de uso representam requisitos funcionais? <a id="REF3" href="#anchor_3">3</a> | SIM | - |
+| 7 | Alguma técnica específica foi usada para desenvolver os casos de uso? <a id="REF3" href="#anchor_3">3</a> | Incompleto | Não há menção de técnicas específicas usadas para desenvolver este caso de uso. |
+| 8 | Os elementos de atores, sistema e objetivos estão presentes no caso de uso? <a id="REF3" href="#anchor_3">2</a> | SIM | - |
+| 9 | Existem fluxos principais, alternativos e de exceção? <a id="REF3" href="#anchor_3">1</a> | SIM | - |
+| 10 | Cada especificação de caso de uso contém apenas um fluxo principal? <a id="REF3" href="#anchor_3">1</a> | SIM | - |
+| 11 | Os fluxos principais demonstram como o usuário usaria principalmente a funcionalidade? <a id="REF3" href="#anchor_3">1</a> | SIM | - |
+| 12 | Os fluxos alternativos apresentam cenários alternativos ao fluxo principal? <a id="REF3" href="#anchor_3"> 3 </a> | SIM | Porém não há fluxos alternativos descritos. |
+| 13 | Os fluxos de exceção mostram como o sistema reagirá a situações inesperadas? <a id="REF3" href="#anchor_3">3</a> | SIM | - |
+
+<br>
+
+<div align="center">
+<figcaption align="center">Autor: Júlio Cesar</figcaption>
+</div>
+<br/>
+
+</details>
+
+<details>
+<summary>Filtrar Documentos por Data, Categoria ou Órgão Emissor</summary>
+
+### Tabela 6: Tabela de verificação para Filtrar Documentos por Data, Categoria ou Órgão Emissor
+
+| ID | Descrição | Verificação | Observação |
+| :--: | :-----: | :---------: | :--------: |
+| 1 | O caso de uso desenvolvido corresponde a uma funcionalidade completa que agrega algum valor? <a id="REF3" href="#anchor_3">3</a> | SIM | - |
+| 2 | Os verbos são usados ​​no infinitivo em vez de substantivos? <a id="REF1" href="#anchor_3">1</a> | SIM | - |
+| 3 | Existem relações de “extend”, “generalization” e “include”? <a id="REF3" href="#anchor_3">3</a>| SIM | - |
+| 4 | O caso de uso reflete o usuário e suas interações com o sistema? <a id="REF3" href="#anchor_3">3</a>| SIM | - |
+| 5 | O usuário é identificado por um nome, como cliente, funcionário, aluno, etc.? <a id="REF3" href="#anchor_3">3</a> | SIM | O usuário é apenas referido como "Usuário" sem especificação. |
+| 6 | Os casos de uso representam requisitos funcionais? <a id="REF3" href="#anchor_3">3</a> | SIM | - |
+| 7 | Alguma técnica específica foi usada para desenvolver os casos de uso? <a id="REF3" href="#anchor_3">3</a> | Incompleto | Não há menção de técnicas específicas usadas para desenvolver este caso de uso. |
+| 8 | Os elementos de atores, sistema e objetivos estão presentes no caso de uso? <a id="REF3" href="#anchor_3">2</a> | SIM | - |
+| 9 | Existem fluxos principais, alternativos e de exceção? <a id="REF3" href="#anchor_3">1</a> | SIM | - |
+| 10 | Cada especificação de caso de uso contém apenas um fluxo principal? <a id="REF3" href="#anchor_3">1</a> | SIM | - |
+| 11 | Os fluxos principais demonstram como o usuário usaria principalmente a funcionalidade? <a id="REF3" href="#anchor_3">1</a> | SIM | - |
+| 12 | Os fluxos alternativos apresentam cenários alternativos ao fluxo principal? <a id="REF3" href="#anchor_3"> 3 </a> | SIM | Porém não há fluxos alternativos descritos. |
+| 13 | Os fluxos de exceção mostram como o sistema reagirá a situações inesperadas? <a id="REF3" href="#anchor_3">3</a> | SIM | - |
+
+<br>
+
+<div align="center">
+<figcaption align="center">Autor: Júlio Cesar</figcaption>
+</div>
+<br/>
+
+</details>
 
 ## Referências Bibliográficas
 
