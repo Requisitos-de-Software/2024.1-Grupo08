@@ -29,7 +29,7 @@ A tabela 1 apresenta o checklist de verificação desenvolvido com base no artef
 
 | Versão | Data de execução | Data de revisão |  Descrição                          | Autor(es)                                           | Revisor(es)                                           |
 | :----: | :--------------: | :-------------: | :---------------------------------: | :-------------------------------------------------: | :---------------------------------------------------: |
-| 1.0    | 10/06/2024       | 10/06/2024      | Preenchendo checklist MoSCoW  | [Rodrigo Gontijo](https://github.com/rodrigogontijoo)   | [Igor Thiago](https://github.com/alladin51)    |
+| 1.1    | 10/06/2024       | 10/06/2024      | Preenchendo checklist MoSCoW  | [Rodrigo Gontijo](https://github.com/rodrigogontijoo)   | [Igor Thiago](https://github.com/alladin51)    |
 | 1.0    | 10/06/2024       | 10/06/2024      | Criação do checklist MoSCoW  | [Rodrigo Gontijo](https://github.com/rodrigogontijoo)   | [Igor Thiago](https://github.com/alladin51)    |
 
 <div align="center">
