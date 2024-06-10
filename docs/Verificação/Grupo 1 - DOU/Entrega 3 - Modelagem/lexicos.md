@@ -37,11 +37,11 @@ O artefato segue os padrões esperados e apresenta conteúdos relacionados aos m
 
 - A [bibliografia](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/modelagem/lexicos/#bibliografia) apresenta o link e a data de acesso, porém os mesmos não estão presentes na [referência bibliográfica](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/modelagem/lexicos/#referencia-bibliografica). Não sei se é obrigatório no caso da referência, mas seria interessante adicionar.
 
-## Referências Bibliográficas
+## Bibliografia
 
-> <a id="1" href="#anchor_1">1.</a> LEITE, Julio Cesar. Léxico Ampliado da Linguagem, 2012. Disponível em: <https://www-di.inf.puc-rio.br/~julio/lal.pdf>. Acesso em: 06/06/2024.
+>  LEITE, Julio Cesar. Léxico Ampliado da Linguagem, 2012. Disponível em: <https://www-di.inf.puc-rio.br/~julio/lal.pdf>. Acesso em: 06/06/2024.
 
-> <a id="2" href="#anchor_2">1.</a> SERRANO, et al. Requisitos - Aula 10. Disponível em: h<https://aprender3.unb.br/pluginfile.php/2845027/mod_resource/content/1/Aula%2010.pdf>. Acesso em: 06/06/2024.
+>  SERRANO, et al. Requisitos - Aula 10. Disponível em: h<https://aprender3.unb.br/pluginfile.php/2845027/mod_resource/content/1/Aula%2010.pdf>. Acesso em: 06/06/2024.
 
 ## Histórico de Versão
 

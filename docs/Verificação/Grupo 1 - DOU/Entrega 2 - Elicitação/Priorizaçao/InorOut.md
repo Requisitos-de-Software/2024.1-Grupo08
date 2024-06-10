@@ -31,11 +31,11 @@ O artefato segue os padrões esperados e apresenta conteúdos relacionados aos m
 - As tabelas feitas pelos membros da equipe devem constar com "Autor(es)" no lugar de "Fonte".
 
 
-## Referências Bibliográficas
+## Bibliografia
 
-> <a id="1" href="#anchor_1">1.</a> Wiegers, Karl; Beatty, Joy.Software Requirements (Developer Best Practices), 3rd Edition, Microsoft Press, 2013. Disponível em: <https://aprender3.unb.br/pluginfile.php/2844990/mod_resource/content/2/PriorizaA%CC%83%C2%A7A%CC%83%C2%A3o%20de%20Req.pdf> Acesso em: 08 de junho de 2024.
+>  Wiegers, Karl; Beatty, Joy.Software Requirements (Developer Best Practices), 3rd Edition, Microsoft Press, 2013. Disponível em: <https://aprender3.unb.br/pluginfile.php/2844990/mod_resource/content/2/PriorizaA%CC%83%C2%A7A%CC%83%C2%A3o%20de%20Req.pdf> Acesso em: 08 de junho de 2024.
 
-> <a id="2" href="#anchor_2">2.</a> SERRANO, et al. Requisitos - Aula 07, 2023. Disponível em: <https://aprender3.unb.br/pluginfile.php/2844991/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf> Acesso em: 08 de junho de 2024.
+> SERRANO, et al. Requisitos - Aula 07, 2023. Disponível em: <https://aprender3.unb.br/pluginfile.php/2844991/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf> Acesso em: 08 de junho de 2024.
 
 ## Histórico de Versão
 

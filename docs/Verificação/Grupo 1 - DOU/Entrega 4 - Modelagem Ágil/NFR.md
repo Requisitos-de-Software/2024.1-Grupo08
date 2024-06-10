@@ -36,12 +36,12 @@ O artefato segue os padrões esperados e apresenta conteúdos relacionados aos m
 
 
 
-## Referências Bibliográficas
+## Bibliografia
 
-> <a id="1" href="#anchor_1">1.</a> SILVA, Reinaldo Antônio da. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados, 2019. Disponível em: [https://aprender3.unb.br/pluginfile.php/2845051/mod_resource/content/2/DISSERTA%C3%87%C3%83O%20Reinaldo%20Ant%C3%B4nio%20da%20Silva.pdf](https://aprender3.unb.br/pluginfile.php/2845051/mod_resource/content/2/DISSERTA%C3%87%C3%83O%20Reinaldo%20Ant%C3%B4nio%20da%20Silva.pdf). Acesso em: 07 de junho de 2024.
+> SILVA, Reinaldo Antônio da. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados, 2019. Disponível em: [https://aprender3.unb.br/pluginfile.php/2845051/mod_resource/content/2/DISSERTA%C3%87%C3%83O%20Reinaldo%20Ant%C3%B4nio%20da%20Silva.pdf](https://aprender3.unb.br/pluginfile.php/2845051/mod_resource/content/2/DISSERTA%C3%87%C3%83O%20Reinaldo%20Ant%C3%B4nio%20da%20Silva.pdf). Acesso em: 07 de junho de 2024.
 
 
-> <a id="2" href="#anchor_2">1.</a> SERRANO, et al. Requisitos – Aula 17, 2024. Disponível em: [https://aprender3.unb.br/pluginfile.php/2845052/mod_resource/content/1/Requisitos%20-%20Aula%20019a.pdf](https://aprender3.unb.br/pluginfile.php/2845052/mod_resource/content/1/Requisitos%20-%20Aula%20019a.pdf). Acesso em: 07 de junho de 2024.
+> SERRANO, et al. Requisitos – Aula 17, 2024. Disponível em: [https://aprender3.unb.br/pluginfile.php/2845052/mod_resource/content/1/Requisitos%20-%20Aula%20019a.pdf](https://aprender3.unb.br/pluginfile.php/2845052/mod_resource/content/1/Requisitos%20-%20Aula%20019a.pdf). Acesso em: 07 de junho de 2024.
 
 ## Histórico de Versão
 
