@@ -53,6 +53,27 @@ A metodologia utilizada segue até a **Inspeção**, cujo objetivo é averiguar 
 
 ### Checklist de Casos de Uso
 
+| ID | Descrição |
+| :--: | :-----: |
+| 1 | O caso de uso desenvolvido corresponde a uma funcionalidade completa que agrega algum valor? |
+| 2 | Os verbos são usados ​​no infinitivo em vez de substantivos? |
+| 3 | Existem relações de “extend”, “generalization” e “include”? |
+| 4 | O caso de uso reflete o usuário e suas interações com o sistema? |
+| 5 | O usuário é identificado por um nome, como cliente, funcionário, aluno, etc.? |
+| 6 | Os casos de uso representam requisitos funcionais? |
+| 7 | Alguma técnica específica foi usada para desenvolver os casos de uso? |
+| 8 | Os elementos de atores, sistema e objetivos estão presentes no caso de uso? |
+| 9 | Existem fluxos principais, alternativos e de exceção? |
+| 10 | Cada especificação de caso de uso contém apenas um fluxo principal? |
+| 11 | Os fluxos principais demonstram como o usuário usaria principalmente a funcionalidade? |
+| 12 | Os fluxos alternativos apresentam cenários alternativos ao fluxo principal? |
+| 13 | Os fluxos de exceção mostram como o sistema reagirá a situações inesperadas? |
+
+<div align="center">
+<figcaption align="center">Tabela 03: Checklist de Casos de Uso (Autor: Júlio Cesar)</figcaption>
+</div>
+<br/>
+
 ### Checklist de Especificação Suplementar
 
 ## Referências Bibliográficas

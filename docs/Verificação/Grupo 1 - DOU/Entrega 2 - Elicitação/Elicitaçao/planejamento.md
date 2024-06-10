@@ -51,6 +51,24 @@ A metodologia utilizada segue até a **Inspeção**, cujo objetivo é averiguar 
 
 ### Checklist de Observação
 
+| ID | Descrição |
+| :--: | :-----: |
+| 1 | Os perfis dos usuários desempenharam um papel no processo de seleção? |
+| 2 | Eles possuem responsabilidades e competências necessárias para a observação do seu trabalho? |
+| 3 | Houve espaço suficiente para observação para obter informações pertinentes sobre as interações dos usuários com o sistema? |
+| 4 | A postura do observador foi estabelecida? |
+| 5 | Os requisitos levantados durante a observação foram registrados de forma precisa e completa? |
+| 6 | Foi dito aos que foram vistos que não enfrentariam punição ou críticas? |
+| 7 | Os objetivos da observação foram definidos claramente? |
+| 8 | Vários indivíduos estavam envolvidos no processo de observação? |
+| 9 | O papel de cada participante foi definido? |
+| 10 | As coisas que precisam ser vistas foram apresentadas? |
+| 11 | O processo de elicitação de requisitos foi registrado continuamente? |
+
+<div align="center">
+<figcaption align="center">Tabela 04: Checklist Observação (Autor: Júlio Cesar)</figcaption>
+</div>
+
 ### Checklist de Análise de Interface
 
 ## Referências Bibliográficas
