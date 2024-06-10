@@ -20,10 +20,10 @@ A tabela 1 apresenta o checklist de verificação desenvolvido com base no artef
 </div>
 <br/>
 
-
 ## Referências Bibliográficas
 
-> <a id="FTF1Ref" href="#FTF1">1.BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
+> <a id="FTF1Ref" href="#FTF1">1. </a> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
+
 ## Histórico de Versão
 
 | Versão | Data de execução | Data de revisão |  Descrição                          | Autor(es)                                           | Revisor(es)                                           |
