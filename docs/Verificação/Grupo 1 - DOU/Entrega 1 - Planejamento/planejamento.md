@@ -32,7 +32,7 @@ A metodologia utilizada segue até a **Inspeção**, cujo objetivo é averiguar 
 | 5 | O(s) Ator(es) do RichPicture, está do lado de fora do sistema? | SIM | - | 
 | 6 | Há a presença dos 5 principais componentes de um Richpicture? | SIM | - | 
 | 7 | O componente Fronteira está sendo utilizado de acordo com as diretrizes? | SIM | - | 
-| 8 | O componente Fluxo está sendo aplicado da maneira correta? | SIM | - | .
+| 8 | O componente Fluxo está sendo aplicado da maneira correta? | SIM | - | 
 | 9 | O componente Atores está empregado de maneira apropriada no artefato? | SIM | - | 
 | 10 | O componente Operações está sendo empregado corretamente? | SIM | - |  
 | 11 | O rich picture passa uma mensagem de forma efetiva? | SIM | - | 
