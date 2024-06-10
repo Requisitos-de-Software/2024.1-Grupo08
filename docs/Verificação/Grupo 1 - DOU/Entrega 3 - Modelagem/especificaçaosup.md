@@ -28,6 +28,11 @@ A tabela 1 apresenta o checklist de verificação desenvolvido com base no artef
 | 14 | O documento aborda e especifica sobre o termo de uso nos Requisitos de licenciamento? | **SIM** |  |
 | 15 | O documento especifica em quais plataformas o aplicativo pode ser executado? | **SIM** |  |
 
+<div align="center">
+<figcaption align="center">Tabela 01: Checklist (Autor: Igor Thiago)</figcaption>
+</div>
+<br/>
+
 
 ## Referências Bibliográficas
 

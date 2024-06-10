@@ -23,6 +23,11 @@ A tabela 1 apresenta o checklist de verificação desenvolvido com base no artef
 | 10 | Cada membro que participou apresentou uma explicação de como executou a técnica? | **SIM**   | |
 | 11 | Os requisitos elicitados apresentam Id para sua identificação? |**SIM** | |
 
+<div align="center">
+<figcaption align="center">Tabela 01: Checklist (Autor: Igor Thiago)</figcaption>
+</div>
+<br/>
+
 
 ## Comentários
 
