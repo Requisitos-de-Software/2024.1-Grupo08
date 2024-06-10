@@ -43,9 +43,6 @@ O artefato segue os padrões esperados e apresenta conteúdos relacionados aos m
 
 > <a id="2" href="#anchor_2">1.</a> SERRANO, et al. Requisitos – Aula 17, 2024. Disponível em: [https://aprender3.unb.br/pluginfile.php/2845052/mod_resource/content/1/Requisitos%20-%20Aula%20019a.pdf](https://aprender3.unb.br/pluginfile.php/2845052/mod_resource/content/1/Requisitos%20-%20Aula%20019a.pdf). Acesso em: 07 de junho de 2024.
 
-
-## Bibliografia
-
 ## Histórico de Versão
 
 | Versão | Data de execução | Data de revisão |  Descrição                          | Autor(es)                                           | Revisor(es)                                           |

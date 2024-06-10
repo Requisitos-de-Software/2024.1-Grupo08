@@ -44,6 +44,10 @@ A metodologia utilizada segue até a **Inspeção**, cujo objetivo é averiguar 
 | 7 | Foi feito um cartão de especificação para cada NFR? |
 | 8 | Os cartões apresentam *descrição*, *justificativa*, *origem*, *critério de ajuste*, *dependências*, *nível de prioridade*, *conflitos* e *história*? |
 
+<div align="center">
+<figcaption align="center">Tabela 01: Checklist NFR (Autor: Henrique Galdino)</figcaption>
+</div>
+
 ### Checklist de Histórias de Usuário
 
 ### Checklist de Backlog
@@ -61,6 +65,6 @@ A metodologia utilizada segue até a **Inspeção**, cujo objetivo é averiguar 
 | 1.0    | 08/06/2024       | 08/06/2024      | Criação do planejamento da verificação entrega 4   | [Henrique Galdino](https://github.com/hgaldino05)   | [Júlio César](https://github.com/Julio1099)         |
 
 <div align="center">
-<figcaption align="center">Tabela 02: Histórico de versões (Autor: Henrique Galdino)</figcaption>
+<figcaption align="center">Tabela 04: Histórico de versões (Autor: Henrique Galdino)</figcaption>
 </div>
 <br/>

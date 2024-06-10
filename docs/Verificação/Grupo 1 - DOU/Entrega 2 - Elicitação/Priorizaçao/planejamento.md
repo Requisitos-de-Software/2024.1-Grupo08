@@ -21,23 +21,29 @@ A metodologia utilizada segue até a **Inspeção**, cujo objetivo é averiguar 
 
 ## Objetos de Verificação
 
-- [Perfil de Usuário](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/perfilUsuario/)
-- [Personas](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/personas/) 
-- [Introspecção](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/introspeccao/)
-- [Observação](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/observacao/)
-- [Análise de Interface](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/analise-de-interface/).
+- [In or Out](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/priorizacao/#in-or-out)
+- [Three Level Scale](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/priorizacao/#three-level-scale) 
+- [MoSCoW](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/priorizacao/#moscow)
+
 
 ## Checklists
 
-### Checklist de Perfil de Usuário
+### Checklist de In or Out
+| ID | Descrição |
+| :--: | :-----: |
+| 1 | Foi definido uma lista de requisitos a serem priorizados? |
+| 2 | Foi utilizado o método binário (in/out)? |
+| 3 | A priorização foi feita com a participação dos stakeholders? |
+| 4 | Um dos stakeholders foi responsável pelo veredito final (por exemplo, em caso de conflitos)? |
 
-### Checklist de Personas
+<div align="center">
+<figcaption align="center">Tabela 01: Checklist In or Out (Autor: Henrique Galdino)</figcaption>
+</div>
 
-### Checklist de Introspecção
 
-### Checklist de Observação
+### Checklist do MoSCoW
 
-### Checklist de Análise de Interface
+### Checklist do Three Level Scale
 
 ## Referências Bibliográficas
 
@@ -52,6 +58,6 @@ A metodologia utilizada segue até a **Inspeção**, cujo objetivo é averiguar 
 | 1.0    | 08/06/2024       | 08/06/2024      | Criação do planejamento da verificação entrega 2 (priorização)   | [Henrique Galdino](https://github.com/hgaldino05)   | [Júlio César](https://github.com/Julio1099)         |
 
 <div align="center">
-<figcaption align="center">Tabela 02: Histórico de versões (Autor: Henrique Galdino)</figcaption>
+<figcaption align="center">Tabela 04: Histórico de versões (Autor: Henrique Galdino)</figcaption>
 </div>
 <br/>

@@ -23,7 +23,7 @@ A tabela 1 apresenta o checklist de verificação desenvolvido com base no artef
 | 11 | A circularidade foi aplicada entre os léxicos? | SIM | - |
 
 <div align="center">
-<figcaption align="center">Tabela 01: Checklist (Autor: Henrique Galdino)</figcaption>
+<figcaption align="center">Tabela 01: Checklist Léxicos(Autor: Henrique Galdino)</figcaption>
 </div>
 <br/>
 

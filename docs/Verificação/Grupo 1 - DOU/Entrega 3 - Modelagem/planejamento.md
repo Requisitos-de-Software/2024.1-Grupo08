@@ -45,6 +45,7 @@ A metodologia utilizada segue até a **Inspeção**, cujo objetivo é averiguar 
 | 9 | Cada léxico apresenta uma ou mais noções? |
 | 10 | Cada léxico apresenta um ou mais impactos? |
 | 11 | A circularidade foi aplicada entre os léxicos? |
+
 <div align="center">
 <figcaption align="center">Tabela 02: Checklist de léxicos (Autor: Henrique Galdino)</figcaption>
 </div>
@@ -67,6 +68,6 @@ A metodologia utilizada segue até a **Inspeção**, cujo objetivo é averiguar 
 | 1.0    | 06/06/2024       | 06/06/2024      | Criação do planejamento da verificação entrega 3   | [Henrique Galdino](https://github.com/hgaldino05)   | [Júlio César](https://github.com/Julio1099)         |
 
 <div align="center">
-<figcaption align="center">Tabela 02: Histórico de versões (Autor: Henrique Galdino)</figcaption>
+<figcaption align="center">Tabela 05: Histórico de versões (Autor: Henrique Galdino)</figcaption>
 </div>
 <br/>
