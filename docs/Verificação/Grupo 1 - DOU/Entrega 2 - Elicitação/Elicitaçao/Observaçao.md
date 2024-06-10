@@ -29,7 +29,7 @@ A tabela 1 apresenta o checklist de verificação desenvolvido com base no artef
 
 ## Comentários
 
-O checklist se encontra incompleto pois o [*Grupo 01*](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/) não disponibilizou o video da reunião da Observação e sim o [video de apresentação do app do Diário Oficial da União](https://www.youtube.com/watch?v=WXvd3PULKm4&ab_channel=ArthurAlvesMelo).
+O checklist está incompleto, pois o [*Grupo 01*](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/) não disponibilizou o vídeo da reunião de Observação, mas sim o [video de apresentação do aplicativo do Diário Oficial da União](https://www.youtube.com/watch?v=WXvd3PULKm4&ab_channel=ArthurAlvesMelo).
 
 
 ## Referências Bibliográficas
@@ -45,7 +45,8 @@ O checklist se encontra incompleto pois o [*Grupo 01*](https://requisitos-de-sof
 
 | Versão | Data de execução | Data de revisão |  Descrição                          | Autor(es)                                           | Revisor(es)                                           |
 | :----: | :--------------: | :-------------: | :---------------------------------: | :-------------------------------------------------: | :---------------------------------------------------: |
-| 1.0    | 08/06/2024       | 08/06/2024      | Criação do checklist Léxicos   | [Júlio Cesar](https://github.com/Julio1099)   | [Henrique Galdino](https://github.com/hgaldino05)         |
+| 1.0    | 08/06/2024       | 08/06/2024      | Criação do checklist    | [Júlio Cesar](https://github.com/Julio1099)   | [Henrique Galdino](https://github.com/hgaldino05)         |
+| 1.2    | 10/06/2024       | 10/06/2024      | Conclusão do checklist    | [Júlio Cesar](https://github.com/Julio1099)   | [Henrique Galdino](https://github.com/hgaldino05)         |
 
 <div align="center">
 <figcaption align="center">Histórico de versões (Autor: Júlio Cesar)</figcaption>

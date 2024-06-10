@@ -197,6 +197,7 @@ A tabela 1 apresenta o checklist de verificação desenvolvido com base no artef
 | Versão | Data de execução | Data de revisão |  Descrição                          | Autor(es)                                           | Revisor(es)                                           |
 | :----: | :--------------: | :-------------: | :---------------------------------: | :-------------------------------------------------: | :---------------------------------------------------: |
 | 1.0    | 08/06/2024       | 08/06/2024      | Criação do checklist Caso de Uso   | [Júlio Cesar](https://github.com/Julio1099)   | [Henrique Galdino](https://github.com/hgaldino05)         |
+| 1.2    | 10/06/2024       | 10/06/2024      | Conclusão do checklist Caso de Uso    | [Júlio Cesar](https://github.com/Julio1099)   | [Henrique Galdino](https://github.com/hgaldino05)         |
 
 <div align="center">
 <figcaption align="center">Histórico de versões (Autor: Júlio Cesar)</figcaption>
