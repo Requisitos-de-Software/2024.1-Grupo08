@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Este artefato contém a verificação da versão **1.2** do artefato [Introspecção](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/introspeccao/) desenvolvido pelo [Grupo 01](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/), adicionada na data 17/04/2024.
+Este artefato contém a verificação da versão **1.2** do artefato [Introspecção](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/introspeccao/) desenvolvido pelo [Grupo 01](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/), adicionada na data 16/04/2024.
 
 ## Checklist
 
