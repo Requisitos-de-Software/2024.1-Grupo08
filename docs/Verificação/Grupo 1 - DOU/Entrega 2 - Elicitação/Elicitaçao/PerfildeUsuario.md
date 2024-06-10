@@ -10,10 +10,10 @@ A tabela 1 apresenta o checklist de verificação desenvolvido com base no artef
 
 | ID | Descrição | Verificação | Observação |
 | :--: | :-----: | :---------: | :--------: |
-| 1 | Foi conduzido um estudo como entrevistas ou questionários para coletar os dados dos usuários? | - | - |
-| 2 | Os dados coletados foram agrupados por faixas e grupos nos quais os usuários se encaixam?  | - | - |
-| 3 | Foram apresentados resultados para a formação de um perfil de usuário? | - | - |
-| 4 | As faixas e grupos definidos são relevantes? (Ex: Idade, Experiência e Motivação pra usar o aplicativo). | - | - |
+| 1 | Foi conduzido um estudo como entrevistas ou questionários para coletar os dados dos usuários? |**SIM** | - |
+| 2 | Os dados coletados foram agrupados por faixas e grupos nos quais os usuários se encaixam?  | **SIM** | - |
+| 3 | Foram apresentados resultados para a formação de um perfil de usuário? | **SIM** | - |
+| 4 | As faixas e grupos definidos são relevantes? (Ex: Idade, Experiência e Motivação pra usar o aplicativo). | **SIM** | - |
 
 <div align="center">
 <figcaption align="center">Tabela 01: Checklist (Autor: Rodrigo Gontijo)</figcaption>
@@ -28,6 +28,7 @@ A tabela 1 apresenta o checklist de verificação desenvolvido com base no artef
 
 | Versão | Data de execução | Data de revisão |  Descrição                          | Autor(es)                                           | Revisor(es)                                           |
 | :----: | :--------------: | :-------------: | :---------------------------------: | :-------------------------------------------------: | :---------------------------------------------------: |
+| 1.1    | 10/06/2024       | 10/06/2024      | Preenchendo checklist Perfil de Usuario  | [Rodrigo Gontijo](https://github.com/rodrigogontijoo)   | [Igor Thiago](https://github.com/alladin51)  |
 | 1.0    | 10/06/2024       | 10/06/2024      | Criação do checklist Perfil de Usuario  | [Rodrigo Gontijo](https://github.com/rodrigogontijoo)   | [Igor Thiago](https://github.com/alladin51)  |
 
 <div align="center">

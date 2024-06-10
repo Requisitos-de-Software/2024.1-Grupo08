@@ -10,9 +10,9 @@ A tabela 1 apresenta o checklist de verificação desenvolvido com base no artef
 
 | ID | Descrição | Verificação | Observação |
 | :--: | :-----: | :---------: | :--------: |
-| 1 | Os requisitos estão divididos em Must Have, Should Have, Could Have e Won't Have? | - | - |
-| 2 | Eles possuem os deveres e habilidades necessários para observar você trabalhar?  | - | - |
-| 3 | Houve espaço suficiente para observação para obter informações pertinentes sobre as interações dos usuários com o sistema?  | - | - |
+| 1 | Os requisitos estão divididos em Must Have, Should Have, Could Have e Won't Have? | **SIM** | - |
+| 2 | Houve participação de um cliente ou utilização de persona no processo de priorização?  | **SIM** | - |
+| 3 | Há justificativa para o motivo pelo qual um requisito recebeu sua designada prioridade? | **NÃO** | - |
 
 
 <div align="center">
@@ -29,6 +29,7 @@ A tabela 1 apresenta o checklist de verificação desenvolvido com base no artef
 
 | Versão | Data de execução | Data de revisão |  Descrição                          | Autor(es)                                           | Revisor(es)                                           |
 | :----: | :--------------: | :-------------: | :---------------------------------: | :-------------------------------------------------: | :---------------------------------------------------: |
+| 1.0    | 10/06/2024       | 10/06/2024      | Preenchendo checklist MoSCoW  | [Rodrigo Gontijo](https://github.com/rodrigogontijoo)   | [Igor Thiago](https://github.com/alladin51)    |
 | 1.0    | 10/06/2024       | 10/06/2024      | Criação do checklist MoSCoW  | [Rodrigo Gontijo](https://github.com/rodrigogontijoo)   | [Igor Thiago](https://github.com/alladin51)    |
 
 <div align="center">
