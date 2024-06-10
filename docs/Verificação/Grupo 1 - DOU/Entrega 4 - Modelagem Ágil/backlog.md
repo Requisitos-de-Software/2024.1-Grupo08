@@ -24,14 +24,14 @@ A tabela 1 apresenta o checklist dos itens gerais de verificação desenvolvido 
 
 | ID | Descrição | Verificação | Observação | Autor da inspeção |
 | :--: | :-----: | :---------: | :--------: | :--------: |
-| 1 | O backlog cobre todos os requisitos? | NÃO | Não há uma lista com todos os requisitos e não estão sendo realizados todos no backlog | [Matheus Ferreira](https://github.com/matferreira1) |
-| 2 | Os requisitos no backlog são todos testáveis? | NÃO | Alguns requisitos não são testáveis, como o requisito RF07 e RF04 | [Matheus Ferreira](https://github.com/matferreira1) |
-| 3 | O artefato divide o backlog em épicos? | SIM | - | [Matheus Ferreira](https://github.com/matferreira1) | 
-| 4 | O artefato contém histórias de usuário? | SIM | - | [Matheus Ferreira](https://github.com/matferreira1) |
-| 5 | O artefato contém a prioridade das histórias de usuário? | SIM | - | [Matheus Ferreira](https://github.com/matferreira1) |
-| 6 | O artefato contém a gravação da realização do backlog?? | SIM | - | [Matheus Ferreira](https://github.com/matferreira1) |
-| 7 | A ordem dos épicos atende uma boa lógica? | NÃO | A criação da interface deve ser o primeiro passo para o desenvolvimento, não a segurança | [Matheus Ferreira](https://github.com/matferreira1) |
-| 8 | Os requisitos são rastreáveis? | NÃO | - | [Matheus Ferreira](https://github.com/matferreira1) |
+| 1 | O backlog cobre todos os requisitos? | NÃO | Não há uma lista com todos os requisitos e não estão sendo realizados todos no backlog | [Guilherme Meister](https://github.com/gmeister18) |
+| 2 | Os requisitos no backlog são todos testáveis? | NÃO | Alguns requisitos não são testáveis, como o requisito RF07 e RF04 | [Guilherme Meister](https://github.com/gmeister18) |
+| 3 | O artefato divide o backlog em épicos? | SIM | - | [Guilherme Meister](https://github.com/gmeister18) | 
+| 4 | O artefato contém histórias de usuário? | SIM | - | [Guilherme Meister](https://github.com/gmeister18) |
+| 5 | O artefato contém a prioridade das histórias de usuário? | SIM | - | [Guilherme Meister](https://github.com/gmeister18) |
+| 6 | O artefato contém a gravação da realização do backlog?? | SIM | - | [Guilherme Meister](https://github.com/gmeister18) |
+| 7 | A ordem dos épicos atende uma boa lógica? | NÃO | A criação da interface deve ser o primeiro passo para o desenvolvimento, não a segurança | [Guilherme Meister](https://github.com/gmeister18) |
+| 8 | Os requisitos são rastreáveis? | NÃO | - | [Guilherme Meister](https://github.com/gmeister18) |
 
 <div align="center">
 <figcaption align="center">Tabela 01: Checklist (Autor: Matheus Ferreira)</figcaption>
@@ -57,7 +57,7 @@ O artefato não contém tantas informações acerca dos requisitos, no projeto n
 
 | <p align="center">Data</p> | <p align="center">Versão</p> | <p align="center">Descrição</p> | <p align="center">Autor(es)</p> | <p align="center">Data de revisão</p> | <p align="center">Revisor(es)</p> |
 | - | - | - | - | - | - | 
-| 10/06/2024 | `1.0` | Documento criado | [Matheus Ferreira](https://github.com/matferreira1) | 11/06/2024 | [Henrique Galdino](https://github.com/hgaldino05) |
+| 10/06/2024 | `1.0` | Documento criado | [Guilherme Meister](https://github.com/gmeister18) | 11/06/2024 | [Henrique Galdino](https://github.com/hgaldino05) |
 
 <div align="center">
 <figcaption align="center">Histórico de versões (Autor: Matheus Ferreira)</figcaption>
