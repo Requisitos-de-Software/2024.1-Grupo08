@@ -29,8 +29,7 @@ A tabela 1 apresenta o checklist de verificação desenvolvido com base no artef
 
 ## Comentários
 
-
-
+O checklist se encontra incompleto pois o [*Grupo 01*](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/) não disponibilizou o video da reunião da Observação e sim o [video de apresentação do app do Diário Oficial da União](https://www.youtube.com/watch?v=WXvd3PULKm4&ab_channel=ArthurAlvesMelo).
 
 
 ## Referências Bibliográficas
