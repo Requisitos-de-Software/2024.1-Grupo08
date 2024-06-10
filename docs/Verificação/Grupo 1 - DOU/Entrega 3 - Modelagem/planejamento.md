@@ -94,23 +94,23 @@ A metodologia utilizada segue até a **Inspeção**, cujo objetivo é averiguar 
 
 ### Checklist de Especificação Suplementar
 
-| ID | Descrição | Avaliação | Observações |
-|:-:|:---:|:-:|:---:|
-| 1 | O documento é orientado pelo padrão FURPS? |**SIM**  |  |
-| 2 | O documento aborda sobre a estética e o design na Usabilidade? | **SIM** |  |
-| 3 | O documento aborda e especifica sobre a facilidade de memorização na usabilidade? | **NÃO** |  |
-| 4 | O documento aborda e especifica sobre a eficiência na usabilidade? |**SIM**  |  |
-| 5 | O documento aborda e especifica sobre a Satisfação na Usabilidade? | **SIM** |  |
-| 6 | O documento aborda e especifica sobre a disponibilidade na Confiabilidade? | **SIM** |  |
-| 7 | O documento aborda e especifica sobre a Segurança a falhas na Confiabilidade? | **SIM** |  |
-| 8 | O documento aborda e especifica sobre a segurança no armazenamento de dados na confiabilidade? | **Não** |  |
-| 9 | O documento aborda e especifica a maturidade na Confiabilidade? | **Não** |  |
-| 10 | O documento aborda e especifica a rapidez na resposta no Desempenho? | **SIM** |  |
-| 11 | O documento aborda e especifica o Armazenamento no Desempenho? | **SIM** |  |
+| ID | Descrição | 
+|:-:|:---:|
+| 1 | O documento é orientado pelo padrão FURPS? |
+| 2 | O documento aborda sobre a estética e o design na Usabilidade? | 
+| 3 | O documento aborda e especifica sobre a facilidade de memorização na usabilidade? | 
+| 4 | O documento aborda e especifica sobre a eficiência na usabilidade? |
+| 5 | O documento aborda e especifica sobre a Satisfação na Usabilidade? | 
+| 6 | O documento aborda e especifica sobre a disponibilidade na Confiabilidade? | 
+| 7 | O documento aborda e especifica sobre a Segurança a falhas na Confiabilidade? | 
+| 8 | O documento aborda e especifica sobre a segurança no armazenamento de dados na confiabilidade? | 
+| 9 | O documento aborda e especifica a maturidade na Confiabilidade? | 
+| 10 | O documento aborda e especifica a rapidez na resposta no Desempenho? | 
+| 11 | O documento aborda e especifica o Armazenamento no Desempenho? | 
 | 12 | O documento aborda e especifica sobre a compatibilidade na Suportabilidade? | **Incompleto** |  O documento fala sobre compatibilidade porém não na parte de suportabilidade |
-| 13 | O documento aborda e especifica sobre a escalabilidade na Suportabilidade? |**SIM**  |  |
-| 14 | O documento aborda e especifica sobre o termo de uso nos Requisitos de licenciamento? | **SIM** |  |
-| 15 | O documento especifica em quais plataformas o aplicativo pode ser executado? | **SIM** |  |
+| 13 | O documento aborda e especifica sobre a escalabilidade na Suportabilidade? |
+| 14 | O documento aborda e especifica sobre o termo de uso nos Requisitos de licenciamento? | 
+| 15 | O documento especifica em quais plataformas o aplicativo pode ser executado? | 
 
 <div align="center">
 <figcaption align="center">Tabela 03: Checklist (Autor: Igor Thiago)</figcaption>
