@@ -34,6 +34,17 @@ A metodologia utilizada segue até a **Inspeção**, cujo objetivo é averiguar 
 
 ### Checklist de Perfil de Usuário
 
+| ID | Descrição |
+| :--: | :-----: |
+| 1 | Foi conduzido um estudo como entrevistas ou questionários para coletar os dados dos usuários? | 
+| 2 | Os dados coletados foram agrupados por faixas e grupos nos quais os usuários se encaixam?  | 
+| 3 | Foram apresentados resultados para a formação de um perfil de usuário? | 
+| 4 | As faixas e grupos definidos são relevantes? (Ex: Idade, Experiência e Motivação pra usar o aplicativo). | 
+
+<div align="center">
+<figcaption align="center">Tabela 01: Checklist Perfil de Usuário (Autor: Rodrigo Gontijo)</figcaption>
+</div>
+
 ### Checklist de Personas
 
 ### Checklist de Introspecção
@@ -52,6 +63,7 @@ A metodologia utilizada segue até a **Inspeção**, cujo objetivo é averiguar 
 
 | Versão | Data de execução | Data de revisão |  Descrição                          | Autor(es)                                           | Revisor(es)                                           |
 | :----: | :--------------: | :-------------: | :---------------------------------: | :-------------------------------------------------: | :---------------------------------------------------: |
+| 1.1    | 10/06/2024       | 10/06/2024      | Adicionando Checklisk Perfil de Usuario | [Rodrigo Gontijo](https://github.com/rodrigogontijoo)   | [Igor Thiago](https://github.com/alladin51)    |
 | 1.0    | 08/06/2024       | 08/06/2024      | Criação do planejamento da verificação entrega 2 (elicitação)   | [Henrique Galdino](https://github.com/hgaldino05)   | [Júlio César](https://github.com/Julio1099)         |
 
 <div align="center">

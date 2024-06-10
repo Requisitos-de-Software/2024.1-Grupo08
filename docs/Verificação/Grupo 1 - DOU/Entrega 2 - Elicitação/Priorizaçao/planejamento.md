@@ -43,6 +43,17 @@ A metodologia utilizada segue até a **Inspeção**, cujo objetivo é averiguar 
 
 ### Checklist do MoSCoW
 
+| ID | Descrição | 
+| :--: | :-----: |
+| 1 | Os requisitos estão divididos em Must Have, Should Have, Could Have e Won't Have? | 
+| 2 | Eles possuem os deveres e habilidades necessários para observar você trabalhar?  | 
+| 3 | Houve espaço suficiente para observação para obter informações pertinentes sobre as interações dos usuários com o sistema?  | 
+
+<div align="center">
+<figcaption align="center">Tabela 02: Checklist MoSCoW (Autor: Rodrigo Gontijo)</figcaption>
+</div>
+
+
 ### Checklist do Three Level Scale
 
 ## Referências Bibliográficas
@@ -55,6 +66,7 @@ A metodologia utilizada segue até a **Inspeção**, cujo objetivo é averiguar 
 
 | Versão | Data de execução | Data de revisão |  Descrição                          | Autor(es)                                           | Revisor(es)                                           |
 | :----: | :--------------: | :-------------: | :---------------------------------: | :-------------------------------------------------: | :---------------------------------------------------: |
+| 1.1    | 10/06/2024       | 10/06/2024      | Adicionando Checklisk MoSCoW | [Rodrigo Gontijo](https://github.com/rodrigogontijoo)   | [Igor Thiago](https://github.com/alladin51)    |
 | 1.0    | 08/06/2024       | 08/06/2024      | Criação do planejamento da verificação entrega 2 (priorização)   | [Henrique Galdino](https://github.com/hgaldino05)   | [Júlio César](https://github.com/Julio1099)         |
 
 <div align="center">
