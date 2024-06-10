@@ -32,6 +32,18 @@ A metodologia utilizada segue até a **Inspeção**, cujo objetivo é averiguar 
 
 ### Checklist de NFR Framework
 
+| ID | Descrição |
+| :--: | :-----: | 
+| 1 | O framework utiliza das softgoals? |
+| 2 | As softgoals são tipificadas? (NFR, Operacionalização, Afirmação) |
+| 2 | As softgoals são refinadas (decomposição)?  |
+| 3 | As notações de relacionamentos são corretamente aplicadas? |
+| 4 | As notações de contribuição (AND, OR, MAKE, BREAK, etc) são corretamente aplicadas? |
+| 5 | Foi feita a propagação de impactos para cada SIG? |
+| 6 | Cada RNF é verificável/testável? |
+| 7 | Foi feito um cartão de especificação para cada NFR? |
+| 8 | Os cartões apresentam *descrição*, *justificativa*, *origem*, *critério de ajuste*, *dependências*, *nível de prioridade*, *conflitos* e *história*? |
+
 ### Checklist de Histórias de Usuário
 
 ### Checklist de Backlog
