@@ -28,7 +28,7 @@ A metodologia utilizada segue até a **Inspeção**, cujo objetivo é averiguar 
 ### Checklist da Rich Picture
 
 | ID | Descrição | Verificação | Observação | 
-| :--: | :-----: | :---------: | :--------: | :--------: |
+| :--: | :-----: | :---------: | :--------: | 
 | 5 | O(s) Ator(es) do RichPicture, está do lado de fora do sistema? | SIM | - | 
 | 6 | Há a presença dos 5 principais componentes de um Richpicture? | SIM | - | 
 | 7 | O componente Fronteira está sendo utilizado de acordo com as diretrizes? | SIM | - | 
