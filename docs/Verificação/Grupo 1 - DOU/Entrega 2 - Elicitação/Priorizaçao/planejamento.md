@@ -56,6 +56,18 @@ A metodologia utilizada segue até a **Inspeção**, cujo objetivo é averiguar 
 
 ### Checklist do Three Level Scale
 
+| ID | Descrição | 
+| :--: | :-----: |
+| 1 | O artefato apresenta introdução? |
+| 2 | O artefato apresenta histórico de versão padronizado (com autores e revisores)? |
+| 3 | O artefato apresenta legenda e fonte (chamadas no texto) nas imagens/tabelas? |
+| 4 | O artefato apresenta referência bibliográfica e/ou bibliografia? |
+
+<div align="center">
+<figcaption align="center">Tabela 03: Checklist Three Level (Autor: Meister, Guilherme)</figcaption>
+</div>
+<br/>
+
 ## Referências Bibliográficas
 
 > <a id="1" href="#anchor_1">1.</a> SERRANO, et al. Requisitos - Aula 23. Disponível em: h<https://aprender3.unb.br/pluginfile.php/2845073/mod_resource/content/2/Requisitos%20-%20Aula%20023.pdf>. Acesso em: 06/06/2024.
