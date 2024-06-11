@@ -50,7 +50,32 @@ A metodologia utilizada segue até a **Inspeção**, cujo objetivo é averiguar 
 
 ### Checklist de Histórias de Usuário
 
+| ID | Descrição | 
+| :--: | :-----: | 
+| 1 | O artefato apresenta introdução? |
+| 2 | O artefato apresenta histórico de versão padronizado (com autores e revisores)? | 
+| 3 | O artefato apresenta legenda e fonte (chamadas no texto) nas imagens/tabelas? | 
+| 4 | O artefato apresenta referência bibliográfica e/ou bibliografia? | 
+<div align="center">
+<figcaption align="center">Tabela 02: Checklist Histórias de Usuário (Autor: Meister, Guilherme)</figcaption>
+</div>
+
+
 ### Checklist de Backlog
+
+| ID | Descrição |
+| :--: | :-----: |
+| 1 | O backlog cobre todos os requisitos? |
+| 2 | Os requisitos no backlog são todos testáveis? |
+| 3 | O artefato divide o backlog em épicos? |
+| 4 | O artefato contém histórias de usuário? |
+| 5 | O artefato contém a prioridade das histórias de usuário? | 
+| 6 | O artefato contém a gravação da realização do backlog?? | 
+| 7 | A ordem dos épicos atende uma boa lógica? | 
+| 8 | Os requisitos são rastreáveis? |
+<div align="center">
+<figcaption align="center">Tabela 03: Checklist do Backlog (Autor: Matheus Ferreira)</figcaption>
+</div>
 
 ## Referências Bibliográficas
 
