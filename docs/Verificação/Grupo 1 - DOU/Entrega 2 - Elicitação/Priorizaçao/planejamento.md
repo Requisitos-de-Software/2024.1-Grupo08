@@ -43,7 +43,30 @@ A metodologia utilizada segue até a **Inspeção**, cujo objetivo é averiguar 
 
 ### Checklist do MoSCoW
 
+| ID | Descrição | 
+| :--: | :-----: |
+| 1 | Os requisitos estão divididos em Must Have, Should Have, Could Have e Won't Have? | 
+| 2 | Houve participação de um cliente ou utilização de persona no processo de priorização?   | 
+| 3 | Há justificativa para o motivo pelo qual um requisito recebeu sua designada prioridade?  | 
+
+<div align="center">
+<figcaption align="center">Tabela 02: Checklist MoSCoW (Autor: Rodrigo Gontijo)</figcaption>
+</div>
+
+
 ### Checklist do Three Level Scale
+
+| ID | Descrição | 
+| :--: | :-----: |
+| 1 | O artefato apresenta introdução? |
+| 2 | O artefato apresenta histórico de versão padronizado (com autores e revisores)? |
+| 3 | O artefato apresenta legenda e fonte (chamadas no texto) nas imagens/tabelas? |
+| 4 | O artefato apresenta referência bibliográfica e/ou bibliografia? |
+
+<div align="center">
+<figcaption align="center">Tabela 03: Checklist Three Level (Autor: Meister, Guilherme)</figcaption>
+</div>
+<br/>
 
 ## Referências Bibliográficas
 
@@ -55,6 +78,8 @@ A metodologia utilizada segue até a **Inspeção**, cujo objetivo é averiguar 
 
 | Versão | Data de execução | Data de revisão |  Descrição                          | Autor(es)                                           | Revisor(es)                                           |
 | :----: | :--------------: | :-------------: | :---------------------------------: | :-------------------------------------------------: | :---------------------------------------------------: |
+| 1.2    | 10/06/2024       | 10/06/2024      | Corrigindo Checklisk MoSCoW | [Rodrigo Gontijo](https://github.com/rodrigogontijoo)   | [Igor Thiago](https://github.com/alladin51)    |
+| 1.1    | 10/06/2024       | 10/06/2024      | Adicionando Checklisk MoSCoW | [Rodrigo Gontijo](https://github.com/rodrigogontijoo)   | [Igor Thiago](https://github.com/alladin51)    |
 | 1.0    | 08/06/2024       | 08/06/2024      | Criação do planejamento da verificação entrega 2 (priorização)   | [Henrique Galdino](https://github.com/hgaldino05)   | [Júlio César](https://github.com/Julio1099)         |
 
 <div align="center">

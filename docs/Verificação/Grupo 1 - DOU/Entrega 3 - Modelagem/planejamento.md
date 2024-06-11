@@ -30,6 +30,24 @@ A metodologia utilizada segue até a **Inspeção**, cujo objetivo é averiguar 
 
 ### Checklist de Cenários
 
+| ID | Descrição | 
+| :--: | :-----: | 
+| 5 | O cenário possui: título, metas/objetivos, contexto, ator(es), recursos, exceções, restrições e episódios? | 
+| 6 | Os títulos são auto-explicativos? | 
+| 7 | O objetivo do cenário condiz com seu título? | 
+| 8 | O contexto descreve o estado inicial do cenário? | 
+| 9 | Os episódios seguem uma ordem lógica para atingir o objetivo? | 
+| 10 | As situações de exceção são abordadas? |  
+| 11 | Os passos do cenário são descritos? |  
+| 12 | Os recursos necessários são explicitados?  |  
+| 13 | Os atores envolvidos em cada cenário são identificados?  |  
+
+
+<div align="center">
+<figcaption align="center">Tabela 01: Checklist (Autor: Meister, Guilherme)</figcaption>
+</div>
+<br/>
+
 ### Checklist de Léxicos
 
 | ID | Descrição |
@@ -53,7 +71,51 @@ A metodologia utilizada segue até a **Inspeção**, cujo objetivo é averiguar 
 
 ### Checklist de Casos de Uso
 
+| ID | Descrição |
+| :--: | :-----: |
+| 1 | O caso de uso desenvolvido corresponde a uma funcionalidade completa que agrega algum valor? |
+| 2 | Os verbos são usados ​​no infinitivo em vez de substantivos? |
+| 3 | Existem relações de “extend”, “generalization” e “include”? |
+| 4 | O caso de uso reflete o usuário e suas interações com o sistema? |
+| 5 | O usuário é identificado por um nome, como cliente, funcionário, aluno, etc.? |
+| 6 | Os casos de uso representam requisitos funcionais? |
+| 7 | Alguma técnica específica foi usada para desenvolver os casos de uso? |
+| 8 | Os elementos de atores, sistema e objetivos estão presentes no caso de uso? |
+| 9 | Existem fluxos principais, alternativos e de exceção? |
+| 10 | Cada especificação de caso de uso contém apenas um fluxo principal? |
+| 11 | Os fluxos principais demonstram como o usuário usaria principalmente a funcionalidade? |
+| 12 | Os fluxos alternativos apresentam cenários alternativos ao fluxo principal? |
+| 13 | Os fluxos de exceção mostram como o sistema reagirá a situações inesperadas? |
+
+<div align="center">
+<figcaption align="center">Tabela 03: Checklist de Casos de Uso (Autor: Júlio Cesar)</figcaption>
+</div>
+<br/>
+
 ### Checklist de Especificação Suplementar
+
+| ID | Descrição | 
+|:-:|:---:|
+| 1 | O documento é orientado pelo padrão FURPS? |
+| 2 | O documento aborda sobre a estética e o design na Usabilidade? | 
+| 3 | O documento aborda e especifica sobre a facilidade de memorização na usabilidade? | 
+| 4 | O documento aborda e especifica sobre a eficiência na usabilidade? |
+| 5 | O documento aborda e especifica sobre a Satisfação na Usabilidade? | 
+| 6 | O documento aborda e especifica sobre a disponibilidade na Confiabilidade? | 
+| 7 | O documento aborda e especifica sobre a Segurança a falhas na Confiabilidade? | 
+| 8 | O documento aborda e especifica sobre a segurança no armazenamento de dados na confiabilidade? | 
+| 9 | O documento aborda e especifica a maturidade na Confiabilidade? | 
+| 10 | O documento aborda e especifica a rapidez na resposta no Desempenho? | 
+| 11 | O documento aborda e especifica o Armazenamento no Desempenho? | 
+| 12 | O documento aborda e especifica sobre a compatibilidade na Suportabilidade? | **Incompleto** |  O documento fala sobre compatibilidade porém não na parte de suportabilidade |
+| 13 | O documento aborda e especifica sobre a escalabilidade na Suportabilidade? |
+| 14 | O documento aborda e especifica sobre o termo de uso nos Requisitos de licenciamento? | 
+| 15 | O documento especifica em quais plataformas o aplicativo pode ser executado? | 
+
+<div align="center">
+<figcaption align="center">Tabela 03: Checklist (Autor: Igor Thiago)</figcaption>
+</div>
+<br/>
 
 ## Referências Bibliográficas
 

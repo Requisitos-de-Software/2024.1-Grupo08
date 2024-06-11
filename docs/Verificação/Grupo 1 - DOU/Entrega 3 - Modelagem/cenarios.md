@@ -26,10 +26,10 @@ A tabela 1 apresenta o checklist dos itens gerais de verificação desenvolvido 
 
 | ID | Descrição | Verificação | Observação | Autor da inspeção |
 | :--: | :-----: | :---------: | :--------: | :--------: |
-| 1 | O artefato apresenta introdução? | - | - | [Matheus Ferreira](https://github.com/matferreira1) |
-| 2 | O artefato apresenta histórico de versão padronizado (com autores e revisores)? | - | - |  [Matheus Ferreira](https://github.com/matferreira1) |
-| 3 | O artefato apresenta legenda e fonte (chamadas no texto) nas imagens/tabelas? | - | Atentar-se para diferença entre FONTE e AUTOR | [Matheus Ferreira](https://github.com/matferreira1) | 
-| 4 | O artefato apresenta referência bibliográfica e/ou bibliografia? | - | - | [Matheus Ferreira](https://github.com/matferreira1) |
+| 1 | O artefato apresenta introdução? |  SIM | - | [Matheus Ferreira](https://github.com/matferreira1) |
+| 2 | O artefato apresenta histórico de versão padronizado (com autores e revisores)? | SIM | - |  [Matheus Ferreira](https://github.com/matferreira1) |
+| 3 | O artefato apresenta legenda e fonte (chamadas no texto) nas imagens/tabelas? | SIM | Atentar-se para diferença entre FONTE e AUTOR | [Matheus Ferreira](https://github.com/matferreira1) | 
+| 4 | O artefato apresenta referência bibliográfica e/ou bibliografia? | SIM | - | [Matheus Ferreira](https://github.com/matferreira1) |
 
 <div align="center">
 <figcaption align="center">Tabela 01: Checklist (Autor: Meister, Guilherme)</figcaption>
@@ -42,15 +42,15 @@ A tabela 2 apresenta o checklist dos itens de conteúdos apresentados, desenvolv
 
 | ID | Descrição | Verificação | Observação | Autor da inspeção|
 | :--: | :-----: | :---------: | :--------: | :--------: |
-| 5 | O cenário possui: título, metas/objetivos, contexto, ator(es), recursos, exceções, restrições e episódios? | - | - | [Matheus Ferreira](https://github.com/matferreira1) |
-| 6 | Os títulos são auto-explicativos? | - | - | [Matheus Ferreira](https://github.com/matferreira1) |
-| 7 | O objetivo do cenário condiz com seu título? | - | - | [Matheus Ferreira](https://github.com/matferreira1) |
-| 8 | O contexto descreve o estado inicial do cenário? | - | - | [Matheus Ferreira](https://github.com/matferreira1) |
-| 9 | Os episódios seguem uma ordem lógica para atingir o objetivo? | - | - | [Matheus Ferreira](https://github.com/matferreira1) |
-| 10 | As situações de exceção são abordadas? | - | - | [Matheus Ferreira](https://github.com/matferreira1) | 
-| 11 | Os passos do cenário são descritos? | - | - | [Matheus Ferreira](https://github.com/matferreira1) | 
-| 12 | Os recursos necessários são explicitados?  | - | - | [Matheus Ferreira](https://github.com/matferreira1) | 
-| 13 | Os atores envolvidos em cada cenário são identificados?  | - | - | [Matheus Ferreira](https://github.com/matferreira1) | 
+| 5 | O cenário possui: título, metas/objetivos, contexto, ator(es), recursos, exceções, restrições e episódios? | SIM | - | [Matheus Ferreira](https://github.com/matferreira1) |
+| 6 | Os títulos são auto-explicativos? | SIM | - | [Matheus Ferreira](https://github.com/matferreira1) |
+| 7 | O objetivo do cenário condiz com seu título? | SIM | - | [Matheus Ferreira](https://github.com/matferreira1) |
+| 8 | O contexto descreve o estado inicial do cenário? | SIM | - | [Matheus Ferreira](https://github.com/matferreira1) |
+| 9 | Os episódios seguem uma ordem lógica para atingir o objetivo? | SIM | - | [Matheus Ferreira](https://github.com/matferreira1) |
+| 10 | As situações de exceção são abordadas? | SIM | - | [Matheus Ferreira](https://github.com/matferreira1) | 
+| 11 | Os passos do cenário são descritos? | SIM | - | [Matheus Ferreira](https://github.com/matferreira1) | 
+| 12 | Os recursos necessários são explicitados?  | SIM | - | [Matheus Ferreira](https://github.com/matferreira1) | 
+| 13 | Os atores envolvidos em cada cenário são identificados?  | SIM | - | [Matheus Ferreira](https://github.com/matferreira1) | 
 
 
 <div align="center">
@@ -60,9 +60,7 @@ A tabela 2 apresenta o checklist dos itens de conteúdos apresentados, desenvolv
 
 ## Comentários
 
-O artefato segue os padrões esperados, porém alguns pontos são passíveis de revisão e correção:
-
-- As tabelas que foram feitas pelos membros da equipe estão marcadas como "Fonte", mas este termo deve ser utilizado para tabelas que têm origem em alguma das referências, o correto seria usar "Autor"
+O artefato está bem completo e possui todos os ítens básicos para a criação dos cenários.
 
 ## Bibliografia
 

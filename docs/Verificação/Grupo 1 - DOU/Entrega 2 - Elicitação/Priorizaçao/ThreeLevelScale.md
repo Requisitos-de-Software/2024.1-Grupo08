@@ -26,10 +26,10 @@ A tabela 1 apresenta o checklist dos itens gerais de verificação desenvolvido 
 
 | ID | Descrição | Verificação | Observação | Autor da inspeção |
 | :--: | :-----: | :---------: | :--------: | :--------: |
-| 1 | O artefato apresenta introdução? | - | - | [Matheus Ferreira](https://github.com/matferreira1) |
-| 2 | O artefato apresenta histórico de versão padronizado (com autores e revisores)? | - | - |  [Matheus Ferreira](https://github.com/matferreira1) |
-| 3 | O artefato apresenta legenda e fonte (chamadas no texto) nas imagens/tabelas? | - | Atentar-se para diferença entre FONTE e AUTOR | [Matheus Ferreira](https://github.com/matferreira1) | 
-| 4 | O artefato apresenta referência bibliográfica e/ou bibliografia? | - | - | [Matheus Ferreira](https://github.com/matferreira1) |
+| 1 | O artefato apresenta introdução? | SIM | - | [Matheus Ferreira](https://github.com/matferreira1) |
+| 2 | O artefato apresenta histórico de versão padronizado (com autores e revisores)? | SIM | - |  [Matheus Ferreira](https://github.com/matferreira1) |
+| 3 | O artefato apresenta legenda e fonte (chamadas no texto) nas imagens/tabelas? | SIM | Atentar-se para diferença entre FONTE e AUTOR | [Matheus Ferreira](https://github.com/matferreira1) | 
+| 4 | O artefato apresenta referência bibliográfica e/ou bibliografia? | SIM | - | [Matheus Ferreira](https://github.com/matferreira1) |
 
 <div align="center">
 <figcaption align="center">Tabela 01: Checklist (Autor: Meister, Guilherme)</figcaption>
@@ -42,12 +42,12 @@ A tabela 2 apresenta o checklist dos itens de conteúdos apresentados, desenvolv
 
 | ID | Descrição | Verificação | Observação | Autor da inspeção|
 | :--: | :-----: | :---------: | :--------: | :--------: |
-| 5 | Os níveis de priorização doram divididos em "Baixo", "Médio" e "Alto"? | - | - | [Matheus Ferreira](https://github.com/matferreira1) |
-| 6 | Há no documento a expecificação dos participantes e seus respectivos papéis?  | - | - | [Matheus Ferreira](https://github.com/matferreira1) |
-| 7 | A priorização levou em consideração 'Importância' e 'Urgência'? | - | - | [Matheus Ferreira](https://github.com/matferreira1) |
-| 8 | A participação do cliente e/ou persona no processo de priorização? | - | - | [Matheus Ferreira](https://github.com/matferreira1) |
-| 9 | As razões pelas quais foi feita a escolha da técnica? | - | - | [Matheus Ferreira](https://github.com/matferreira1) |
-| 10 | tem-se os resultados da priorização e a gravação da reunião? | - | - | [Matheus Ferreira](https://github.com/matferreira1) | 
+| 5 | Os níveis de priorização doram divididos em "Baixo", "Médio" e "Alto"? | SIM | - | [Matheus Ferreira](https://github.com/matferreira1) |
+| 6 | Há no documento a expecificação dos participantes e seus respectivos papéis?  | SIM | - | [Matheus Ferreira](https://github.com/matferreira1) |
+| 7 | A priorização levou em consideração 'Importância' e 'Urgência'? | SIM | - | [Matheus Ferreira](https://github.com/matferreira1) |
+| 8 | A participação do cliente e/ou persona no processo de priorização? | SIM | - | [Matheus Ferreira](https://github.com/matferreira1) |
+| 9 | As razões pelas quais foi feita a escolha da técnica? | SIM | - | [Matheus Ferreira](https://github.com/matferreira1) |
+| 10 | tem-se os resultados da priorização e a gravação da reunião? | SIM | - | [Matheus Ferreira](https://github.com/matferreira1) | 
 
 <div align="center">
 <figcaption align="center">Tabela 02: Checklist (Autor: Meister, Guilherme)</figcaption>
@@ -56,9 +56,7 @@ A tabela 2 apresenta o checklist dos itens de conteúdos apresentados, desenvolv
 
 ## Comentários
 
-O artefato segue os padrões esperados, porém alguns pontos são passíveis de revisão e correção:
-
-- As tabelas que foram feitas pelos membros da equipe estão marcadas como "Fonte", mas este termo deve ser utilizado para tabelas que têm origem em alguma das referências, o correto seria usar "Autor"
+No geral o artefato está bem completo e correto, contendo tudo que é necessário para a aplicação dessa técnica.
 
 ## Bibliografia
 

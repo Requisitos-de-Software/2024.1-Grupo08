@@ -26,10 +26,10 @@ A tabela 1 apresenta o checklist dos itens gerais de verificação desenvolvido 
 
 | ID | Descrição | Verificação | Observação | Autor da inspeção |
 | :--: | :-----: | :---------: | :--------: | :--------: |
-| 1 | O artefato apresenta introdução? | - | - | [Matheus Ferreira](https://github.com/matferreira1) |
-| 2 | O artefato apresenta histórico de versão padronizado (com autores e revisores)? | - | - |  [Matheus Ferreira](https://github.com/matferreira1) |
-| 3 | O artefato apresenta legenda e fonte (chamadas no texto) nas imagens/tabelas? | - | Atentar-se para diferença entre FONTE e AUTOR | [Matheus Ferreira](https://github.com/matferreira1) | 
-| 4 | O artefato apresenta referência bibliográfica e/ou bibliografia? | - | - | [Matheus Ferreira](https://github.com/matferreira1) |
+| 1 | O artefato apresenta introdução? | SIM | - | [Matheus Ferreira](https://github.com/matferreira1) |
+| 2 | O artefato apresenta histórico de versão padronizado (com autores e revisores)? | SIM | - |  [Matheus Ferreira](https://github.com/matferreira1) |
+| 3 | O artefato apresenta legenda e fonte (chamadas no texto) nas imagens/tabelas? | SIM | Atentar-se para diferença entre FONTE e AUTOR | [Matheus Ferreira](https://github.com/matferreira1) | 
+| 4 | O artefato apresenta referência bibliográfica e/ou bibliografia? | SIM | - | [Matheus Ferreira](https://github.com/matferreira1) |
 
 <div align="center">
 <figcaption align="center">Tabela 01: Checklist (Autor: Meister, Guilherme)</figcaption>
@@ -42,14 +42,13 @@ A tabela 2 apresenta o checklist dos itens de conteúdos apresentados, desenvolv
 
 | ID | Descrição | Verificação | Observação | Autor da inspeção|
 | :--: | :-----: | :---------: | :--------: | :--------: |
-| 5 | O "quem", "o que" e o "por que" estão definidos na história de usuário? | - | - | [Matheus Ferreira](https://github.com/matferreira1) |
-| 6 | Os títulos são auto-explicativos? | - | - | [Matheus Ferreira](https://github.com/matferreira1) |
-| 7 | Os critérios de aceitação das histórias foram definidos? | - | - | [Matheus Ferreira](https://github.com/matferreira1) |
-| 8 | A participação do cliente e/ou persona na elicitação de requisitos? | - | - | [Matheus Ferreira](https://github.com/matferreira1) |
-| 9 | Todas as histórias de usuário podem ser testadas? | - | - | [Matheus Ferreira](https://github.com/matferreira1) |
-| 10 | Tem fonte de onde foram retiradas as histórias? | - | - | [Matheus Ferreira](https://github.com/matferreira1) | 
-| 11 | Estão estão divididas em ou subtarefas? | - | - | [Matheus Ferreira](https://github.com/matferreira1) | 
-| 12 | Possuem introdução, descrição e critérios de aceitação claros?  | - | - | [Matheus Ferreira](https://github.com/matferreira1) | 
+| 5 | O "quem", "o que" e o "por que" estão definidos na história de usuário? | SIM | - | [Matheus Ferreira](https://github.com/matferreira1) |
+| 6 | Os títulos são auto-explicativos? | SIM | - | [Matheus Ferreira](https://github.com/matferreira1) |
+| 7 | Os critérios de aceitação das histórias foram definidos? | SIM | - | [Matheus Ferreira](https://github.com/matferreira1) |
+| 8 | A participação do cliente e/ou persona na elicitação de requisitos? | SIM | - | [Matheus Ferreira](https://github.com/matferreira1) |
+| 9 | Todas as histórias de usuário podem ser testadas? | INCOMPLETO | Algumas histórias não podem ser testadas, como a US17 por exemplo | [Matheus Ferreira](https://github.com/matferreira1) |
+| 10 | As histórias podem ser rastreadas? | NÃO | Não há uma correlação entre as histórias e os requisitos que definiram elas | [Matheus Ferreira](https://github.com/matferreira1) | 
+| 11 | Possuem introdução, descrição e critérios de aceitação claros?  | SIM | - | [Matheus Ferreira](https://github.com/matferreira1) | 
 
 
 <div align="center">
@@ -59,9 +58,7 @@ A tabela 2 apresenta o checklist dos itens de conteúdos apresentados, desenvolv
 
 ## Comentários
 
-O artefato segue os padrões esperados, porém alguns pontos são passíveis de revisão e correção:
-
-- As tabelas que foram feitas pelos membros da equipe estão marcadas como "Fonte", mas este termo deve ser utilizado para tabelas que têm origem em alguma das referências, o correto seria usar "Autor"
+O artefato está incompleto já que além de haverem histórias não testáveis, não é possível rastrear de quais requisitos as histórias se originaram, tornando assim as histórias incorretas e passíveis de melhora
 
 ## Bibliografia
 

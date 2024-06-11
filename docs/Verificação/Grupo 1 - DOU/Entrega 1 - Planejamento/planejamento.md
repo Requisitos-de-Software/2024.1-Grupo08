@@ -27,6 +27,23 @@ A metodologia utilizada segue até a **Inspeção**, cujo objetivo é averiguar 
 
 ### Checklist da Rich Picture
 
+| ID | Descrição | Verificação | Observação | 
+| :--: | :-----: | :---------: | :--------: | 
+| 5 | O(s) Ator(es) do RichPicture, está do lado de fora do sistema? | SIM | - | 
+| 6 | Há a presença dos 5 principais componentes de um Richpicture? | SIM | - | 
+| 7 | O componente Fronteira está sendo utilizado de acordo com as diretrizes? | SIM | - | 
+| 8 | O componente Fluxo está sendo aplicado da maneira correta? | SIM | - | 
+| 9 | O componente Atores está empregado de maneira apropriada no artefato? | SIM | - | 
+| 10 | O componente Operações está sendo empregado corretamente? | SIM | - |  
+| 11 | O rich picture passa uma mensagem de forma efetiva? | SIM | - | 
+| 12 | O rich picture consegue contar uma história de maneira eficiente?  | SIM | - | 
+
+
+<div align="center">
+<figcaption align="center">Tabela 01: Checklist (Autor: Meister, Guilherme)</figcaption>
+</div>
+<br/>
+
 ## Referências Bibliográficas
 
 > <a id="1" href="#anchor_1">1.</a> SERRANO, et al. Requisitos - Aula 23. Disponível em: h<https://aprender3.unb.br/pluginfile.php/2845073/mod_resource/content/2/Requisitos%20-%20Aula%20023.pdf>. Acesso em: 06/06/2024.
