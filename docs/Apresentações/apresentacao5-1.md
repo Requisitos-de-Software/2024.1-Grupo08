@@ -4,7 +4,7 @@ Vídeo gravado pela equipe, referente a apresentação da Entrega 5.1
 
 <iframe width="750" height="422" src="https://www.youtube.com/embed/Qmls-siUNMU" title="Apresentação Entrega 5.1 -  Grupo 8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-###### Vídeo 01 - apresentação da Entrega 4. Autor: Autoria Própria.
+###### Vídeo 01 - apresentação da Entrega 5.1. Autor: Autoria Própria.
 
 ## Histórico de Versão
 | Versão | Data de execução | Data de revisão |  Descrição            | Autor(es)         | Revisor(es)  |
