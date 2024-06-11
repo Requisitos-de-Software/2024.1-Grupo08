@@ -31,7 +31,7 @@ A metodologia utilizada segue até a **Inspeção**, cujo objetivo é averiguar 
 ### Checklist de Cenários
 
 | ID | Descrição | Verificação | Observação 
-| :--: | :-----: | :---------: | :--------: | :--------: |
+| :--: | :-----: | :---------: | :--------: |
 | 5 | O cenário possui: título, metas/objetivos, contexto, ator(es), recursos, exceções, restrições e episódios? | SIM | - | 
 | 6 | Os títulos são auto-explicativos? | SIM | - | 
 | 7 | O objetivo do cenário condiz com seu título? | SIM | - | 
