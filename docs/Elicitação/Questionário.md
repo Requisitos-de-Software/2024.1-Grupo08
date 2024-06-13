@@ -225,7 +225,7 @@ Dentro da tabela, podemos ver algumas sugestões e necessidades relacionados ao 
 
 | Data | Versão | Descrição | Autor(es) | Data de revisão | Revisor(es) |
 | :--:       | :----: | :-------: | :---: | :-------------: | :-----: |
-| 09/05/2024 | `1.2`  | Correções após feedback | [Guilherme Meister](https://github.com/gmeister18) | --/--/2024 | [Rodrigo ](https://github.com/rodrigogontijoo) |
+| 09/05/2024 | `1.2`  | Correções após feedback | [Guilherme Meister](https://github.com/gmeister18) | 13/05/2024 | [Rodrigo ](https://github.com/rodrigogontijoo) |
 | 10/04/2024 | `1.1`  | Correções do artefato | [Henrique Galdino](https://github.com/hgaldino05) | 10/04/2024 | [Rodrigo ](https://github.com/rodrigogontijoo) |
 | 05/04/2024 | `1.0`  | Criação do artefato | [Guilherme Meister](https://github.com/gmeister18) e [Matheus Ferreira](https://github.com/matferreira1) | 10/04/2024 | [Henrique Galdino](https://github.com/hgaldino05) e [Rodrigo ](https://github.com/rodrigogontijoo) |
 
