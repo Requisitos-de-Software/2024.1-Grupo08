@@ -32,7 +32,6 @@ A tabela 01 traz a Matriz de Rastreabilidade criada para o projeto, a qual segue
 - ***CEN: Cenários***
 - ***ESP: Especificação Suplementar***
 - ***LEX: Léxicos***
-- ***LEX: Léxicos***
 - ***BDP: Backlog do Produto***
 - ***HUS: Histórias de Usuário***
 - ***NFR: NFR Framework***

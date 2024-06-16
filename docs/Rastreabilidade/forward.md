@@ -24,10 +24,9 @@ A Tabela 1 apresenta a legenda utilizada para identificar os diferentes tipos de
 | ------- | ------------------------- |
 | US      | História de Usuário       |
 | ST      | Storytelling              |
-| UC      | Casos de Uso              |
-| C       | Cenários                  |
-| L       | Léxico                    |
-| ES      | Especificação Suplementar |
+| CDU     | Casos de Uso              |
+| CEN     | Cenários                  |
+| LEX     | Especificação Suplementar |
 | INT     | Introspecção              |
 | QUE     | Questionário              |
 | ADD     | Análise de Documentos     |
