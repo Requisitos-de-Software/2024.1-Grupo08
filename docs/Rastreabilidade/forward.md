@@ -73,4 +73,4 @@ O mapeamento dos requisitos para os artefatos proporciona uma visão abrangente 
 
 | <p align="center">Data</p> | <p align="center">Versão</p> | <p align="center">Descrição</p> | <p align="center">Autor(es)</p> | <p align="center">Data de revisão</p> | <p align="center">Revisor(es)</p> |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| 12/06/2024 | `1.1` | Criação do artefato | [Guilherme Meister](https://github.com/gmeister18) | 13/06/2024 |  [Henrique Galdino](https://github.com/hgaldino05) |
+| 12/06/2024 | `1.0` | Criação do artefato | [Guilherme Meister](https://github.com/gmeister18) | 13/06/2024 |  [Henrique Galdino](https://github.com/hgaldino05) |
