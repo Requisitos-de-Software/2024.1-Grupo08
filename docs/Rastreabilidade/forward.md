@@ -40,6 +40,7 @@ A Tabela 1 apresenta a legenda utilizada para identificar os diferentes tipos de
 | Legenda | Artefato                  |
 | ------- | ------------------------- |
 | US      | História de Usuário       |
+| EPI     | Épico (backlog)           |
 | ST      | Storytelling              |
 | CDU     | Casos de Uso              |
 | CEN     | Cenários                  |
@@ -56,32 +57,14 @@ A Tabela 1 apresenta a legenda utilizada para identificar os diferentes tipos de
 
 O mapeamento dos requisitos para os artefatos proporciona uma visão abrangente e estruturada do desenvolvimento do software, como é visto a seguir, permitindo que a equipe compreenda as relações entre os elementos e tome decisões embasadas durante todo o processo.
 
- ID do requisito funcional | Descrição do requisito |
-| :-: | :-: |
-| Épico | Épico de referência |
-| Tema | Tema do Backlog |
-| História de Usuário | História de usuário |
-| Léxico  | Léxico relacionado |
-| Casos de uso | Caso de uso relacionado |
-| Cenários | Cenário relacionado |
-| Artefatos de elicitação | Artefatos que elicitaram o requisito |
-
-<div>
-<p> Tabela 2: Modelo para requisito funcional (Fonte: MEISTER, Guilherme. 2024).</p>
+ 
+<p> Tabela 2: Matriz Forward Form (Fonte: MEISTER, Guilherme. 2024).</p>
 </div>
 
-| ID do requisito não funcional | Descrição do requisito |
-| :-: | :-: |
-| NFR | Softgoals relacionado |
-| Especificação Suplementar | Critério da especificação |                  
-
-<div>
-<p> Tabela 3: Modelo para requisito não funcional (Fonte: MEISTER, Guilherme. 2024).</p>
-</div>
 
 ## Bibliografia
 
-[1] SERRANO, Milene; SERRANO, Maurício. Requisitos - Aula 26. 2019. Acessado em: 12 de junho de 2024
+[1] SERRANO, Milene; SERRANO, Maurício. Requisitos - Aula 26. 2019. Disponível em: <https://aprender3.unb.br/pluginfile.php/2845096/mod_resource/content/1/Requisitos%20-%20Aula%20026.pdf>. Acesso em: 12 de jun de 2024. Acessado em: 12 de junho de 2024
 
 [2] POHL, Klaus; RUPP, Chris. Requirements Engineering Fundamental. Acessado em 12 de junho de 2024
 
@@ -89,6 +72,7 @@ O mapeamento dos requisitos para os artefatos proporciona uma visão abrangente 
 
 ## Histórico de Versões
 
-| <p align="center">Data</p> | <p align="center">Versão</p> | <p align="center">Descrição</p> | <p align="center">Autor(es)</p> | <p align="center">Data de revisão</p> | <p align="center">Revisor(es)</p> |
-| :-: | :-: | :-: | :-: | :-: | :-: |
-| 12/06/2024 | `1.0` | Criação do artefato | [Guilherme Meister](https://github.com/gmeister18) | 13/06/2024 |  [Henrique Galdino](https://github.com/hgaldino05) |
+| Versão | Data de execução | Data de revisão |  Descrição                          | Autor(es)                                           | Revisor(es)                                           |
+| :----: | :--------------: | :-------------: | :---------------------------------: | :-------------------------------------------------: | :---------------------------------------------------: |
+| 1.1    | 16/06/2024       | 16/06/2024      | Corrigindo e complementando metodologia e tabelas   | [Henrique Galdino](https://github.com/hgaldino05)   | [Júlio César](https://github.com/Julio1099)         |
+| 1.0    | 12/06/2024       | 12/06/2024      | Criação do artefato | [Guilherme Meister](https://github.com/gmeister18)   | [Henrique Galdino](https://github.com/hgaldino05)     |
