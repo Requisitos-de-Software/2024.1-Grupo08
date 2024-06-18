@@ -57,7 +57,7 @@ A Tabela 1 apresenta a legenda utilizada para identificar os diferentes tipos de
 
 O mapeamento dos requisitos para os artefatos proporciona uma visão abrangente e estruturada do desenvolvimento do software, como é visto a seguir, permitindo que a equipe compreenda as relações entre os elementos e tome decisões embasadas durante todo o processo.
 
- 
+<div>
 <p> Tabela 2: Matriz Forward Form (Fonte: MEISTER, Guilherme. 2024).</p>
 </div>
 
