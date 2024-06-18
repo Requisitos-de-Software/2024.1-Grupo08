@@ -43,6 +43,10 @@ A tabela 1 apresenta o checklist dos itens gerais de verificação desenvolvido 
 
 O artefato não contém tantas informações acerca dos requisitos, no projeto não há uma lista de todos os requisitos e isso compromete a qualidade do backlog, já que não é possível verificar se o backlog inclui todos os requisitos, além dos requisitos não estarem bem explicados e não possuirem rastreabilidade, não sabendo de onde esse requisito foi elicitado.
 
+## Gravação 
+
+<iframe width="560" height="315" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ## Bibliografia
 
 - [1] Presman, Roger S; Maxim, Bruce R. Engenharia de software. 8. ed. Bookman, 2016. Acessado em: 06 de junho de 2024

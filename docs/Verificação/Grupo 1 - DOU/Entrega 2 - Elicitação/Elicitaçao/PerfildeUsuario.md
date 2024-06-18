@@ -20,6 +20,10 @@ A tabela 1 apresenta o checklist de verificação desenvolvido com base no artef
 </div>
 <br/>
 
+## Gravação 
+
+<iframe width="560" height="315" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ## Referências Bibliográficas
 
 > <a id="FTF1Ref" href="#FTF1">1. </a> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.

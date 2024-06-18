@@ -58,6 +58,10 @@ A tabela 2 apresenta o checklist dos itens de conteúdos apresentados, desenvolv
 
 No geral o artefato está bem completo e correto, contendo tudo que é necessário para a aplicação dessa técnica.
 
+## Gravação 
+
+<iframe width="560" height="315" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ## Bibliografia
 
 - [1] Presman, Roger S; Maxim, Bruce R. Engenharia de software. 8. ed. Bookman, 2016. Acessado em: 06 de junho de 2024

@@ -172,6 +172,11 @@ A tabela 1 apresenta o checklist de verificação desenvolvido com base no artef
 
 </details>
 
+
+## Gravação 
+
+<iframe width="560" height="315" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ## Referências Bibliográficas
 
 > <a id="anchor_1" href="#REF1">1.</a> Slides da aula “Requisitos – Aula 11” dos professores Milene Serrano e Maurício Serrano. Disponível em: [https://aprender3.unb.br/pluginfile.php/2523100/mod_resource/content/1/Requisitos%20-%20Aula%20013a.pdf](https://aprender3.unb.br/pluginfile.php/2523100/mod_resource/content/1/Requisitos%20-%20Aula%20013a.pdf) Acesso em: 05 de junho de 2023.

@@ -73,9 +73,14 @@ O artefato segue os padrões esperados, porém alguns pontos são passíveis de 
 
 - [3] Bourque and R.E. Fairley, eds., Guide to the Software Engineering Body of Knowledge, Version 3.0, IEEE Computer Society, 2014; www.swebok.org.
 
+## Gravação 
+
+<iframe width="560" height="315" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ## Histórico de Versões
 
 | <p align="center">Data</p> | <p align="center">Versão</p> | <p align="center">Descrição</p> | <p align="center">Autor(es)</p> | <p align="center">Data de revisão</p> | <p align="center">Revisor(es)</p> |
 | - | - | - | - | - | - | 
 | 05/06/2024 | `1.0` | Documento criado | [Guilherme Meister](https://github.com/gmeister18) | --/06/2023 | [Matheus Ferreira](https://github.com/) |
 | 06/06/2024 | `1.1` | Correções | [Guilherme Meister](https://github.com/gmeister18) | --/06/2023 | [Matheus Ferreira](https://github.com/matferreira1) |
+| 18/06/2024 | `1.2` | Criação da gravação | [Guilherme Meister](https://github.com/gmeister18) | --/06/2023 | [Matheus Ferreira](https://github.com/matferreira1) |

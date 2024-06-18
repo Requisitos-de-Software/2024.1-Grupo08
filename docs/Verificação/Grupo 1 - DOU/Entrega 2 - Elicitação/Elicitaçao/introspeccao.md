@@ -33,6 +33,10 @@ A tabela 1 apresenta o checklist de verificação desenvolvido com base no artef
 
 O checklist está incompleto, pois o [*Grupo 01*](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/) não colocou o link da gravação da execução do método.
 
+## Gravação 
+
+<iframe width="560" height="315" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ## Referências Bibliográficas
 
 > <a id="FTF1Ref" href="#FTF1">1.</a> COOPER, Alan; REIMANN, Robert; CRONIN, Dave. About Face: The Essentials of Interaction Design.

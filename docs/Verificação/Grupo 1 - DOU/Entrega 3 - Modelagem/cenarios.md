@@ -62,6 +62,10 @@ A tabela 2 apresenta o checklist dos itens de conteúdos apresentados, desenvolv
 
 O artefato está bem completo e possui todos os ítens básicos para a criação dos cenários.
 
+## Gravação 
+
+<iframe width="560" height="315" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ## Bibliografia
 
 - [1] Presman, Roger S; Maxim, Bruce R. Engenharia de software. 8. ed. Bookman, 2016. Acessado em: 06 de junho de 2024

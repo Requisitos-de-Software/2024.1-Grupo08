@@ -60,6 +60,10 @@ A tabela 2 apresenta o checklist dos itens de conteúdos apresentados, desenvolv
 
 O artefato está incompleto já que além de haverem histórias não testáveis, não é possível rastrear de quais requisitos as histórias se originaram, tornando assim as histórias incorretas e passíveis de melhora
 
+## Gravação 
+
+<iframe width="560" height="315" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ## Bibliografia
 
 - [1] Presman, Roger S; Maxim, Bruce R. Engenharia de software. 8. ed. Bookman, 2016. Acessado em: 06 de junho de 2024

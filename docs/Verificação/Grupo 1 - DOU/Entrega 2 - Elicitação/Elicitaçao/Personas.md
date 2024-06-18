@@ -39,6 +39,10 @@ A tabela 1 apresenta o checklist de verificação desenvolvido com base no artef
 
 O checklist está completo, pois o [*Grupo 01*](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/) seguiu os critérios definidos na tabela corretamente.
 
+## Gravação 
+
+<iframe width="560" height="315" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 
 ## Referências Bibliográficas
 

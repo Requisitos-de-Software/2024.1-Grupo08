@@ -34,7 +34,9 @@ O artefato segue os padrões esperados e apresenta conteúdos relacionados aos m
 
 - Os requisitos [RNF02 e RNF05](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/modelagem/modelagemAgil/nfr_framework/#requisitos-nao-funcionais) poderiam ser mais detalhados, indicando quais medidas e mecanismos seriam utilizados (como algum tipo de criptografia, por exemplo).
 
+## Gravação 
 
+<iframe width="560" height="315" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Bibliografia
 
