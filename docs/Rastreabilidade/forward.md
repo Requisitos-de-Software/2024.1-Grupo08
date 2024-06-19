@@ -31,9 +31,9 @@ Dentro deste Meta-modelo, o suporte à rastreabilidade identifica diferentes tip
 - **Alocado**: classe de origem relacionada a classe de destino, representando subsistema
 - **Agregação**: indica composição de elementos
 
-## Mapeamento dos Requisitos
+## Matriz
 
-Os requisitos funcionais e não funcionais previmente elicitados foram coletados para formar tabelas. Dessa forma, foi necessário verificar a implementação dos requisitos, ou efetuar a criação dos protótipos caso não tivessem implementados na aplicação. Cada requisito foi analisado por determinado aluno, cobrindo assim todos os requisitos elicitados.
+Os requisitos funcionais e não funcionais previmente elicitados foram analisados e listados em uma tabela, formando uma matriz. Para isto, foi necessário verificar o estado da implementação dos requisitos, ou efetuar a criação dos protótipos caso não tivessem implementados na aplicação. Cada requisito foi analisado por determinado aluno, cobrindo assim todos os requisitos elicitados.
 
 A Tabela 1 apresenta a legenda utilizada para identificar os diferentes tipos de artefatos.
 
@@ -44,7 +44,7 @@ A Tabela 1 apresenta a legenda utilizada para identificar os diferentes tipos de
 | ST      | Storytelling              |
 | CDU     | Casos de Uso              |
 | CEN     | Cenários                  |
-| LEX     | Especificação Suplementar |
+| ESP     | Especificação Suplementar |
 | INT     | Introspecção              |
 | QUE     | Questionário              |
 | ADD     | Análise de Documentos     |
@@ -54,6 +54,51 @@ A Tabela 1 apresenta a legenda utilizada para identificar os diferentes tipos de
 <div>
 <p> Tabela 1: Legenda (Fonte: MEISTER, Guilherme. 2024).</p>
 </div>
+
+A tabela 2 abaixo apresenta a matriz ***forward form***, relacionando os requisitos com seus respectivos artefatos e elos:
+
+| REQUISITO | ARTEFATOS | IMPLEMENTADO | REPRESENTAÇÃO | ELO |
+| :--: | :--: | :--: | :--: | :--: |
+| RF1 | LEX1 US3 |  |  |  |
+| RF2 |  |  |  |  |  |
+| RF3 |  |  |  |  |  |
+| RF4 |  |  |  |  |  |
+| RF5 |  |  |  |  |  |
+| RF6 |  |  |  |  |  |
+| RF7 |  |  |  |  |  |
+| RF8 | |  |  |  |  |
+| RF9 | |  |  |  |  |
+| RF10 | |  |  |  |  |
+| RF11 | |  |  |  |  |
+| RF12 | |  |  |  |  |
+| RF13 | |  |  |  |  |
+| RF14 | |  |  |  |  |
+| RF15 | |  |  |  |  |
+| RF16 | |  |  |  |  |
+| RF17 | |  |  |  |  |
+| RF18 | |  |  |  |  |
+| RF19 | |  |  |  |  |
+| RF20 | |  |  |  |  |
+| RF21 | |  |  |  |  |
+| RF22 | |  |  |  |  |
+| RF23 | |  |  |  |  |
+| RF24 | |  |  |  |  |
+| RF25 | |  |  |  |  |
+| RNF1 | |  |  |  |  |
+| RNF2 | |  |  |  |  |
+| RNF3 | |  |  |  |  |
+| RNF4 | |  |  |  |  |
+| RNF5 | |  |  |  |  |
+| RNF6 | |  |  |  |  |
+| RNF7 | |  |  |  |  |
+| RNF8 | |  |  |  |  |
+| RNF9 | |  |  |  |  |
+| RNF10 | |  |  |  |  |
+| RNF11 | |  |  |  |  |
+| RNF12 | |  |  |  |  |
+| RNF13 | |  |  |  |  |
+| RNF14 | |  |  |  |  |
+
 
 O mapeamento dos requisitos para os artefatos proporciona uma visão abrangente e estruturada do desenvolvimento do software, como é visto a seguir, permitindo que a equipe compreenda as relações entre os elementos e tome decisões embasadas durante todo o processo.
 
