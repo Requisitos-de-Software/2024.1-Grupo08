@@ -36,7 +36,7 @@ A tabela 01 traz a Matriz de Rastreabilidade criada para o projeto, a qual segue
 - ***HUS: Histórias de Usuário***
 - ***NFR: NFR Framework***
 
-| ID | REQUISITO | DESCRIÇÃO | IMPLEMENTAÇÃO | PRÉ-RASTREABILIDADE | ARTEFATOS | ELOS |
+| ID | REQUISITO | DESCRIÇÃO | IMPLEMENTAÇÃO | BACKWARD FORM | FORWARD FORM | ELOS |
 | :-: | :--: | :--: | :--: | :--: | :--: | :--: |
 | M1 | RF1 | Deve ser possível fazer login utilizando o gov.br |  |  |  |  |
 | M2 | RF2 | Deve ser possível pesquisar uma empresa pelo nome	 |  |  |  |  |
