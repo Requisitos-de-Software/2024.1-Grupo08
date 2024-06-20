@@ -106,6 +106,49 @@ O mapeamento dos requisitos para os artefatos proporciona uma visão abrangente 
 <p> Tabela 2: Matriz Forward Form (Fonte: MEISTER, Guilherme. 2024).</p>
 </div>
 
+## ELOS
+
+| ID | REQUISITO | SATISFAÇÃO | RECURSO | REPRESENTAÇÃO | ALOCADO | AGREGAÇÃO |
+| :--: | :--: | :--: | :--: | :--: | :--: | :--: |
+| EF1  | RF1 | US1 | UC01 A UC02 |  | NFR01 | - |
+| EF2  | RF2 | US2 | UC01, C01, L01 |  | NF01 | RF3 A RF9| 
+| EF3  | RF3 | US3 |  |  | NFR01 | RF4 |
+| EF4  | RF4 |  |  |  |  |  |
+| EF5  | RF5 |  |  |  |  |  |
+| EF6  | RF6 |  |  |  |  |  |
+| EF7  | RF7 |  |  |  |  |  |
+| EF8  | RF8  | |  |  |  |  |
+| EF9  | RF9  | |  |  |  |  |
+| EF10 | RF10 | |  |  |  |  |
+| EF11 | RF11 | |  |  |  |  |
+| EF12 | RF12 | |  |  |  |  |
+| EF13 | RF13 | |  |  |  |  |
+| EF14 | RF14 | |  |  |  |  |
+| EF15 | RF15 | |  |  |  |  |
+| EF16 | RF16 | |  |  |  |  |
+| EF17 | RF17 | |  |  |  |  |
+| EF18 | RF18 | |  |  |  |  |
+| EF19 | RF19 | |  |  |  |  |
+| EF20 | RF20 | |  |  |  |  |
+| EF21 | RF21 | |  |  |  |  |
+| EF22 | RF22 | |  |  |  |  |
+| EF23 | RF23 | |  |  |  |  |
+| EF24 | RF24 | |  |  |  |  |
+| EF25 | RF25 | |  |  |  |  |
+| EF26 | RNF1 | |  |  |  |  |
+| EF27 | RNF2 | |  |  |  |  |
+| EF28 | RNF3 | |  |  |  |  |
+| EF29 | RNF4 | |  |  |  |  |
+| EF30 | RNF5 | |  |  |  |  |
+| EF31 | RNF6 | |  |  |  |  |
+| EF32 | RNF7 | |  |  |  |  |
+| EF33 | RNF8 | |  |  |  |  |
+| EF34 | RNF9 | |  |  |  |  |
+| EF35 | RNF10 | |  |  |  |  |
+| EF36 | RNF11 | |  |  |  |  |
+| EF37 | RNF12 | |  |  |  |  |
+| EF38 | RNF13 | |  |  |  |  |
+| EF39 | RNF14 | |  |  |  |  |
 
 ## Bibliografia
 
