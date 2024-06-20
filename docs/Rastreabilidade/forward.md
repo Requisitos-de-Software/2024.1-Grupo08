@@ -106,12 +106,12 @@ O mapeamento dos requisitos para os artefatos proporciona uma visão abrangente 
 <p> Tabela 2: Matriz Forward Form (Fonte: MEISTER, Guilherme. 2024).</p>
 </div>
 
-## ELOS
+## Elos
 
 | ID | REQUISITO | SATISFAÇÃO | RECURSO | REPRESENTAÇÃO | ALOCADO | AGREGAÇÃO |
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
-| EF1  | RF1 | US1 | UC01 A UC02 |  | NFR01 | - |
-| EF2  | RF2 | US2 | UC01, C01, L01 |  | NF01 | RF3 A RF9| 
+| EF1  | RF1 | US1 | UC1 A UC8 |  | NFR01 | - |
+| EF2  | RF2 | US2 | UC1, CEN1, LEX1 |  | NF01 | RF3 A RF9| 
 | EF3  | RF3 | US3 |  |  | NFR01 | RF4 |
 | EF4  | RF4 |  |  |  |  |  |
 | EF5  | RF5 |  |  |  |  |  |
@@ -162,5 +162,6 @@ O mapeamento dos requisitos para os artefatos proporciona uma visão abrangente 
 
 | Versão | Data de execução | Data de revisão |  Descrição                          | Autor(es)                                           | Revisor(es)                                           |
 | :----: | :--------------: | :-------------: | :---------------------------------: | :-------------------------------------------------: | :---------------------------------------------------: |
+| 1.2    | 20/06/2024       | 20/06/2024      | Adicionando elos   | Guilherme Meister, Henrique Galdino, Igor Thiago, Júlio César, Matheus Ferreira, Rodrigo Gontijo   | Guilherme Meister, Henrique Galdino, Igor Thiago, Júlio César, Matheus Ferreira, Rodrigo Gontijo |
 | 1.1    | 16/06/2024       | 16/06/2024      | Corrigindo e complementando metodologia e tabelas   | [Henrique Galdino](https://github.com/hgaldino05)   | [Júlio César](https://github.com/Julio1099)         |
 | 1.0    | 12/06/2024       | 12/06/2024      | Criação do artefato | [Guilherme Meister](https://github.com/gmeister18)   | [Henrique Galdino](https://github.com/hgaldino05)     |
