@@ -57,50 +57,53 @@ A Tabela 1 apresenta a legenda utilizada para identificar os diferentes tipos de
 
 A tabela 2 abaixo apresenta a matriz ***forward form***, relacionando os requisitos com seus respectivos artefatos e elos:
 
-| REQUISITO | ARTEFATOS | IMPLEMENTADO | REPRESENTAÇÃO | ELO |
+| REQUISITO | ARTEFATOS | IMPLEMENTAÇÃO | REPRESENTAÇÃO | ELO |
 | :--: | :--: | :--: | :--: | :--: |
-| RF1 | LEX1 US3 |  |  |  |
-| RF2 |  |  |  |  |  |
-| RF3 |  |  |  |  |  |
-| RF4 |  |  |  |  |  |
-| RF5 |  |  |  |  |  |
-| RF6 |  |  |  |  |  |
-| RF7 |  |  |  |  |  |
-| RF8 | |  |  |  |  |
-| RF9 | |  |  |  |  |
-| RF10 | |  |  |  |  |
-| RF11 | |  |  |  |  |
-| RF12 | |  |  |  |  |
-| RF13 | |  |  |  |  |
-| RF14 | |  |  |  |  |
-| RF15 | |  |  |  |  |
-| RF16 | |  |  |  |  |
-| RF17 | |  |  |  |  |
-| RF18 | |  |  |  |  |
-| RF19 | |  |  |  |  |
-| RF20 | |  |  |  |  |
-| RF21 | |  |  |  |  |
-| RF22 | |  |  |  |  |
-| RF23 | |  |  |  |  |
-| RF24 | |  |  |  |  |
-| RF25 | |  |  |  |  |
-| RNF1 | |  |  |  |  |
-| RNF2 | |  |  |  |  |
-| RNF3 | |  |  |  |  |
-| RNF4 | |  |  |  |  |
-| RNF5 | |  |  |  |  |
-| RNF6 | |  |  |  |  |
-| RNF7 | |  |  |  |  |
-| RNF8 | |  |  |  |  |
-| RNF9 | |  |  |  |  |
-| RNF10 | |  |  |  |  |
-| RNF11 | |  |  |  |  |
-| RNF12 | |  |  |  |  |
-| RNF13 | |  |  |  |  |
-| RNF14 | |  |  |  |  |
+| RF1 | [EPI1](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Modelagem/Modelagem%20Ágil/Backlog/#epico-1-abertura-e-acompanhamento-de-reclamacoes); [HUS1](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Modelagem/Modelagem%20Ágil/Historias/#us1-login-no-aplicativo); | IMPLEMENTADO |  |  |
+| RF2 | [CDU01](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Modelagem/casosdeuso/#uc01); [CEN01](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Modelagem/cenarios/#c01-pesquisar-empresa-pelo-nome); [LEX01](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Modelagem/lexicos/#tabela-4-lexico-01-pesquisar-empresa-l01); [HUS2](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Modelagem/Modelagem%20Ágil/Historias/#us2-pesquisar-empresa) | IMPLEMENTADO |  |  |  |
+| RF3 |  | PARCIAL |  |  |  |
+| RF4 |  | IMPLEMENTADO |  |  |  |
+| RF5 |  | IMPLEMENTADO |  |  |  |
+| RF6 |  | IMPLEMENTADO |  |  |  |
+| RF7 |  | IMPLEMENTADO |  |  |  |
+| RF8 | | IMPLEMENTADO |  |  |  |
+| RF9 | | IMPLEMENTADO |  |  |  |
+| RF10 | | IMPLEMENTADO |  |  |  |
+| RF11 | | IMPLEMENTADO |  |  |  |
+| RF12 | | NÃO IMPLEMENTADO |  |  |  |
+| RF13 | | IMPLEMENTADO |  |  |  |
+| RF14 | | IMPLEMENTADO |  |  |  |
+| RF15 | | IMPLEMENTADO |  |  |  |
+| RF16 | | INDEFINIDO* |  |  |  |
+| RF17 | | INDEFINIDO* |  |  |  |
+| RF18 | | INDEFINIDO* |  |  |  |
+| RF19 | | IMPLEMENTADO |  |  |  |
+| RF20 | | IMPLEMENTADO |  |  |  |
+| RF21 | | IMPLEMENTADO |  |  |  |
+| RF22 | | IMPLEMENTADO |  |  |  |
+| RF23 | | IMPLEMENTADO |  |  |  |
+| RF24 | | IMPLEMENTADO |  |  |  |
+| RF25 | | IMPLEMENTADO |  |  |  |
+| RNF1 | | IMPLEMENTADO |  |  |  |
+| RNF2 | | IMPLEMENTADO* |  |  |  |
+| RNF3 | | NÃO IMPLEMENTADO |  |  |  |
+| RNF4 | | IMPLEMENTADO* |  |  |  |
+| RNF5 | | INDEFINIDO* |  |  |  |
+| RNF6 | | IMPLEMENTADO |  |  |  |
+| RNF7 | | IMPLEMENTADO* |  |  |  |
+| RNF8 | | IMPLEMENTADO* |  |  |  |
+| RNF9 | | INDEFINIDO* |  |  |  |
+| RNF10 | IMPLEMENTADO* |  |  |  |  |
+| RNF11 | PARCIAL |  |  |  |  |
+| RNF12 | IMPLEMENTADO |  |  |  |  |
+| RNF13 | INDEFINIDO* |  |  |  |  |
+| RNF14 | IMPLEMENTADO |  |  |  |  |
 
+### Observações
 
-O mapeamento dos requisitos para os artefatos proporciona uma visão abrangente e estruturada do desenvolvimento do software, como é visto a seguir, permitindo que a equipe compreenda as relações entre os elementos e tome decisões embasadas durante todo o processo.
+- Requisitos com a *implementação* descrita como INDEFINIDO* foram marcados desta forma devido ao fato de serem funcionalidades imaginadas pela equipe, uma vez a mesma não possui acesso ao "ponto de vista" da empresa dentro do aplicativo,  ou devido a falta de informações sobre a arquitetura do aplicativo **Consumidor.gov**.
+
+- Requisitos com a *implementação* descrita como IMPLEMENTADO* foram marcados desta forma devido ao fato de serem testáveis, porém as métricas estabelecidas podem ser ultrapassadas devido a certos fatores (problemas de conexão, inexperiência de usuário, etc).
 
 <div>
 <p> Tabela 2: Matriz Forward Form (Fonte: MEISTER, Guilherme. 2024).</p>
