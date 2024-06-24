@@ -41,13 +41,9 @@ A Tabela 1 apresenta a legenda utilizada para identificar os diferentes tipos de
 | ------- | ------------------------- |
 | US      | História de Usuário       |
 | EPI     | Épico (backlog)           |
-| ST      | Storytelling              |
 | CDU     | Casos de Uso              |
 | CEN     | Cenários                  |
 | ESP     | Especificação Suplementar |
-| INT     | Introspecção              |
-| QUE     | Questionário              |
-| ADD     | Análise de Documentos     |
 | RF      | Requisitos Funcionais     |
 | RNF     | Requisitos não Funcionais |
 
