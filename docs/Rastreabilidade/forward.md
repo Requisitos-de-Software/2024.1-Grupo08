@@ -61,43 +61,47 @@ A tabela 2 abaixo apresenta a matriz ***forward form***, relacionando os requisi
 | :--: | :--: | :--: | :--: | :--: |
 | RF1 | [EPI1](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Modelagem/Modelagem%20Ágil/Backlog/#epico-1-abertura-e-acompanhamento-de-reclamacoes); [HUS1](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Modelagem/Modelagem%20Ágil/Historias/#us1-login-no-aplicativo); | IMPLEMENTADO |  |  |
 | RF2 | [CDU01](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Modelagem/casosdeuso/#uc01); [CEN01](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Modelagem/cenarios/#c01-pesquisar-empresa-pelo-nome); [LEX01](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Modelagem/lexicos/#tabela-4-lexico-01-pesquisar-empresa-l01); [HUS2](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Modelagem/Modelagem%20Ágil/Historias/#us2-pesquisar-empresa) | IMPLEMENTADO |  |  |  |
-| RF3 |  | PARCIAL |  |  |  |
-| RF4 |  | IMPLEMENTADO |  |  |  |
-| RF5 |  | IMPLEMENTADO |  |  |  |
-| RF6 |  | IMPLEMENTADO |  |  |  |
-| RF7 |  | IMPLEMENTADO |  |  |  |
-| RF8 | | IMPLEMENTADO |  |  |  |
-| RF9 | | IMPLEMENTADO |  |  |  |
-| RF10 | | IMPLEMENTADO |  |  |  |
-| RF11 | | IMPLEMENTADO |  |  |  |
-| RF12 | | NÃO IMPLEMENTADO |  |  |  |
-| RF13 | | IMPLEMENTADO |  |  |  |
-| RF14 | | IMPLEMENTADO |  |  |  |
-| RF15 | | IMPLEMENTADO |  |  |  |
-| RF16 | | INDEFINIDO* |  |  |  |
-| RF17 | | INDEFINIDO* |  |  |  |
-| RF18 | | INDEFINIDO* |  |  |  |
-| RF19 | | IMPLEMENTADO |  |  |  |
-| RF20 | | IMPLEMENTADO |  |  |  |
-| RF21 | | IMPLEMENTADO |  |  |  |
-| RF22 | | IMPLEMENTADO |  |  |  |
-| RF23 | | IMPLEMENTADO |  |  |  |
-| RF24 | | IMPLEMENTADO |  |  |  |
-| RF25 | | IMPLEMENTADO |  |  |  |
-| RNF1 | | IMPLEMENTADO |  |  |  |
-| RNF2 | | IMPLEMENTADO* |  |  |  |
-| RNF3 | | NÃO IMPLEMENTADO |  |  |  |
-| RNF4 | | IMPLEMENTADO* |  |  |  |
-| RNF5 | | INDEFINIDO* |  |  |  |
-| RNF6 | | IMPLEMENTADO |  |  |  |
-| RNF7 | | IMPLEMENTADO* |  |  |  |
-| RNF8 | | IMPLEMENTADO* |  |  |  |
-| RNF9 | | INDEFINIDO* |  |  |  |
-| RNF10 | IMPLEMENTADO* |  |  |  |  |
-| RNF11 | PARCIAL |  |  |  |  |
-| RNF12 | IMPLEMENTADO |  |  |  |  |
-| RNF13 | INDEFINIDO* |  |  |  |  |
-| RNF14 | IMPLEMENTADO |  |  |  |  |
+| RF3 | [EPI02](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Modelagem/Modelagem%20%C3%81gil/Backlog/#epico-2-pesquisa-de-empresa); [HUS03](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Modelagem/Modelagem%20%C3%81gil/Historias/#us3-ver-dados-sobre-uma-empresa) | PARCIAL |  |  |  |
+| RF4 | [EPI02](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Modelagem/Modelagem%20%C3%81gil/Backlog/#epico-2-pesquisa-de-empresa) | IMPLEMENTADO |  |  |  |
+| RF5 | [EPI01](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Modelagem/Modelagem%20%C3%81gil/Backlog/#epico-1-abertura-e-acompanhamento-de-reclamacoes); [HUS04](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Modelagem/Modelagem%20%C3%81gil/Historias/#us4-fazer-reclamacao); [CEN02](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Modelagem/cenarios/#c02-cadastrar-reclamacao); [LEX02](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Modelagem/lexicos/#l02-abrir-reclamacao) | IMPLEMENTADO |  |  |  |
+| RF6 | [EPI01](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Modelagem/Modelagem%20%C3%81gil/Backlog/#epico-1-abertura-e-acompanhamento-de-reclamacoes); [CEN02](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Modelagem/cenarios/#c02-cadastrar-reclamacao)/ [LEX02](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Modelagem/lexicos/#l02-abrir-reclamacao) | IMPLEMENTADO |  |  |  |
+| RF7 | [EPI01](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Modelagem/Modelagem%20%C3%81gil/Backlog/#epico-1-abertura-e-acompanhamento-de-reclamacoes); [CDU02](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Modelagem/casosdeuso/#uc02); [CEN02](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Modelagem/cenarios/#c02-cadastrar-reclamacao); [LEX02](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Modelagem/lexicos/#l02-abrir-reclamacao) | IMPLEMENTADO |  |  |  |
+| RF8 | [EPI01](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Modelagem/Modelagem%20%C3%81gil/Backlog/#epico-1-abertura-e-acompanhamento-de-reclamacoes); [CDU02](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Modelagem/casosdeuso/#uc02); [CEN02](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Modelagem/cenarios/#c02-cadastrar-reclamacao); [LEX02](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Modelagem/lexicos/#l02-abrir-reclamacao) | IMPLEMENTADO |  |  |  |
+| RF9 | [EPI01](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Modelagem/Modelagem%20%C3%81gil/Backlog/#epico-1-abertura-e-acompanhamento-de-reclamacoes); [CDU02](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Modelagem/casosdeuso/#uc02); [HUS05](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Modelagem/Modelagem%20%C3%81gil/Historias/#us5-anexar-arquivos-na-reclamacao); [LEX02](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Modelagem/lexicos/#l02-abrir-reclamacao) | IMPLEMENTADO |  |  |  |
+| RF10 | [EPI01](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Modelagem/Modelagem%20%C3%81gil/Backlog/#epico-1-abertura-e-acompanhamento-de-reclamacoes); [CDU04](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Modelagem/casosdeuso/#uc04); [HUS06](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Modelagem/Modelagem%20%C3%81gil/Historias/#us6-visualizar-reclamacoes-feitas-no-app); [CEN04](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Modelagem/cenarios/#c04-visualizar-minhas-reclamacoes); [LEX04](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Modelagem/lexicos/#l04-visualizar-minhas-reclamacoes) | IMPLEMENTADO |  |  |  |
+| RF11 |[EPI01](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Modelagem/Modelagem%20%C3%81gil/Backlog/#epico-1-abertura-e-acompanhamento-de-reclamacoes); [CDU04](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Modelagem/casosdeuso/#uc04); [HUS07](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Modelagem/Modelagem%20%C3%81gil/Historias/#us7-acompanhar-status-de-uma-reclamacao); [CEN04](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Modelagem/cenarios/#c04-visualizar-minhas-reclamacoes); [LEX04](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Modelagem/lexicos/#l04-visualizar-minhas-reclamacoes) | IMPLEMENTADO |  |  |  |
+| RF12 | [EPI01](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Modelagem/Modelagem%20%C3%81gil/Backlog/#epico-1-abertura-e-acompanhamento-de-reclamacoes); [HUS08](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Modelagem/Modelagem%20%C3%81gil/Historias/#us8-receber-notificacoes-sobre-o-status-das-reclamacoes) | NÃO IMPLEMENTADO |  |  |  |
+| RF13 | [EPI01, EPI02](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Modelagem/Modelagem%20%C3%81gil/Backlog/#epicos); [CDU03](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Modelagem/casosdeuso/#uc03); [HUS09](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Modelagem/Modelagem%20%C3%81gil/Historias/#us9-visualizar-reclamacoes-de-outros-usuarios); [CEN03](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Modelagem/cenarios/#c03-visualizar-reclamacoes-de-outros-usuarios); [LEX03](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Modelagem/lexicos/#l03-visualizar-reclamacoes-de-outros-usuarios) | IMPLEMENTADO |  |  |  |
+| RF14 | [EPI01](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Modelagem/Modelagem%20%C3%81gil/Backlog/#epico-1-abertura-e-acompanhamento-de-reclamacoes); [CDU03](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Modelagem/casosdeuso/#uc03); [CEN03](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Modelagem/cenarios/#c03-visualizar-reclamacoes-de-outros-usuarios); [LEX03](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Modelagem/lexicos/#l03-visualizar-reclamacoes-de-outros-usuarios) | IMPLEMENTADO |  |  |  |
+| RF15 | [EPI01](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Modelagem/Modelagem%20%C3%81gil/Backlog/#epico-1-abertura-e-acompanhamento-de-reclamacoes); [HUS10](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Modelagem/Modelagem%20%C3%81gil/Historias/#us10-avaliar-uma-reclamacao); [CEN08](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Modelagem/cenarios/#c08-avaliar-empresa); [LEX08](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Modelagem/lexicos/#l08-avaliar-empresa) | IMPLEMENTADO |  |  |  |
+| RF16 | [EPI01](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Modelagem/Modelagem%20%C3%81gil/Backlog/#epico-1-abertura-e-acompanhamento-de-reclamacoes); [HUS11](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Modelagem/Modelagem%20%C3%81gil/Historias/) | INDEFINIDO* |  |  |  |
+| RF17 | [EPI01](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Rastreabilidade/matriz/) | INDEFINIDO* |  |  |  |
+| RF18 | [EPI01](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Rastreabilidade/matriz/) | INDEFINIDO* |  |  |  |
+| RF19 | [EPI02](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Modelagem/Modelagem%20%C3%81gil/Backlog/#epico-2-pesquisa-de-empresa) | IMPLEMENTADO |  |  |  |
+| RF20 | [EPI02](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Modelagem/Modelagem%20%C3%81gil/Backlog/#epico-2-pesquisa-de-empresa) | IMPLEMENTADO |  |  |  |
+| RF21 | [EPI02](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Modelagem/Modelagem%20%C3%81gil/Backlog/#epico-2-pesquisa-de-empresa) | IMPLEMENTADO |  |  |  |
+| RF22 | [EPI02](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Modelagem/Modelagem%20%C3%81gil/Backlog/#epico-2-pesquisa-de-empresa) | IMPLEMENTADO |  |  |  |
+| RF23 | [EPI01](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Modelagem/Modelagem%20%C3%81gil/Backlog/#epico-1-abertura-e-acompanhamento-de-reclamacoes); [CDU07](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Modelagem/casosdeuso/#uc07); [HUS12](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Modelagem/Modelagem%20%C3%81gil/Historias/#us12-responder-uma-reclamacao); [CEN04, CEN07](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Modelagem/cenarios/); [LEX07](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Modelagem/lexicos/#l07-responder-reclamacao) | IMPLEMENTADO |  |  |  |
+| RF24 | [EPI02](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Modelagem/Modelagem%20%C3%81gil/Backlog/#epico-2-pesquisa-de-empresa) | IMPLEMENTADO |  |  |  |
+| RF25 | [HUS13](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Modelagem/Modelagem%20%C3%81gil/Historias/#us13-funcionamento-em-android-e-ios); [ESP](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Modelagem/especsuplementar/#u-usabilidade) | IMPLEMENTADO |  |  |  |
+| RNF1 | [HUS13](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Modelagem/Modelagem%20%C3%81gil/Historias/#us13-funcionamento-em-android-e-ios); [ESP](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Modelagem/especsuplementar/#u-usabilidade) | IMPLEMENTADO |  |  |  |
+| RNF2 | [CEN](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Modelagem/cenarios); [ESP](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Modelagem/especsuplementar/) | IMPLEMENTADO* |  |  |  |
+| RNF3 | [HUS14](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Modelagem/Modelagem%20%C3%81gil/Historias/#us14-opcoes-de-acessibilidade); [ESP](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Modelagem/especsuplementar/) | NÃO IMPLEMENTADO |  |  |  |
+| RNF4 | [EPI04](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Modelagem/Modelagem%20%C3%81gil/Backlog/#epico-4-seguranca-e-privacidade); [HUS15](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Modelagem/Modelagem%20%C3%81gil/Historias/#us15-feedback-em-caso-de-erros); [ESP](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Modelagem/especsuplementar/#u-usabilidade) | IMPLEMENTADO* |  |  |  |
+| RNF5 | [EPI04](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Modelagem/Modelagem%20%C3%81gil/Backlog/#epico-4-seguranca-e-privacidade); [HUS16](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Modelagem/Modelagem%20%C3%81gil/Historias/#us16-medidas-de-protecao); [ESP](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Modelagem/especsuplementar/#r-confiabilidade) | INDEFINIDO* |  |  |  |
+| RNF6 |  [EPI04](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Modelagem/Modelagem%20%C3%81gil/Backlog/#epico-4-seguranca-e-privacidade); [HUS16](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Modelagem/Modelagem%20%C3%81gil/Historias/#us16-medidas-de-protecao); [ESP](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Modelagem/especsuplementar/#r-confiabilidade) | IMPLEMENTADO |  |  |  |
+| RNF7 | [EPI03](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Modelagem/Modelagem%20%C3%81gil/Backlog/#epico-3-desempenho); [HUS17](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Modelagem/Modelagem%20%C3%81gil/Historias/#us17-otimizacao-de-carregamento); [ESP](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Modelagem/especsuplementar/) | IMPLEMENTADO* |  |  |  |
+| RNF8 | [ESP](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Modelagem/especsuplementar/#u-usabilidade) | IMPLEMENTADO* |  |  |  |
+| RNF9 | [EPI03](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Modelagem/Modelagem%20%C3%81gil/Backlog/#epico-3-desempenho); [ESP](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Modelagem/especsuplementar/#r-confiabilidade) | INDEFINIDO* |  |  |  |
+| RNF10 | [EPI03](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Modelagem/Modelagem%20%C3%81gil/Backlog/#epico-3-desempenho); [ESP](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Modelagem/especsuplementar) | IMPLEMENTADO* |  |  |  |
+| RNF11 | [ESP](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Modelagem/especsuplementar/#p-performance) | PARCIAL |  |  |  |
+| RNF12 | [ESP](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Modelagem/especsuplementar/#p-performance) | IMPLEMENTADO |  |  |  |
+| RNF13 | [ESP](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Modelagem/especsuplementar/#u-usabilidade) | INDEFINIDO* |  |  |  |
+| RNF14 | [HUS17](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Modelagem/Modelagem%20%C3%81gil/Historias/#us17-otimizacao-de-carregamento); [ESP](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Modelagem/especsuplementar/#requisitos-de-documentacao) | IMPLEMENTADO |  |  |  |
+
+<div>
+<p> Tabela 2: Matriz Forward Form (Fonte: MEISTER, Guilherme. 2024).</p>
+</div>
 
 ### Observações
 
@@ -105,9 +109,6 @@ A tabela 2 abaixo apresenta a matriz ***forward form***, relacionando os requisi
 
 - Requisitos com a *implementação* descrita como IMPLEMENTADO* foram marcados desta forma devido ao fato de serem testáveis, porém as métricas estabelecidas podem ser ultrapassadas devido a certos fatores (problemas de conexão, inexperiência de usuário, etc).
 
-<div>
-<p> Tabela 2: Matriz Forward Form (Fonte: MEISTER, Guilherme. 2024).</p>
-</div>
 
 ## Elos
 
