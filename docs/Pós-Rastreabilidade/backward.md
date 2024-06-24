@@ -94,6 +94,51 @@ A tabela 2 abaixo apresenta a matriz ***forward form***, relacionando os requisi
 <p> Tabela 2: Matriz Backward Form (Fonte: GALDINO, Henrique. 2024).</p>
 </div>
 
+## Elos
+
+## Elos
+
+| ID | REQUISITO | SATISFAÇÃO | RECURSO | REPRESENTAÇÃO | ALOCADO | AGREGAÇÃO |
+| :--: | :--: | :--: | :--: | :--: | :--: | :--: |
+| EB1  | RF1 | US1 | UC1 A UC8 |  | NFR01 | - |
+| EB2  | RF2 | US2 | UC1, CEN1, LEX1 |  | NF01 | RF3 A RF9| 
+| EB3  | RF3 | US3 |  |  | NFR01 | RF4 |
+| EB4  | RF4 |  |  |  |  |  |
+| EB5  | RF5 |  |  |  |  |  |
+| EB6  | RF6 |  |  |  |  |  |
+| EB7  | RF7 |  |  |  |  |  |
+| EB8  | RF8  | |  |  |  |  |
+| EB9  | RF9  | |  |  |  |  |
+| EB10 | RF10 | |  |  |  |  |
+| EB11 | RF11 | |  |  |  |  |
+| EB12 | RF12 | |  |  |  |  |
+| EB13 | RF13 | |  |  |  |  |
+| EB14 | RF14 | |  |  |  |  |
+| EB15 | RF15 | |  |  |  |  |
+| EB16 | RF16 | |  |  |  |  |
+| EB17 | RF17 | |  |  |  |  |
+| EB18 | RF18 | |  |  |  |  |
+| EB19 | RF19 | |  |  |  |  |
+| EB20 | RF20 | |  |  |  |  |
+| EB21 | RF21 | |  |  |  |  |
+| EB22 | RF22 | |  |  |  |  |
+| EB23 | RF23 | |  |  |  |  |
+| EBF24 | RF24 | |  |  |  |  |
+| EB25 | RF25 | |  |  |  |  |
+| EB26 | RNF1 | |  |  |  |  |
+| EB27 | RNF2 | |  |  |  |  |
+| EB28 | RNF3 | |  |  |  |  |
+| EB29 | RNF4 | |  |  |  |  |
+| EB30 | RNF5 | |  |  |  |  |
+| EB31 | RNF6 | |  |  |  |  |
+| EB32 | RNF7 | |  |  |  |  |
+| EB33 | RNF8 | |  |  |  |  |
+| EB34 | RNF9 | |  |  |  |  |
+| EB35 | RNF10 | |  |  |  |  |
+| EB36 | RNF11 | |  |  |  |  |
+| EB37 | RNF12 | |  |  |  |  |
+| EB38 | RNF13 | |  |  |  |  |
+| EB39 | RNF14 | |  |  |  |  |
 
 ## Histórico de Versões
 
