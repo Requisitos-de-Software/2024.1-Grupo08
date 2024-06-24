@@ -19,10 +19,13 @@ A metodologia adotada foi o *Meta-modelo de Toranzo*[¹](https://requisitos-de-s
 
 - **Ambiental**: informações oriundas do ambiente em que está inserida a organização e como podem afetar o desenvolvimento do sistema
 - **Organizacional**: informações relacionadas a organização (metas, padrões e objetivos) e seus respectivos impactos nos requisitos do sistema
-- **Gerecial**: informações que permitem associar requisitos com tarefas, auxiliando na gestão do projeto
+- **Gerencial**: informações que permitem associar requisitos com tarefas, auxiliando na gestão do projeto
 - **Desenvolvimento**: informações relacionadas aos artefatos gerados durante o desenvolvimento (diagramas, testes, etc.)
 
-Dentro deste Meta-modelo, o suporte à rastreabilidade identifica diferentes tipos de elos[2](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/P%C3%B3s-Rastreabilidade/forward/#anchor_2), sendo eles:
+No contexto do projeto, as informações apresentadas neste artefato *Forward From*  se encaixam na classificação **Desenvolvimento**, visto que os requisitos e os documentos/artefatos desenvolvidos a partir dos mesmos apresentam informações fundamentais para o desenvolvimento do projeto.
+
+
+Dentro deste Meta-modelo, o suporte à rastreabilidade identifica diferentes tipos de elos[²](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/P%C3%B3s-Rastreabilidade/forward/#anchor_2), sendo eles:
 
 - **Satisfação**: indica a classe de origem que depende da satisfação da classe de destino
 - **Recurso**: indica a classe de origem que depende de recurso(s) da classe de destino
@@ -50,7 +53,7 @@ A Tabela 1 apresenta a legenda utilizada para identificar os diferentes tipos de
 | RNF     | Requisitos não Funcionais |
 
 <div>
-<p> Tabela 1: Legenda (Fonte: MEISTER, Guilherme. 2024).</p>
+<p> Tabela 1: Legenda (Autor: MEISTER, Guilherme. 2024).</p>
 </div>
 
 A tabela 2 abaixo apresenta a matriz ***forward form***, relacionando os requisitos com seus respectivos artefatos e elos:
