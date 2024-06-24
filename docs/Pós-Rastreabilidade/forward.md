@@ -136,7 +136,7 @@ A tabela 2 abaixo apresenta a matriz ***forward form***, relacionando os requisi
 | EF19 | RF19 | |  |  |  |  |
 | EF20 | RF20 | |  |  |  |  |
 | EF21 | RF21 | |  |  |  |  |
-| EF22 | RF22 | |  |  |  |  |
+| EF22 | RF22 | [HUS6, HUS9](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Modelagem/Modelagem%20%C3%81gil/Historias/) | [CDU01, CDU03, CDU04](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Modelagem/casosdeuso/); [LEX01](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Modelagem/lexicos/#l01-pesquisar-empresa); [CEN01](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Modelagem/cenarios/#c01-pesquisar-empresa-pelo-nome) |  | [NFR](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Modelagem/Modelagem%20%C3%81gil/NFR/#nfr01-usabilidade) | [RF10, RF14](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicita%C3%A7%C3%A3o/requisitos-elicitados/) |
 | EF23 | RF23 | |  |  |  |  |
 | EF24 | RF24 | |  |  |  |  |
 | EF25 | RF25 | |  |  |  |  |
