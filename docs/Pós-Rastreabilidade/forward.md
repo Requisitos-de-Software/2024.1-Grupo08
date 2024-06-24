@@ -15,14 +15,14 @@ No contexto da rastreabilidade entre requisitos, o "forward-from" consiste no ma
 
 ## Metodologia
 
-A metodologia adotada foi o *Meta-modelo de Toranzo*[¹](), que propõe quatro níveis de classificação para as informações rastreadas, sendo eles:
+A metodologia adotada foi o *Meta-modelo de Toranzo*[¹](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/P%C3%B3s-Rastreabilidade/forward/#anchor_1), que propõe quatro níveis de classificação para as informações rastreadas, sendo eles:
 
 - **Ambiental**: informações oriundas do ambiente em que está inserida a organização e como podem afetar o desenvolvimento do sistema
 - **Organizacional**: informações relacionadas a organização (metas, padrões e objetivos) e seus respectivos impactos nos requisitos do sistema
 - **Gerecial**: informações que permitem associar requisitos com tarefas, auxiliando na gestão do projeto
 - **Desenvolvimento**: informações relacionadas aos artefatos gerados durante o desenvolvimento (diagramas, testes, etc.)
 
-Dentro deste Meta-modelo, o suporte à rastreabilidade identifica diferentes tipos de elos[³](), sendo eles:
+Dentro deste Meta-modelo, o suporte à rastreabilidade identifica diferentes tipos de elos[2](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/P%C3%B3s-Rastreabilidade/forward/#anchor_2), sendo eles:
 
 - **Satisfação**: indica a classe de origem que depende da satisfação da classe de destino
 - **Recurso**: indica a classe de origem que depende de recurso(s) da classe de destino
@@ -156,9 +156,13 @@ A tabela 2 abaixo apresenta a matriz ***forward form***, relacionando os requisi
 
 > <a id="1" href="#anchor_1">1.</a> SERRANO, Milene; SERRANO, Maurício. Requisitos - Aula 26. 2019. Disponível em: <https://aprender3.unb.br/pluginfile.php/2845096/mod_resource/content/1/Requisitos%20-%20Aula%20026.pdf>. Acesso em: 12 de jun de 2024. Acessado em: 12 de junho de 2024
 
-> <a id="2" href="#anchor_2">2.</a> POHL, Klaus; RUPP, Chris. Requirements Engineering Fundamental. Acessado em 12 de junho de 2024
+> <a id="2" href="#anchor_2">2.</a> SAYÃO, Miriam; LEITE, Julio. Rastreabilidade de Requisitos. PUC-Rio: Departamento de Informática, ISSN 0103-9741, Rio de Janeiro, 2005. Disponível em: <https://aprender3.unb.br/pluginfile.php/2845099/mod_resource/content/3/05_20_sayao.pdf>. Acesso em: 12 de jun de 2024.
 
-> <a id="3" href="#anchor_3">3.</a> SAYÃO, Miriam; LEITE, Julio. Rastreabilidade de Requisitos. PUC-Rio: Departamento de Informática, ISSN 0103-9741, Rio de Janeiro, 2005. Disponível em: <https://aprender3.unb.br/pluginfile.php/2845099/mod_resource/content/3/05_20_sayao.pdf>. Acesso em: 12 de jun de 2024.
+
+## Bibliografia
+
+> POHL, Klaus; RUPP, Chris. Requirements Engineering Fundamental. Acessado em 12 de junho de 2024
+
 
 ## Histórico de Versões
 
