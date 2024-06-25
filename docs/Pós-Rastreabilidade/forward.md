@@ -113,47 +113,53 @@ A tabela 2 abaixo apresenta a matriz ***forward form***, relacionando os requisi
 
 ## Elos
 
-| ID | REQUISITO | SATISFAÇÃO | RECURSO | REPRESENTAÇÃO | ALOCADO | AGREGAÇÃO |
-| :--: | :--: | :--: | :--: | :--: | :--: | :--: |
-| EF1  | RF1 | HUS1 | CDU1 A CDU8 |  | NFR01 | - |
-| EF2  | RF2 | HUS2 | CDU1, CEN1, LEX1 |  | NF01 | RF3 A RF9| 
-| EF3  | RF3 | HUS3 | - |  | NFR01 | RF4 |
-| EF4  | RF4 | HUS3 | CEN01; CDU01 |  | NFR01 | INT03, INT04 |
-| EF5  | RF5 | HUS4, HUS5 | LEX02; CEN02; CDU02 |  | NFR01 | INT05, INT06, INT07 |
-| EF6  | RF6 | HUS4 | LEX02; CEN02; CDU02  |  | NFR01 | INT06, INT07 |
-| EF7  | RF7 | HUS5 | LEX02; CEN02; CDU02 |  | NFR01 | INT07 |
-| EF8  | RF8  | HUS4 | LEX02; CEN02; CDU02  |  | NFR01 | INT08 |
-| EF9  | RF9  | HUS4, HUS5 | LEX02; CEN02; CDU02 |  | NFR01 | INT09 |
-| EF10 | RF10 | HUS06 | LEX03, LEX04; CEN03, CEN04; CDU03, CDU04 |  | NFR01 | RF11 |
-| EF11 | RF11 | HUS07 | LEX04; CEN04; CDU04 |  | NFR01 | RF12 |
-| EF12 | RF12 | HUS08 | - |  | NFR01 | - |
-| EF13 | RF13 | HUS09 | LEX03; CEN03; CDU03 |  | NFR01 | RF14 |
-| EF14 | RF14 | HUS09 | LEX03; CEN03; CDU03 |  | NFR01 | - |
-| EF15 | RF15 | HUS10 | LEX08; CEN08; CDU08 |  | NFR01 | RF25 |
-| EF16 | RF16 | HUS11 | - |  | NFR01 | - |
-| EF17 | RF17 | HUS11 | LEX09 |  | NFR01 | RF16 |
-| EF18 | RF18 | HUS11 | LEX09 |  | NFR01 | RF16 |
-| EF19 | RF19 | HUS6, HUS7, HUS8 | LEX04; CEN02, CEN04; CDU02, CDU04; |  | NFR01 | CEN02 |
-| EF20 | RF20 | HUS13 | LEX05; CEN05; CDU05 |  | NFR01 | - |
-| EF21 | RF21 | HUS6, HUS7, HUS8 | LEX04; CEN02, CEN04; CDU02, CDU04 |  | NFR01 | CEN02  |
-| EF22 | RF22 | [HUS6, HUS9](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Modelagem/Modelagem%20%C3%81gil/Historias/) | [CDU01, CDU03, CDU04](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Modelagem/casosdeuso/); [LEX01](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Modelagem/lexicos/#l01-pesquisar-empresa); [CEN01](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Modelagem/cenarios/#c01-pesquisar-empresa-pelo-nome) |  | [NFR](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Modelagem/Modelagem%20%C3%81gil/NFR/#nfr01-usabilidade) | [RF10, RF14](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicita%C3%A7%C3%A3o/requisitos-elicitados/) |
-| EF23 | RF23 | HUS12 | CDU04, CDU07 |  | NFR01 | NFR01; RF10 |
-| EF24 | RF24 | HUS3, HUS8 | LEX01; CEN04; CDU01, CDU05 |  | NFR03 | RF4 |
-| EF25 | RF25 | HUS10 | CDU04, CDU08 |  | NFR1 | NFR03, RF15 |
-| EF26 | RNF1 | HUS13 | - |  | NFR01  | RNF2 |
-| EF27 | RNF2 | HUS13 | CDU01, CDU02, CDU04, CDU06 |  | NFR01 | RF1, RF7 |
-| EF28 | RNF3 | HUS14 | - |  | NFR01 | RNF2 |
-| EF29 | RNF4 | HUS15 | - |  | NFR01, NFR02  | RNF7, RNF10 |
-| EF30 | RNF5 | HUS16 | - |  | NFR02 | RF1, RNF16 |
-| EF31 | RNF6 | HUS16 | - |  | NFR02 | RF1, RNF16 |
-| EF32 | RNF7 | HUS17 | - |  | NFR03 | RF10 |
+A tabela 3 abaixo mostra os elos do Forward:
+
+| ID | REQUISITO | SATISFAÇÃO | RECURSO | ALOCADO | AGREGAÇÃO |
+| :--: | :--: | :--: | :--: | :--: | :--: |
+| EF1  | RF1 | HUS1 | CDU1 A CDU8 |  NFR01 | - |
+| EF2  | RF2 | HUS2 | CDU1, CEN1, LEX1 | NF01 | RF3 A RF9| 
+| EF3  | RF3 | HUS3 | - | NFR01 | RF4 |
+| EF4  | RF4 | HUS3 | CEN01; CDU01 | NFR01 | INT03, INT04 |
+| EF5  | RF5 | HUS4, HUS5 | LEX02; CEN02; CDU02 | NFR01 | INT05, INT06, INT07 |
+| EF6  | RF6 | HUS4 | LEX02; CEN02; CDU02  | NFR01 | INT06, INT07 |
+| EF7  | RF7 | HUS5 | LEX02; CEN02; CDU02 | NFR01 | INT07 |
+| EF8  | RF8  | HUS4 | LEX02; CEN02; CDU02  | NFR01 | INT08 |
+| EF9  | RF9  | HUS4, HUS5 | LEX02; CEN02; CDU02 | NFR01 | INT09 |
+| EF10 | RF10 | HUS06 | LEX03, LEX04; CEN03, CEN04; CDU03, CDU04 | NFR01 | RF11 |
+| EF11 | RF11 | HUS07 | LEX04; CEN04; CDU04 | NFR01 | RF12 |
+| EF12 | RF12 | HUS08 | - | NFR01 | - |
+| EF13 | RF13 | HUS09 | LEX03; CEN03; CDU03 | NFR01 | RF14 |
+| EF14 | RF14 | HUS09 | LEX03; CEN03; CDU03 | NFR01 | - |
+| EF15 | RF15 | HUS10 | LEX08; CEN08; CDU08 | NFR01 | RF25 |
+| EF16 | RF16 | HUS11 | - | NFR01 | - |
+| EF17 | RF17 | HUS11 | LEX09 | NFR01 | RF16 |
+| EF18 | RF18 | HUS11 | LEX09 | NFR01 | RF16 |
+| EF19 | RF19 | HUS6, HUS7, HUS8 | LEX04; CEN02, CEN04; CDU02, CDU04; | NFR01 | CEN02 |
+| EF20 | RF20 | HUS13 | LEX05; CEN05; CDU05 | NFR01 | - |
+| EF21 | RF21 | HUS6, HUS7, HUS8 | LEX04; CEN02, CEN04; CDU02, CDU04 | NFR01 | CEN02  |
+| EF22 | RF22 | [HUS6, HUS9](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Modelagem/Modelagem%20%C3%81gil/Historias/) | [CDU01, CDU03, CDU04](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Modelagem/casosdeuso/); [LEX01](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Modelagem/lexicos/#l01-pesquisar-empresa); [CEN01](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Modelagem/cenarios/#c01-pesquisar-empresa-pelo-nome) | [NFR](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Modelagem/Modelagem%20%C3%81gil/NFR/#nfr01-usabilidade) | [RF10, RF14](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicita%C3%A7%C3%A3o/requisitos-elicitados/) |
+| EF23 | RF23 | HUS12 | CDU04, CDU07 | NFR01 | NFR01; RF10 |
+| EF24 | RF24 | HUS3, HUS8 | LEX01; CEN04; CDU01, CDU05 |NFR03 | RF4 |
+| EF25 | RF25 | HUS10 | CDU04, CDU08 |  NFR1 | NFR03, RF15 |
+| EF26 | RNF1 | HUS13 | - | NFR01  | RNF2 |
+| EF27 | RNF2 | HUS13 | CDU01, CDU02, CDU04, CDU06 |  NFR01 | RF1, RF7 |
+| EF28 | RNF3 | HUS14 | - |  NFR01 | RNF2 |
+| EF29 | RNF4 | HUS15 | - |  NFR01, NFR02  | RNF7, RNF10 |
+| EF30 | RNF5 | HUS16 | - |  NFR02 | RF1, RNF16 |
+| EF31 | RNF6 | HUS16 | - |  NFR02 | RF1, RNF16 |
+| EF32 | RNF7 | HUS17 | - |  NFR03 | RF10 |
 | EF33 | RNF8 | HUS02, HUS04, HUS06 | LEX01, LEX02, LEX04; CEN01, CEN02, CEN04; CDU01, CDU02, CDU04; |  | - | RF2, RF10, RNF2 |
-| EF34 | RNF9 | - | ESP |  | NFR02 | - |
-| EF35 | RNF10 | - | ESP |  | NFR03 | RNF7 |
-| EF36 | RNF11 | - | ESP |  | NFR06 | - |
-| EF37 | RNF12 | - | ESP |  | NFR06 | - |
-| EF38 | RNF13 | - | ESP |  | - | RF1, RNF6 |
-| EF39 | RNF14 | - | ESP |  | NFR01 | - |
+| EF34 | RNF9 | - | ESP |  NFR02 | - |
+| EF35 | RNF10 | - | ESP | NFR03 | RNF7 |
+| EF36 | RNF11 | - | ESP | NFR06 | - |
+| EF37 | RNF12 | - | ESP | NFR06 | - |
+| EF38 | RNF13 | - | ESP | - | RF1, RNF6 |
+| EF39 | RNF14 | - | ESP | NFR01 | - |
+
+<div>
+<p> Tabela 3: Elos Forward Form (Fonte: GALDINO, Henrique. 2024).</p>
+</div>
 
 ## Referência Bibliográfica
 

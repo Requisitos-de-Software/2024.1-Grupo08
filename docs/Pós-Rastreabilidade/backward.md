@@ -46,7 +46,7 @@ A Tabela 1 apresenta a legenda utilizada para identificar os diferentes tipos de
 <p> Tabela 1: Legenda (Autor: GALDINO, Henrique. 2024).</p>
 </div>
 
-A tabela 2 abaixo apresenta a matriz ***forward form***, relacionando os requisitos com seus respectivos artefatos e elos:
+A tabela 2 abaixo apresenta a matriz ***backward form***, relacionando os requisitos com seus respectivos artefatos e elos:
 
 | REQUISITO | ARTEFATOS | IMPLEMENTAÇÃO | REPRESENTAÇÃO | ELO |
 | :--: | :--: | :--: | :--: | :--: |
@@ -96,6 +96,8 @@ A tabela 2 abaixo apresenta a matriz ***forward form***, relacionando os requisi
 
 ## Elos
 
+A tabela 3 abaixo mostra os elos associados ao Backward:
+
 | ELO | REQUISITO | TIPO DE ELO | DESCRIÇÃO | RELACIONADO A (respectivamente) |
 | :--: | :--: | :--: | :--: |:--: |
 | EB1  | RF1 | Recurso | Para que os demais requisitos funcionais sejam aceitos, é necessário fazer login | [RF2 a RF25](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicitação/requisitos-elicitados/) |
@@ -137,6 +139,10 @@ A tabela 2 abaixo apresenta a matriz ***forward form***, relacionando os requisi
 | EB37 | RNF12 | Representação | Depende de representação em outra linguagem | - |
 | EB38 | RNF13 | Representação | Depende de representação em outra linguagem | - |
 | EB39 | RNF14 | Representação | Depende de representação em outra linguagem | - |
+
+<div>
+<p> Tabela 3: Elos Backward Form (Fonte: GALDINO, Henrique. 2024).</p>
+</div>
 
 ## Histórico de Versões
 
