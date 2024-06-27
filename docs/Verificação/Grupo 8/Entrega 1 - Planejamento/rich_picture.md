@@ -28,11 +28,6 @@ Autor:[Guilherme Meister](https://github.com/gmeister18), 2024.
 
 </center>
 
-## Conteúdo esperado
-
-É esperado que o artefato apresente um rich picture bem desenvolvido e bem claro para todos.
-
-
 ### Verificação
 
 Para realizar a verificação do artefato,iremos usar uma adaptação da técnica de inspeção, aonde teremos um Checklist de verificação para cada etapa do projeto desenvolvida pelo <a href="https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov">Grupo 8</a>.
@@ -42,12 +37,12 @@ Para realizar a verificação do artefato,iremos usar uma adaptação da técnic
 
 A tabela 2 apresenta o checklist dos itens gerais de verificação desenvolvido com base no artefato e seus itens podem ser marcados como **SIM**, **NÃO** ou **INCOMPLETO**, além de apresentar observações sobre os mesmos, caso necessário.
 
-| ID | Descrição | Verificação | Observação | Autor da inspeção |
-| :--: | :-----: | :---------: | :--------: | :--------: |
-| 1 | O artefato apresenta introdução? | SIM | - | [Matheus Ferreira](https://github.com/matferreira1) |
-| 2 | O artefato apresenta histórico de versão padronizado (com autores e revisores)? | SIM | - |  [Matheus Ferreira](https://github.com/matferreira1) |
-| 3 | O artefato apresenta legenda e fonte (chamadas no texto) nas imagens/tabelas? | SIM |  | [Matheus Ferreira](https://github.com/matferreira1) | 
-| 4 | O artefato apresenta referência bibliográfica e/ou bibliografia? | SIM | - | [Matheus Ferreira](https://github.com/matferreira1) |
+| ID | Descrição | Verificação | Observação | Autor da inspeção | Fonte |
+| :--: | :-----: | :---------: | :--------: | :--------: | :--------: |
+| 1 | O artefato apresenta introdução? | SIM | - | [Matheus Ferreira](https://github.com/matferreira1) ||
+| 2 | O artefato apresenta histórico de versão padronizado (com autores e revisores)? | SIM | - |  [Matheus Ferreira](https://github.com/matferreira1) | |
+| 3 | O artefato apresenta legenda e fonte (chamadas no texto) nas imagens/tabelas? | SIM |  | [Matheus Ferreira](https://github.com/matferreira1) | | 
+| 4 | O artefato apresenta referência bibliográfica e/ou bibliografia? | SIM | - | [Matheus Ferreira](https://github.com/matferreira1) | |
 
 <div align="center">
 <figcaption align="center">Tabela 02: Checklist (Autor: Meister, Guilherme)</figcaption>
@@ -58,16 +53,16 @@ A tabela 2 apresenta o checklist dos itens gerais de verificação desenvolvido 
 
 A tabela 3 apresenta o checklist dos itens de conteúdos apresentados, desenvolvido com base no artefato e seus itens podem ser marcados como **SIM**, **NÃO** ou **INCOMPLETO**, além de apresentar observações sobre os mesmos, caso necessário.
 
-| ID | Descrição | Verificação | Observação | Autor da inspeção|
-| :--: | :-----: | :---------: | :--------: | :--------: |
-| 5 | O(s) Ator(es) do RichPicture, está do lado de fora do sistema? | SIM | - | [Matheus Ferreira](https://github.com/matferreira1) |
-| 6 | Há a presença dos 5 principais componentes de um Richpicture? | SIM | - | [Matheus Ferreira](https://github.com/matferreira1) |
-| 7 | O componente Fronteira está sendo utilizado de acordo com as diretrizes? | SIM | - | [Matheus Ferreira](https://github.com/matferreira1) |
-| 8 | O componente Fluxo está sendo aplicado da maneira correta? | SIM | - | [Matheus Ferreira](https://github.com/matferreira1) |
-| 9 | O componente Atores está empregado de maneira apropriada no artefato? | SIM | - | [Matheus Ferreira](https://github.com/matferreira1) |
-| 10 | O componente Operações está sendo empregado corretamente? | SIM | - | [Matheus Ferreira](https://github.com/matferreira1) | 
-| 11 | O rich picture passa uma mensagem de forma efetiva? | SIM | - | [Matheus Ferreira](https://github.com/matferreira1) | 
-| 12 | O rich picture consegue contar uma história de maneira eficiente?  | SIM | - | [Matheus Ferreira](https://github.com/matferreira1) | 
+| ID | Descrição | Verificação | Observação | Autor da inspeção| Fonte |
+| :--: | :-----: | :---------: | :--------: | :--------: | :--------: |
+| 5 | O(s) Ator(es) do RichPicture, está do lado de fora do sistema? | SIM | - | [Matheus Ferreira](https://github.com/matferreira1) ||
+| 6 | Há a presença dos 5 principais componentes de um Richpicture? | SIM | - | [Matheus Ferreira](https://github.com/matferreira1) ||
+| 7 | O componente Fronteira está sendo utilizado de acordo com as diretrizes? | SIM | - | [Matheus Ferreira](https://github.com/matferreira1) ||
+| 8 | O componente Fluxo está sendo aplicado da maneira correta? | SIM | - | [Matheus Ferreira](https://github.com/matferreira1) ||
+| 9 | O componente Atores está empregado de maneira apropriada no artefato? | SIM | - | [Matheus Ferreira](https://github.com/matferreira1) ||
+| 10 | O componente Operações está sendo empregado corretamente? | SIM | - | [Matheus Ferreira](https://github.com/matferreira1) | |
+| 11 | O rich picture passa uma mensagem de forma efetiva? | SIM | - | [Matheus Ferreira](https://github.com/matferreira1) | |
+| 12 | O rich picture consegue contar uma história de maneira eficiente?  | SIM | - | [Matheus Ferreira](https://github.com/matferreira1) | |
 
 
 <div align="center">

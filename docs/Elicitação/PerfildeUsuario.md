@@ -58,7 +58,7 @@ Analisando as respostas do questionário é possível traçar um perfil de usuá
 
 | Data | Versão | Descrição | Autor(es) | Data de revisão | Revisor(es) |
 | :--:       | :----: | :-------: | :---: | :-------------: | :-----: |
-| 05/04/2024 | `1.0`  | Criação do artefato | [Guilherme Meister](https://github.com/gmeister18) | 10/04/2024 | [Henrique Galdino](https://github.com/hgaldino05) |
+| 27/06/2024 | `1.0`  | Criação do artefato | [Guilherme Meister](https://github.com/gmeister18) | 28/06/2024 | [Henrique Galdino](https://github.com/hgaldino05) |
 
 <div align="center">
 <figcaption align="left">Tabela 2: Histórico de versões(Autor: Autoria própria)</figcaption>
