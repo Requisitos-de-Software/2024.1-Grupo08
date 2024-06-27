@@ -13,10 +13,11 @@ a fim de que conseguissemos as respostas valorosas que esperamos para o nosso pr
 
 A figura 1 aprensenta como maior grupo de usuários do aplicativo as pessoas na faixa etária de 36 a 65 anos.
 
-<font size="3"><p style="text-align: center">**Figura 1** - Faixa etária.</p></font>
-<iframe style="border:3px solid red" width="648" height="401" seamless frameborder="0" scrolling="no" width="600" height="371" seamless frameborder="0" scrolling="no" src="https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/assets/img/Elicitação/Questao02.png?raw=true"></iframe>
-<font size="3"><p style="text-align: center">Autor: [Guilherme Meister](https://github.com/gmeister18)</p></font>
-</figure>
+<div align="center">
+<img src="https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/assets/img/Elicitação/Questao02.png?raw=true" alt = Figura3  />
+<figcaption align="center">Autor: MEISTER, Guilherme 2024</figcaption>
+</div>
+<br/>
 
 Na figura 2 é apresentada a distribuição de gênero dos usuários.
 
