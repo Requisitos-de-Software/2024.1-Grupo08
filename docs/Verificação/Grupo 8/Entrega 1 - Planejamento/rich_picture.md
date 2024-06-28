@@ -37,12 +37,12 @@ Para realizar a verificação do artefato,iremos usar uma adaptação da técnic
 
 A tabela 2 apresenta o checklist dos itens gerais de verificação desenvolvido com base no artefato e seus itens podem ser marcados como **SIM**, **NÃO** ou **INCOMPLETO**, além de apresentar observações sobre os mesmos, caso necessário.
 
-| ID | Descrição | Verificação | Observação | Autor da inspeção | Fonte |
+| ID | Descrição | Verificação | Observação | Autor da inspeção | 
 | :--: | :-----: | :---------: | :--------: | :--------: | :--------: |
-| 1 | O artefato apresenta introdução? | SIM | - | [Matheus Ferreira](https://github.com/matferreira1) ||
-| 2 | O artefato apresenta histórico de versão padronizado (com autores e revisores)? | SIM | - |  [Matheus Ferreira](https://github.com/matferreira1) | |
-| 3 | O artefato apresenta legenda e fonte (chamadas no texto) nas imagens/tabelas? | SIM |  | [Matheus Ferreira](https://github.com/matferreira1) | | 
-| 4 | O artefato apresenta referência bibliográfica e/ou bibliografia? | SIM | - | [Matheus Ferreira](https://github.com/matferreira1) | |
+| 1 | O artefato apresenta introdução? | SIM | - | [Matheus Ferreira](https://github.com/matferreira1) |
+| 2 | O artefato apresenta histórico de versão padronizado (com autores e revisores)? | SIM | - |  [Matheus Ferreira](https://github.com/matferreira1) | 
+| 3 | O artefato apresenta legenda e fonte (chamadas no texto) nas imagens/tabelas? | SIM |  | [Matheus Ferreira](https://github.com/matferreira1) | 
+| 4 | O artefato apresenta referência bibliográfica e/ou bibliografia? | SIM | - | [Matheus Ferreira](https://github.com/matferreira1) |
 
 <div align="center">
 <figcaption align="center">Tabela 02: Checklist (Autor: Meister, Guilherme)</figcaption>
@@ -55,14 +55,14 @@ A tabela 3 apresenta o checklist dos itens de conteúdos apresentados, desenvolv
 
 | ID | Descrição | Verificação | Observação | Autor da inspeção| Fonte |
 | :--: | :-----: | :---------: | :--------: | :--------: | :--------: |
-| 5 | O(s) Ator(es) do RichPicture, está do lado de fora do sistema? | SIM | - | [Matheus Ferreira](https://github.com/matferreira1) ||
-| 6 | Há a presença dos 5 principais componentes de um Richpicture? | SIM | - | [Matheus Ferreira](https://github.com/matferreira1) ||
-| 7 | O componente Fronteira está sendo utilizado de acordo com as diretrizes? | SIM | - | [Matheus Ferreira](https://github.com/matferreira1) ||
-| 8 | O componente Fluxo está sendo aplicado da maneira correta? | SIM | - | [Matheus Ferreira](https://github.com/matferreira1) ||
-| 9 | O componente Atores está empregado de maneira apropriada no artefato? | SIM | - | [Matheus Ferreira](https://github.com/matferreira1) ||
-| 10 | O componente Operações está sendo empregado corretamente? | SIM | - | [Matheus Ferreira](https://github.com/matferreira1) | |
-| 11 | O rich picture passa uma mensagem de forma efetiva? | SIM | - | [Matheus Ferreira](https://github.com/matferreira1) | |
-| 12 | O rich picture consegue contar uma história de maneira eficiente?  | SIM | - | [Matheus Ferreira](https://github.com/matferreira1) | |
+| 5 | O(s) Ator(es) do RichPicture, está do lado de fora do sistema? | SIM | - | [Matheus Ferreira](https://github.com/matferreira1) | <a id="RP1" href="#TEC1">Pág. 4</a> |
+| 6 | Há a presença dos 5 principais componentes de um Richpicture? | SIM | - | [Matheus Ferreira](https://github.com/matferreira1) |<a id="RP1" href="#TEC1">Pág. 4</a>|
+| 7 | O componente Fronteira está sendo utilizado de acordo com as diretrizes?[1] | SIM | - | [Matheus Ferreira](https://github.com/matferreira1) |<a id="RP1" href="#TEC1">Pág. 4</a>|
+| 8 | O componente Fluxo está sendo aplicado da maneira correta? | SIM | - | [Matheus Ferreira](https://github.com/matferreira1) |<a id="RP1" href="#TEC1">Pág. 4</a>|
+| 9 | O componente Atores está empregado de maneira apropriada no artefato?[1] | SIM | - | [Matheus Ferreira](https://github.com/matferreira1) |<a id="RP1" href="#TEC1">Pág. 4</a>|
+| 10 | O componente Operações está sendo empregado corretamente? | SIM | - | [Matheus Ferreira](https://github.com/matferreira1) | <a id="RP1" href="#TEC1">Pág. 4</a> |
+| 11 | O rich picture passa uma mensagem de forma efetiva? | SIM | - | [Matheus Ferreira](https://github.com/matferreira1) |<a id="RP1" href="#TEC1">Pág. 4</a>|
+| 12 | O rich picture consegue contar uma história de maneira eficiente? | SIM | - | [Matheus Ferreira](https://github.com/matferreira1) | <a id="RP1" href="#TEC1">Pág. 4</a> |
 
 
 <div align="center">
@@ -94,13 +94,9 @@ Nesta seção, serão apresentados os resultados obtidos na verificação do art
 
 ## Bibliografia
 
-- [1] Introducing Rich Pictures - Rich Picture Drawing Guidelines. Disponível em: https://aprender3.unb.br/pluginfile.php/2523045/mod_resource/content/2/1_5145791542719414573.pdf. Acessado em: 06 de junho de 2024
+> <a id="RP1" href="#TEC1">1.</a>  CTEC2402 - Software Development Project. Introducing Rich Pictures. Aprender 3. Distrito Federal. Disponível em: https://aprender3.unb.br/pluginfile.php/2844957/mod_resource/content/2/1_5145791542719414573.pdf. Acesso em: 10 jun. 2024.
 
-- ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. ABNT. Disponível em: <https://www.abnt.org.br/>. Acesso em: 04 jun. 2024.
-
-- [2]Documento de verificação do Grupo 3 Disciplina de Requisitos. Disponível em: <https://github.com/Requisitos-de-Software/2023.1-VLC>. Acesso em 04 jun. 2024
-
-- [3] Bourque and R.E. Fairley, eds., Guide to the Software Engineering Body of Knowledge, Version 3.0, IEEE Computer Society, 2014; www.swebok.org.
+> <a id="RP2" href="#TEC2">1.</a>  CTEC2402 - Bourque and R.E. Fairley, eds., Guide to the Software Engineering Body of Knowledge, Version 3.0, IEEE Computer Society, 2014; www.swebok.org.. Acesso em: 10 jun. 2024. ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. ABNT. Disponível em: <https://www.abnt.org.br/>. Acesso em: 04 jun. 2024.
 
 ## Histórico de Versões
 
