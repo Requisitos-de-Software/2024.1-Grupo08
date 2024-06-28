@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Este artefato contém a verificação da versão **1.2** do artefato [Questionário](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/observacao/) desenvolvido pelo [*Grupo 08*](https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/tree/main).
+Este artefato contém a verificação da versão **1.2** do artefato [Questionário](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicitação/Questionário/) desenvolvido pelo [*Grupo 08*](https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/tree/main).
 ## Checklist
 
 A tabela 1 apresenta o checklist de verificação desenvolvido com base no artefato e seus itens podem ser marcados como **SIM**, **NÃO** ou **INCOMPLETO**, além de apresentar observações sobre os mesmos, caso necessário.
