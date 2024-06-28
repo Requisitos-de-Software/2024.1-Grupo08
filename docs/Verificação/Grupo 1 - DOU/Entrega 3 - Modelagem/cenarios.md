@@ -40,17 +40,17 @@ A tabela 1 apresenta o checklist dos itens gerais de verificação desenvolvido 
 
 A tabela 2 apresenta o checklist dos itens de conteúdos apresentados, desenvolvido com base no artefato e seus itens podem ser marcados como **SIM**, **NÃO** ou **INCOMPLETO**, além de apresentar observações sobre os mesmos, caso necessário.
 
-| ID | Descrição | Verificação | Observação | Autor da inspeção|
-| :--: | :-----: | :---------: | :--------: | :--------: |
+| ID | Descrição | Verificação | Observação | Autor da inspeção| Fonte |
+| :--: | :-----: | :---------: | :--------: | :--------: |:--------:|
 | 5 | O cenário possui: título, metas/objetivos, contexto, ator(es), recursos, exceções, restrições e episódios? | SIM | - | [Matheus Ferreira](https://github.com/matferreira1) |
-| 6 | Os títulos são auto-explicativos? | SIM | - | [Matheus Ferreira](https://github.com/matferreira1) |
-| 7 | O objetivo do cenário condiz com seu título? | SIM | - | [Matheus Ferreira](https://github.com/matferreira1) |
-| 8 | O contexto descreve o estado inicial do cenário? | SIM | - | [Matheus Ferreira](https://github.com/matferreira1) |
-| 9 | Os episódios seguem uma ordem lógica para atingir o objetivo? | SIM | - | [Matheus Ferreira](https://github.com/matferreira1) |
-| 10 | As situações de exceção são abordadas? | SIM | - | [Matheus Ferreira](https://github.com/matferreira1) | 
-| 11 | Os passos do cenário são descritos? | SIM | - | [Matheus Ferreira](https://github.com/matferreira1) | 
-| 12 | Os recursos necessários são explicitados?  | SIM | - | [Matheus Ferreira](https://github.com/matferreira1) | 
-| 13 | Os atores envolvidos em cada cenário são identificados?  | SIM | - | [Matheus Ferreira](https://github.com/matferreira1) | 
+| 6 | Os títulos são auto-explicativos? | SIM | - | [Matheus Ferreira](https://github.com/matferreira1) ||
+| 7 | O objetivo do cenário condiz com seu título? | SIM | - | [Matheus Ferreira](https://github.com/matferreira1) ||
+| 8 | O contexto descreve o estado inicial do cenário? | SIM | - | [Matheus Ferreira](https://github.com/matferreira1) ||
+| 9 | Os episódios seguem uma ordem lógica para atingir o objetivo? | SIM | - | [Matheus Ferreira](https://github.com/matferreira1) ||
+| 10 | As situações de exceção são abordadas? | SIM | - | [Matheus Ferreira](https://github.com/matferreira1) | |
+| 11 | Os passos do cenário são descritos? | SIM | - | [Matheus Ferreira](https://github.com/matferreira1) | |
+| 12 | Os recursos necessários são explicitados?  | SIM | - | [Matheus Ferreira](https://github.com/matferreira1) | |
+| 13 | Os atores envolvidos em cada cenário são identificados?  | SIM | - | [Matheus Ferreira](https://github.com/matferreira1) | |
 
 
 <div align="center">

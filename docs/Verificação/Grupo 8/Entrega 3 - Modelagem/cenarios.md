@@ -55,11 +55,12 @@ A tabela 3 apresenta o checklist dos itens de conteúdos apresentados, desenvolv
 
 | ID | Descrição | Verificação | Observação | Autor da inspeção| Fonte |
 | :--: | :-----: | :---------: | :--------: | :--------: | :--------: |
-| 5 | Cada cenário descreve uma única instância de uso do sistema? | SIM | - | [Matheus Ferreira](https://github.com/matferreira1) ||
-| 6 | Cada cenário possui os seguintes elementos básicos: título, metas/objetivos, contexto, atores, recursos, exceção e episódios? [3]| SIM | - | [Matheus Ferreira](https://github.com/matferreira1) ||
-| 7 | Os episódios de cada cenário seguem uma ordem lógica de acontecimentos[3] | SIM | - | [Matheus Ferreira](https://github.com/matferreira1) ||
-| 8 | O cenário descreve situações realistas e relevantes de interação do sistema?[3] | SIM | - | [Matheus Ferreira](https://github.com/matferreira1) ||
-| 9 | Os cenários especificam um caso de uso?[3] | SIM | - | [Matheus Ferreira](https://github.com/matferreira1) ||
+| 5 | Cada cenário descreve uma única instância de uso do sistema? | SIM | - | [Matheus Ferreira](https://github.com/matferreira1) |<a id="RP1" href="#TEC1">Pág. 4</a>|
+| 6 | Cada cenário possui os seguintes elementos básicos: título, metas/objetivos, contexto, atores, recursos, exceção e episódios? [3]| SIM | - | [Matheus Ferreira](https://github.com/matferreira1) |<a id="RP1" href="#TEC1">Pág. 4</a>|
+| 7 | Os episódios de cada cenário seguem uma ordem lógica de acontecimentos[3] | SIM | - | [Matheus Ferreira](https://github.com/matferreira1) |<a id="RP1" href="#TEC1">Pág. 4</a>|
+| 8 | O cenário descreve situações realistas e relevantes de interação do sistema?[3] | SIM | - | [Matheus Ferreira](https://github.com/matferreira1) |<a id="RP1" href="#TEC1">Pág. 4</a>|
+| 9 | Os cenários especificam um caso de uso?[3] | SIM | - | [Matheus Ferreira](https://github.com/matferreira1) |<a id="RP1" href="#TEC1">Pág. 4</a>|
+| 10 | cada cenário tem uma referência do caso de uso que foi especializado no cenário? | SIM | - | [Matheus Ferreira](https://github.com/matferreira1) |<a id="RP1" href="#TEC1">Pág. 4</a>|
 
 <div align="center">
 <figcaption align="center">Tabela 03: Checklist (Autor: Meister, Guilherme)</figcaption>
@@ -90,12 +91,11 @@ Nesta seção, serão apresentados os resultados obtidos na verificação do art
 
 ## Bibliografia
 
-- ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. ABNT. Disponível em: <https://www.abnt.org.br/>. Acesso em: 04 jun. 2024.
+## Bibliografia
 
-- [2]Documento de verificação do Grupo 3 Disciplina de Requisitos. Disponível em: <https://github.com/Requisitos-de-Software/2023.1-VLC>. Acesso em 04 jun. 2024
+> <a id="RP1" href="#TEC1">1.</a>  CTEC2402 - Software Development Project. Introducing Rich Pictures. Aprender 3. Distrito Federal. Disponível em: https://aprender3.unb.br/pluginfile.php/2844957/mod_resource/content/2/1_5145791542719414573.pdf. Acesso em: 10 jun. 2024.
 
-- [3] BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.
-
+> <a id="RP2" href="#TEC2">2.</a>  CTEC2402 - Bourque and R.E. Fairley, eds., Guide to the Software Engineering Body of Knowledge, Version 3.0, IEEE Computer Society, 2014; www.swebok.org.. Acesso em: 10 jun. 2024. ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. ABNT. Disponível em: <https://www.abnt.org.br/>. Acesso em: 04 jun. 2024.
 ## Histórico de Versões
 
 | <p align="center">Data</p> | <p align="center">Versão</p> | <p align="center">Descrição</p> | <p align="center">Autor(es)</p> | <p align="center">Data de revisão</p> | <p align="center">Revisor(es)</p> |

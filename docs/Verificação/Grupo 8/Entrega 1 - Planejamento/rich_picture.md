@@ -38,7 +38,7 @@ Para realizar a verificação do artefato,iremos usar uma adaptação da técnic
 A tabela 2 apresenta o checklist dos itens gerais de verificação desenvolvido com base no artefato e seus itens podem ser marcados como **SIM**, **NÃO** ou **INCOMPLETO**, além de apresentar observações sobre os mesmos, caso necessário.
 
 | ID | Descrição | Verificação | Observação | Autor da inspeção | 
-| :--: | :-----: | :---------: | :--------: | :--------: | :--------: |
+| :--: | :-----: | :---------: | :--------: | :--------: | 
 | 1 | O artefato apresenta introdução? | SIM | - | [Matheus Ferreira](https://github.com/matferreira1) |
 | 2 | O artefato apresenta histórico de versão padronizado (com autores e revisores)? | SIM | - |  [Matheus Ferreira](https://github.com/matferreira1) | 
 | 3 | O artefato apresenta legenda e fonte (chamadas no texto) nas imagens/tabelas? | SIM |  | [Matheus Ferreira](https://github.com/matferreira1) | 
@@ -74,7 +74,7 @@ A tabela 3 apresenta o checklist dos itens de conteúdos apresentados, desenvolv
 
 O artefato segue os padrões esperados, porém alguns pontos são passíveis de revisão e correção:
 
-- As tabelas que foram feitas pelos membros da equipe estão marcadas como "Fonte", mas este termo deve ser utilizado para tabelas que têm origem em alguma das referências, o correto seria usar "Autor"
+-
 
 ## Gravação 
 
@@ -96,7 +96,7 @@ Nesta seção, serão apresentados os resultados obtidos na verificação do art
 
 > <a id="RP1" href="#TEC1">1.</a>  CTEC2402 - Software Development Project. Introducing Rich Pictures. Aprender 3. Distrito Federal. Disponível em: https://aprender3.unb.br/pluginfile.php/2844957/mod_resource/content/2/1_5145791542719414573.pdf. Acesso em: 10 jun. 2024.
 
-> <a id="RP2" href="#TEC2">1.</a>  CTEC2402 - Bourque and R.E. Fairley, eds., Guide to the Software Engineering Body of Knowledge, Version 3.0, IEEE Computer Society, 2014; www.swebok.org.. Acesso em: 10 jun. 2024. ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. ABNT. Disponível em: <https://www.abnt.org.br/>. Acesso em: 04 jun. 2024.
+> <a id="RP2" href="#TEC2">2.</a>  CTEC2402 - Bourque and R.E. Fairley, eds., Guide to the Software Engineering Body of Knowledge, Version 3.0, IEEE Computer Society, 2014; www.swebok.org.. Acesso em: 10 jun. 2024. ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. ABNT. Disponível em: <https://www.abnt.org.br/>. Acesso em: 04 jun. 2024.
 
 ## Histórico de Versões
 
