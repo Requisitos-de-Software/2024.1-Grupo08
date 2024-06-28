@@ -16,8 +16,8 @@ O envio do e-mail ocorreu pontualmente em 18/06/2024, às 14:10, e ele pode ser 
 
 A <i>Figura 1</i> mostra o e-mail utilizado para entrar em contato com o time do Consumidor.Gov e pedir pela comprovação informal.</p>
 
-<img src="Requisitos-de-Software/2024.1-Consumidor.gov/assets/img/verificação/ValidacaoINf.png?raw=true" width="100%">
-<p><b>Figura 1</b>: E-mail enviado (Fonte: Meister, Guilherme. 2024).</p>
+<img src="Requisitos-de-Software/2024.1-Consumidor.gov/assets/img/verificação/ValidacaoINf.png" width="100%">
+<p><b>Figura 1</b>: E-mail enviado (Autor: Meister, Guilherme. 2024).</p>
 
 ## Resultado
 
