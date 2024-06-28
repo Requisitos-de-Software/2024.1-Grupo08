@@ -10,7 +10,7 @@ Os requisitos que foram selecionados foram analisados e priorizados durante o pr
 
 ## Protótipo de Alta Fidelidade
   
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fdesign%2FfrTmoL8pdbdlnYA3TeANYb%2FAcessibilidade%3Fnode-id%3D0-1%26t%3DdkAwZWPBEY7kJ2Zp-1" allowfullscreen></iframe>
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FfrTmoL8pdbdlnYA3TeANYb%2FAcessibilidade%3Fnode-id%3D1-949%26t%3DdDsHDnCmbjTgfcLF-1%26scaling%3Dmin-zoom%26content-scaling%3Dfixed%26page-id%3D0%253A1%26starting-point-node-id%3D1%253A949" allowfullscreen></iframe>
 
 <p> <b>Protótipo de alta fildelidade</b>: Protótipo de alta fildelidade (Autor: Meister, Guilherme. 2024).</p>
 
