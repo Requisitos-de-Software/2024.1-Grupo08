@@ -33,6 +33,7 @@ A técnica de observação será usada para concluir a validação do protótipo
 O usuário deve testar o protótipo, que abre na tela inicial do app e conseguir alterar para modo escuro e acessar a página de libras.
 
 Perguntas realizadas ao fim da entrevista:
+
 - O que achou da funcionalidade?
 - Acha que ela faz falta no Consumidor.GoV?
 - Achou a tarefa intuitiva?
