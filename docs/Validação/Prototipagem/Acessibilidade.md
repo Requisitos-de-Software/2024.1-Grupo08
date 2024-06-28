@@ -29,6 +29,7 @@ A técnica de observação será usada para concluir a validação do protótipo
   - Pedir dicas.
 
 #### Roteiro de gravação
+
 O usuário deve testar o protótipo, que abre na tela inicial do app e conseguir alterar para modo escuro e acessar a página de libras.
 
 Perguntas realizadas ao fim da entrevista:
@@ -45,7 +46,7 @@ A <i>Tabela 1</i> a seguir informa os dados da primeira avaliação referente a 
 |  | Guilherme Meister  |  |  | Microsoft Teams |
 <figcaption align='center'> Tabela 1: Dados da avaliação 1 (Autor: Meister, Guilherme. 2024)</figcaption>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nBKPEJUCblo" title="Entrevista 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="" title="Entrevista 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <div align="center">
 <p> <b>Vídeo 1</b>: gravação da entrevista 1 (Autor: Meister, Guiherme 2024).</p>
 </div>
@@ -60,7 +61,7 @@ A <i>Tabela 2</i> a seguir informa os dados da segunda avaliação referente a u
 |  |   |  |  | Microsoft Teams |
 <figcaption align='center'> Tabela 2: Dados da avaliação 1 (Autor: Meister, Guilherme. 2024)</figcaption>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/x0TsK74xoVA" title="Entrevista 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="" title="Entrevista 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <div align="center">
 <p> <b>Vídeo 2</b>: gravação da entrevista 2 (Autor: Meister, Guiherme 2024).</p>
 </div>
