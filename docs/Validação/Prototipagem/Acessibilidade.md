@@ -47,7 +47,8 @@ A <i>Tabela 1</i> a seguir informa os dados da primeira avaliação referente a 
 | Samuel Alves | Guilherme Meister  | 28 jun. 2024 | 20h15 | Microsoft Teams |
 <figcaption align='center'> Tabela 1: Dados da avaliação 1 (Autor: Meister, Guilherme. 2024)</figcaption>
 
-<iframe width="560" height="315" src="https://youtu.be/lIiE0BSCTu0" title="Entrevista 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="750" height="422" src="https://youtu.be/embed/lIiE0BSCTu0" title="Apresentação Entrega 4 - Grupo 8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <div align="center">
 <p> <b>Vídeo 1</b>: gravação da entrevista 1 (Autor: Meister, Guiherme 2024).</p>
 </div>
@@ -59,10 +60,11 @@ A <i>Tabela 2</i> a seguir informa os dados da segunda avaliação referente a u
 
 | <p align="center">Participante</p> | <p align="center">Avaliador</p> | <p align="center">Data</p> | <p align="center">Horário</p> | <p align="center">Local</p> |
 | :----------: | :-------: | :--: | :-----: | :---: |
-|  |   |  |  | Microsoft Teams |
+| Guilherme Coelho | Guilherme Meister | 28 jun. 2024 | 20h35 | Microsoft Teams |
 <figcaption align='center'> Tabela 2: Dados da avaliação 1 (Autor: Meister, Guilherme. 2024)</figcaption>
 
-<iframe width="560" height="315" src="" title="Entrevista 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="750" height="422" src="https://youtu.be/embed/05oX7DHBeZw" title="Apresentação Entrega 4 - Grupo 8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <div align="center">
 <p> <b>Vídeo 2</b>: gravação da entrevista 2 (Autor: Meister, Guiherme 2024).</p>
 </div>
