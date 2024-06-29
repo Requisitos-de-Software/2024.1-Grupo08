@@ -12,10 +12,10 @@ A tabela 1 apresenta o checklist de verificação desenvolvido com base no artef
 
 | ID | Descrição | Verificação | Observação | Fonte |
 | :--: | :-----: | :---------: | :--------: | :----: |
-| 1 | Foi definido uma lista de requisitos a serem priorizados? |  | - | [WEAGERS & BEATTY (1)](https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-Consumidor.gov/c4827b1f24cafeeb42e52fa44d30e16ce5c67488/assets/img/fontes/henrique/inOrOut-1.png) |
-| 2 | Foi utilizado o método binário (in/out)? |  | - | [WEAGERS & BEATTY (1)](https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-Consumidor.gov/c4827b1f24cafeeb42e52fa44d30e16ce5c67488/assets/img/fontes/henrique/inOrOut-1.png) |
-| 3 | A priorização foi feita com a participação dos stakeholders? |  | - | [WEAGERS & BEATTY (1)](https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-Consumidor.gov/c4827b1f24cafeeb42e52fa44d30e16ce5c67488/assets/img/fontes/henrique/inOrOut-1.png) |
-| 4 | Um dos stakeholders foi responsável pelo veredito final (por exemplo, em caso de conflitos)? |  | - | [WEAGERS & BEATTY (1)](https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-Consumidor.gov/c4827b1f24cafeeb42e52fa44d30e16ce5c67488/assets/img/fontes/henrique/inOrOut-1.png) |
+| 1 | Foi definido uma lista de requisitos a serem priorizados? |  | - | [WEAGERS & BEATTY (p.5)](https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-Consumidor.gov/c4827b1f24cafeeb42e52fa44d30e16ce5c67488/assets/img/fontes/henrique/inOrOut-1.png) |
+| 2 | Foi utilizado o método binário (in/out)? |  | - | [WEAGERS & BEATTY (p.5)](https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-Consumidor.gov/c4827b1f24cafeeb42e52fa44d30e16ce5c67488/assets/img/fontes/henrique/inOrOut-1.png) |
+| 3 | A priorização foi feita com a participação dos stakeholders? |  | - | [WEAGERS & BEATTY (p.5)](https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-Consumidor.gov/c4827b1f24cafeeb42e52fa44d30e16ce5c67488/assets/img/fontes/henrique/inOrOut-1.png) |
+| 4 | Um dos stakeholders foi responsável pelo veredito final (por exemplo, em caso de conflitos)? |  | - | [WEAGERS & BEATTY (p.5)](https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-Consumidor.gov/c4827b1f24cafeeb42e52fa44d30e16ce5c67488/assets/img/fontes/henrique/inOrOut-1.png) |
 
 
 
