@@ -47,7 +47,7 @@ A <i>Tabela 1</i> a seguir informa os dados da primeira avaliação referente a 
 | Samuel Alves | Guilherme Meister  | 28 jun. 2024 | 20h15 | Microsoft Teams |
 <figcaption align='center'> Tabela 1: Dados da avaliação 1 (Autor: Meister, Guilherme. 2024)</figcaption>
 
-<iframe width="750" height="422" src="https://youtube.com/embed/lIiE0BSCTu0" title="Apresentação Entrega 4 - Grupo 8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="750" height="422" src="https://www.youtube.com/embed/lIiE0BSCTu0" title="Apresentação Entrega 4 - Grupo 8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <div align="center">
 <p> <b>Vídeo 1</b>: gravação da entrevista 1 (Autor: Meister, Guiherme 2024).</p>
@@ -63,7 +63,7 @@ A <i>Tabela 2</i> a seguir informa os dados da segunda avaliação referente a u
 | Guilherme Coelho | Guilherme Meister | 28 jun. 2024 | 20h35 | Microsoft Teams |
 <figcaption align='center'> Tabela 2: Dados da avaliação 1 (Autor: Meister, Guilherme. 2024)</figcaption>
 
-<iframe width="750" height="422" src="https://youtube.com/embed/05oX7DHBeZw" title="Apresentação Entrega 4 - Grupo 8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="750" height="422" src="https://www.youtube.com/embed/05oX7DHBeZw" title="Apresentação Entrega 4 - Grupo 8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <div align="center">
 <p> <b>Vídeo 2</b>: gravação da entrevista 2 (Autor: Meister, Guiherme 2024).</p>
