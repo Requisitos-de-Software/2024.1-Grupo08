@@ -12,11 +12,11 @@ A tabela 1 apresenta o checklist de verificação desenvolvido com base no artef
 
 | ID | Descrição | Verificação | Observação | Fonte |
 | :--: | :-----: | :---------: | :--------: | :----:|
-| 1 | O artefato apresenta as especificações dos léxicos? |  | - ||
-| 2 | O artefato apresenta relacionamento entre os léxicos? |  | - ||
-| 3 | O relacionamento entre os léxicos apresenta hiperlinks? |  | - ||
-| 4 | Os léxicos apresentados no artefato seguem a estrutura de dicionário (verbo, objeto, estado)? |  | - ||
-| 5 | Os léxicos apresentados no artefato apresentam *classificação*, *impacto*, *noção* e *sinônimos*? |  | - ||
+| 1 | O artefato apresenta as especificações dos léxicos? |  | - | [LEITE (p.3)](https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-Consumidor.gov/main/assets/img/fontes/henrique/Lexico-1.png) |
+| 2 | O artefato apresenta relacionamento entre os léxicos? |  | - | [SERRANO (p.15)](https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-Consumidor.gov/main/assets/img/fontes/henrique/Lexico-1-2-3.png) |
+| 3 | O relacionamento entre os léxicos apresenta hiperlinks? |  | - | [LEITE (p.13)](https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-Consumidor.gov/main/assets/img/fontes/henrique/Lexico-1-2-3.png) |
+| 4 | Os léxicos apresentados no artefato seguem a estrutura de dicionário (verbo, objeto, estado)? |  | - |[SERRANO (p.15)](https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-Consumidor.gov/main/assets/img/fontes/henrique/Lexico-4.png) |
+| 5 | Os léxicos apresentados no artefato apresentam *classificação*, *impacto*, *noção* e *sinônimos*? |  | - | |
 | 6 | Os léxicos apresentam noção e impacto corretamente? |  | - ||
 | 7 | Os léxicos estão classificados corretamente? |  | - ||
 | 8 | Cada léxico apresenta zero ou mais sinônimos? |  | - ||
