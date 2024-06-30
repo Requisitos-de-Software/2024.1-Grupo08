@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Este artefato contém a verificação da aplicação da técnica ***In or Out*** na versão **1.0** do artefato [Léxicos](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Modelagem/lexicos/) feito pelo membro [Júlio César](https://github.com/Julio1099).
+Este artefato contém a verificação da versão **1.0** do artefato [Léxicos](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Modelagem/lexicos/) feito pelo membro [Júlio César](https://github.com/Julio1099).
 
 O checklist foi desenvolvido pelo membro [Henrique Galdino](https://github.com/hgaldino05) e foi preenchido pelo membro [Guilherme Meister](https://github.com/gmeister18).
 
