@@ -3,11 +3,11 @@
 ## Introdução
 
 A verificação de artefatos em requisitos de software é uma prática essencial no processo de desenvolvimento de sistemas de software. Ela assegura que os requisitos, que definem o que o software deve fazer, estão corretos, completos, consistentes e claros antes de prosseguir para as fases subsequentes de design e implementação.
-Por meio desta, o objetivo deste documento é realizar tal procedimento em cima do artefato <a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/pre-rastreabilidade/rich-picture/">Rich Picture</a>, que foi desenvolvido pelo <a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/">Grupo 8</a>. A verificação levou como base o básico que cada documentação deve ter e algumas perguntas específicas, além de usar como base os critérios de avaliação utilizados pelo professor.
+Por meio desta, o objetivo deste documento é realizar tal procedimento em cima do artefato <a href="https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Pr%C3%A9%20Rastreabilidade/rich-picture/">Rich Picture</a>, que foi desenvolvido pelo <a href="https://requisitos-de-software.github.io/2024.1-Consumidor.gov">Grupo 8</a>. A verificação levou como base o básico que cada documentação deve ter e algumas perguntas específicas, além de usar como base os critérios de avaliação utilizados pelo professor.
 
 ## Metodologia
 
- A nossa verificação terá a verificação do conteúdo esperado no artefato, criamos uma checklist baseada nos conteúdos já vistos em sala de aula, contendo perguntas estritamente sobre o artefato <a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/pre-rastreabilidade/rich-picture/">Rich Picture</a>. A tabela 1 apresenta uma base de funcionamento da avaliação, vale ressaltar que as respostas foram tomadas a partir da análise do artefato disponível na última versão disponibilizada pelo <a href="https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov">Grupo 8</a>.
+ A nossa verificação terá a verificação do conteúdo esperado no artefato, criamos uma checklist baseada nos conteúdos já vistos em sala de aula, contendo perguntas estritamente sobre o artefato <a href="https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Pr%C3%A9%20Rastreabilidade/rich-picture/">Rich Picture</a>. A tabela 1 apresenta uma base de funcionamento da avaliação, vale ressaltar que as respostas foram tomadas a partir da análise do artefato disponível na última versão disponibilizada pelo <a href="https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov">Grupo 8</a>.
 
 ### Participantes
 
@@ -72,9 +72,7 @@ A tabela 3 apresenta o checklist dos itens de conteúdos apresentados, desenvolv
 
 ## Comentários
 
-O artefato segue os padrões esperados, porém alguns pontos são passíveis de revisão e correção:
-
--
+O artefato segue os padrões esperados, contendo todos os elementos usados de maneira correta.
 
 ## Gravação 
 

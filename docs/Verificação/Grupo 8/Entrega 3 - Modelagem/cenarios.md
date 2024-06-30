@@ -69,9 +69,7 @@ A tabela 3 apresenta o checklist dos itens de conteúdos apresentados, desenvolv
 
 ## Comentários
 
-O artefato segue os padrões esperados, porém alguns pontos são passíveis de revisão e correção:
-
-- 
+O artefato segue os padrões esperados, com os elementos necessários para o cenário presentes e sendo utilizados de maneira correta.
 
 ## Gravação 
 
