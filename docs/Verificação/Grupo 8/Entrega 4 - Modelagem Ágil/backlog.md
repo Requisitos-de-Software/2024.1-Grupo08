@@ -4,7 +4,7 @@
 
 O backlog é um elemento fundamental no desenvolvimento ágil de software, servindo como uma lista dinâmica de tarefas, funcionalidades e requisitos que guiam o progresso do projeto. Sua correta gestão e verificação garantem que todos os itens necessários sejam identificados, priorizados e claramente definidos, assegurando que a equipe de desenvolvimento mantenha o foco nas necessidades mais importantes do cliente.
 
-O objetivo deste documento é realizar a verificação do artefato <a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/modelagem/modelagemAgil/backlog/">Backlog</a>, desenvolvido pelo <a href="https://github.com/Requisitos-de-Software/2024.1-DiarioOficialdaUniao">Grupo 1</a>. Esta análise se baseia em critérios estabelecidos, boas práticas e os padrões de documentação ensinados em sala de aula. Utilizamos uma checklist para garantir que todos os aspectos críticos do backlog sejam revisados e atendidos, proporcionando assim uma base sólida para a continuidade do projeto.
+O objetivo deste documento é realizar a verificação do artefato <a href="https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Modelagem/Modelagem%20%C3%81gil/Backlog/">Backlog</a>, desenvolvido pelo <a href="https://requisitos-de-software.github.io/2024.1-Consumidor.gov/">Grupo 1</a>. Esta análise se baseia em critérios estabelecidos, boas práticas e os padrões de documentação ensinados em sala de aula. Utilizamos uma checklist para garantir que todos os aspectos críticos do backlog sejam revisados e atendidos, proporcionando assim uma base sólida para a continuidade do projeto.
 ## Metodologia
 
 A verificação irá investigar se o artefato cumpre com certos requisitos necessários para uma boa construção. A Tabela 1 apresenta esses requisitos e indica se o artefato do <a href="https://github.com/Requisitos-de-Software/2024.1-DiarioOficialdaUniao">Grupo 1</a> está feito de maneira completa e correta.
@@ -29,9 +29,11 @@ A tabela 1 apresenta o checklist dos itens gerais de verificação desenvolvido 
 | 3 | O artefato divide o backlog em épicos? | SIM | - | [Guilherme Meister](https://github.com/gmeister18) | 
 | 4 | O artefato contém histórias de usuário? | SIM | - | [Guilherme Meister](https://github.com/gmeister18) |
 | 5 | O artefato contém a prioridade das histórias de usuário? | SIM | - | [Guilherme Meister](https://github.com/gmeister18) |
-| 6 | O artefato contém a gravação da realização do backlog?? | SIM | - | [Guilherme Meister](https://github.com/gmeister18) |
+| 6 | O artefato contém a gravação da realização do backlog? | SIM | - | [Guilherme Meister](https://github.com/gmeister18) |
 | 7 | A ordem dos épicos atende uma boa lógica? | NÃO | A criação da interface deve ser o primeiro passo para o desenvolvimento, não a segurança | [Guilherme Meister](https://github.com/gmeister18) |
 | 8 | Os requisitos são rastreáveis? | NÃO | - | [Guilherme Meister](https://github.com/gmeister18) |
+| 9 | Existe a correlação entre o backlog e os artefatos de modelagem(cenários, léxico)? | NÃO | - | [Guilherme Meister](https://github.com/gmeister18) |
+| 10 | Houve participação do cliente no artefato? | NÃO | - | [Guilherme Meister](https://github.com/gmeister18) |
 
 <div align="center">
 <figcaption align="center">Tabela 01: Checklist (Autor: Matheus Ferreira)</figcaption>

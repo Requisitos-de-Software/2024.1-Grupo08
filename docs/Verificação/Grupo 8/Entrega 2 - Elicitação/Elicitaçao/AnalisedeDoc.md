@@ -1,8 +1,8 @@
-# Análise de Interface
+# Análise de Documentos
 
 ## Introdução
 
-Este artefato contém a verificação da versão **1.1** do artefato [Análise de Interface](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/analise-de-interface/) desenvolvido pelo [*Grupo 01*](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/).
+Este artefato contém a verificação da versão **1.1** do artefato [Análise de Documento](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicita%C3%A7%C3%A3o/analiseDoc/) desenvolvido pelo [*Grupo 08*](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/).
 
 ## Checklist
 
@@ -16,6 +16,9 @@ A tabela 1 apresenta o checklist de verificação desenvolvido com base no artef
 | 4 | Na tabela de requisitos está definido quais requisitos estão implementados? | SIM | - |
 | 5 | A tabela de requisitos tem fonte? | SIM | - |
 | 6 | A página tem a gravação dessa técnica sendo realizada? | NÃO | - |
+| 7 | A página tem links que redirecionam para a documentação original? | NÃO | - |
+| 8 | O artefat tem ao menos um requisito funcional e um não funcional? | NÃO | - |
+| 9 | O artefato tem a validação do cliente? | NÃO | - |
 
 
 <div align="center">
