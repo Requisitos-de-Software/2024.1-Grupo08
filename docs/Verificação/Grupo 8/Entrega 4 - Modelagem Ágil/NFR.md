@@ -12,15 +12,15 @@ A tabela 1 apresenta o checklist de verificação desenvolvido com base no artef
 
 | ID | Descrição | Verificação | Observação | Fonte |
 | :--: | :-----: | :---------: | :--------: | :----: |
-| 1 | O framework utiliza das softgoals? | | - | [SILVA p.30]() |
-| 2 | As softgoals são tipificadas? (NFR, Operacionalização, Afirmação) |  | - | [SILVA p.31]() e [p.32]() |
-| 3 | As softgoals são refinadas (decomposição)?  |  | - | [SILVA p.33]() e [p.34]() |
-| 4 | As notações de relacionamentos são corretamente aplicadas? |  | - | [SILVA p.33]() e [p.34]() |
-| 5 | As notações de contribuição (AND, OR, MAKE, BREAK, etc) são corretamente aplicadas? |  | - | [SILVA p.34]() e [p.35]() |
-| 6 | Foi feita a propagação de impactos para cada SIG? |  | - | [SILVA p.38]() e [SERRANO p.19]() |
-| 7 | Cada RNF é verificável/testável? |  | - | [SILVA p.30]() |
-| 8 | Foi feito um cartão de especificação para cada NFR? |   | - | [SILVA p.56]() |
-| 9 | Os cartões apresentam *descrição*, *justificativa*, *origem*, *critério de ajuste*, *dependências*, *nível de prioridade*, *conflitos* e *história*? |  | - | [SILVA p.56]() |
+| 1 | O framework utiliza das softgoals? | | - | [SILVA p.30](https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-Consumidor.gov/main/assets/img/fontes/henrique/NFR-1.png) |
+| 2 | As softgoals são tipificadas? (NFR, Operacionalização, Afirmação) |  | - | [SILVA p.31](https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-Consumidor.gov/main/assets/img/fontes/henrique/NFR-2.png) e [p.32](https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-Consumidor.gov/main/assets/img/fontes/henrique/NFR-2-2.png) |
+| 3 | As softgoals são refinadas (decomposição)?  |  | - | [SILVA p.33](https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-Consumidor.gov/main/assets/img/fontes/henrique/NFR-3.png) e [p.34](https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-Consumidor.gov/main/assets/img/fontes/henrique/NFR-3-2.png) |
+| 4 | As notações de relacionamentos são corretamente aplicadas? |  | - | [SILVA p.33](https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-Consumidor.gov/main/assets/img/fontes/henrique/NFR-4.png) e [p.34](https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-Consumidor.gov/main/assets/img/fontes/henrique/NFR-4-2.png) |
+| 5 | As notações de contribuição (AND, OR, MAKE, BREAK, etc) são corretamente aplicadas? |  | - | [SILVA p.34](https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-Consumidor.gov/main/assets/img/fontes/henrique/NFR-5.png) e [p.35](https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-Consumidor.gov/main/assets/img/fontes/henrique/NFR-5-2.png) |
+| 6 | Foi feita a propagação de impactos para cada SIG? |  | - | [SILVA p.38](https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-Consumidor.gov/main/assets/img/fontes/henrique/NFR-6.png) e [SERRANO p.19](https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-Consumidor.gov/main/assets/img/fontes/henrique/NFR-6-2.png) |
+| 7 | Cada RNF é verificável/testável? |  | - | [SILVA p.30](https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/assets/img/fontes/henrique/NFR-7.png) |
+| 8 | Foi feito um cartão de especificação para cada NFR? |   | - | [SILVA p.56](https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/assets/img/fontes/henrique/NFR-8.png) |
+| 9 | Os cartões apresentam *descrição*, *justificativa*, *origem*, *critério de ajuste*, *dependências*, *nível de prioridade*, *conflitos* e *história*? |  | - | [SILVA p.56](https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/assets/img/fontes/henrique/NFR-8.png) |
 
 
 <div align="center">
@@ -41,6 +41,7 @@ A tabela 1 apresenta o checklist de verificação desenvolvido com base no artef
 
 | Versão | Data de execução | Data de revisão |  Descrição                          | Autor(es)                                           | Revisor(es)                                           |
 | :----: | :--------------: | :-------------: | :---------------------------------: | :-------------------------------------------------: | :---------------------------------------------------: |
+| 1.1    | 29/06/2024       | 29/06/2024      | Adicionando fontes  | [Henrique Galdino](https://github.com/hgaldino05)   | [Júlio César](https://github.com/Julio1099)         |
 | 1.0    | 29/06/2024       | 29/06/2024      | Criação do checklist NFR  | [Henrique Galdino](https://github.com/hgaldino05)   | [Júlio César](https://github.com/Julio1099)         |
 
 <div align="center">
