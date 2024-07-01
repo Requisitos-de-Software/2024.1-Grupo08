@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Este artefato contém a verificação da versão **1.2** do artefato [Caso de Uso](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/modelagem/useCase/) desenvolvido pelo [*Grupo 01*](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/), a qual foi adicionada na data 17/05/2024 pelo membro [Douglas Marinho](https://github.com/M4RINH0).
+Este artefato contém a verificação da versão **1.2** do artefato [Caso de Uso](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Modelagem/casosdeuso/) desenvolvido pelo [*Grupo 08*](https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov), a qual foi adicionada na data 17/05/2024 pelo membro [Guilherme Meister](https://github.com/gmeister18).
 
 ## Checklist
 
@@ -190,8 +190,8 @@ A tabela 1 apresenta o checklist de verificação desenvolvido com base no artef
 
 | Versão | Data de execução | Data de revisão |  Descrição                          | Autor(es)                                           | Revisor(es)                                           |
 | :----: | :--------------: | :-------------: | :---------------------------------: | :-------------------------------------------------: | :---------------------------------------------------: |
-| 1.0    | 08/06/2024       | 08/06/2024      | Criação do checklist Caso de Uso   | [Júlio Cesar](https://github.com/Julio1099)   | [Henrique Galdino](https://github.com/hgaldino05)         |
-| 1.2    | 10/06/2024       | 10/06/2024      | Conclusão do checklist Caso de Uso    | [Júlio Cesar](https://github.com/Julio1099)   | [Henrique Galdino](https://github.com/hgaldino05)         |
+| 1.0    | 28/06/2024       | 01/07/2024      | Criação do checklist Caso de Uso   | [Júlio Cesar](https://github.com/Julio1099)   | [Henrique Galdino](https://github.com/hgaldino05)         |
+
 
 <div align="center">
 <figcaption align="center">Histórico de versões (Autor: Júlio Cesar)</figcaption>
