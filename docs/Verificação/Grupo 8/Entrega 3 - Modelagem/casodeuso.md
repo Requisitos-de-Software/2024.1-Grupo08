@@ -15,7 +15,7 @@ A tabela 1 apresenta o checklist de verificação desenvolvido com base no artef
 | 3 | Existem relações de “extend”, “generalization” e “include”? <a id="REF3" href="#anchor_3">3</a>| SIM | - |
 | 4 | O caso de uso reflete o usuário e suas interações com o sistema? <a id="REF3" href="#anchor_3">3</a>| SIM | - |
 | 5 | O usuário é identificado por um nome, como cliente, funcionário, aluno, etc.? <a id="REF3" href="#anchor_3">3</a> | SIM | - |
-| 6 | Os casos de uso representam requisitos funcionais? <a id="REF3" href="#anchor_3">3</a> | - | - |
+| 6 | Os casos de uso representam requisitos funcionais? <a id="REF3" href="#anchor_3">3</a> | SIM | - |
 | 7 | Alguma técnica específica foi usada para desenvolver os casos de uso? <a id="REF3" href="#anchor_3">3</a> | SIM | - |
 | 8 | Os elementos de atores, sistema e objetivos estão presentes no caso de uso? <a id="REF3" href="#anchor_3">2</a> | SIM | - |
 | 9 | Existem fluxos principais, alternativos e de exceção? <a id="REF3" href="#anchor_3">1</a> | SIM | - |

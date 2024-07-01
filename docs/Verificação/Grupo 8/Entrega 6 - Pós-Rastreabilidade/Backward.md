@@ -52,6 +52,8 @@ A tabela 1 apresenta o checklist de verificação desenvolvido com base no artef
 | Versão | Data de execução | Data de revisão |  Descrição                          | Autor(es)                                           | Revisor(es)                                           |
 | :----: | :--------------: | :-------------: | :---------------------------------: | :-------------------------------------------------: | :---------------------------------------------------: |
 | 1.0    | 29/06/2024       | 01/07/2024      | Criação do checklist    | [Júlio Cesar](https://github.com/Julio1099)   | [Henrique Galdino](https://github.com/hgaldino05)         |
+| 1.1    | 01/07/2024       | 01/07/2024      | Preenchimento do checklist Backward   | [Igor Thiago](https://github.com/Alladin-51)   | [Henrique Galdino](https://github.com/hgaldino05)         |
+
 
 
 <div align="center">
