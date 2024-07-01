@@ -50,4 +50,4 @@ O checklist está incompleto, pois o [*Grupo 01*](https://requisitos-de-software
 
 | Versão | Data de execução | Data de revisão |  Descrição                          | Autor(es)                                           | Revisor(es)                                           |
 | :----: | :--------------: | :-------------: | :---------------------------------: | :-------------------------------------------------: | :---------------------------------------------------: |
-| 1.0    | 10/06/2024       | 10/06/2024      | Preenchendo checklist Introspecção  |  [Igor Thiago](https://github.com/alladin51) | [Rodrigo Gontijo](https://github.com/rodrigogontijoo) |
+| 1.0    | 01/07/2024       | 01/07/2024      | Criação checklist Introspecção  |  [Igor Thiago](https://github.com/alladin51) | [Rodrigo Gontijo](https://github.com/rodrigogontijoo) |
