@@ -33,6 +33,8 @@ A tabela 1 apresenta o checklist de verificação desenvolvido com base no artef
 
 ## Gravação 
 
+<iframe width="750" height="422" src="https://www.youtube.com/embed/lLtbmmfaQpY" title="Apresentação Entrega 4 - Grupo 8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Bibliografia
 
 >  1. LEITE, Julio Cesar. Léxico Ampliado da Linguagem, 2012. Disponível em: <https://www-di.inf.puc-rio.br/~julio/lal.pdf>. Acesso em: 06/06/2024.
