@@ -11,14 +11,14 @@ A tabela 1 apresenta o checklist de verificação desenvolvido com base no artef
 
 | **ID** | **Descrição**                                                                                                                                                       | **Avaliação** | **Observações**               |
 |--------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------|--------------------------------|
-| 1      | Tipos de elos utilizados: Satisfação, Agregação, Alocação, Recurso, Representação e Responsabilidade.                                                               |               |                                |
+| 1      | Tipos de elos utilizados: Satisfação, Agregação, Alocação, Recurso, Representação e Responsabilidade.    <a id="REF2" href="#anchor_2">2</a>                                                           |               |                                |
 | 2      | O artefato faz uso dos requisitos funcionais e não funcionais?                                                                                                      |               |                                |
 | 3      | Há hyperlinks que conectam os requisitos às suas origens?                                                                                                           |               |                                |
-| 4      | A metodologia faz referência ao Meta-modelo proposto por Toranzo?                                                                                                   |               |                                |
-| 5      | Os requisitos listados estão sendo associados às suas fontes?                                                                                                       |               |                                |
-| 6      | A classificação das informações rastreadas inclui: ambiental, desenvolvimento, gerencial e organizacional?                                                           |               |                                |
-| 7      | Os elos indicam os Elementos Rastreáveis e o tipo de Elo?                                                                                                           |               |                                |
-| 8      | O artefato possui legendas para a identificação dos requisitos ou de outros artefatos?
+| 4      | A metodologia faz referência ao Meta-modelo proposto por Toranzo?   <a id="REF2" href="#anchor_2"></a>                                                                                                |               |                                |
+| 5      | Os requisitos listados estão sendo associados às suas fontes?      <a id="REF1" href="#anchor_1">1</a>                                                                                                |               |                                |
+| 6      | A classificação das informações rastreadas inclui: ambiental, desenvolvimento, gerencial e organizacional?    <a id="REF1" href="#anchor_1">1 </a>                                                       |               |                                |
+| 7      | Os elos indicam os Elementos Rastreáveis e o tipo de Elo?              <a id="REF2" href="#anchor_2">2</a>                                                                                             |               |                                |
+| 8      | O artefato possui legendas para a identificação dos requisitos ou de outros artefatos? <a id="REF1" href="#anchor_1">1</a>
 |               |                                |
 
 
@@ -36,6 +36,10 @@ A tabela 1 apresenta o checklist de verificação desenvolvido com base no artef
 
 
 ## Referências Bibliográficas
+
+> <a id="anchor_1" href="#REF1">1.</a> SAYÃO, Miriam; LEITE, Julio. Rastreabilidade de Requisitos. PUC-Rio: Departamento de Informática, ISSN 0103-9741, Rio de Janeiro, 2005. Disponível em: https://www-di.inf.puc-rio.br/~julio/rastre.pdf. Acesso em: 28 de jun de 2024.
+
+> <a id="anchor_2" href="#REF2">2.</a> TORANZO, M.; CASTRO, J; MELLO, E. Uma proposta para melhorar o rastreamento de requisitos. PUC-Rio: Workshop em Engenharia de Requisitos, Rio de Janeiro, 2002. Disponível em: http://wer.inf.puc-rio.br/WERpapers/artigos/artigos_WER02/toranzo.pdf. Acesso em: 28 de jun de 2024.
 
 > <a id="FTF2Ref" href="#FTF3"></a> POHL, K. Requirements Engineering Fundamentals, 2nd Edition. [s.l.] Rocky Nook, Inc., 2016. 
 
