@@ -37,10 +37,10 @@ A tabela 1 apresenta o checklist de verificação desenvolvido com base no artef
 
 ## Gráfico
 
-Nesta seção, serão apresentados os resultados obtidos na verificação do artefato "[Rich Picture]()" na forma de um gráfico de pizza, onde são apresentadas a quantidade de "sim", "não", "não se aplica" e "incompleto" obtidos na verificação.
+Nesta seção, serão apresentados os resultados obtidos na verificação do artefato "[Léxicos]()" na forma de um gráfico de pizza, onde são apresentadas a quantidade de "sim", "não", "não se aplica" e "incompleto" obtidos na verificação.
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Figura 1:</b> Resultados do artefato Ferramentas</p></font>
+<font size="3"><p style="text-align: center"><b>Figura 1:</b> Resultados do artefato</p></font>
 
  <img src="https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/assets/img/verifica%C3%A7%C3%A3o/lexicos.png?raw=true" style="width: 45%;">
 
