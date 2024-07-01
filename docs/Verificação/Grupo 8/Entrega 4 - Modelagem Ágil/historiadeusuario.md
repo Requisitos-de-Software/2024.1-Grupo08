@@ -60,7 +60,7 @@ A tabela 3 apresenta o checklist dos itens de conteúdos apresentados, desenvolv
 | 7 | Os critérios de aceitação das histórias foram definidos? | SIM | - | [Matheus Ferreira](https://github.com/matferreira1) |<a id="RP1" href="#TEC1">Pág. 74</a>|
 | 8 | Todas as histórias de usuário podem ser testadas? | SIM | - | [Matheus Ferreira](https://github.com/matferreira1) |<a id="RP1" href="#TEC1">Pág. 70</a>|
 | 9 | Os Histórias de Usuário especificam um caso de uso?[3] | SIM | - | [Matheus Ferreira](https://github.com/matferreira1) |<a id="RP1" href="#TEC1">Pág. 71</a>|
-| 10 |As histórias de usuário possuem uma área dedicada para a rastreabilidade dos requisitos que foram utilizados em cada história? | SIM | - | [Matheus Ferreira](https://github.com/matferreira1) ||
+| 10 |As histórias de usuário possuem uma área dedicada para a rastreabilidade dos requisitos que foram utilizados em cada história? | NÃO | - | [Matheus Ferreira](https://github.com/matferreira1) ||
 
 <div align="center">
 <figcaption align="center">Tabela 03: Checklist (Autor: Meister, Guilherme)</figcaption>
@@ -69,7 +69,7 @@ A tabela 3 apresenta o checklist dos itens de conteúdos apresentados, desenvolv
 
 ## Comentários
 
-O artefato segue os padrões esperados, com os elementos necessários para o cenário presentes e sendo utilizados de maneira correta.
+O artefato segue os padrões esperados, apenas faltando a correlação entre as histórias de usuário e os requisitos que geraram a respectiva história.
 
 ## Gravação 
 

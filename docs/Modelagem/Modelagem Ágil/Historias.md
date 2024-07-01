@@ -237,7 +237,7 @@ A seguir estão as tabelas que descrevem as histórias de usuário elicitadas pe
 | ID | US16 |
 | Título | Medidas de proteção |
 | Descrição | Eu, como usuário, quero que o aplicativo apresente medidas de proteção para que meus dados estejam seguros. |
-| Critérios de aceitação | - O aplicativo deve implementar medidas de segurança como criptografia de dados e autenticação de usuário. |
+| Critérios de aceitação |<ol><li>- O aplicativo deve implementar criptografia de dados para dados sensíveis<li>- O aplicativo deve fazer a autenticação do usuário no momento do login</ol> |
 | Prioridade | Alta |
 <div style="text-align: center">
 <p> Autor: THIAGO, Igor. 2024.</p>
@@ -250,7 +250,7 @@ A seguir estão as tabelas que descrevem as histórias de usuário elicitadas pe
 | ID | US17 |
 | Título | Otimização de carregamento |
 | Descrição | Eu, como usuário, quero que o aplicativo otimize o carregamento de páginas/recursos para que minha experiência seja rápida e eficiente. |
-| Critérios de aceitação | - O aplicativo deve carregar páginas e recursos de forma rápida e eficiente. |
+| Critérios de aceitação |<ol><li>- O aplicativo deve responder o comando do usuário em até 2 segundos<li>- O aplicativo deve concluir o carregamento dos componentes em até 20 segundos</ol>|
 | Prioridade | Média |
 <div style="text-align: center">
 <p> Autor: THIAGO, Igor. 2024.</p>
@@ -281,6 +281,7 @@ No vídeo 1 encontra-se a gravação da entrevista.
 ## Histórico de Versões
 | Data | Versão | Descrição | Autor(es) | Data de revisão | Revisor(es) |
 | :--:       | :----: | :-------: | :---: | :-------------: | :-----: |
+| 01/07/2024 | `1.4`  | Ajustes das histórias de usuário | [Matheus Ferreira](https://github.com/matferreira1) | 27/05/2024 | [Henrique Galdino](https://github.com/hgaldino05) |
 | 27/05/2024 | `1.3`  | Correções das histórias de usuário vindas da entrevista de validação | [Rodrigo Gontijo](https://github.com/rodrigogontijoo) | 27/05/2024 | [Henrique Galdino](https://github.com/hgaldino05) |
 | 27/05/2024 | `1.2`  | Correções de formatação | [Rodrigo Gontijo](https://github.com/rodrigogontijoo) | 27/05/2024 | [Henrique Galdino](https://github.com/hgaldino05) |
 | 27/05/2024 | `1.1`  | Adicionando Validação das histórias de Usuário | [Rodrigo Gontijo](https://github.com/rodrigogontijoo) | 27/05/2024 | [Henrique Galdino](https://github.com/hgaldino05) |
