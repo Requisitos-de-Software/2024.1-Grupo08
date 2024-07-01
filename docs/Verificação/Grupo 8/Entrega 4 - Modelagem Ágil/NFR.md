@@ -30,6 +30,10 @@ A tabela 1 apresenta o checklist de verificação desenvolvido com base no artef
 
 ## Comentários
 
+## Gravação
+
+<iframe width="750" height="422" src="https://www.youtube.com/embed/lLtbmmfaQpY" title="Apresentação Entrega 4 - Grupo 8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Bibliografia
 
 > 1. SILVA, Reinaldo Antônio da. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados, 2019. Disponível em: [https://aprender3.unb.br/pluginfile.php/2845051/mod_resource/content/2/DISSERTA%C3%87%C3%83O%20Reinaldo%20Ant%C3%B4nio%20da%20Silva.pdf](https://aprender3.unb.br/pluginfile.php/2845051/mod_resource/content/2/DISSERTA%C3%87%C3%83O%20Reinaldo%20Ant%C3%B4nio%20da%20Silva.pdf). Acesso em: 07 de junho de 2024.
