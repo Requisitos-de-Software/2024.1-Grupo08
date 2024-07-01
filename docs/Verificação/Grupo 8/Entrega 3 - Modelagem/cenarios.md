@@ -55,12 +55,12 @@ A tabela 3 apresenta o checklist dos itens de conteúdos apresentados, desenvolv
 
 | ID | Descrição | Verificação | Observação | Autor da inspeção| Fonte |
 | :--: | :-----: | :---------: | :--------: | :--------: | :--------: |
-| 5 | Cada cenário descreve uma única instância de uso do sistema? | SIM | - | [Matheus Ferreira](https://github.com/matferreira1) |<a id="RP1" href="#TEC1">Pág. 4</a>|
-| 6 | Cada cenário possui os seguintes elementos básicos: título, metas/objetivos, contexto, atores, recursos, exceção e episódios? [3]| SIM | - | [Matheus Ferreira](https://github.com/matferreira1) |<a id="RP1" href="#TEC1">Pág. 4</a>|
-| 7 | Os episódios de cada cenário seguem uma ordem lógica de acontecimentos[3] | SIM | - | [Matheus Ferreira](https://github.com/matferreira1) |<a id="RP1" href="#TEC1">Pág. 4</a>|
-| 8 | O cenário descreve situações realistas e relevantes de interação do sistema?[3] | SIM | - | [Matheus Ferreira](https://github.com/matferreira1) |<a id="RP1" href="#TEC1">Pág. 4</a>|
-| 9 | Os cenários especificam um caso de uso?[3] | SIM | - | [Matheus Ferreira](https://github.com/matferreira1) |<a id="RP1" href="#TEC1">Pág. 4</a>|
-| 10 | cada cenário tem uma referência do caso de uso que foi especializado no cenário? | SIM | - | [Matheus Ferreira](https://github.com/matferreira1) |<a id="RP1" href="#TEC1">Pág. 4</a>|
+| 5 | Cada cenário descreve uma única instância de uso do sistema? | SIM | - | [Matheus Ferreira](https://github.com/matferreira1) |<a id="RP1" href="#TEC1">Pág. 149</a>|
+| 6 | Cada cenário possui os seguintes elementos básicos: título, metas/objetivos, contexto, atores, recursos, exceção e episódios? [3]| SIM | - | [Matheus Ferreira](https://github.com/matferreira1) |<a id="RP1" href="#TEC1">Pág. 149</a>|
+| 7 | Os episódios de cada cenário seguem uma ordem lógica de acontecimentos[3] | SIM | - | [Matheus Ferreira](https://github.com/matferreira1) |<a id="RP1" href="#TEC1">Pág. 149</a>|
+| 8 | O cenário descreve situações realistas e relevantes de interação do sistema?[3] | SIM | - | [Matheus Ferreira](https://github.com/matferreira1) |<a id="RP1" href="#TEC1">Pág. 149</a>|
+| 9 | Os cenários especificam um caso de uso?[3] | SIM | - | [Matheus Ferreira](https://github.com/matferreira1) |<a id="RP1" href="#TEC1">Pág. 149</a>|
+| 10 | cada cenário tem uma referência do caso de uso que foi especializado no cenário? | SIM | - | [Matheus Ferreira](https://github.com/matferreira1) |<a id="RP1" href="#TEC1">Pág. 149</a>|
 
 <div align="center">
 <figcaption align="center">Tabela 03: Checklist (Autor: Meister, Guilherme)</figcaption>
