@@ -27,7 +27,7 @@ O protótipo apresenta uma breve representação da tela de reclamações do pon
 
 O protótipo, desenvolvido com o uso da ferramenta [Figma](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Planejamento/ferramentas/#2-lista-de-ferramentas-utilizadas), foi desenvolvido um protótipo de alta fidelidade que buscasse abranger os requisitos listados anteriormente. Este protótipo pode ser visto abaixo:
   
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="834" height="1194" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FDK5hEGNw7fSRsQPwzz15Pv%2FReclama%25C3%25A7%25C3%25B5es-EMPRESA%3Fnode-id%3D30-111%26t%3DbawDKX4jJmGVh9p3-1%26scaling%3Dmin-zoom%26content-scaling%3Dfixed%26page-id%3D0%253A1%26starting-point-node-id%3D30%253A111" allowfullscreen></iframe> -->
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="834" height="1194" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FDK5hEGNw7fSRsQPwzz15Pv%2FReclama%25C3%25A7%25C3%25B5es-EMPRESA%3Fnode-id%3D30-111%26t%3DbawDKX4jJmGVh9p3-1%26scaling%3Dmin-zoom%26content-scaling%3Dfixed%26page-id%3D0%253A1%26starting-point-node-id%3D30%253A111" allowfullscreen></iframe>
 
 <p> <b>Protótipo de alta fildelidade</b>: Protótipo de alta fildelidade (Autor: GALDINO, Henrique. 2024).</p>
 
