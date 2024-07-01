@@ -15,7 +15,7 @@ A tabela 1 apresenta o checklist de verificação desenvolvido com base no artef
 | 1 | Foi definido uma lista de requisitos a serem priorizados? | SIM | - | [WEAGERS & BEATTY (p.5)](https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-Consumidor.gov/c4827b1f24cafeeb42e52fa44d30e16ce5c67488/assets/img/fontes/henrique/inOrOut-1.png) |
 | 2 | Foi utilizado o método binário (in/out)? | SIM | - | [WEAGERS & BEATTY (p.5)](https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-Consumidor.gov/c4827b1f24cafeeb42e52fa44d30e16ce5c67488/assets/img/fontes/henrique/inOrOut-1.png) |
 | 3 | A priorização foi feita com a participação dos stakeholders? | SIM | - | [WEAGERS & BEATTY (p.5)](https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-Consumidor.gov/c4827b1f24cafeeb42e52fa44d30e16ce5c67488/assets/img/fontes/henrique/inOrOut-1.png) |
-| 4 | Um dos stakeholders foi responsável pelo veredito final (por exemplo, em caso de conflitos)? | SIM | - | [WEAGERS & BEATTY (p.5)](https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-Consumidor.gov/c4827b1f24cafeeb42e52fa44d30e16ce5c67488/assets/img/fontes/henrique/inOrOut-1.png) |
+| 4 | Um dos stakeholders foi responsável pelo veredito final (por exemplo, em caso de conflitos)? | SIM | Não houve conflitos | [WEAGERS & BEATTY (p.5)](https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-Consumidor.gov/c4827b1f24cafeeb42e52fa44d30e16ce5c67488/assets/img/fontes/henrique/inOrOut-1.png) |
 
 
 
@@ -54,6 +54,7 @@ Nesta seção, serão apresentados os resultados obtidos na verificação do art
 
 | Versão | Data de execução | Data de revisão |  Descrição                          | Autor(es)                                           | Revisor(es)                                           |
 | :----: | :--------------: | :-------------: | :---------------------------------: | :-------------------------------------------------: | :---------------------------------------------------: |
+| 1.1    | 01/07/2024       | 01/07/2024      | Respondendo checklist In or Out  | [Guilherme Meister](https://github.com/gmeister18)   | [Júlio César](https://github.com/Julio1099)         |
 | 1.0    | 28/06/2024       | 28/06/2024      | Criação do checklist In or Out  | [Henrique Galdino](https://github.com/hgaldino05)   | [Júlio César](https://github.com/Julio1099)         |
 
 <div align="center">
