@@ -12,8 +12,11 @@ A tabela 1 apresenta o checklist de verificação desenvolvido com base no artef
 
 | ID | Descrição | Verificação | Observação |
 | :--: | :-----: | :---------: | :--------: |
-| 1 |  | | - |
-
+| 1 | Foram utilizadas personas ou clientes reais para a criação das histórias? | | - |
+| 2 | É possível identificar nas histórias os seguintes elementos estruturais: Causalidade; Início, meio e fim; Personagens; Linguagem cotidiana e narrativa? <a id="REF1" href="#anchor_1">1</a>  | | - |
+| 3 | As histórias estão relacionadas a fatos cujo conhecimento o grupo deseja elicitar? <a id="REF1" href="#anchor_1">1</a>  | | - |
+| 4 | Foram elicitados requisitos funcionais e não funcionais? | | - |
+| 5 | As histórias foram validadas por outros membros da equipe? <a id="REF2" href="#anchor_2">2</a> | | - |
 
 <div align="center">
 <figcaption align="center">Tabela 01: Checklist (Autor: Rodrigo Gontijo)</figcaption>
@@ -27,10 +30,13 @@ A tabela 1 apresenta o checklist de verificação desenvolvido com base no artef
 
 > <a id="anchor_1" href="#REF1">1. </a> Santos, V. G., Daher N., UTILIZAÇÃO DE STORYTELLING COMO FERRAMENTA DE AQUISIÇÃO DE REQUISITOS EM PROCESSO DE DESENVOLVIMENTO DE SOFTWARE APOIADOS EM MODELOS ÁGEIS: O USO APOIADO NO EXTREME PROGRAMMING, Belo Horizonte, 2008. 14 p., Artigo (Análise de Sistemas), e-tec UNI-BH. Disponível em: https://revistas.unibh.br/dtec/article/view/440/0
 
+> <a id="anchor_2" href="#REF2">2. </a>  SERRANO, Milene; SERRANO, Maurício. Requisitos - Aula 07. Brasília: Universidade de Brasília, 2023. Disponível em: https://aprender3.unb.br/pluginfile.php/2844984/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf. 
+
 ## Histórico de Versão
 
 | Versão | Data de execução | Data de revisão |  Descrição                          | Autor(es)                                           | Revisor(es)                                           |
 | :----: | :--------------: | :-------------: | :---------------------------------: | :-------------------------------------------------: | :---------------------------------------------------: |
+| 1.1    | 01/07/2024       | 01/07/2024      | Criação do checklist  | [Rodrigo Gontijo](https://github.com/rodrigogontijoo)   | [Igor Thiago](https://github.com/alladin51)  |
 | 1.0    | 01/07/2024       | 01/07/2024      | Criação do documento  | [Rodrigo Gontijo](https://github.com/rodrigogontijoo)   | [Igor Thiago](https://github.com/alladin51)  |
 
 <div align="center">
