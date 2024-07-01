@@ -11,14 +11,14 @@ A tabela 1 apresenta o checklist de verificação desenvolvido com base no artef
 
 | **ID** | **Descrição**                                                                                                                                                       | **Avaliação** | **Observações**               |
 |--------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------|--------------------------------|
-| 1      | Tipos de elos utilizados: Satisfação, Agregação, Alocação, Recurso, Representação e Responsabilidade.    <a id="REF2" href="#anchor_2">2</a>                                                           |               |                                |
-| 2      | O artefato faz uso dos requisitos funcionais e não funcionais?                                                                                                      |               |                                |
-| 3      | Há hyperlinks que conectam os requisitos às suas origens?                                                                                                           |               |                                |
-| 4      | A metodologia faz referência ao Meta-modelo proposto por Toranzo?   <a id="REF2" href="#anchor_2"></a>                                                                                                |               |                                |
-| 5      | Os requisitos listados estão sendo associados às suas fontes?      <a id="REF1" href="#anchor_1">1</a>                                                                                                |               |                                |
-| 6      | A classificação das informações rastreadas inclui: ambiental, desenvolvimento, gerencial e organizacional?    <a id="REF1" href="#anchor_1">1 </a>                                                       |               |                                |
-| 7      | Os elos indicam os Elementos Rastreáveis e o tipo de Elo?              <a id="REF2" href="#anchor_2">2</a>                                                                                             |               |                                |
-| 8      | O artefato possui legendas para a identificação dos requisitos ou de outros artefatos? <a id="REF1" href="#anchor_1">1</a>
+| 1      | Tipos de elos utilizados: Satisfação, Agregação, Alocação, Recurso, Representação e Responsabilidade.    <a id="REF2" href="#anchor_2">2</a>                                                           |       SIM        |                                |
+| 2      | O artefato faz uso dos requisitos funcionais e não funcionais?                                                                                                      |        SIM       |                                |
+| 3      | Há hyperlinks que conectam os requisitos às suas origens?                                                                                                           |        SIM       |                                |
+| 4      | A metodologia faz referência ao Meta-modelo proposto por Toranzo?   <a id="REF2" href="#anchor_2"></a>                                                                                                |         SIM      |                                |
+| 5      | Os requisitos listados estão sendo associados às suas fontes?      <a id="REF1" href="#anchor_1">1</a>                                                                                                |       SIM        |                                |
+| 6      | A classificação das informações rastreadas inclui: ambiental, desenvolvimento, gerencial e organizacional?    <a id="REF1" href="#anchor_1">1 </a>                                                       |     SIM          |                                |
+| 7      | Os elos indicam os Elementos Rastreáveis e o tipo de Elo?              <a id="REF2" href="#anchor_2">2</a>                                                                                             |          SIM     |                                |
+| 8      | O artefato possui legendas para a identificação dos requisitos ou de outros artefatos? <a id="REF1" href="#anchor_1">1</a> |SIM|
 |               |                                |
 
 
