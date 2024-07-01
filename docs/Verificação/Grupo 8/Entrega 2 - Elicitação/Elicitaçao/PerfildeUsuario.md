@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Este artefato contém a verificação da versão **1.1** do artefato [Perfil dos Usuários](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/perfilUsuario/) desenvolvido pelo [Grupo 01](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/), adicionada na data 21/04/2024.
+Este artefato contém a verificação da versão **1.0** do artefato [Perfil dos Usuários](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicitação/PerfildeUsuario/) desenvolvido pelo [Grupo 08](https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov).
 
 ## Checklist
 
@@ -22,7 +22,7 @@ A tabela 1 apresenta o checklist de verificação desenvolvido com base no artef
 
 ## Gravação 
 
-<iframe width="560" height="315" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[Link da gravação](https://youtu.be/7mlz3c4DbQQ)
 
 ## Referências Bibliográficas
 
@@ -32,10 +32,10 @@ A tabela 1 apresenta o checklist de verificação desenvolvido com base no artef
 
 | Versão | Data de execução | Data de revisão |  Descrição                          | Autor(es)                                           | Revisor(es)                                           |
 | :----: | :--------------: | :-------------: | :---------------------------------: | :-------------------------------------------------: | :---------------------------------------------------: |
-| 1.1    | 10/06/2024       | 10/06/2024      | Preenchendo checklist Perfil de Usuario  | [Rodrigo Gontijo](https://github.com/rodrigogontijoo)   | [Igor Thiago](https://github.com/alladin51)  |
+| 1.1    | 30/06/2024       | 30/06/2024      | Preenchendo checklist Perfil de Usuario  | [Júlio Cesar](https://github.com/Julio1099)   | [Igor Thiago](https://github.com/alladin51)  |
 | 1.0    | 10/06/2024       | 10/06/2024      | Criação do checklist Perfil de Usuario  | [Rodrigo Gontijo](https://github.com/rodrigogontijoo)   | [Igor Thiago](https://github.com/alladin51)  |
 
 <div align="center">
-<figcaption align="center">Histórico de versões (Autor: Rodrigo Gontijo)</figcaption>
+<figcaption align="center">Histórico de versões (Autor: Júlio Cesar)</figcaption>
 </div>
 <br/>
