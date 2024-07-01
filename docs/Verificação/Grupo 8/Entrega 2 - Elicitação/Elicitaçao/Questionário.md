@@ -33,6 +33,8 @@ A tabela 1 apresenta o checklist de verificação desenvolvido com base no artef
 
 ### Detalhamento da Fonte do Texto
 
+*O trechos foram retirados do livro ENGENHARIA DE REQUISITOS - SOFTWARE ORIENTADO AO NEGÓCIO*
+
 - ID1: Encontrado na introdução da seção 7.7.
 - ID2: Mencionado na subseção 7.7.2.1, sob Preparação.
 - ID3: Não mencionado explicitamente no texto, mas pode ser uma boa prática adicionar.
@@ -56,7 +58,7 @@ A tabela 1 apresenta o checklist de verificação desenvolvido com base no artef
 
 ## Gravação 
 
-<iframe width="560" height="315" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 
 ## Referências Bibliográficas
 
@@ -67,7 +69,8 @@ A tabela 1 apresenta o checklist de verificação desenvolvido com base no artef
 
 | Versão | Data de execução | Data de revisão |  Descrição                          | Autor(es)                                           | Revisor(es)                                           |
 | :----: | :--------------: | :-------------: | :---------------------------------: | :-------------------------------------------------: | :---------------------------------------------------: |
-| 1.0    | 27/06/2024       | ??/06/2024      | Criação do checklist    | [Júlio Cesar](https://github.com/Julio1099)   | [Henrique Galdino](https://github.com/hgaldino05)         |
+| 1.1    | 01/07/2024       | 01/07/2024      | Correções    | [Júlio Cesar](https://github.com/Julio1099)   | [Henrique Galdino](https://github.com/hgaldino05)         |
+| 1.0    | 27/06/2024       | 01/07/2024      | Criação do checklist    | [Júlio Cesar](https://github.com/Julio1099)   | [Henrique Galdino](https://github.com/hgaldino05)         |
 
 
 <div align="center">
