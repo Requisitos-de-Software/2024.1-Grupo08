@@ -39,7 +39,7 @@ Nesta seção, serão apresentados os resultados obtidos na verificação do art
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Figura 1:</b> Resultados do artefato</p></font>
 
- <img src="" style="width: 45%;">
+ <img src="https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/assets/img/verifica%C3%A7%C3%A3o/IN%20OR%20OUT.png?raw=true" style="width: 45%;">
 
 <font size="3"><p style="text-align: center"><b>Autor:</b> Meister Guilherme , 2024</p></font>
 </div>
