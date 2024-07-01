@@ -16,10 +16,10 @@ A tabela 1 apresenta o checklist de verificação desenvolvido com base no artef
 | 4 | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes? |**SIM** | |
 | 5 | Todos os textos estão na norma padrão? | **SIM**| |
 | 6 | O artefato apresenta Um cronograma (data e horário) e local para realização da elicitação dos requisitos? |**SIM** | |
-| 7 | Possui gravação da atividade de elicitação dos requisitos? |**Não** | O artefato não possui link com a gravação de realisação da atividade|
+| 7 | Possui gravação da atividade de elicitação dos requisitos? |**SIM** | |
 | 8 | Os requisitos elicitados foram divididos entre funcionais e não-funcionais? |**SIM** | |
 | 9 | Foi definido o motivo de estar sendo utilizada a técnica em questão? |**SIM** | |
-| 9.1 | Foi levado em consideração de que essa técnica pode não estar totalmente condizente com a visão do usuário, já que é executada por membros da equipe do projeto? |**Não** | O grupo não levou isso em consideração |
+| 9.1 | Foi levado em consideração de que essa técnica pode não estar totalmente condizente com a visão do usuário, já que é executada por membros da equipe do projeto? |**SIM** | |
 | 10 | Cada membro que participou apresentou uma explicação de como executou a técnica? | **SIM**   | |
 | 11 | Os requisitos elicitados apresentam Id para sua identificação? |**SIM** | |
 
