@@ -33,6 +33,21 @@ A tabela 1 apresenta o checklist de verificação desenvolvido com base no artef
 
 ## Gravação 
 
+<iframe width="750" height="422" src="https://www.youtube.com/embed/lLtbmmfaQpY" title="Apresentação Entrega 4 - Grupo 8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Gráfico
+
+Nesta seção, serão apresentados os resultados obtidos na verificação do artefato "[Léxicos]()" na forma de um gráfico de pizza, onde são apresentadas a quantidade de "sim", "não", "não se aplica" e "incompleto" obtidos na verificação.
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Figura 1:</b> Resultados do artefato</p></font>
+
+ <img src="https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/assets/img/verifica%C3%A7%C3%A3o/lexicos.png?raw=true" style="width: 45%;">
+
+<font size="3"><p style="text-align: center"><b>Autor:</b> Meister Guilherme , 2024</p></font>
+</div>
+
+
 ## Bibliografia
 
 >  1. LEITE, Julio Cesar. Léxico Ampliado da Linguagem, 2012. Disponível em: <https://www-di.inf.puc-rio.br/~julio/lal.pdf>. Acesso em: 06/06/2024.
