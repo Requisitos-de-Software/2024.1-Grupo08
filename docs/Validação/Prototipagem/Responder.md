@@ -48,7 +48,7 @@ A tabela 2 a seguir informa os dados avaliação e validação referente a usabi
 </div>
 
 
-## Referências
+## Bibliografia
 - Prototipagem: como funciona e sua importância para área de TI.  Disponível em: <https://kenzie.com.br/blog/prototipagem/#:~:text=O%20que%20%C3%A9%20prototipagem%3F&text=Prototipagem%20%C3%A9%20a%20etapa%20do,etapa%20de%20aprova%C3%A7%C3%A3o%20e%20valida%C3%A7%C3%A3o.>. Acesso em: 28 jun. 2024.
 
 ## Histórico de Versões
