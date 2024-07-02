@@ -13,11 +13,11 @@ A tabela 1 apresenta o checklist de verificação desenvolvido com base no artef
 | 1 | O artefato analisa requisitos funcionais? | SIM | - |
 | 2 | O artefato analisa requisitos não funcionais? | SIM | - |
 | 3 | O artefato identifica os requisitos por ID | SIM | - |
-| 4 | Na tabela de requisitos está definido quais requisitos estão implementados? | SIM | - |
+| 4 | Na tabela de requisitos está definido quais requisitos estão implementados? | NÃO | Embora listados por categoria, não informam se estão implementados ou não |
 | 5 | A tabela de requisitos tem fonte? | SIM | - |
 | 6 | A página tem a gravação dessa técnica sendo realizada? | NÃO | - |
-| 7 | A página tem links que redirecionam para a documentação original? | NÃO | - |
-| 8 | O artefat tem ao menos um requisito funcional e um não funcional? | NÃO | - |
+| 7 | A página tem links que redirecionam para a documentação original? | SIM | - |
+| 8 | O artefat tem ao menos um requisito funcional e um não funcional? | SIM | - |
 | 9 | O artefato tem a validação do cliente? | NÃO | - |
 
 
@@ -28,11 +28,7 @@ A tabela 1 apresenta o checklist de verificação desenvolvido com base no artef
 
 ## Comentários
 
-O checklist está incompleto, pois o [*Grupo 01*](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/) não disponibilizou a gravação da técnica sendo feita, porém de resto o artefato está completo
-
-## Gravação 
-
-<iframe width="560" height="315" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+O artefato poderia ser melhor construído. A atribuição de requisitos funcionais e não funcionais deveria ser feita em paralelo com as demais categorias, visto que um requisito obrigatoriamente se encaixa em uma dessas duas categorias (RF ou RNF).
 
 ## Referências Bibliográficas
 
@@ -46,7 +42,8 @@ O checklist está incompleto, pois o [*Grupo 01*](https://requisitos-de-software
 
 | Versão | Data de execução | Data de revisão | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--------------: | :-------------: | :-------: | :-------: | :---------: |
-| 1.0 | 10/06/2024 | 10/06/2024 | Criação do checklist | [Matheus Ferreira](https://github.com/matferreira1) | [Henrique Galdino](https://github.com/hgaldino05) |
+| 1.1 | 01/07/2024 | 01/07/2024 | Preenchendo checklist | [Henrique Galdino](https://github.com/matferreira1) | [Guilherme Meister](https://github.com/gmeister18) |
+| 1.0 | 30/06/2024 | 30/06/2024 | Criação do checklist | [Matheus Ferreira](https://github.com/matferreira1) | [Guilherme Meister](https://github.com/gmeister18) |
 
 <div align="center">
 <figcaption align="center">Histórico de versões (Autor: Diogo, Matheus)</figcaption>

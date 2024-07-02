@@ -175,7 +175,10 @@ A tabela 1 apresenta o checklist de verificação desenvolvido com base no artef
 
 ## Gravação 
 
-<iframe width="560" height="315" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+A gravação da verificação deste artefato pode ser vista no vídeo abaixo:
+
+<iframe width="750" height="422" src="https://www.youtube.com/embed/qg5hcg-DlUQ" title="Gravação Checklist Forward Form - Consumidor.gov" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 ## Referências Bibliográficas
 

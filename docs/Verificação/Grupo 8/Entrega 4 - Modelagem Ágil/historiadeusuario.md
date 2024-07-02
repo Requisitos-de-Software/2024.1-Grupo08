@@ -73,7 +73,10 @@ O artefato segue os padrões esperados, apenas faltando a correlação entre as 
 
 ## Gravação 
 
-<iframe width="560" height="315" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+A gravação da verificação deste artefato pode ser vista no vídeo abaixo:
+
+<iframe width="750" height="422" src="https://www.youtube.com/embed/l8r5QS4Ropg" title="Gravação Checklist Forward Form - Consumidor.gov" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 ## Gráfico
 

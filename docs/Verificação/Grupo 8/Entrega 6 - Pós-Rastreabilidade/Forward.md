@@ -9,17 +9,17 @@ A tabela 1 apresenta o checklist de verificação desenvolvido com base no artef
 
 ### Checklist de Verificação sobre o Método de pós rastreabilidade Forward
 
-| **ID** | **Descrição**                                                                                                                                                       | **Avaliação** | **Observações**               |
-|--------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------|--------------------------------|
-| 1      | Tipos de elos utilizados: Satisfação, Agregação, Alocação, Recurso, Representação e Responsabilidade.    <a id="REF2" href="#anchor_2">2</a>                                                           |               |                                |
-| 2      | O artefato faz uso dos requisitos funcionais e não funcionais?                                                                                                      |               |                                |
-| 3      | Há hyperlinks que conectam os requisitos às suas origens?                                                                                                           |               |                                |
-| 4      | A metodologia faz referência ao Meta-modelo proposto por Toranzo?   <a id="REF2" href="#anchor_2"></a>                                                                                                |               |                                |
-| 5      | Os requisitos listados estão sendo associados às suas fontes?      <a id="REF1" href="#anchor_1">1</a>                                                                                                |               |                                |
-| 6      | A classificação das informações rastreadas inclui: ambiental, desenvolvimento, gerencial e organizacional?    <a id="REF1" href="#anchor_1">1 </a>                                                       |               |                                |
-| 7      | Os elos indicam os Elementos Rastreáveis e o tipo de Elo?              <a id="REF2" href="#anchor_2">2</a>                                                                                             |               |                                |
+| **ID** | **Descrição** | **Avaliação** | **Observações**               |
+|--------|--------------|---------------|--------------------------------|
+| 1      | Tipos de elos utilizados: Satisfação, Agregação, Alocação, Recurso, Representação e Responsabilidade.    <a id="REF2" href="#anchor_2">2</a>  |     SIM     | Responsabilidade é indicada no histórico de versão de cada artefato/documento   |
+| 2      | O artefato faz uso dos requisitos funcionais e não funcionais?   |      SIM         |                                |
+| 3      | Há hyperlinks que conectam os requisitos às suas origens?  |  SIM     | Melhorar a legenda e a disposição na tabela  |
+| 4      | A metodologia faz referência ao Meta-modelo proposto por Toranzo?   <a id="REF2" href="#anchor_2"></a> |     SIM          | - |
+| 5      | Os requisitos listados estão sendo associados às suas fontes?      <a id="REF1" href="#anchor_1">1</a>  |  PARCIAL   |  Todo requisito possui referência ou bibliografia, mas nem todas estão associadas a elas no que diz respeito a fonte |
+| 6      | A classificação das informações rastreadas inclui: ambiental, desenvolvimento, gerencial e organizacional?    <a id="REF1" href="#anchor_1">1 </a> |    SIM   |  É especificado o "uso" apenas da classificação desenvolvimento dentro do contexto do projeto                              |
+| 7      | Os elos indicam os Elementos Rastreáveis e o tipo de Elo?              <a id="REF2" href="#anchor_2">2</a>  |    PARCIAL  | Os tipos de elos são indicados, porém sem rastreabilidade (hyperlinks)    |
 | 8      | O artefato possui legendas para a identificação dos requisitos ou de outros artefatos? <a id="REF1" href="#anchor_1">1</a>
-|               |                                |
+|    SIM       |  A legenda pode ser melhorada e/ou simplificada   |
 
 
 <div align="center">
@@ -29,10 +29,13 @@ A tabela 1 apresenta o checklist de verificação desenvolvido com base no artef
 
 ## Comentários
 
-
+O artefato atende os itens determinados pelo checklist, porém alguns atendem parcialmente e são possíveis de correção para a entrega final.
 
 ## Gravação 
 
+A gravação da verificação deste artefato pode ser vista no vídeo abaixo:
+
+<iframe width="750" height="422" src="https://www.youtube.com/embed/to7nJJaZ97g" title="Gravação Checklist Forward Form - Consumidor.gov" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## Referências Bibliográficas
@@ -51,7 +54,8 @@ A tabela 1 apresenta o checklist de verificação desenvolvido com base no artef
 
 | Versão | Data de execução | Data de revisão |  Descrição                          | Autor(es)                                           | Revisor(es)                                           |
 | :----: | :--------------: | :-------------: | :---------------------------------: | :-------------------------------------------------: | :---------------------------------------------------: |
-| 1.0    | 29/06/2024       | ??/06/2024      | Criação do checklist    | [Júlio Cesar](https://github.com/Julio1099)   | [Henrique Galdino](https://github.com/hgaldino05)         |
+| 1.1    | 01/07/2024       | 01/07/2024      | Preenchendo checklist    | [Henrique Galdino](https://github.com/hgaldino05)   | [Rodrigo Gontijo](https://github.com/rodrigogontijoo)         |
+| 1.0    | 29/06/2024       | 30/06/2024      | Criação do checklist    | [Júlio Cesar](https://github.com/Julio1099)   | [Henrique Galdino](https://github.com/hgaldino05)         |
 
 
 <div align="center">
