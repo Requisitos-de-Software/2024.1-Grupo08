@@ -10,7 +10,7 @@ Os requisitos selecionados foram minuciosamente analisados e priorizados durante
 
 ## Protótipo de Alta Fidelidade
   
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/design/9IaiwvFWoNxlLn858rbtrL/Foto-de-Perfil?node-id=0-1&t=044648Jwpm6iVA01-1" allowfullscreen></iframe>
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/proto/9IaiwvFWoNxlLn858rbtrL/Foto-de-Perfil?node-id=19-949&t=Gx9PAQqvCpgDgzZF-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=19%3A949&show-proto-sidebar=1" allowfullscreen></iframe>
 
 <p> <b>Protótipo de alta fildelidade</b>: Protótipo de alta fildelidade (Autor: Júlio Cesar).</p>
 
@@ -28,7 +28,7 @@ A <i>Tabela 1</i> a seguir informa os dados da primeira avaliação referente a 
 | <p align="center">Participante</p> | <p align="center">Avaliador</p> | <p align="center">Data</p> | <p align="center">Horário</p> | <p align="center">Local</p> |
 | :----------: | :-------: | :--: | :-----: | :---: |
 | Gabrielle Kitahara | Júlio Cesar  | 29 jun. 2024 | 20h00 | Microsoft Teams |
-<figcaption align='center'> Tabela 1: Dados da avaliação 1 (Autor: Meister, Guilherme. 2024)</figcaption>
+<figcaption align='center'> Tabela 1: Dados da avaliação 1 (Autor: Júlio Cesar)</figcaption>
 
 ### Gravação da entrevista
 
