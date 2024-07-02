@@ -36,7 +36,7 @@ A tabela 2 a seguir informa os dados avaliação e validação referente a usabi
 
 | <p align="center">Participante</p> | <p align="center">Avaliador</p> | <p align="center">Data</p> | <p align="center">Horário</p> | <p align="center">Local</p> |
 | :----------: | :-------: | :--: | :-----: | :---: |
-|   | Henrique Galdino  | 01/07/2024 | 19h | Microsoft Teams |
+| Aldo Felipe | Henrique Galdino  | 01/07/2024 | 19h | Microsoft Teams |
 <figcaption align='center'> Tabela 1: Dados da avaliação 1 (Autor: GALDINO, Henrique. 2024)</figcaption>
 
 <iframe width="750" height="422" src="https://www.youtube.com/embed/K4xbAje3134" title="Validação protótipo Henrique" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -52,5 +52,6 @@ A tabela 2 a seguir informa os dados avaliação e validação referente a usabi
 ## Histórico de Versões
 | Data | Versão | Descrição | Autor(es) | Data de revisão | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| 30/06/2024 | `1.0` | Adicionando Protótipo | [Henrique Galdino](https://github.com/hgaldino05) | 30/06/2023 | [Júlio César](https://github.com/Julio1099) |
+| 01/07/2024 | `1.2` | Adicionando Participante | [Henrique Galdino](https://github.com/hgaldino05) | 01/07/2023 | [Júlio César](https://github.com/Julio1099) |
+| 30/06/2024 | `1.1` | Adicionando Protótipo | [Henrique Galdino](https://github.com/hgaldino05) | 30/06/2023 | [Júlio César](https://github.com/Julio1099) |
 | 29/06/2024 | `1.0` | Criação do artefato | [Henrique Galdino](https://github.com/hgaldino05) | 30/06/2023 | [Júlio César](https://github.com/Julio1099) |
