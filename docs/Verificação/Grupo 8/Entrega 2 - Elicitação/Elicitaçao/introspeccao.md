@@ -54,5 +54,5 @@ A tabela 1 apresenta o checklist de verificação desenvolvido com base no artef
 
 | Versão | Data de execução | Data de revisão |  Descrição                          | Autor(es)                                           | Revisor(es)                                           |
 | :----: | :--------------: | :-------------: | :---------------------------------: | :-------------------------------------------------: | :---------------------------------------------------: |
-| 1.1    | 01/07/2024       | 01/07/2024      | Correções  | [Rodrigo Gontijo](https://github.com/rodrigogontijoo) | [Igor Thiago](https://github.com/alladin51) |
+| 1.1    | 01/07/2024       | 01/07/2024      | Correções | [Rodrigo Gontijo](https://github.com/rodrigogontijoo) | [Igor Thiago](https://github.com/alladin51) |
 | 1.0    | 01/07/2024       | 01/07/2024      | Criação checklist Introspecção  |  [Igor Thiago](https://github.com/alladin51) | [Rodrigo Gontijo](https://github.com/rodrigogontijoo) |
