@@ -1,0 +1,4822 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+        <link rel="canonical" href="https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Modelagem/Modelagem%20%C3%81gil/Backlog/">
+      
+      
+        <link rel="prev" href="../../validacao/">
+      
+      
+        <link rel="next" href="../Historias/">
+      
+      
+      <link rel="icon" href="../../../assets/png-logo.png">
+      <meta name="generator" content="mkdocs-1.6.0, mkdocs-material-9.5.27">
+    
+    
+      
+        <title>Backlog do Produto - Consumidor.gov</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../../assets/stylesheets/main.6543a935.min.css">
+      
+        
+        <link rel="stylesheet" href="../../../assets/stylesheets/palette.06af60db.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="../../../stylesheets/extra.css">
+    
+    <script>__md_scope=new URL("../../..",location),__md_hash=e=>[...e].reduce((e,_)=>(e<<5)-e+_.charCodeAt(0),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+    
+   <link href="../../../assets/stylesheets/glightbox.min.css" rel="stylesheet"/><style>
+    html.glightbox-open { overflow: initial; height: 100%; }
+    .gslide-title { margin-top: 0px; user-select: text; }
+    .gslide-desc { color: #666; user-select: text; }
+    .gslide-image img { background: white; }
+    .gscrollbar-fixer { padding-right: 15px; }
+    .gdesc-inner { font-size: 0.75rem; }
+    body[data-md-color-scheme="slate"] .gdesc-inner { background: var(--md-default-bg-color);}
+    body[data-md-color-scheme="slate"] .gslide-title { color: var(--md-default-fg-color);}
+    body[data-md-color-scheme="slate"] .gslide-desc { color: var(--md-default-fg-color);}</style> <script src="../../../assets/javascripts/glightbox.min.js"></script></head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="light-green" data-md-color-accent="green">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#backlog-do-produto" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+<header class="md-header" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../../.." title="Consumidor.gov" class="md-header__button md-logo" aria-label="Consumidor.gov" data-md-component="logo">
+      
+  <img src="../../../assets/png-logo.png" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2Z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Consumidor.gov
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Backlog do Produto
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="default" data-md-color-primary="light-green" data-md-color-accent="green"  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_0">
+    
+      <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a4 4 0 0 0-4 4 4 4 0 0 0 4 4 4 4 0 0 0 4-4 4 4 0 0 0-4-4m0 10a6 6 0 0 1-6-6 6 6 0 0 1 6-6 6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12 20 8.69Z"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="slate" data-md-color-primary="light-green" data-md-color-accent="green"  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_0" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 18c-.89 0-1.74-.2-2.5-.55C11.56 16.5 13 14.42 13 12c0-2.42-1.44-4.5-3.5-5.45C10.26 6.2 11.11 6 12 6a6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12 20 8.69Z"/></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+      <script>var media,input,key,value,palette=__md_get("__palette");if(palette&&palette.color){"(prefers-color-scheme)"===palette.color.media&&(media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']"),palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent"));for([key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+    
+      <div class="md-header__source">
+        <a href="https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512"><!--! Font Awesome Free 6.5.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    2024.1-Consumidor.gov
+  </div>
+</a>
+      </div>
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+            
+<nav class="md-tabs" aria-label="Tabs" data-md-component="tabs">
+  <div class="md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../.." class="md-tabs__link">
+        
+  
+    
+  
+  HOME
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../../Apresenta%C3%A7%C3%B5es/apresentacao1/" class="md-tabs__link">
+          
+  
+  Apresentações
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../../Atas%20das%20Reuni%C3%B5es/entrega1-r1/" class="md-tabs__link">
+          
+  
+  Atas das Reuniões
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../../Elicita%C3%A7%C3%A3o/PerfildeUsuario/" class="md-tabs__link">
+          
+  
+  Elicitação
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+    
+  
+  
+    
+    
+      <li class="md-tabs__item md-tabs__item--active">
+        <a href="../../casosdeuso/" class="md-tabs__link">
+          
+  
+  Modelagem
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../../Planejamento/app-selecionado/" class="md-tabs__link">
+          
+  
+  Planejamento
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../../Pr%C3%A9%20Rastreabilidade/rich-picture/" class="md-tabs__link">
+          
+  
+  Pré Rastreabilidade
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../../P%C3%B3s-Rastreabilidade/backward/" class="md-tabs__link">
+          
+  
+  Pós Rastreabilidade
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../../Valida%C3%A7%C3%A3o/ValidacaoInformal/" class="md-tabs__link">
+          
+  
+  Validação
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+    
+      
+  
+  
+  
+    
+    
+      
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../../Verifica%C3%A7%C3%A3o/Grupo%201%20-%20DOU/Entrega%201%20-%20Planejamento/apresenta%C3%A7oes/" class="md-tabs__link">
+          
+  
+  Verificação
+
+        </a>
+      </li>
+    
+  
+
+    
+  
+
+    
+  
+
+      
+    </ul>
+  </div>
+</nav>
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+  
+
+
+<nav class="md-nav md-nav--primary md-nav--lifted" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../../.." title="Consumidor.gov" class="md-nav__button md-logo" aria-label="Consumidor.gov" data-md-component="logo">
+      
+  <img src="../../../assets/png-logo.png" alt="logo">
+
+    </a>
+    Consumidor.gov
+  </label>
+  
+    <div class="md-nav__source">
+      <a href="https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512"><!--! Font Awesome Free 6.5.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    2024.1-Consumidor.gov
+  </div>
+</a>
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../.." class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    HOME
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_2" id="__nav_2_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Apresentações
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2">
+            <span class="md-nav__icon md-icon"></span>
+            Apresentações
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Apresenta%C3%A7%C3%B5es/apresentacao1/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Apresentação - Entrega 1
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Apresenta%C3%A7%C3%B5es/apresentacao2/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Apresentação - Entrega 2
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Apresenta%C3%A7%C3%B5es/apresentacao3/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Apresentação - Entrega 3
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Apresenta%C3%A7%C3%B5es/apresentacao4/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Apresentação - Entrega 4
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Apresenta%C3%A7%C3%B5es/apresentacao5-1/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Apresentação - Entrega 5.1
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Apresenta%C3%A7%C3%B5es/apresentacao5-2/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Apresentação - Entrega 5.2
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Apresenta%C3%A7%C3%B5es/apresentacao6/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Apresentação - Entrega 6
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Atas das Reuniões
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3">
+            <span class="md-nav__icon md-icon"></span>
+            Atas das Reuniões
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Atas%20das%20Reuni%C3%B5es/entrega1-r1/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ata de Reunião E1 - 30/03/2024
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Atas%20das%20Reuni%C3%B5es/entrega2-r1/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ata de Reunião E2 - 03/04/2024
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Atas%20das%20Reuni%C3%B5es/entrega2-r2/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ata de Reunião E2 - 16/04/2024
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Atas%20das%20Reuni%C3%B5es/entrega2-r3/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ata de Reunião E2 - 22/04/2024
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Atas%20das%20Reuni%C3%B5es/entrega3-r1/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ata de Reunião E3 - 16/05/2024
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Atas%20das%20Reuni%C3%B5es/entrega4-r1/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ata de Reunião E4 - 23/05/2024
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Atas%20das%20Reuni%C3%B5es/entrega4-r2/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ata de Reunião E4 - 27/05/2024
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Atas%20das%20Reuni%C3%B5es/entrega5-r1/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ata de Reunião E5 - 03/06/2024
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Atas%20das%20Reuni%C3%B5es/entrega5-r2/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ata de Reunião E5 - 03/06/2024
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Atas%20das%20Reuni%C3%B5es/entrega6-r1/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ata de Reunião E6 - 18/06/2024
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Atas%20das%20Reuni%C3%B5es/entrega6-r2/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ata de Reunião E6 - 19/06/2024
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Atas%20das%20Reuni%C3%B5es/entrega6-r3/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ata de Reunião E6 - 20/06/2024
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_4" id="__nav_4_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Elicitação
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4">
+            <span class="md-nav__icon md-icon"></span>
+            Elicitação
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Elicita%C3%A7%C3%A3o/PerfildeUsuario/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Perfil de Usuário
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Elicita%C3%A7%C3%A3o/Personas/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Personas
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Elicita%C3%A7%C3%A3o/Question%C3%A1rio/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Questionário
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Elicita%C3%A7%C3%A3o/Storytelling/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Storytelling (Histórias)
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Elicita%C3%A7%C3%A3o/analiseDoc/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Análise de Documentos
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Elicita%C3%A7%C3%A3o/introspec/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Introspecção
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Elicita%C3%A7%C3%A3o/requisitos-elicitados/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Requisitos Elicitados
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4_8" >
+        
+          
+          <label class="md-nav__link" for="__nav_4_8" id="__nav_4_8_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Priorização
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_4_8_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4_8">
+            <span class="md-nav__icon md-icon"></span>
+            Priorização
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Elicita%C3%A7%C3%A3o/Prioriza%C3%A7%C3%A3o/First%20things%20first/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    First Things First
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Elicita%C3%A7%C3%A3o/Prioriza%C3%A7%C3%A3o/In%20or%20out/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    In or Out
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    
+    
+    
+      
+        
+        
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5" checked>
+        
+          
+          <label class="md-nav__link" for="__nav_5" id="__nav_5_label" tabindex="">
+            
+  
+  <span class="md-ellipsis">
+    Modelagem
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_5_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_5">
+            <span class="md-nav__icon md-icon"></span>
+            Modelagem
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../casosdeuso/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Casos de Uso
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../cenarios/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Cenários
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../especsuplementar/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Especificação Suplementar
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../lexicos/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Léxicos
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../validacao/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Validação dos Casos de uso
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5_6" checked>
+        
+          
+          <label class="md-nav__link" for="__nav_5_6" id="__nav_5_6_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Modelagem Ágil
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_5_6_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_5_6">
+            <span class="md-nav__icon md-icon"></span>
+            Modelagem Ágil
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  <span class="md-ellipsis">
+    Backlog do Produto
+  </span>
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  <span class="md-ellipsis">
+    Backlog do Produto
+  </span>
+  
+
+      </a>
+      
+        
+
+  
+
+<nav class="md-nav md-nav--secondary" aria-label="Conteúdo da página">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Conteúdo da página
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#introducao" class="md-nav__link">
+    <span class="md-ellipsis">
+      Introdução
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#vantagens-de-usar-o-backlog" class="md-nav__link">
+    <span class="md-ellipsis">
+      Vantagens de usar o backlog
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#metodologia" class="md-nav__link">
+    <span class="md-ellipsis">
+      Metodologia
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#requisitos-elicitados" class="md-nav__link">
+    <span class="md-ellipsis">
+      Requisitos Elicitados
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Requisitos Elicitados">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#31-abertura-e-acompanhamento-de-reclamacoes" class="md-nav__link">
+    <span class="md-ellipsis">
+      3.1. Abertura e acompanhamento de reclamações
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#32-pesquisa-de-empresa" class="md-nav__link">
+    <span class="md-ellipsis">
+      3.2. Pesquisa de empresa
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#33-desempenho" class="md-nav__link">
+    <span class="md-ellipsis">
+      3.3. Desempenho
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#34-seguranca-e-privacidade" class="md-nav__link">
+    <span class="md-ellipsis">
+      3.4. Segurança e Privacidade
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#backlog" class="md-nav__link">
+    <span class="md-ellipsis">
+      Backlog
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Backlog">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#temas" class="md-nav__link">
+    <span class="md-ellipsis">
+      Temas
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#epicos" class="md-nav__link">
+    <span class="md-ellipsis">
+      Épicos
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Épicos">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#epico-1-abertura-e-acompanhamento-de-reclamacoes" class="md-nav__link">
+    <span class="md-ellipsis">
+      Épico 1: Abertura e acompanhamento de reclamações
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#epico-2-pesquisa-de-empresa" class="md-nav__link">
+    <span class="md-ellipsis">
+      Épico 2: Pesquisa de empresa
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#epico-3-desempenho" class="md-nav__link">
+    <span class="md-ellipsis">
+      Épico 3: Desempenho
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#epico-4-seguranca-e-privacidade" class="md-nav__link">
+    <span class="md-ellipsis">
+      Épico 4: Segurança e Privacidade
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#bibliografia" class="md-nav__link">
+    <span class="md-ellipsis">
+      Bibliografia
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#historico-de-versoes" class="md-nav__link">
+    <span class="md-ellipsis">
+      Histórico de Versões
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Historias/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Histórias de Usuário
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../NFR/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    NFR Framework
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6" >
+        
+          
+          <label class="md-nav__link" for="__nav_6" id="__nav_6_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Planejamento
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_6_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_6">
+            <span class="md-nav__icon md-icon"></span>
+            Planejamento
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Planejamento/app-selecionado/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Aplicativo Selecionado
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Planejamento/ferramentas/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ferramentas utilizadas
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Planejamento/heatmap/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Heatmap
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Planejamento/sites-avaliados/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Apps avaliados
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Planejamento/termo-de-uso/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Termo de Uso - Consumidor.gov
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6_6" >
+        
+          
+          <label class="md-nav__link" for="__nav_6_6" id="__nav_6_6_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Cronograma
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_6_6_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_6_6">
+            <span class="md-nav__icon md-icon"></span>
+            Cronograma
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Planejamento/cronograma/cronograma-executado/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Cronograma Executado
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Planejamento/cronograma/cronograma-planejado/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Cronograma Planejado
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_7" >
+        
+          
+          <label class="md-nav__link" for="__nav_7" id="__nav_7_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Pré Rastreabilidade
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_7_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_7">
+            <span class="md-nav__icon md-icon"></span>
+            Pré Rastreabilidade
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Pr%C3%A9%20Rastreabilidade/rich-picture/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Rich Picture
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_8" >
+        
+          
+          <label class="md-nav__link" for="__nav_8" id="__nav_8_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Pós Rastreabilidade
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_8_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_8">
+            <span class="md-nav__icon md-icon"></span>
+            Pós Rastreabilidade
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../P%C3%B3s-Rastreabilidade/backward/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Backward From
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../P%C3%B3s-Rastreabilidade/forward/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Forward From
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../P%C3%B3s-Rastreabilidade/matriz/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Matriz de Rastreabilidade
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_9" >
+        
+          
+          <label class="md-nav__link" for="__nav_9" id="__nav_9_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Validação
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_9_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_9">
+            <span class="md-nav__icon md-icon"></span>
+            Validação
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Valida%C3%A7%C3%A3o/ValidacaoInformal/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Comprovação Informal
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_9_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_9_2" id="__nav_9_2_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Prototipagem
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_9_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_9_2">
+            <span class="md-nav__icon md-icon"></span>
+            Prototipagem
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Valida%C3%A7%C3%A3o/Prototipagem/Acessibilidade/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Modo escuro e conteúdos em libras
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Valida%C3%A7%C3%A3o/Prototipagem/Anexar/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Anexar foto ao perfil
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Valida%C3%A7%C3%A3o/Prototipagem/Notificacao/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Receber notificações sobre o status de reclamações
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Valida%C3%A7%C3%A3o/Prototipagem/Responder/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Filtrar reclamações sobre uma empresa e responder a reclamação de um consumidor
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_10" >
+        
+          
+          <label class="md-nav__link" for="__nav_10" id="__nav_10_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Verificação
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_10_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_10">
+            <span class="md-nav__icon md-icon"></span>
+            Verificação
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_10_1" >
+        
+          
+          <label class="md-nav__link" for="__nav_10_1" id="__nav_10_1_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Grupo 1   DOU
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_10_1_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_10_1">
+            <span class="md-nav__icon md-icon"></span>
+            Grupo 1   DOU
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_10_1_1" >
+        
+          
+          <label class="md-nav__link" for="__nav_10_1_1" id="__nav_10_1_1_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Entrega 1   Planejamento
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_10_1_1_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_10_1_1">
+            <span class="md-nav__icon md-icon"></span>
+            Entrega 1   Planejamento
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Verifica%C3%A7%C3%A3o/Grupo%201%20-%20DOU/Entrega%201%20-%20Planejamento/apresenta%C3%A7oes/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Apresentações
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Verifica%C3%A7%C3%A3o/Grupo%201%20-%20DOU/Entrega%201%20-%20Planejamento/cronograma/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Cronograma
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Verifica%C3%A7%C3%A3o/Grupo%201%20-%20DOU/Entrega%201%20-%20Planejamento/ferramentas/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ferramentas
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Verifica%C3%A7%C3%A3o/Grupo%201%20-%20DOU/Entrega%201%20-%20Planejamento/heatmap/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Heatmap
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Verifica%C3%A7%C3%A3o/Grupo%201%20-%20DOU/Entrega%201%20-%20Planejamento/lista_de_apps/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Aplicativos avaliados
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Verifica%C3%A7%C3%A3o/Grupo%201%20-%20DOU/Entrega%201%20-%20Planejamento/planejamento/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Planejamento da Verificação
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Verifica%C3%A7%C3%A3o/Grupo%201%20-%20DOU/Entrega%201%20-%20Planejamento/rich_picture/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Rich Picture
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Verifica%C3%A7%C3%A3o/Grupo%201%20-%20DOU/Entrega%201%20-%20Planejamento/termodeuso/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Termo de Uso
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_10_1_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_10_1_2" id="__nav_10_1_2_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Entrega 2   Elicitação
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_10_1_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_10_1_2">
+            <span class="md-nav__icon md-icon"></span>
+            Entrega 2   Elicitação
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_10_1_2_1" >
+        
+          
+          <label class="md-nav__link" for="__nav_10_1_2_1" id="__nav_10_1_2_1_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Elicitaçao
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="4" aria-labelledby="__nav_10_1_2_1_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_10_1_2_1">
+            <span class="md-nav__icon md-icon"></span>
+            Elicitaçao
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Verifica%C3%A7%C3%A3o/Grupo%201%20-%20DOU/Entrega%202%20-%20Elicita%C3%A7%C3%A3o/Elicita%C3%A7ao/AnalisedeInter/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Análise de Interface
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Verifica%C3%A7%C3%A3o/Grupo%201%20-%20DOU/Entrega%202%20-%20Elicita%C3%A7%C3%A3o/Elicita%C3%A7ao/Observa%C3%A7ao/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Observação
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Verifica%C3%A7%C3%A3o/Grupo%201%20-%20DOU/Entrega%202%20-%20Elicita%C3%A7%C3%A3o/Elicita%C3%A7ao/PerfildeUsuario/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Perfil de Usuário
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Verifica%C3%A7%C3%A3o/Grupo%201%20-%20DOU/Entrega%202%20-%20Elicita%C3%A7%C3%A3o/Elicita%C3%A7ao/Personas/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Personas
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Verifica%C3%A7%C3%A3o/Grupo%201%20-%20DOU/Entrega%202%20-%20Elicita%C3%A7%C3%A3o/Elicita%C3%A7ao/introspeccao/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Introspecção
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Verifica%C3%A7%C3%A3o/Grupo%201%20-%20DOU/Entrega%202%20-%20Elicita%C3%A7%C3%A3o/Elicita%C3%A7ao/planejamento/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Planejamento da Verificação
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_10_1_2_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_10_1_2_2" id="__nav_10_1_2_2_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Priorizaçao
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="4" aria-labelledby="__nav_10_1_2_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_10_1_2_2">
+            <span class="md-nav__icon md-icon"></span>
+            Priorizaçao
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Verifica%C3%A7%C3%A3o/Grupo%201%20-%20DOU/Entrega%202%20-%20Elicita%C3%A7%C3%A3o/Prioriza%C3%A7ao/InorOut/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    In or Out
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Verifica%C3%A7%C3%A3o/Grupo%201%20-%20DOU/Entrega%202%20-%20Elicita%C3%A7%C3%A3o/Prioriza%C3%A7ao/MoSCoW/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    MoSCoW
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Verifica%C3%A7%C3%A3o/Grupo%201%20-%20DOU/Entrega%202%20-%20Elicita%C3%A7%C3%A3o/Prioriza%C3%A7ao/ThreeLevelScale/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Three Level Scale
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Verifica%C3%A7%C3%A3o/Grupo%201%20-%20DOU/Entrega%202%20-%20Elicita%C3%A7%C3%A3o/Prioriza%C3%A7ao/planejamento/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Planejamento da Verificação
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_10_1_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_10_1_3" id="__nav_10_1_3_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Entrega 3   Modelagem
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_10_1_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_10_1_3">
+            <span class="md-nav__icon md-icon"></span>
+            Entrega 3   Modelagem
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Verifica%C3%A7%C3%A3o/Grupo%201%20-%20DOU/Entrega%203%20-%20Modelagem/casodeuso/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Casos de Uso
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Verifica%C3%A7%C3%A3o/Grupo%201%20-%20DOU/Entrega%203%20-%20Modelagem/cenarios/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Cenários
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Verifica%C3%A7%C3%A3o/Grupo%201%20-%20DOU/Entrega%203%20-%20Modelagem/especifica%C3%A7aosup/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Especificação Suplementar
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Verifica%C3%A7%C3%A3o/Grupo%201%20-%20DOU/Entrega%203%20-%20Modelagem/lexicos/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Léxicos
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Verifica%C3%A7%C3%A3o/Grupo%201%20-%20DOU/Entrega%203%20-%20Modelagem/planejamento/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Planejamento da Verificação
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_10_1_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_10_1_4" id="__nav_10_1_4_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Entrega 4   Modelagem Ágil
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_10_1_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_10_1_4">
+            <span class="md-nav__icon md-icon"></span>
+            Entrega 4   Modelagem Ágil
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Verifica%C3%A7%C3%A3o/Grupo%201%20-%20DOU/Entrega%204%20-%20Modelagem%20%C3%81gil/NFR/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    NFR Framework
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Verifica%C3%A7%C3%A3o/Grupo%201%20-%20DOU/Entrega%204%20-%20Modelagem%20%C3%81gil/backlog/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Backlog
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Verifica%C3%A7%C3%A3o/Grupo%201%20-%20DOU/Entrega%204%20-%20Modelagem%20%C3%81gil/historiadeusuario/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Histórias de Usuário
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Verifica%C3%A7%C3%A3o/Grupo%201%20-%20DOU/Entrega%204%20-%20Modelagem%20%C3%81gil/planejamento/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Planejamento da Verificação
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_10_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_10_2" id="__nav_10_2_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Grupo 8
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_10_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_10_2">
+            <span class="md-nav__icon md-icon"></span>
+            Grupo 8
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_10_2_1" >
+        
+          
+          <label class="md-nav__link" for="__nav_10_2_1" id="__nav_10_2_1_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Entrega 1   Planejamento
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_10_2_1_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_10_2_1">
+            <span class="md-nav__icon md-icon"></span>
+            Entrega 1   Planejamento
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Verifica%C3%A7%C3%A3o/Grupo%208/Entrega%201%20-%20Planejamento/planejamento/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Planejamento da Verificação
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Verifica%C3%A7%C3%A3o/Grupo%208/Entrega%201%20-%20Planejamento/rich_picture/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Rich Picture
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_10_2_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_10_2_2" id="__nav_10_2_2_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Entrega 2   Elicitação
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_10_2_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_10_2_2">
+            <span class="md-nav__icon md-icon"></span>
+            Entrega 2   Elicitação
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_10_2_2_1" >
+        
+          
+          <label class="md-nav__link" for="__nav_10_2_2_1" id="__nav_10_2_2_1_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Elicitaçao
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="4" aria-labelledby="__nav_10_2_2_1_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_10_2_2_1">
+            <span class="md-nav__icon md-icon"></span>
+            Elicitaçao
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Verifica%C3%A7%C3%A3o/Grupo%208/Entrega%202%20-%20Elicita%C3%A7%C3%A3o/Elicita%C3%A7ao/AnalisedeDoc/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Análise de Documentos
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Verifica%C3%A7%C3%A3o/Grupo%208/Entrega%202%20-%20Elicita%C3%A7%C3%A3o/Elicita%C3%A7ao/PerfildeUsuario/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Perfil de Usuário
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Verifica%C3%A7%C3%A3o/Grupo%208/Entrega%202%20-%20Elicita%C3%A7%C3%A3o/Elicita%C3%A7ao/Personas/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Personas
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Verifica%C3%A7%C3%A3o/Grupo%208/Entrega%202%20-%20Elicita%C3%A7%C3%A3o/Elicita%C3%A7ao/Question%C3%A1rio/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Questionário
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Verifica%C3%A7%C3%A3o/Grupo%208/Entrega%202%20-%20Elicita%C3%A7%C3%A3o/Elicita%C3%A7ao/Storytelling/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Storytelling
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Verifica%C3%A7%C3%A3o/Grupo%208/Entrega%202%20-%20Elicita%C3%A7%C3%A3o/Elicita%C3%A7ao/introspeccao/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Introspecção
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Verifica%C3%A7%C3%A3o/Grupo%208/Entrega%202%20-%20Elicita%C3%A7%C3%A3o/Elicita%C3%A7ao/planejamento/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Planejamento da Verificação
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_10_2_2_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_10_2_2_2" id="__nav_10_2_2_2_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Priorizaçao
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="4" aria-labelledby="__nav_10_2_2_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_10_2_2_2">
+            <span class="md-nav__icon md-icon"></span>
+            Priorizaçao
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Verifica%C3%A7%C3%A3o/Grupo%208/Entrega%202%20-%20Elicita%C3%A7%C3%A3o/Prioriza%C3%A7ao/FirstThings/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    First things first
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Verifica%C3%A7%C3%A3o/Grupo%208/Entrega%202%20-%20Elicita%C3%A7%C3%A3o/Prioriza%C3%A7ao/InorOut/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    In or Out
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Verifica%C3%A7%C3%A3o/Grupo%208/Entrega%202%20-%20Elicita%C3%A7%C3%A3o/Prioriza%C3%A7ao/planejamento/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Planejamento da Verificação
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_10_2_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_10_2_3" id="__nav_10_2_3_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Entrega 3   Modelagem
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_10_2_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_10_2_3">
+            <span class="md-nav__icon md-icon"></span>
+            Entrega 3   Modelagem
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Verifica%C3%A7%C3%A3o/Grupo%208/Entrega%203%20-%20Modelagem/casodeuso/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Casos de Uso
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Verifica%C3%A7%C3%A3o/Grupo%208/Entrega%203%20-%20Modelagem/cenarios/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Cenários
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Verifica%C3%A7%C3%A3o/Grupo%208/Entrega%203%20-%20Modelagem/especifica%C3%A7aosup/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Especificação Suplementar
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Verifica%C3%A7%C3%A3o/Grupo%208/Entrega%203%20-%20Modelagem/lexicos/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Léxicos
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Verifica%C3%A7%C3%A3o/Grupo%208/Entrega%203%20-%20Modelagem/planejamento/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Planejamento da Verificação
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_10_2_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_10_2_4" id="__nav_10_2_4_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Entrega 4   Modelagem Ágil
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_10_2_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_10_2_4">
+            <span class="md-nav__icon md-icon"></span>
+            Entrega 4   Modelagem Ágil
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Verifica%C3%A7%C3%A3o/Grupo%208/Entrega%204%20-%20Modelagem%20%C3%81gil/NFR/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    NFR Framework
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Verifica%C3%A7%C3%A3o/Grupo%208/Entrega%204%20-%20Modelagem%20%C3%81gil/backlog/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Backlog
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Verifica%C3%A7%C3%A3o/Grupo%208/Entrega%204%20-%20Modelagem%20%C3%81gil/historiadeusuario/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Histórias de Usuário
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Verifica%C3%A7%C3%A3o/Grupo%208/Entrega%204%20-%20Modelagem%20%C3%81gil/planejamento/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Planejamento da Verificação
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_10_2_5" >
+        
+          
+          <label class="md-nav__link" for="__nav_10_2_5" id="__nav_10_2_5_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Entrega 6   Pós Rastreabilidade
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_10_2_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_10_2_5">
+            <span class="md-nav__icon md-icon"></span>
+            Entrega 6   Pós Rastreabilidade
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Verifica%C3%A7%C3%A3o/Grupo%208/Entrega%206%20-%20P%C3%B3s-Rastreabilidade/Backward/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Backward
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Verifica%C3%A7%C3%A3o/Grupo%208/Entrega%206%20-%20P%C3%B3s-Rastreabilidade/Forward/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Forward
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+  
+
+<nav class="md-nav md-nav--secondary" aria-label="Conteúdo da página">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Conteúdo da página
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#introducao" class="md-nav__link">
+    <span class="md-ellipsis">
+      Introdução
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#vantagens-de-usar-o-backlog" class="md-nav__link">
+    <span class="md-ellipsis">
+      Vantagens de usar o backlog
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#metodologia" class="md-nav__link">
+    <span class="md-ellipsis">
+      Metodologia
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#requisitos-elicitados" class="md-nav__link">
+    <span class="md-ellipsis">
+      Requisitos Elicitados
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Requisitos Elicitados">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#31-abertura-e-acompanhamento-de-reclamacoes" class="md-nav__link">
+    <span class="md-ellipsis">
+      3.1. Abertura e acompanhamento de reclamações
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#32-pesquisa-de-empresa" class="md-nav__link">
+    <span class="md-ellipsis">
+      3.2. Pesquisa de empresa
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#33-desempenho" class="md-nav__link">
+    <span class="md-ellipsis">
+      3.3. Desempenho
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#34-seguranca-e-privacidade" class="md-nav__link">
+    <span class="md-ellipsis">
+      3.4. Segurança e Privacidade
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#backlog" class="md-nav__link">
+    <span class="md-ellipsis">
+      Backlog
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Backlog">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#temas" class="md-nav__link">
+    <span class="md-ellipsis">
+      Temas
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#epicos" class="md-nav__link">
+    <span class="md-ellipsis">
+      Épicos
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Épicos">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#epico-1-abertura-e-acompanhamento-de-reclamacoes" class="md-nav__link">
+    <span class="md-ellipsis">
+      Épico 1: Abertura e acompanhamento de reclamações
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#epico-2-pesquisa-de-empresa" class="md-nav__link">
+    <span class="md-ellipsis">
+      Épico 2: Pesquisa de empresa
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#epico-3-desempenho" class="md-nav__link">
+    <span class="md-ellipsis">
+      Épico 3: Desempenho
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#epico-4-seguranca-e-privacidade" class="md-nav__link">
+    <span class="md-ellipsis">
+      Épico 4: Segurança e Privacidade
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#bibliografia" class="md-nav__link">
+    <span class="md-ellipsis">
+      Bibliografia
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#historico-de-versoes" class="md-nav__link">
+    <span class="md-ellipsis">
+      Histórico de Versões
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+<h1 id="backlog-do-produto">Backlog do Produto</h1>
+<h2 id="introducao">Introdução</h2>
+<p>&emsp;&emsp;Refere-se a uma lista priorizada de requisitos do produto, onde cada item representa uma funcionalidade, melhoria, correção de defeitos ou qualquer outra demanda relacionada ao produto que precisa ser implementada pela equipe de desenvolvimento. isso permite um planejamento melhor das sprints em técnicas ágeis[1].</p>
+<p>&emsp;&emsp; É importante salientar que novos itens importantes podem compor o backlog a qualquer etapa do desenvolvimento. Os requisitos associados ao backlog podem ser fragmentados em diferentes níveis de abstração, e hierárquicos, sendo eles épicos, temas e histórias de usuário[2].</p>
+
+<h2 id="vantagens-de-usar-o-backlog">Vantagens de usar o backlog</h2>
+<ul>
+<li>Facilita a comunicação e o alinhamento entre todos os stakeholders sobre as prioridades e o progresso do projeto.</li>
+<li>Prioriza as funcionalidades mais valiosas, garantindo que a equipe trabalhe nas tarefas que trazem mais benefícios ao negócio.</li>
+<li>Permite ajustes rápidos às mudanças e novas informações, mantendo o projeto alinhado com as necessidades atuais.</li>
+<li>A revisão constante dos itens do backlog promove a refinamento progressivo e a melhoria contínua do produto.</li>
+<li>Considera os produtos em longo prazo, não apenas em termos de necessidades imediatas.</li>
+<li>Agrega valor ao cliente</li>
+<li>Identifica antecipadamente possíveis problemas, permitindo a mitigação de riscos antes que se tornem críticos.</li>
+</ul>
+<h2 id="metodologia">Metodologia</h2>
+<p>&emsp;&emsp; Para a metodologia foi utilizado uma planilha em excel para organizar em temas e épico dos requisitos funcionais, partindo da análise e verificação dos mesmos elicitados. Posteriormente os dados vieram o artefato. </p>
+
+<h2 id="requisitos-elicitados">Requisitos Elicitados</h2>
+<div style="text-align:justify">
+<p>&emsp;&emsp; Nas Tabelas de 1 a 5 estão registrados todos os requisitos elicitados durante o processo de elicitação, juntamente com a rastreabilidade de cada um.</p>
+</div>
+
+<h3 id="31-abertura-e-acompanhamento-de-reclamacoes">3.1. Abertura e acompanhamento de reclamações</h3>
+<table>
+<thead>
+<tr>
+<th style="text-align: center;">Identificador</th>
+<th style="text-align: center;">Descrição</th>
+<th style="text-align: center;">Origem</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;">R1</td>
+<td style="text-align: center;">Deve ser possível fazer login utilizando o gov.br</td>
+<td style="text-align: center;"><a href="https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicitação/introspec/#metodologia">INT01</a>;  <a href="https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicitação/Storytelling/">ST12</a></td>
+</tr>
+<tr>
+<td style="text-align: center;">RF5</td>
+<td style="text-align: center;">Deve ser possível informar as circunstâncias da compra do produto/serviço (internet, loja física, telefone, etc.)</td>
+<td style="text-align: center;"><a href="https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicitação/introspec/#metodologia">INT05</a>;<a href="https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicitação/Storytelling/">ST01, ST03</a></td>
+</tr>
+<tr>
+<td style="text-align: center;">RF6</td>
+<td style="text-align: center;">Deve ser possível escolher qual a categoria da reclamação (atendimento, cobrança, entrega, etc.)</td>
+<td style="text-align: center;"><a href="https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicitação/introspec/#metodologia">INT06</a>;<a href="https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicitação/Storytelling/">ST01, ST03</a></td>
+</tr>
+<tr>
+<td style="text-align: center;">RF7</td>
+<td style="text-align: center;">Deve ser possível fornecer detalhes sobre a reclamação</td>
+<td style="text-align: center;"><a href="https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicitação/introspec/#metodologia">INT07</a>;<a href="https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicitação/Storytelling/">ST01, ST03</a></td>
+</tr>
+<tr>
+<td style="text-align: center;">RF8</td>
+<td style="text-align: center;">Deve ser possível informar o que espera da empresa (reembolso, resposta, justificativa, etc.)</td>
+<td style="text-align: center;"><a href="https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicitação/introspec/#metodologia">INT08</a>;<a href="https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicitação/Storytelling/">ST01, ST03</a></td>
+</tr>
+<tr>
+<td style="text-align: center;">RF9</td>
+<td style="text-align: center;">Deve ser possível anexar arquivos relacionados a reclamação (prints, nota fiscal, ordem de serviço, etc.)</td>
+<td style="text-align: center;"><a href="https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicitação/introspec/#metodologia">INT09</a>;<a href="https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicitação/Storytelling/; [ST07](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicitação/Storytelling/)">ST01, ST03</a></td>
+</tr>
+<tr>
+<td style="text-align: center;">RF10</td>
+<td style="text-align: center;">Deve ser possível visualizar as reclamações feitas no app</td>
+<td style="text-align: center;"><a href="https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicitação/Questionário/#possiveis-requisitos">QUE04</a>; <a href="https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicitação/introspec/#metodologia">INT10</a>; <a href="https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicitação/analiseDoc/">ADD01</a></td>
+</tr>
+<tr>
+<td style="text-align: center;">RF11</td>
+<td style="text-align: center;">Deve ser possível acompanhar o status de uma reclamação feita</td>
+<td style="text-align: center;"><a href="https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicitação/Questionário/#possiveis-requisitos">QUE06, QUE11</a>; <a href="https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicitação/introspec/#metodologia">INT10, INT11</a></td>
+</tr>
+<tr>
+<td style="text-align: center;">RF12</td>
+<td style="text-align: center;">Deve ser possível receber notificações sobre o status de reclamações</td>
+<td style="text-align: center;"><a href="https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicitação/Questionário/#possiveis-requisitos">QUE11</a>; <a href="https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicitação/introspec/#metodologia">INT10,INT11</a></td>
+</tr>
+<tr>
+<td style="text-align: center;">RF15</td>
+<td style="text-align: center;">Deve ser possível avaliar uma reclamação (nível de satisfação/nota)</td>
+<td style="text-align: center;"><a href="https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicitação/Questionário/#possiveis-requisitos">QUE11</a>; <a href="https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicitação/introspec/#metodologia">INT15</a></td>
+</tr>
+<tr>
+<td style="text-align: center;">RF16</td>
+<td style="text-align: center;">Deve ser possível cadastrar os dados de uma empresa</td>
+<td style="text-align: center;"><a href="https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicitação/Questionário/#possiveis-requisitos">QUE11</a>; <a href="https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicitação/introspec/#metodologia">INT15</a></td>
+</tr>
+<tr>
+<td style="text-align: center;">RF17</td>
+<td style="text-align: center;">Deve ser possível fazer upload da logomarca para o cadastro de uma empresa</td>
+<td style="text-align: center;"><a href="https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicitação/Questionário/#possiveis-requisitos">QUE11</a>; <a href="https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicitação/introspec/#metodologia">INT15</a></td>
+</tr>
+<tr>
+<td style="text-align: center;">RF18</td>
+<td style="text-align: center;">Deve ser possível anexar documentos para o cadastro de uma empresa</td>
+<td style="text-align: center;"><a href="https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicitação/Questionário/#possiveis-requisitos">QUE11</a>; <a href="https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicitação/introspec/#metodologia">INT15</a></td>
+</tr>
+<tr>
+<td style="text-align: center;">RF23</td>
+<td style="text-align: center;">Deve ser possível responder uma reclamação feita</td>
+<td style="text-align: center;"><a href="https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicitação/Questionário/#possiveis-requisitos">QUE11</a>; <a href="https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicitação/introspec/#metodologia">INT15</a></td>
+</tr>
+</tbody>
+</table>
+<div align="center">
+<p> <b>Tabela 1</b>: Funcionalidades (Autor: MEISTER, Guilherme 2024). </p>
+</div>
+
+<h3 id="32-pesquisa-de-empresa">3.2. Pesquisa de empresa</h3>
+<table>
+<thead>
+<tr>
+<th>ID</th>
+<th>Requisito</th>
+<th>Rastreabilidade</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>RF2</td>
+<td>Deve ser possível pesquisar uma empresa pelo nome</td>
+<td><a href="https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicitação/introspec/#metodologia">INT02, INT03</a></td>
+</tr>
+<tr>
+<td>RNF8</td>
+<td>As ações principais do site (ex.:fazer reclamação, ver reclamação) devem ser executadas em no máximo 5 passos</td>
+<td><a href="https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicita%C3%A7%C3%A3o/Storytelling/">ST</a></td>
+</tr>
+<tr>
+<td>RNF14</td>
+<td>Aplicativo deve estabelecer e seguir um padrão de cores e tamanhos para suas interfaces/componentes</td>
+<td><a href="https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicita%C3%A7%C3%A3o/Question%C3%A1rio/">QUE</a></td>
+</tr>
+<tr>
+<td>RF13</td>
+<td>Deve ser possível visualizar reclamações feitas por outros usuários</td>
+<td><a href="https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicitação/Questionário/#possiveis-requisitos">QUE04</a>; <a href="https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicitação/introspec/#metodologia">INT12, INT13</a>; <a href="https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicitação/Storytelling/">ST05</a>; <a href="https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicitação/analiseDoc/">ADD01</a></td>
+</tr>
+<tr>
+<td>RF14</td>
+<td>Deve ser possível visulizar detalhes de uma reclamação de outro usuário (status, avaliação, tempo de resposta, etc.)</td>
+<td><a href="https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicitação/Questionário/#possiveis-requisitos">QUE04</a>; <a href="https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicitação/introspec/#metodologia">INT12,INT13</a>; <a href="https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicitação/Storytelling/">ST05</a>; <a href="https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicitação/analiseDoc/">ADD01</a></td>
+</tr>
+<tr>
+<td>RF19</td>
+<td>Deve ser possível visualizar as reclamações feitas sobre uma empresa</td>
+<td><a href="https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicitação/Questionário/#possiveis-requisitos">QUE11</a>; <a href="https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicitação/introspec/#metodologia">INT15</a>; <a href="https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicitação/Storytelling/">ST04</a></td>
+</tr>
+<tr>
+<td>RF20</td>
+<td>Deve ser possível visualizar como o cliente fez a compra</td>
+<td><a href="https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicitação/Questionário/#possiveis-requisitos">QUE11</a>; <a href="https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicitação/introspec/#metodologia">INT15</a></td>
+</tr>
+<tr>
+<td>RF21</td>
+<td>Deve ser possível visualizar qual tipo de reclamação o cliente apresentou</td>
+<td><a href="https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicitação/Questionário/#possiveis-requisitos">QUE11</a>; <a href="https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicitação/introspec/#metodologia">INT15</a></td>
+</tr>
+<tr>
+<td>RF22</td>
+<td>Deve ser possível visualizar os detalhes e anexos de uma reclamação sobre uma empresa</td>
+<td><a href="https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicitação/Questionário/#possiveis-requisitos">QUE11</a>; <a href="https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicitação/introspec/#metodologia">INT15</a></td>
+</tr>
+<tr>
+<td>RF24</td>
+<td>Deve ser possível visualizar estatísticas das reclamações sobre uma empresa</td>
+<td><a href="https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicitação/Questionário/#possiveis-requisitos">QUE05</a>; <a href="https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicitação/introspec/#metodologia">INT15</a></td>
+</tr>
+<tr>
+<td>RF25</td>
+<td>Deve ser possível visualizar avaliação das reclamações</td>
+<td><a href="https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicitação/Questionário/#possiveis-requisitos">QUE05</a>; <a href="https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicitação/introspec/#metodologia">INT15</a></td>
+</tr>
+</tbody>
+</table>
+<div align="center">
+<p> <b>Tabela 2</b>: Interface de usuário (Autor: MEISTER, Guilherme 2024). </p>
+</div>
+
+<h3 id="33-desempenho">3.3. Desempenho</h3>
+<table>
+<thead>
+<tr>
+<th>ID</th>
+<th>Requisito</th>
+<th>Rastreabilidade</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>RNF7</td>
+<td>O aplicativo deve iniciar o carregamento de telas/componentes em até 2 segundos</td>
+<td><a href="https://requisitos-de-software.github.io/2024.1-VLC/#/elicitacao/storytelling">ST</a></td>
+</tr>
+<tr>
+<td>RNF9</td>
+<td>O aplicativo não deve ficar indisponível por mais de 24 horas (exceto sob aviso prévio)</td>
+<td><a href="https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicitação/introspec/#metodologia">INT</a></td>
+</tr>
+<tr>
+<td>RNF10</td>
+<td>O aplicativo deve carregar interfaces e/ou componentes dentro de 20 segundos</td>
+<td><a href="https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicitação/introspec/#metodologia">INT</a></td>
+</tr>
+</tbody>
+</table>
+<div align="center">
+<p> <b>Tabela 4</b>: Desempenho (Autor: MEISTER, Guilherme 2024). </p>
+</div>
+
+<h3 id="34-seguranca-e-privacidade">3.4. Segurança e Privacidade</h3>
+<table>
+<thead>
+<tr>
+<th>ID</th>
+<th>Requisito</th>
+<th>Rastreabilidade</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>RNF4</td>
+<td>O aplicativo deve fornecer feedback ao usuário em caso de erros/falhas</td>
+<td><a href="https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicitação/introspec/#metodologia">QUE08, QUE09</a>; <a href="https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicitação/introspec/#requisitos-nao-funcionais">INT41</a>; <a href="https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicitação/Storytelling/">ST09</a></td>
+</tr>
+<tr>
+<td>RNF5</td>
+<td>Todos os dados sensíveis devem ser devidamente protegidos utilizando criptografia</td>
+<td><a href="https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicitação/introspec/#requisitos-nao-funcionais">INT42, INT43</a>; <a href="https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicitação/analiseDoc/">ADD09, ADD11, ADD13</a></td>
+</tr>
+<tr>
+<td>RNF6</td>
+<td>O aplicativo deve validar a entrada do usuário(gov.br) para prevenção de ataques</td>
+<td><a href="https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicitação/introspec/#metodologia">INT13</a>; <a href="https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicitação/analiseDoc/">ADD09, ADD11, ADD13</a></td>
+</tr>
+</tbody>
+</table>
+<div align="center">
+<p> <b>Tabela 5</b>: Segurança e Privacidade (Autor: MEISTER, Guilherme 2024). </p>
+</div>
+
+<h2 id="backlog">Backlog</h2>
+<h3 id="temas">Temas</h3>
+<div style="text-align:justify">
+    <p>&emsp;&emsp; Após a etapa de verificação e análise dos requisitos, foi observado que eles poderiam ser organizados em quatro grandes temas, que compõem o maior nível de abstração do backlog.</p>
+    <ul>
+        <li> Abertura e acompanhamento de reclamação 
+        <li> Pesquisa de empresa
+        <li> Segurança
+        <li> Desempenho
+    </ul>
+    <p>&emsp;&emsp; Após a definição dos temas, os requisitos foram especificados em um maior nível de abstração, por meio dos épicos. Os épicos são histórias de usuário que ainda podem ser mais especificadas e foram escritos utilizando o mesmo padrão do utilizado nas histórias de usuário.</p>
+</div>
+
+<h3 id="epicos">Épicos</h3>
+<div style="text-align: justify">
+
+&emsp;&emsp; Para diminuir o nível de abstração expresso nos temas, foram registrados os épicos, que são histórias de usuário que ainda podem ser mais especificadas. Para facilitar a leitura do backlog, os épicos estão especificados a seguir.
+
+</div>
+
+<ul>
+<li>
+<h4 id="epico-1-abertura-e-acompanhamento-de-reclamacoes">Épico 1: Abertura e acompanhamento de reclamações</h4>
+<ul>
+<li>Requisitos relacionados: RF1, RF5, RF6, RF7, RF8 ,RF9 RF10, RF11, RF12, RF13, RF14, RF15, RF16, RF17, RF18, RF23.</li>
+<li>Descrição: Este épico aborda a funcionalidade principal do Consumidor.gov, que é a de abrir reclamações. Ele inclui requisitos como visualizar as reclamações feitas, avaliar uma reclamação (nível de satisfação/nota), escolher qual a categoria da reclamação (atendimento, cobrança, entrega, etc.), informar o que espera da empresa (reembolso, resposta, justificativa, etc.).</li>
+</ul>
+</li>
+<li>
+<h4 id="epico-2-pesquisa-de-empresa">Épico 2: Pesquisa de empresa</h4>
+<ul>
+<li>Requisitos relacionados: RF2, RF3, RF4, RF13, RF14, RF19, RF20, RF21, RF22, RF24, RF25.</li>
+<li>Descrição: Este épico trata da interface de usuário do Consumidor.gov. Ele engloba requisitos como uma interface de usuário deve ter contraste de cor, interface facilmente acessível e de fácil compreensão.</li>
+</ul>
+</li>
+<li>
+<h4 id="epico-3-desempenho">Épico 3: Desempenho</h4>
+<ul>
+<li>Requisitos relacionados: RNF7, RNF9, RNF10.</li>
+<li>Descrição: Este épico trata dos requisitos de desempenho do Consumidor.gov. Inclui requisitos como resposta rápidos para garantir uma experiência de usuário satisfatória e O aplicativo deve ter uma boa performance e velocidade.</li>
+</ul>
+</li>
+<li>
+<h4 id="epico-4-seguranca-e-privacidade">Épico 4: Segurança e Privacidade</h4>
+<ul>
+<li>Requisitos relacionados: RNF4, RNF5, RNF6</li>
+<li>Descrição: Este épico aborda os requisitos de segurança e privacidade do Consumidor.gov. Inclui requisitos como gproteger os dados sensíveis do usuário, apresentar medidas de proteção, Fornecimento de informações funcione corretamente.</li>
+</ul>
+</li>
+</ul>
+<p>A tabela 6 abaixo vai relacionar a prioridade de cada história:</p>
+<table>
+<thead>
+<tr>
+<th>História de Usuário</th>
+<th>Épico</th>
+<th>Prioridade</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>US01</td>
+<td>Épico 1</td>
+<td>Must</td>
+</tr>
+<tr>
+<td>US02</td>
+<td>Épico 2</td>
+<td>Must</td>
+</tr>
+<tr>
+<td>US03</td>
+<td>Épico 2</td>
+<td>Must</td>
+</tr>
+<tr>
+<td>US04</td>
+<td>Épico 1</td>
+<td>Must</td>
+</tr>
+<tr>
+<td>US05</td>
+<td>Épico 1</td>
+<td>Must</td>
+</tr>
+<tr>
+<td>US06</td>
+<td>Épico 1</td>
+<td>Must</td>
+</tr>
+<tr>
+<td>US07</td>
+<td>Épico 1</td>
+<td>Must</td>
+</tr>
+<tr>
+<td>US08</td>
+<td>Épico 1</td>
+<td>Could</td>
+</tr>
+<tr>
+<td>US09</td>
+<td>Épico 2</td>
+<td>Could</td>
+</tr>
+<tr>
+<td>US10</td>
+<td>Épico 1</td>
+<td>Must</td>
+</tr>
+<tr>
+<td>US11</td>
+<td>Épico 1</td>
+<td>Could</td>
+</tr>
+<tr>
+<td>US12</td>
+<td>Épico 1</td>
+<td>Must</td>
+</tr>
+<tr>
+<td>US13</td>
+<td>Épico 3</td>
+<td>Could</td>
+</tr>
+<tr>
+<td>US14</td>
+<td>Épico 3</td>
+<td>Must</td>
+</tr>
+<tr>
+<td>US15</td>
+<td>Épico 4</td>
+<td>Could</td>
+</tr>
+<tr>
+<td>US16</td>
+<td>Épico 4</td>
+<td>Must</td>
+</tr>
+<tr>
+<td>US17</td>
+<td>Épico 3</td>
+<td>Could</td>
+</tr>
+</tbody>
+</table>
+<div align="center">
+<p> <b>Tabela 6</b>: Backlog do produto (Autor: MEISTER, Guilherme 2024). </p>
+</div>
+
+<h2 id="bibliografia">Bibliografia</h2>
+<ul>
+<li>
+<p>RADIGAN, Dan. O backlog do produto: sua lista de tarefas definitiva. Atlassian. Disponível em: <a href="https://www.atlassian.com/br/agile/scrum/backlogs">Backlog</a></p>
+</li>
+<li>
+<p>O QUE É BACKLOG DO PRODUTO SCRUM E COMO FAZER UM. Lucidchart. Disponível em: <a href="https://www.lucidchart.com/blog/pt/como-fazer-um-backlog-do-produto">Backlog</a></p>
+</li>
+</ul>
+<h2 id="historico-de-versoes">Histórico de Versões</h2>
+<table>
+<thead>
+<tr>
+<th style="text-align: center;">Data</th>
+<th style="text-align: center;">Versão</th>
+<th style="text-align: center;">Descrição</th>
+<th style="text-align: center;">Autor(es)</th>
+<th style="text-align: center;">Data de revisão</th>
+<th style="text-align: center;">Revisor(es)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;">23/05/2024</td>
+<td style="text-align: center;"><code>1.0</code></td>
+<td style="text-align: center;">Criação do documento</td>
+<td style="text-align: center;"><a href="https://github.com/gmeister18">Guilherme Meister</a></td>
+<td style="text-align: center;">25/05/2024</td>
+<td style="text-align: center;"><a href="https://github.com/">Matheus Ferreira</a></td>
+</tr>
+<tr>
+<td style="text-align: center;">27/05/2024</td>
+<td style="text-align: center;"><code>1.1</code></td>
+<td style="text-align: center;">Atualização do documento</td>
+<td style="text-align: center;"><a href="https://github.com/gmeister18">Guilherme Meister</a></td>
+<td style="text-align: center;">27/05/2024</td>
+<td style="text-align: center;"><a href="https://github.com/">Matheus Ferreira</a></td>
+</tr>
+</tbody>
+</table>
+
+
+
+
+
+
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+    <div class="md-copyright__highlight">
+      UnB - Faculdade do Gama &copy; 2024
+    </div>
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+        <div class="md-social">
+  
+    
+    
+    
+    
+      
+      
+    
+    <a href="https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov" target="_blank" rel="noopener" title="github.com" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512"><!--! Font Awesome Free 6.5.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z"/></svg>
+    </a>
+  
+    
+    
+    
+    
+      
+      
+    
+    <a href="https://consumidor.gov.br/pages/principal/?1711838210619" target="_blank" rel="noopener" title="consumidor.gov.br" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512"><!--! Font Awesome Free 6.5.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M320 32c-8.1 0-16.1 1.4-23.7 4.1L15.8 137.4C6.3 140.9 0 149.9 0 160s6.3 19.1 15.8 22.6l57.9 20.9C57.3 229.3 48 259.8 48 291.9V320c0 28.4-10.8 57.7-22.3 80.8-6.5 13-13.9 25.8-22.5 37.6-3.2 4.3-4.1 9.9-2.3 15s6 8.9 11.2 10.2l64 16c4.2 1.1 8.7.3 12.4-2s6.3-6.1 7.1-10.4c8.6-42.8 4.3-81.2-2.1-108.7-3.2-14.2-7.5-28.7-13.5-42v-24.6c0-30.2 10.2-58.7 27.9-81.5 12.9-15.5 29.6-28 49.2-35.7l157-61.7c8.2-3.2 17.5.8 20.7 9s-.8 17.5-9 20.7l-157 61.7c-12.4 4.9-23.3 12.4-32.2 21.6l159.6 57.6c7.6 2.7 15.6 4.1 23.7 4.1s16.1-1.4 23.7-4.1l280.6-101c9.5-3.4 15.8-12.5 15.8-22.6s-6.3-19.1-15.8-22.6L343.7 36.1c-7.6-2.7-15.6-4.1-23.7-4.1zM128 408c0 35.3 86 72 192 72s192-36.7 192-72l-15.3-145.4L354.5 314c-11.1 4-22.8 6-34.5 6s-23.5-2-34.5-6l-142.2-51.4L128 408z"/></svg>
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    <script id="__config" type="application/json">{"base": "../../..", "features": ["navigation.tabs"], "search": "../../../assets/javascripts/workers/search.b8dbb3d2.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}}</script>
+    
+    
+      <script src="../../../assets/javascripts/bundle.ad660dcc.min.js"></script>
+      
+    
+  <script id="init-glightbox">const lightbox = GLightbox({"touchNavigation": true, "loop": false, "zoomable": true, "draggable": true, "openEffect": "zoom", "closeEffect": "zoom", "slideEffect": "slide"});
+document$.subscribe(() => { lightbox.reload() });
+</script></body>
+</html>
