@@ -3,7 +3,9 @@
 
 ## Introdução
 
-Este artefato contém a verificação da versão **1.1** do artefato [Especificação Suplementar](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/modelagem/especificacao/) desenvolvido pelo [Grupo 01](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/), adicionada na data 19/05/2024.
+Este artefato contém a verificação da versão **1.7** do artefato [Especificação Suplementar](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Modelagem/especsuplementar/) desenvolvido pelo [Grupo 08](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/), adicionada na data 25/05/2024.
+
+O checklist foi desenvolvido pelo membro [Igor Thiago](https://github.com/alladin51) e foi preenchido pelo membro [Rodrigo Gontijo](https://github.com/rodrigogontijoo).
 
 ## Checklist
 
@@ -35,7 +37,12 @@ A tabela 1 apresenta o checklist de verificação desenvolvido com base no artef
 
 ## Gravação 
 
-<iframe width="560" height="315" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="750" height="422" src="https://www.youtube.com/embed/" title="Verificação Esp. Suplementar - Rodrigo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<div align="center">
+<p> <b>Vídeo 1</b>: Gravação da verificação  (Autor: Gontijo, Rodrigo. 2024).</p>
+</div>
+
 
 ## Referências Bibliográficas
 
@@ -50,4 +57,5 @@ A tabela 1 apresenta o checklist de verificação desenvolvido com base no artef
 
 | Versão | Data de execução | Data de revisão |  Descrição                          | Autor(es)                                           | Revisor(es)                                           |
 | :----: | :--------------: | :-------------: | :---------------------------------: | :-------------------------------------------------: | :---------------------------------------------------: |
+| 1.1    | 01/07/2024       | 01/07/2024      | Correções  | [Rodrigo Gontijo](https://github.com/rodrigogontijoo) | [Igor Thiago](https://github.com/alladin51) |
 | 1.0    | 01/07/2024       | 01/07/2024      | Criando checklist Especificação Suplementar  |  [Igor Thiago](https://github.com/alladin51) | [Rodrigo Gontijo](https://github.com/rodrigogontijoo) |
