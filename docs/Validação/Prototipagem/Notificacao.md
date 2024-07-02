@@ -36,10 +36,10 @@ A tabela 2 a seguir informa os dados avaliação e validação referente a usabi
 
 | <p align="center">Participante</p> | <p align="center">Avaliador</p> | <p align="center">Data</p> | <p align="center">Horário</p> | <p align="center">Local</p> |
 | :----------: | :-------: | :--: | :-----: | :---: |
-|   | Rodrigo Gontijo  | 01/07/2024 | h | Microsoft Teams |
+| Clara Vaz  | Rodrigo Gontijo  | 01/07/2024 | 21h | Microsoft Teams |
 <figcaption align='center'> <b>Tabela 2</b>: Dados da avaliação (Autor: Gontijo, Rodrigo. 2024)</figcaption>
 
-<iframe width="750" height="422" src="" title="Validação protótipo - Rodrigo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="750" height="422" src="https://youtu.be/N6S6RUmjRJ4" title="Validação protótipo - Rodrigo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <div align="center">
 <p> <b>Vídeo 1</b>: Gravação da entrevista  (Autor: Gontijo, Rodrigo. 2024).</p>
@@ -52,6 +52,7 @@ A tabela 2 a seguir informa os dados avaliação e validação referente a usabi
 ## Histórico de Versões
 | Data | Versão | Descrição | Autor(es) | Data de revisão | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: | :-: |
+| 01/07/2024 | `1.1` | Adicionando vídeo da validação | [Rodrigo Gontijo](https://github.com/rodrigogontijoo) | 01/07/2023 | [Igor Thiago](https://github.com/alladin-51) |
 | 01/07/2024 | `1.0` | Criação do documento, adicionando Protótipo | [Rodrigo Gontijo](https://github.com/rodrigogontijoo) | 01/07/2023 | [Igor Thiago](https://github.com/alladin-51) |
 
 <div align="center">
