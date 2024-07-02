@@ -10,18 +10,18 @@ A tabela 1 apresenta o checklist de verificação desenvolvido com base no artef
 
 | ID | Descrição | Avaliação | Observações |
 |:---:|------------------------------------------------------------------------------------------------------|:--------:|:-------------------------:|
-| 1 | O artefato possui introdução? | **SIM** | |
-| 2 | O artefato possui uma bibliografia/referência bibliográfica? | **SIM**| |
-| 3 | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores? |**SIM** | |
-| 4 | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes? |**SIM** | |
-| 5 | Todos os textos estão na norma padrão? | **SIM**| |
-| 6 | O artefato apresenta Um cronograma (data e horário) e local para realização da elicitação dos requisitos? |**SIM** | |
-| 7 | Possui gravação da atividade de elicitação dos requisitos? |**SIM** | |
-| 8 | Os requisitos elicitados foram divididos entre funcionais e não-funcionais? |**SIM** | |
-| 9 | Foi definido o motivo de estar sendo utilizada a técnica em questão? |**SIM** | |
-| 9.1 | Foi levado em consideração de que essa técnica pode não estar totalmente condizente com a visão do usuário, já que é executada por membros da equipe do projeto? |**SIM** | |
-| 10 | Cada membro que participou apresentou uma explicação de como executou a técnica? | **SIM**   | |
-| 11 | Os requisitos elicitados apresentam Id para sua identificação? |**SIM** | |
+| 1 | O artefato possui introdução? |  | |
+| 2 | O artefato possui uma bibliografia/referência bibliográfica? | | |
+| 3 | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores? | | |
+| 4 | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes? | | |
+| 5 | Todos os textos estão na norma padrão? | | |
+| 6 | O artefato apresenta Um cronograma (data e horário) e local para realização da elicitação dos requisitos? | | |
+| 7 | Possui gravação da atividade de elicitação dos requisitos? | | |
+| 8 | Os requisitos elicitados foram divididos entre funcionais e não-funcionais? | | |
+| 9 | Foi definido o motivo de estar sendo utilizada a técnica em questão? | | |
+| 9.1 | Foi levado em consideração de que essa técnica pode não estar totalmente condizente com a visão do usuário, já que é executada por membros da equipe do projeto? | | |
+| 10 | Cada membro que participou apresentou uma explicação de como executou a técnica? |    | |
+| 11 | Os requisitos elicitados apresentam Id para sua identificação? | | |
 
 <div align="center">
 <figcaption align="center">Tabela 01: Checklist (Autor: Igor Thiago)</figcaption>
