@@ -105,6 +105,7 @@ Além dos requisitos funcionais, foram identificados alguns requisitos não func
 
 
 ## Histórico de Versão
+
 | Versão | Data de execução | Data de revisão |  Descrição            | Autor(es)         | Revisor(es)  |
 | :------: | :----------: | :--------: | :--------------------: | :-------------: | :----------: |
 | `1.4` | 25/05/2024  | 25/05/2024 | Correções ortográficas | [Henrique Galdino](https://github.com/hgaldino05) | [Rodrigo Gontijo](https://github.com/rodrigogontijoo) |
