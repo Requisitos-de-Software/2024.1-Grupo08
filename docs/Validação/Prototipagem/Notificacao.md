@@ -39,7 +39,7 @@ A tabela 2 a seguir informa os dados avaliação e validação referente a usabi
 | Clara Vaz  | Rodrigo Gontijo  | 01/07/2024 | 21h | Microsoft Teams |
 <figcaption align='center'> <b>Tabela 2</b>: Dados da avaliação (Autor: Gontijo, Rodrigo. 2024)</figcaption>
 
-<iframe width="750" height="422" src="https://youtu.be/N6S6RUmjRJ4" title="Validação protótipo - Rodrigo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="750" height="422" src="https://www.youtube.com/embed/N6S6RUmjRJ4" title="Validação protótipo - Rodrigo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <div align="center">
 <p> <b>Vídeo 1</b>: Gravação da entrevista  (Autor: Gontijo, Rodrigo. 2024).</p>
